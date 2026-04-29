@@ -1,0 +1,1550 @@
+module_code,academic_year,module_title,credits,num_students_anticipated,scheduled_hours,independent_hours,placement_hours,coursework_pct,written_exam_pct,practical_exam_pct,n_summative_items,nqf_level,distance_learning
+ECM1102,2019/0,Core Engineering 1,30,195.0,130,170.0,0.0,24,70,6.0,7.0,4,No
+ECM1106,2019/0,Electronics for Engineers: Core Engineering 2,15,206.0,34,116.0,0.0,10,60,30.0,3.0,1,No
+ECM1107,2019/0,Materials and Manufacturing: Core Engineering 2,15,171.0,28,122.0,0.0,30,70,0.0,3.0,1,No
+ECM1108,2019/0,Engineering Mechanics: Core Engineering 2,15,173.0,40,110.0,0.0,30,70,0.0,5.0,1,No
+ECM1110,2019/0,Engineering Mathematics,30,195.0,100,200.0,0.0,20,80,0.0,3.0,4,No
+ECM1111,2019/0,Entrepreneurship Skills Development 1,15,225.0,45,105.0,0.0,100,0,0.0,9.0,4,No
+ECM2102,2019/0,Management and Management Science,15,175.0,34,116.0,0.0,40,60,,3.0,5,No
+ECM2103,2019/0,Introduction to Mechanical Engineering Design,15,114.0,34,116.0,0.0,100,0,,3.0,5,No
+ECM2105,2019/0,Control Engineering,15,182.0,44,106.0,0.0,30,70,,4.0,2,No
+ECM2106,2019/0,Manufacturing Systems,15,17.0,22,138.0,0.0,30,70,,3.0,5,No
+ECM2108,2019/0,Construction Methods and Materials,15,46.0,45,105.0,0.0,100,0,0.0,5.0,2,No
+ECM2109,2019/0,Structures,15,145.0,45,105.0,0.0,15,85,0.0,2.0,2,No
+ECM2110,2019/0,Geotechnics 1,15,49.0,66,84.0,,50,50,,2.0,2,No
+ECM2111,2019/0,Mathematical Modelling of Engineering Systems,15,226.0,81,69.0,0.0,15,85,,2.0,5,No
+ECM2112,2019/0,Professional Studies and Skills Development 2,15,190.0,55,95.0,0.0,100,0,0.0,5.0,5,No
+ECM2113,2019/0,Thermofluid Engineering,15,213.0,46,104.0,,40,60,,3.0,2,No
+ECM2114,2019/0,Solid Mechanics,15,209.0,36,114.0,0.0,30,70,,2.0,2,No
+ECM2115,2019/0,"PICS, Microcontrollers and Microprocessors",15,33.0,51,99.0,0.0,40,60,,4.0,5,No
+ECM2117,2019/0,Communication and Networking Technologies,15,20.0,30,120.0,0.0,40,60,,4.0,2,No
+ECM2118,2019/0,Analogue and Digital Electronics Design,15,36.0,49,101.0,0.0,40,60,,5.0,5,No
+ECM2119,2019/0,Mathematical Modelling and Control Engineering,15,15.0,57,93.0,0.0,15,85,,2.0,2,No
+ECM2120,2019/0,Materials Engineering,15,7.0,28,122.0,0.0,30,70,,3.0,2,No
+ECM2121,2019/0,Entrepreneurship 2,15,50.0,55,95.0,0.0,100,0,0.0,8.0,5,No
+ECM3130,2019/0,Engineering in Society and Company Finance,15,183.0,78,72.0,0.0,30,70,,2.0,3,No
+ECM3149,2019/0,Commercial and Industrial Experience and Individual Project (BEng/MEng),45,7.0,27,123.0,300.0,100,0,0.0,,6,No
+ECM3150,2019/0,Electromagnetics and Wave Propagation,15,16.0,25,125.0,,30,70,,4.0,6,No
+ECM3151,2019/0,Thermofluids and Energy Conversion,15,113.0,43,107.0,0.0,30,70,,2.0,6,No
+ECM3152,2019/0,Computational Engineering,15,79.0,31,119.0,29.0,100,0,,3.0,3,No
+ECM3153,2019/0,Management of Product Development,15,82.0,22,128.0,0.0,40,60,,3.0,3,No
+ECM3154,2019/0,Manufacturing,15,28.0,25,125.0,0.0,30,70,,3.0,3,No
+ECM3155,2019/0,Structural Engineering,15,39.0,37,113.0,0.0,35,65,0.0,3.0,6,No
+ECM3156,2019/0,Civil Engineering Hydraulics,15,37.0,39,111.0,0.0,30,70,,2.0,3,No
+ECM3157,2019/0,Geotechnics 2,15,39.0,101,49.0,0.0,15,50,35.0,3.0,3,No
+ECM3158,2019/0,Water Resources and Pollution Control,15,28.0,48,102.0,0.0,30,70,,3.0,3,No
+ECM3159,2019/0,Management of Processes and People,15,26.0,24,126.0,0.0,40,60,,3.0,6,No
+ECM3160,2019/0,Materials,15,49.0,84,66.0,0.0,40,60,,4.0,3,No
+ECM3161,2019/0,Civil Engineering Design Studies,15,34.0,47,103.0,0.0,100,0,,3.0,3,No
+ECM3162,2019/0,Electronic Engineering Design Studies,15,19.0,98,52.0,0.0,100,0,,6.0,6,No
+ECM3163,2019/0,Mechanical Engineering Design Studies,15,86.0,65,85.0,0.0,70,0,30.0,3.0,3,No
+ECM3164,2019/0,Operations Management,15,39.0,22,128.0,0.0,30,70,,2.0,6,No
+ECM3165,2019/0,Digital Signal Processing,15,19.0,45,105.0,0.0,40,60,0.0,5.0,3,No
+ECM3166,2019/0,Communications Engineering,15,17.0,50,100.0,0.0,20,60,20.0,4.0,3,No
+ECM3171,2019/0,Computer Aided Engineering Drawing,15,101.0,27,123.0,0.0,100,0,0.0,4.0,6,No
+ECM3172,2019/0,Study Abroad Semester,60,10.0,0,0.0,600.0,100,0,0.0,2.0,6,No
+ECM3173,2019/0,Structural Dynamics,15,80.0,40,110.0,,25,75,,2.0,6,No
+ECM3174,2019/0,Year in Industry,120,4.0,6,,,80,0,20.0,2.0,6,No
+ECM3175,2019/0,Individual Project,30,106.0,27,274.0,0.0,100,0,0.0,2.0,6,No
+ENGM026,2019/0,"Design, Innovation & Entrepreneurship",15,,22,128.0,,100,0,0.0,1.0,7,No
+ECMM102,2019/0,Group Project (MEng),60,75.0,0,600.0,,100,0,,2.0,7,No
+ECMM103,2019/0,Computer Aided Engineering Design,15,37.0,28,122.0,0.0,100,0,,4.0,7,No
+ECMM107,2019/0,Mechanics of Materials,15.0,0.0,28.0,122.0,,30.0,70.0,,2.0,7.0,No
+ECMM108,2019/0,Advanced Structural Engineering,15.0,0.0,22.0,128.0,,50.0,50.0,0.0,3.0,7.0,No
+ECMM109,2019/0,Advanced Geotechnical Engineering,15.0,0.0,22.0,128.0,0.0,50.0,50.0,0.0,3.0,7.0,No
+ECMM110,2019/0,Water and Environmental Systems,15.0,0.0,22.0,128.0,,65.0,0.0,35.0,3.0,7.0,No
+ECMM112,2019/0,Manufacturing Supply Chain Management,15.0,30.0,22.0,128.0,0.0,100.0,0.0,0.0,2.0,7.0,No
+ECMM113,2019/0,"Agile, Lean and Competitive Enterprise",15.0,60.0,44.0,106.0,,100.0,0.0,0.0,2.0,7.0,No
+ECMM124,2019/0,Hydroinformatics Tools,15.0,0.0,40.0,110.0,,30.0,70.0,,2.0,7.0,No
+ECMM127,2019/0,Advanced Materials Engineering,15.0,0.0,22.0,128.0,,30.0,70.0,,3.0,7.0,No
+ECMM128,2019/0,Management Concepts,15.0,0.0,22.0,128.0,,0.0,100.0,0.0,1.0,7.0,No
+ECMM132,2019/0,Urban Drainage and Waste Water Management,15.0,0.0,44.0,106.0,0.0,30.0,70.0,0.0,2.0,7.0,No
+ECMM133,2019/0,Water Supply and Distribution Management,15.0,0.0,36.0,114.0,0.0,30.0,70.0,0.0,2.0,7.0,No
+ECMM134,2019/0,Environmental Processes,15.0,0.0,34.0,116.0,0.0,30.0,70.0,0.0,2.0,7.0,No
+ECMM136,2019/0,Systems Analysis in Engineering,15.0,0.0,22.0,128.0,0.0,30.0,70.0,0.0,2.0,7.0,No
+ECMM140,2019/0,Vibration Engineering,15.0,0.0,33.0,117.0,0.0,30.0,70.0,0.0,2.0,7.0,No
+ECMM141,2019/0,Multivariable State-Space Control,15.0,0.0,27.0,123.0,0.0,20.0,80.0,0.0,2.0,7.0,No
+ECMM142,2019/0,Contemporary Advanced Materials Research,15.0,0.0,22.0,128.0,0.0,80.0,0.0,20.0,5.0,7.0,No
+ECMM144,2019/0,Environmental and Computational Hydraulics,15.0,0.0,36.0,114.0,0.0,100.0,0.0,0.0,3.0,7.0,No
+ECMM145,2019/0,Computational Hydrology,15.0,20.0,36.0,114.0,0.0,100.0,0.0,0.0,2.0,7.0,No
+ECMM146,2019/0,Mathematical Modelling of Waste Water Treatment Processes,15.0,19.0,36.0,114.0,0.0,100.0,0.0,0.0,3.0,7.0,No
+ECMM147,2019/0,Mechatronics: Sensors and Machine Automation,15.0,47.0,33.0,117.0,0.0,25.0,70.0,5.0,3.0,7.0,No
+ECMM148,2019/0,Advanced CFD,15.0,0.0,26.0,124.0,0.0,100.0,0.0,0.0,4.0,7.0,No
+ECMM149,2019/0,Linear Systems and Structural Analysis,15.0,0.0,33.0,117.0,0.0,30.0,70.0,0.0,3.0,7.0,No
+ECMM150,2019/0,Structural Design,15.0,0.0,37.0,113.0,0.0,30.0,70.0,0.0,3.0,7.0,No
+ECMM151,2019/0,Introduction to Earthquake Engineering,15.0,0.0,50.0,100.0,0.0,30.0,70.0,0.0,2.0,7.0,No
+ECMM153,2019/0,Conceptual Design of Buildings,15.0,0.0,40.0,110.0,0.0,30.0,70.0,0.0,2.0,7.0,No
+ECMM158,2019/0,Active and Passive Structural Control,15.0,0.0,40.0,110.0,0.0,30.0,70.0,,2.0,7.0,No
+ECMM159,2019/0,Structural Health and Performance Monitoring,15.0,0.0,44.0,106.0,0.0,60.0,40.0,0.0,2.0,7.0,No
+ECMM160,2019/0,Engineering Materials and the Environment,15.0,0.0,22.0,128.0,0.0,40.0,60.0,0.0,4.0,7.0,No
+ECMM162,2019/0,Water Management in Developing Countries,15.0,0.0,30.0,115.0,0.0,0.0,100.0,0.0,1.0,7.0,No
+ECMM163,2019/0,Sustainable Engineering,15.0,62.0,40.0,110.0,0.0,100.0,0.0,0.0,2.0,7.0,No
+ECMM164,2019/0,MSc Dissertation,60.0,150.0,22.0,578.0,0.0,0.0,90.0,10.0,2.0,7.0,No
+ECMM168,2019/0,Project Management,15.0,10.0,44.0,106.0,0.0,50.0,50.0,0.0,3.0,7.0,No
+ECMM171,2019/0,Programming for Engineering,15.0,66.0,36.0,114.0,0.0,80.0,0.0,20.0,3.0,7.0,No
+ECMM172,2019/0,Management Science,15.0,0.0,44.0,106.0,0.0,50.0,50.0,0.0,2.0,7.0,No
+ECMM178,2019/0,Computational Techniques for Engineers,15.0,0.0,26.0,124.0,0.0,0.0,0.0,100.0,2.0,7.0,No
+ECMM179,2019/0,Global Sourcing and Logistics Management,15.0,20.0,22.0,128.0,0.0,100.0,0.0,0.0,1.0,7.0,No
+EMP3001,2019/0,Commercial and Industrial Experience,15.0,31.0,9.0,61.0,80.0,100.0,0.0,,2.0,6.0,No
+EMP3003,2019/0,Professional Experience,45.0,1.0,20.0,350.0,80.0,90.0,0.0,10.0,5.0,6.0,No
+EFPM292,2019/0,,,,,,,,,,,,
+CLA3275,2019/0,,,,,,,,,,,,
+MTH1000,2019/0,Foundations,0.0,354.0,84.0,36.0,,0.0,0.0,0.0,,4.0,No
+MTH1001,2019/0,Mathematical Structures,30.0,180.0,76.0,224.0,,0.0,100.0,0.0,2.0,4.0,No
+MTH1002,2019/0,Mathematical Methods,30.0,180.0,76.0,224.0,,0.0,100.0,,2.0,4.0,No
+MTH1003,2019/0,Mathematical Modelling,30.0,181.0,77.0,223.0,0.0,40.0,60.0,0.0,4.0,4.0,No
+MTH1004,2019/0,"Probability, Statistics and Data",30.0,276.0,89.0,211.0,,40.0,60.0,,3.0,4.0,No
+MTH1100,2019/0,Employability and Preparation for Placement or Internship,0.0,30.0,15.0,30.0,0.0,0.0,0.0,,,5.0,No
+MTH2001,2019/0,Analysis,30.0,244.0,76.0,224.0,,0.0,100.0,,2.0,5.0,No
+MTH2002,2019/0,Algebra,30.0,203.0,76.0,224.0,,0.0,100.0,0.0,2.0,5.0,No
+MTH2003,2019/0,Differential Equations,15.0,295.0,38.0,112.0,,0.0,100.0,,1.0,5.0,No
+MTH2004,2019/0,Vector Calculus and Applications,15.0,203.0,38.0,112.0,,0.0,100.0,,1.0,5.0,No
+MTH2005,2019/0,Modelling: Theory and Practice,30.0,128.0,64.0,236.0,,70.0,30.0,,3.0,5.0,No
+MTH2006,2019/0,Statistical Modelling and Inference,30.0,93.0,70.0,230.0,0.0,40.0,60.0,0.0,3.0,5.0,No
+MTH2007,2019/0,Independent Study for Exchange Students,15.0,5.0,38.0,112.0,0.0,100.0,0.0,0.0,1.0,5.0,No
+MTH2100,2019/0,Employability and Career Resources,0.0,240.0,15.0,30.0,0.0,0.0,0.0,,,5.0,No
+MTH3001,2019/0,Theory of Weather and Climate,15.0,61.0,33.0,117.0,0.0,20.0,80.0,0.0,2.0,6.0,No
+MTH3004,2019/0,Number Theory,15.0,86.0,33.0,117.0,0.0,20.0,80.0,0.0,2.0,6.0,No
+MTH3006,2019/0,Mathematical Biology and Ecology,15.0,90.0,33.0,117.0,0.0,20.0,80.0,0.0,2.0,6.0,No
+MTH3007,2019/0,Fluid Dynamics,15.0,152.0,33.0,117.0,0.0,20.0,80.0,0.0,2.0,6.0,No
+MTH3008,2019/0,Partial Differential Equations,15.0,88.0,33.0,117.0,0.0,20.0,80.0,0.0,2.0,6.0,No
+MTH3011,2019/0,Nonlinear Systems and Control,15.0,11.0,33.0,117.0,0.0,20.0,80.0,0.0,2.0,6.0,No
+MTH3012,2019/0,Advanced Statistical Modelling,15.0,37.0,33.0,117.0,,40.0,60.0,,3.0,6.0,No
+MTH3019,2019/0,Mathematics: History and Culture,15.0,67.0,20.0,130.0,0.0,40.0,50.0,10.0,4.0,6.0,No
+MTH3021,2019/0,Combinatorics,15.0,19.0,33.0,117.0,0.0,20.0,80.0,0.0,2.0,6.0,No
+MTH3022,2019/0,"Graphs, Networks and Algorithms",15.0,76.0,33.0,117.0,0.0,0.0,60.0,40.0,2.0,6.0,No
+MTH3024,2019/0,Stochastic Processes,15.0,91.0,33.0,117.0,,0.0,100.0,,1.0,6.0,No
+MTH3025,2019/0,Semester of Mathematical Studies Abroad,60.0,5.0,,,,100.0,0.0,,,6.0,No
+MTH3026,2019/0,Cryptography,15.0,116.0,33.0,117.0,0.0,20.0,80.0,0.0,2.0,6.0,No
+MTH3027,2019/0,Special Topics in Statistics,15.0,,,,,0.0,100.0,,,6.0,No
+MTH3028,2019/0,Statistical Inference: Theory and Practice,15.0,80.0,33.0,117.0,,20.0,80.0,,2.0,6.0,No
+MTH3030,2019/0,Mathematics of Climate Change,15.0,33.0,33.0,117.0,,20.0,80.0,,2.0,6.0,No
+MTH3032,2019/0,Applications of Geometry and Topology,15.0,44.0,33.0,117.0,0.0,20.0,80.0,,2.0,6.0,No
+MTH3035,2019/0,Mathematics Group Project,15.0,138.0,22.0,128.0,0.0,70.0,0.0,30.0,5.0,6.0,No
+MTH3037,2019/0,Mathematical Sciences Project,15.0,,,,,100.0,0.0,,,6.0,No
+MTH3038,2019/0,Galois Theory,15.0,13.0,33.0,117.0,0.0,20.0,80.0,0.0,2.0,6.0,No
+MTH3039,2019/0,Computational Nonlinear Dynamics,15.0,19.0,33.0,117.0,0.0,100.0,0.0,0.0,2.0,6.0,No
+MTH3040,2019/0,Topology and Metric Spaces,15.0,24.0,33.0,127.0,0.0,20.0,80.0,0.0,2.0,6.0,No
+MTH3041,2019/0,"Bayesian statistics, Philosophy and Practice",15.0,14.0,33.0,117.0,0.0,20.0,80.0,,2.0,6.0,No
+MTH3042,2019/0,Integral Equations,15.0,150.0,33.0,117.0,,20.0,80.0,0.0,2.0,6.0,No
+MTH3100,2019/0,Industrial Placement,120.0,6.0,6.0,314.0,880.0,90.0,0.0,10.0,6.0,3.0,No
+MTHM001,2019/0,Functional Analysis,15.0,30.0,33.0,117.0,0.0,20.0,80.0,0.0,3.0,7.0,No
+MTHM002,2019/0,Methods for Stochastics and Finance,15.0,58.0,33.0,117.0,,0.0,100.0,,1.0,7.0,No
+MTHM003,2019/0,Analysis and Computation for Finance,15.0,49.0,39.0,114.0,,50.0,50.0,,4.0,7.0,No
+MTHM004,2019/0,Fractal Geometry,15.0,20.0,33.0,127.0,0.0,0.0,100.0,0.0,1.0,7.0,No
+MTHM007,2019/0,Engaging with Research,15.0,20.0,44.0,106.0,0.0,40.0,0.0,60.0,6.0,7.0,No
+MTHM008,2019/0,Computational Modelling,15.0,20.0,33.0,117.0,0.0,100.0,0.0,0.0,3.0,7.0,No
+MTHM010,2019/0,Representation Theory of Finite Groups,15.0,,33.0,117.0,,20.0,80.0,,3.0,7.0,No
+MTHM017,2019/0,Advanced Topics in Statistics,15.0,15.0,36.0,114.0,0.0,100.0,0.0,0.0,2.0,7.0,No
+MTHM025,2019/0,The Climate System,15.0,17.0,33.0,117.0,0.0,50.0,50.0,0.0,4.0,7.0,No
+MTHM028,2019/0,Algebraic Number Theory,15.0,15.0,33.0,117.0,0.0,0.0,100.0,0.0,1.0,7.0,No
+MTHM029,2019/0,Algebraic Curves,15.0,11.0,50.0,100.0,0.0,0.0,100.0,0.0,1.0,7.0,No
+MTHM036,2019/0,Research in Mathematical Sciences,15.0,42.0,20.0,130.0,0.0,90.0,0.0,10.0,3.0,7.0,No
+MTHM040,2019/0,MSci Project,45.0,3.0,25.0,425.0,0.0,90.0,0.0,10.0,3.0,7.0,No
+MTHM044,2019/0,MMATH Project in Statistics,45.0,20.0,25.0,425.0,0.0,90.0,0.0,10.0,3.0,7.0,No
+MTHM045,2019/0,Space Weather and Plasmas,15.0,21.0,33.0,117.0,0.0,20.0,80.0,0.0,2.0,7.0,No
+MTHM501,2019/0,Working with Data,15.0,15.0,36.0,48.0,0.0,50.0,0.0,50.0,2.0,7.0,No
+MTHM502,2019/0,Introduction to Data Science and Statistical Modelling,15.0,15.0,36.0,114.0,0.0,0.0,60.0,40.0,2.0,7.0,No
+MTHM503,2019/0,Applications of Data Science and Statistics,15.0,15.0,36.0,114.0,0.0,60.0,40.0,0.0,3.0,7.0,No
+MTHM504,2019/0,Applied Data Science and Statistics Project,60.0,15.0,20.0,580.0,0.0,100.0,0.0,0.0,3.0,7.0,No
+HIH1411,2019/0,,,,,,,,,,,,
+ARCM007,2019/0,,,,,,,,,,,,
+ARCM600,2019/0,,,,,,,,,,,,
+ENG1001,2020/1,"Fundamentals of Mechanics, Materials and Electronics",45.0,,150.0,300.0,0.0,45.0,55.0,0.0,4.0,4.0,No
+ENG1002,2020/1,Engineering Mathematics and Scientific Computing,30.0,,100.0,200.0,0.0,30.0,70.0,0.0,2.0,4.0,No
+ENG1005,2020/1,Multi-Disciplinary Group Challenge Project,30.0,,70.0,230.0,,60.0,0.0,40.0,6.0,4.0,No
+ENG1006,2020/1,Entrepreneurship 1,15.0,225.0,30.0,120.0,0.0,100.0,0.0,0.0,7.0,4.0,No
+ECM1102,2020/1,Core Engineering 1,30.0,195.0,130.0,170.0,0.0,24.0,70.0,6.0,7.0,4.0,No
+ECM1106,2020/1,Electronics for Engineers: Core Engineering 2,15.0,206.0,34.0,116.0,0.0,10.0,60.0,30.0,3.0,1.0,No
+ECM1107,2020/1,Materials and Manufacturing: Core Engineering 2,15.0,171.0,28.0,122.0,0.0,30.0,70.0,0.0,3.0,1.0,No
+ECM1108,2020/1,Engineering Mechanics: Core Engineering 2,15.0,173.0,40.0,110.0,0.0,30.0,70.0,0.0,5.0,1.0,No
+ECM1110,2020/1,Engineering Mathematics,30.0,195.0,100.0,200.0,0.0,20.0,80.0,0.0,3.0,4.0,No
+ENG2001,2020/1,Civil Engineering Challenge Project,30.0,,40.0,260.0,,0.0,0.0,,4.0,5.0,No
+ENG2003,2020/1,Electronic Engineering Challenge Project,30.0,,65.0,225.0,,0.0,0.0,,4.0,5.0,No
+ENG2004,2020/1,Entrepreneurship 2,15.0,250.0,25.0,125.0,0.0,100.0,0.0,0.0,6.0,5.0,No
+ENG2005,2020/1,Entrepreneurship Challenge Project,30.0,,55.0,245.0,,100.0,0.0,,4.0,5.0,No
+ENG2006,2020/1,Industry 4.0,15.0,,36.0,114.0,,100.0,0.0,,2.0,5.0,No
+ENG2007,2020/1,Introduction to Fluid Dynamics,15.0,,50.0,100.0,,30.0,70.0,,2.0,5.0,No
+ENG2008,2020/1,Microcontroller Engineering,15.0,15.0,63.0,87.0,,40.0,60.0,,4.0,5.0,No
+ENG2009,2020/1,Modelling of Engineering Systems,15.0,,33.0,117.0,,50.0,50.0,,2.0,5.0,No
+ENG2010,2020/1,Soil Mechanics,15.0,,57.0,93.0,,50.0,35.0,15.0,3.0,5.0,No
+ENG2011,2020/1,Solid Mechanics,15.0,,40.0,110.0,,40.0,60.0,,2.0,5.0,No
+ENG2012,2020/1,Structural Behaviour,15.0,,42.0,108.0,,15.0,85.0,,2.0,5.0,No
+ENG2013,2020/1,Sustainable Design Challenge Project,30.0,,55.0,245.0,,100.0,0.0,,8.0,5.0,No
+ENG2014,2020/1,Technology Entrepreneurship,15.0,,11.0,139.0,,0.0,0.0,,2.0,5.0,No
+ENG2015,2020/1,Management Challenge Project,30.0,,55.0,245.0,,100.0,0.0,,4.0,5.0,No
+ENG2016,2020/1,Introduction in Economics and Company Finance,15.0,,22.0,128.0,,50.0,50.0,,2.0,4.0,No
+ECM2102,2020/1,Management and Management Science,15.0,175.0,34.0,116.0,0.0,40.0,60.0,,3.0,5.0,No
+ECM2103,2020/1,Introduction to Mechanical Engineering Design,15.0,114.0,34.0,116.0,0.0,100.0,0.0,,4.0,5.0,No
+ECM2105,2020/1,Control Engineering,15.0,182.0,33.0,117.0,0.0,30.0,70.0,,2.0,2.0,No
+ECM2106,2020/1,Manufacturing Systems,15.0,17.0,22.0,138.0,0.0,30.0,70.0,,3.0,5.0,No
+ECM2108,2020/1,Construction Methods and Materials,15.0,46.0,45.0,105.0,0.0,100.0,0.0,0.0,5.0,2.0,No
+ECM2109,2020/1,Structures,15.0,145.0,45.0,105.0,0.0,15.0,85.0,0.0,2.0,2.0,No
+ECM2110,2020/1,Geotechnics 1,15.0,49.0,50.0,100.0,0.0,50.0,50.0,,2.0,2.0,No
+ECM2111,2020/1,Mathematical Modelling of Engineering Systems,15.0,226.0,34.0,116.0,0.0,15.0,85.0,,2.0,5.0,No
+ECM2113,2020/1,Thermofluid Engineering,15.0,213.0,46.0,104.0,,40.0,60.0,,3.0,2.0,No
+ECM2114,2020/1,Solid Mechanics,15.0,209.0,36.0,114.0,0.0,30.0,70.0,,2.0,2.0,No
+ECM2115,2020/1,"PICS, Microcontrollers and Microprocessors",15.0,33.0,51.0,99.0,0.0,40.0,60.0,,4.0,5.0,No
+ECM2117,2020/1,Communication and Networking Technologies,15.0,20.0,30.0,120.0,0.0,40.0,60.0,,4.0,2.0,No
+ECM2118,2020/1,Analogue and Digital Electronics Design,15.0,24.0,49.0,101.0,0.0,40.0,60.0,,6.0,5.0,No
+ECM2119,2020/1,Mathematical Modelling and Control Engineering,15.0,15.0,34.0,116.0,0.0,15.0,85.0,,2.0,2.0,No
+ECM2120,2020/1,Materials Engineering,15.0,7.0,28.0,122.0,0.0,30.0,70.0,,3.0,2.0,No
+ECM2121,2020/1,Entrepreneurship 2,15.0,200.0,55.0,95.0,0.0,100.0,0.0,0.0,5.0,5.0,No
+ENG3001,2020/1,Construction Project Management,15.0,,50.0,100.0,,100.0,0.0,,2.0,6.0,No
+ENG3002,2020/1,Decision Making Systems & Decision Theory,15.0,,,,,,,,,6.0,No
+ENG3003,2020/1,Digital Engineering and Building Information Modelling,15.0,,33.0,117.0,,100.0,0.0,,2.0,6.0,No
+ENG3004,2020/1,Engineering Electromagnetics,15.0,,,,,,,,,6.0,No
+ENG3005,2020/1,Fluid Dynamics and CFD,15.0,,50.0,100.0,,60.0,40.0,,3.0,6.0,No
+ENG3006,2020/1,Geotechnical Engineering and Foundation Design,15.0,,48.0,102.0,,30.0,50.0,20.0,3.0,6.0,No
+ENG3007,2020/1,Global Entrepreneurial Marketing,15.0,,,,,,,,,6.0,No
+ENG3008,2020/1,Group Design and Build Project - MEng students,30.0,,,,,,,,,6.0,No
+ENG3008A,2020/1,Mechanical Design and Build: Part 1 - Research,15.0,,,,,,,,,,No
+ENG3008B,2020/1,Mechanical Design and Build: Part 2 - Development,15,,,,,,,,,,No
+ENG3009,2020/1,Structures & Finite Element Analysis,15,,48.0,102.0,,100.0,0.0,,3.0,6.0,No
+ENG3010,2020/1,Industrial Awareness & Problem Solving,15,,,,,0.0,0.0,,,6.0,No
+ENG3011,2020/1,Management and Leadership,15,,,,,0.0,0.0,,,6.0,No
+ENG3012,2020/1,Mechatronics,15,,33.0,,117.0,25.0,70.0,5.0,3.0,6.0,No
+ENG3013,2020/1,Structural Mechanics and Dynamics,15,,,,,,,,,,No
+ENG3013A,2020/1,Civil Design and Build: Part 1 - Research,15,,18.0,132.0,0.0,50.0,0.0,50.0,2.0,,No
+ENG3013B,2020/1,Civil Design and Build: Part 2 - Development,15,,33.0,117.0,,50.0,0.0,50.0,2.0,,No
+ENG3014,2020/1,Structural Engineering,15,,35.0,115.0,,35.0,65.0,,3.0,6.0,No
+ENG3015,2020/1,Structural Dynamics,15,,40.0,110.0,,30.0,70.0,,2.0,6.0,No
+ENG3016,2020/1,Thermodynamics and Heat Transfer,15,,43.0,107.0,,15.0,70.0,15.0,3.0,6.0,No
+ENG3017,2020/1,Quality Control and Improvement,15,,,,,,,,,6.0,No
+ENG3018,2020/1,Control Engineering,15,,37.0,113.0,,30.0,70.0,,3.0,,No
+ENG3019A,2020/1,Management Design and Build: Part 1 - Research,15,,,,,,,,,,No
+ENG3019B,2020/1,Management Design and Build: Part 2 - Development,15,,,,,,,,,,No
+ENG3020A,2020/1,Entrepreneurship Design and Build: Part 1 - Research,15,,18.0,132.0,,50.0,0.0,50.0,2.0,,No
+ENG3020B,2020/1,Entrepreneurship Design and Build: Part 2 - Development,15,,33.0,117.0,,50.0,0.0,50.0,2.0,,No
+ENG3021A,2020/1,Electronic Design and Build: Part 1 - Research,15,,,,,,,,,,No
+ENG3021B,2020/1,Electronic Design and Build: Part 2 - Development,15,,,,,,,,,,No
+ECM3130,2020/1,Engineering in Society and Company Finance,15,183.0,78.0,72.0,0.0,30.0,70.0,,2.0,3.0,No
+ECM3149,2020/1,Commercial and Industrial Experience and Individual Project (BEng/MEng),45,7.0,27.0,123.0,300.0,100.0,0.0,0.0,,6.0,No
+ECM3150,2020/1,Electromagnetics and Wave Propagation,15,30.0,25.0,125.0,,30.0,70.0,,2.0,6.0,No
+ECM3151,2020/1,Thermofluids and Energy Conversion,15,113.0,43.0,107.0,0.0,30.0,70.0,,2.0,6.0,No
+ECM3152,2020/1,Computational Engineering,15,79.0,31.0,119.0,29.0,100.0,0.0,,3.0,3.0,No
+ECM3153,2020/1,Management of Product Development,15,82.0,22.0,128.0,0.0,40.0,60.0,,3.0,3.0,No
+ECM3154,2020/1,Manufacturing,15,28.0,25.0,125.0,0.0,30.0,70.0,,3.0,3.0,No
+ECM3155,2020/1,Structural Engineering,15,39.0,37.0,113.0,0.0,35.0,65.0,0.0,3.0,6.0,No
+ECM3156,2020/1,Civil Engineering Hydraulics,15,36.0,28.0,122.0,0.0,30.0,70.0,,5.0,3.0,No
+ECM3157,2020/1,Geotechnics 2,15,39.0,101.0,49.0,0.0,15.0,50.0,35.0,3.0,3.0,No
+ECM3158,2020/1,Water Resources and Pollution Control,15,28.0,48.0,102.0,0.0,30.0,70.0,,3.0,3.0,No
+ECM3159,2020/1,Management of Processes and People,15,26.0,24.0,126.0,0.0,40.0,60.0,,3.0,6.0,No
+ECM3160,2020/1,Materials,15,49.0,84.0,66.0,0.0,40.0,60.0,,4.0,3.0,No
+ECM3161,2020/1,Civil Engineering Design Studies,15,34.0,47.0,103.0,0.0,100.0,0.0,,3.0,3.0,No
+ECM3162,2020/1,Electronic Engineering Design Studies,15,30.0,98.0,52.0,0.0,100.0,0.0,,6.0,6.0,No
+ECM3163,2020/1,Mechanical Engineering Design Studies,15,86.0,44.0,108.0,0.0,100.0,0.0,0.0,4.0,3.0,No
+ECM3164,2020/1,Operations Management,15,39.0,22.0,128.0,0.0,30.0,70.0,,2.0,6.0,No
+ECM3165,2020/1,Digital Signal Processing,15,20.0,45.0,105.0,0.0,40.0,60.0,,5.0,3.0,No
+ECM3166,2020/1,Communications Engineering,15,17.0,50.0,100.0,0.0,20.0,60.0,20.0,4.0,3.0,No
+ECM3171,2020/1,Computer Aided Engineering Drawing,15,101.0,27.0,123.0,0.0,100.0,0.0,0.0,4.0,6.0,No
+ECM3172,2020/1,Study Abroad Semester,60,10.0,0.0,0.0,600.0,100.0,0.0,0.0,2.0,6.0,No
+ECM3173,2020/1,Structural Dynamics,15,80.0,40.0,110.0,,25.0,75.0,,2.0,6.0,No
+ECM3174,2020/1,Year in Industry,120,4.0,6.0,,,80.0,0.0,20.0,4.0,6.0,No
+ECM3175,2020/1,Individual Project,30,106.0,27.0,300.0,0.0,100.0,0.0,0.0,2.0,6.0,No
+ECM3176,2020/1,Industrial Awareness and Problem Solving,15,40.0,45.0,105.0,0.0,100.0,0.0,0.0,3.0,6.0,No
+ECM3177,2020/1,Market Research and Business Planning,15,50.0,12.0,138.0,0.0,100.0,0.0,0.0,2.0,6.0,No
+ENGM001,2020/1,Additive Manufacturing,15,,16.0,137.0,,40.0,60.0,,2.0,7.0,No
+ENGM002,2020/1,Advanced Communication Systems,15,,33.0,117.0,,40.0,60.0,,5.0,7.0,No
+ENGM003,2020/1,Advanced Finite Element Analysis (FEA),15,,33.0,117.0,,0.0,0.0,,3.0,7.0,No
+ENGM005,2020/1,Business Start-up Project,90,,,900.0,,100.0,0.0,,1.0,7.0,No
+ENGM006,2020/1,Civil Engineering Materials,15,,44.0,106.0,,30.0,70.0,,2.0,7.0,No
+ENGM008,2020/1,Design of Reinforced Concrete and Steel Structures,15,,26.0,124.0,,30.0,70.0,,3.0,7.0,No
+ENGM009,2020/1,Electric Machines and Power Electronics,15,,47.0,103.0,,30.0,70.0,,4.0,7.0,No
+ENGM010,2020/1,Data-Centric Engineering,15,,33.0,117.0,,100.0,0.0,,4.0,7.0,No
+ENGM011,2020/1,Entrepreneurship 3,30,,22.0,278.0,,100.0,0.0,,2.0,7.0,No
+ENGM012,2020/1,Performance Based Design Under Dynamic Loading,15,,33.0,117.0,,30.0,70.0,,2.0,7.0,No
+ENGM014,2020/1,Individual Project - MEng students,45,,,,,,,,,7.0,No
+ENGM015,2020/1,MEng Individual Investigative Project,45,,22.0,428.0,,80.0,0.0,20.0,3.0,7.0,No
+ENGM016,2020/1,Metamaterials,15,,33.0,117.0,,80.0,0.0,20.0,3.0,7.0,No
+ENGM017,2020/1,Composite Materials,15,,22.0,128.0,,40.0,60.0,,2.0,7.0,No
+ENGM018,2020/1,Nonlinear Control,15,,35.0,115.0,,30.0,70.0,,2.0,7.0,No
+ENGM019,2020/1,Quality Engineering & Management,15,,22.0,128.0,,0.0,0.0,,2.0,7.0,No
+ENGM020,2020/1,Robotics and Automation,15,,63.0,87.0,,60.0,40.0,,3.0,7.0,No
+ENGM021,2020/1,Smart Production Systems,15,,33.0,117.0,,0.0,100.0,,2.0,7.0,No
+ENGM023,2020/1,Sustainable Manufacturing,15,,22.0,128.0,,100.0,0.0,,1.0,7.0,No
+ENGM024,2020/1,Trauma and Degeneration,15,,,,,,,,,7.0,No
+ENGM025,2020/1,Smart Civil Structures,15,,44.0,106.0,,65.0,35.0,,4.0,,No
+ENGM026,2020/1,"Design, Innovation & Entrepreneurship",15,,22.0,128.0,,100.0,0.0,0.0,1.0,7.0,No
+ENGM027,2020/1,Engineering Management Science,30,150.0,66.0,234.0,,100.0,0.0,0.0,3.0,,No
+ENGM028,2020/1,MSc Industrial Placement,60,20.0,20.0,80.0,500.0,80.0,0.0,20.0,,7.0,No
+ECMM102,2020/1,Group Project (MEng),60,75.0,0.0,600.0,,100.0,0.0,,2.0,7.0,No
+ECMM103,2020/1,Computer Aided Engineering Design,15,37.0,28.0,122.0,0.0,100.0,0.0,,4.0,7.0,No
+ECMM107,2020/1,Mechanics of Materials,15,0.0,28.0,122.0,,30.0,70.0,,2.0,7.0,No
+ECMM108,2020/1,Advanced Structural Engineering,15,0.0,22.0,128.0,,50.0,50.0,0.0,3.0,7.0,No
+ECMM109,2020/1,Advanced Geotechnical Engineering,15,0.0,22.0,128.0,0.0,50.0,50.0,0.0,3.0,7.0,No
+ECMM110,2020/1,Water and Environmental Systems,15,0.0,22.0,128.0,,65.0,0.0,35.0,3.0,7.0,No
+ECMM112,2020/1,Manufacturing Supply Chain Management,15,30.0,22.0,128.0,0.0,100.0,0.0,0.0,2.0,7.0,No
+ECMM113,2020/1,"Agile, Lean and Competitive Enterprise",15,60.0,44.0,106.0,,100.0,0.0,0.0,2.0,7.0,No
+ECMM124,2020/1,Hydroinformatics Tools,15,0.0,40.0,110.0,,30.0,70.0,,2.0,7.0,No
+ECMM127,2020/1,Advanced Materials Engineering,15,0.0,22.0,128.0,,30.0,70.0,,3.0,7.0,No
+ECMM128,2020/1,Management Concepts,15,0.0,22.0,128.0,,0.0,100.0,0.0,1.0,7.0,No
+ECMM132,2020/1,Urban Drainage and Waste Water Management,15,0.0,44.0,106.0,0.0,30.0,70.0,0.0,2.0,7.0,No
+ECMM133,2020/1,Water Supply and Distribution Management,15,0.0,36.0,114.0,0.0,30.0,70.0,0.0,2.0,7.0,No
+ECMM134,2020/1,Environmental Processes,15,0.0,34.0,116.0,0.0,30.0,70.0,0.0,2.0,7.0,No
+ECMM136,2020/1,Systems Analysis in Engineering,15,0.0,22.0,128.0,0.0,30.0,70.0,0.0,2.0,7.0,No
+ECMM140,2020/1,Vibration Engineering,15,0.0,33.0,117.0,0.0,30.0,70.0,0.0,2.0,7.0,No
+ECMM141,2020/1,Multivariable State-Space Control,15,0.0,27.0,123.0,0.0,20.0,80.0,0.0,2.0,7.0,No
+ECMM142,2020/1,Contemporary Advanced Materials Research,15,0.0,22.0,128.0,0.0,80.0,0.0,20.0,5.0,7.0,No
+ECMM144,2020/1,Environmental and Computational Hydraulics,15,0.0,36.0,114.0,0.0,100.0,0.0,0.0,3.0,7.0,No
+ECMM145,2020/1,Computational Hydrology,15,20.0,36.0,114.0,0.0,100.0,0.0,0.0,2.0,7.0,No
+ECMM146,2020/1,Mathematical Modelling of Waste Water Treatment Processes,15,19.0,36.0,114.0,0.0,100.0,0.0,0.0,3.0,7.0,No
+ECMM147,2020/1,Mechatronics: Sensors and Machine Automation,15,47.0,33.0,117.0,0.0,25.0,70.0,5.0,3.0,7.0,No
+ECMM148,2020/1,Advanced CFD,15,0.0,26.0,124.0,0.0,100.0,0.0,0.0,4.0,7.0,No
+ECMM149,2020/1,Linear Systems and Structural Analysis,15,0.0,33.0,117.0,0.0,30.0,70.0,0.0,3.0,7.0,No
+ECMM150,2020/1,Structural Design,15,0.0,37.0,113.0,0.0,30.0,70.0,0.0,3.0,7.0,No
+ECMM151,2020/1,Introduction to Earthquake Engineering,15,0.0,50.0,100.0,0.0,30.0,70.0,0.0,2.0,7.0,No
+ECMM153,2020/1,Conceptual Design of Buildings,15,30.0,40.0,110.0,0.0,30.0,70.0,0.0,2.0,7.0,No
+ECMM158,2020/1,Active and Passive Structural Control,15,0.0,40.0,110.0,0.0,30.0,70.0,,2.0,7.0,No
+ECMM159,2020/1,Structural Health and Performance Monitoring,15,0.0,44.0,106.0,0.0,100.0,0.0,0.0,2.0,7.0,No
+ECMM160,2020/1,Engineering Materials and the Environment,15,0.0,22.0,128.0,0.0,40.0,60.0,0.0,4.0,7.0,No
+ECMM162,2020/1,Water Management in Developing Countries,15,0.0,30.0,115.0,0.0,0.0,100.0,0.0,1.0,7.0,No
+ECMM163,2020/1,Sustainable Engineering,15.0,0.0,40.0,110.0,0.0,100.0,0.0,0.0,2.0,7.0,No
+ECMM164,2020/1,MSc Dissertation,60.0,200.0,22.0,578.0,0.0,0.0,90.0,10.0,3.0,7.0,No
+ECMM168,2020/1,Project Management,15.0,0.0,44.0,106.0,0.0,50.0,50.0,0.0,2.0,7.0,No
+ECMM171,2020/1,Programming for Engineering,15.0,66.0,36.0,114.0,0.0,80.0,0.0,20.0,3.0,7.0,No
+ECMM172,2020/1,Management Science,15.0,0.0,44.0,106.0,0.0,50.0,50.0,0.0,2.0,7.0,No
+ECMM178,2020/1,Computational Techniques for Engineers,15.0,0.0,26.0,124.0,0.0,0.0,0.0,100.0,2.0,7.0,No
+ECMM179,2020/1,Global Sourcing and Logistics Management,15.0,0.0,22.0,128.0,0.0,100.0,0.0,,1.0,7.0,No
+ECMM180,2020/1,Business Start-up Project,90.0,50.0,0.0,100.0,0.0,100.0,0.0,0.0,4.0,7.0,No
+ECMM181,2020/1,Entrepreneurship Skills Development 3,30.0,50.0,100.0,200.0,0.0,100.0,0.0,0.0,4.0,7.0,No
+EMP3001,2020/1,Commercial and Industrial Experience,15.0,31.0,9.0,61.0,80.0,100.0,0.0,,2.0,6.0,No
+EMP3003,2020/1,Professional Experience,45.0,1.0,20.0,350.0,80.0,90.0,0.0,10.0,5.0,6.0,No
+EDUM030,2020/1,,,,,,,,,,,,
+EFPM900,2020/1,,,,,,,,,,,,
+MTH1000,2020/1,Foundations,0.0,300.0,84.0,36.0,,0.0,0.0,0.0,,4.0,No
+MTH1001,2020/1,Mathematical Structures,30.0,200.0,76.0,224.0,,0.0,100.0,0.0,2.0,4.0,No
+MTH1002,2020/1,Mathematical Methods,30.0,200.0,76.0,224.0,,0.0,100.0,,2.0,4.0,No
+MTH1003,2020/1,Mathematical Modelling,30.0,200.0,88.0,212.0,0.0,40.0,60.0,0.0,4.0,4.0,No
+MTH1004,2020/1,"Probability, Statistics and Data",30.0,275.0,89.0,211.0,,40.0,60.0,,3.0,4.0,No
+MTH1100,2020/1,Employability and Preparation for Placement or Internship,0.0,30.0,15.0,30.0,0.0,0.0,0.0,,,5.0,No
+MTH2003,2020/1,Differential Equations,15.0,300.0,38.0,112.0,,10.0,90.0,0.0,2.0,5.0,No
+MTH2004,2020/1,Vector Calculus and Applications,15.0,250.0,33.0,118.0,,10.0,90.0,,2.0,5.0,No
+MTH2005,2020/1,Modelling: Theory and Practice,30.0,128.0,64.0,236.0,,70.0,30.0,,3.0,5.0,No
+MTH2006,2020/1,Statistical Modelling and Inference,30.0,128.0,70.0,230.0,0.0,30.0,70.0,0.0,3.0,5.0,No
+MTH2007,2020/1,Independent Study for Exchange Students,15.0,5.0,38.0,112.0,0.0,100.0,0.0,0.0,1.0,5.0,No
+MTH2008,2020/1,Real Analysis,15.0,260.0,38.0,112.0,0.0,10.0,90.0,0.0,2.0,5.0,No
+MTH2009,2020/1,Complex Analysis,15.0,200.0,38.0,112.0,0.0,10.0,90.0,0.0,2.0,5.0,No
+MTH2010,2020/1,"Groups, Rings and Fields",15.0,120.0,38.0,112.0,,10.0,90.0,0.0,2.0,5.0,No
+MTH2011,2020/1,Linear Algebra,15.0,230.0,38.0,112.0,0.0,10.0,90.0,0.0,2.0,5.0,No
+MTH2100,2020/1,Employability and Career Resources,0.0,240.0,15.0,30.0,0.0,0.0,0.0,,,5.0,No
+MTH3001,2020/1,Theory of Weather and Climate,15.0,61.0,33.0,117.0,0.0,20.0,80.0,0.0,2.0,6.0,No
+MTH3004,2020/1,Number Theory,15.0,100.0,33.0,117.0,0.0,20.0,80.0,0.0,2.0,6.0,No
+MTH3006,2020/1,Mathematical Biology and Ecology,15.0,90.0,33.0,117.0,0.0,20.0,80.0,0.0,2.0,6.0,No
+MTH3007,2020/1,Fluid Dynamics,15.0,152.0,33.0,117.0,0.0,20.0,80.0,0.0,2.0,6.0,No
+MTH3008,2020/1,Partial Differential Equations,15.0,88.0,33.0,117.0,0.0,20.0,80.0,0.0,2.0,6.0,No
+MTH3011,2020/1,Nonlinear Systems and Control,15.0,11.0,33.0,117.0,0.0,20.0,80.0,0.0,2.0,6.0,No
+MTH3012,2020/1,Advanced Statistical Modelling,15.0,37.0,33.0,117.0,,100.0,0.0,0.0,3.0,7.0,No
+MTH3019,2020/1,Mathematics: History and Culture,15.0,67.0,20.0,130.0,0.0,40.0,50.0,10.0,4.0,6.0,No
+MTH3021,2020/1,Combinatorics,15.0,19.0,33.0,117.0,0.0,20.0,80.0,0.0,2.0,6.0,No
+MTH3022,2020/1,"Graphs, Networks and Algorithms",15.0,76.0,33.0,117.0,0.0,0.0,60.0,40.0,3.0,6.0,No
+MTH3024,2020/1,Stochastic Processes,15.0,100.0,33.0,117.0,,20.0,80.0,,2.0,6.0,No
+MTH3025,2020/1,Semester of Mathematical Studies Abroad,60.0,5.0,,,,100.0,0.0,,,6.0,No
+MTH3026,2020/1,Cryptography,15.0,116.0,33.0,117.0,0.0,20.0,80.0,0.0,2.0,6.0,No
+MTH3028,2020/1,Statistical Inference: Theory and Practice,15.0,80.0,33.0,117.0,,40.0,60.0,,2.0,6.0,No
+MTH3030,2020/1,Mathematics of Climate Change,15.0,170.0,33.0,117.0,,20.0,80.0,,2.0,6.0,No
+MTH3032,2020/1,Applications of Geometry and Topology,15.0,44.0,33.0,117.0,0.0,20.0,80.0,,2.0,6.0,No
+MTH3035,2020/1,Mathematics Group Project,15.0,138.0,22.0,128.0,0.0,85.0,0.0,15.0,5.0,6.0,No
+MTH3037,2020/1,Mathematical Sciences Project,15.0,,,,,100.0,0.0,,,6.0,No
+MTH3038,2020/1,Galois Theory,15.0,30.0,33.0,117.0,0.0,20.0,80.0,0.0,2.0,6.0,No
+MTH3039,2020/1,Computational Nonlinear Dynamics,15.0,19.0,33.0,117.0,0.0,100.0,0.0,0.0,2.0,6.0,No
+MTH3040,2020/1,Topology and Metric Spaces,15.0,24.0,33.0,127.0,0.0,20.0,80.0,0.0,2.0,6.0,No
+MTH3041,2020/1,"Bayesian statistics, Philosophy and Practice",15.0,25.0,33.0,117.0,0.0,20.0,80.0,,2.0,6.0,No
+MTH3042,2020/1,Integral Equations,15.0,150.0,33.0,117.0,,20.0,80.0,0.0,2.0,6.0,No
+MTH3100,2020/1,Industrial Placement,120.0,6.0,6.0,314.0,880.0,90.0,0.0,10.0,6.0,3.0,No
+MTHM001,2020/1,Functional Analysis,15.0,20.0,33.0,117.0,0.0,20.0,80.0,0.0,3.0,7.0,No
+MTHM002,2020/1,Methods for Stochastics and Finance,15.0,58.0,33.0,117.0,,0.0,100.0,,3.0,7.0,No
+MTHM003,2020/1,Analysis and Computation for Finance,15.0,49.0,39.0,114.0,,50.0,50.0,,4.0,7.0,No
+MTHM004,2020/1,Fractal Geometry,15.0,20.0,33.0,127.0,0.0,0.0,100.0,0.0,1.0,7.0,No
+MTHM005,2020/1,Mathematical Sciences Project,30.0,34.0,22.0,278.0,,90.0,0.0,10.0,2.0,7.0,No
+MTHM006,2020/1,Mathematical Theory of Option Pricing,15.0,48.0,22.0,128.0,,20.0,80.0,0.0,3.0,7.0,No
+MTHM007,2020/1,Engaging with Research,15.0,20.0,44.0,106.0,0.0,100.0,0.0,0.0,4.0,7.0,No
+MTHM008,2020/1,Computational Modelling,15.0,20.0,33.0,117.0,0.0,100.0,0.0,0.0,3.0,7.0,No
+MTHM009,2020/1,Advanced Topics in Mathematical & Computational Biology,15.0,10.0,33.0,117.0,0.0,100.0,0.0,0.0,1.0,7.0,No
+MTHM010,2020/1,Representation Theory of Finite Groups,15.0,,33.0,117.0,,20.0,80.0,,3.0,7.0,No
+MTHM017,2020/1,Advanced Topics in Statistics,15.0,50.0,30.0,120.0,0.0,100.0,0.0,0.0,2.0,7.0,No
+MTHM018,2020/1,Dynamical Systems and Chaos,15.0,33.0,33.0,117.0,0.0,20.0,80.0,0.0,3.0,7.0,No
+MTHM019,2020/1,Fluid Dynamics of Atmospheres and Oceans,15.0,23.0,33.0,117.0,0.0,20.0,80.0,0.0,3.0,7.0,No
+MTHM021,2020/1,Advanced Mathematics Project,60.0,25.0,22.0,578.0,0.0,90.0,0.0,10.0,2.0,7.0,No
+MTHM023,2020/1,Modelling the Weather and Climate,15.0,5.0,33.0,117.0,0.0,50.0,50.0,0.0,3.0,7.0,No
+MTHM029,2020/1,Algebraic Curves,15.0,11.0,50.0,100.0,0.0,20.0,80.0,0.0,3.0,7.0,No
+MTHM030,2020/1,"Waves, Instabilities and Turbulence",15.0,13.0,33.0,117.0,0.0,20.0,80.0,0.0,3.0,7.0,No
+MTHM031,2020/1,Magnetic Fields and Fluid Flows,15.0,21.0,33.0,117.0,0.0,20.0,80.0,0.0,2.0,7.0,No
+MTHM032,2020/1,"Mathematics, Business and Finance Project",30.0,4.0,22.0,278.0,,100.0,0.0,0.0,3.0,7.0,No
+MTHM033,2020/1,Statistical Modelling in Space and Time,15.0,20.0,33.0,115.0,0.0,20.0,80.0,0.0,2.0,7.0,No
+MTHM036,2020/1,Research in Mathematical Sciences,15.0,42.0,20.0,130.0,0.0,90.0,0.0,10.0,3.0,7.0,No
+MTHM040,2020/1,MSci Project,45.0,3.0,25.0,425.0,0.0,90.0,0.0,10.0,3.0,7.0,No
+MTHM041,2020/1,Analytic Number Theory,15.0,30.0,33.0,117.0,0.0,0.0,100.0,0.0,1.0,7.0,No
+MTHM044,2020/1,MMATH Project in Statistics,45.0,20.0,25.0,425.0,0.0,90.0,0.0,10.0,3.0,7.0,No
+MTHM045,2020/1,Space Weather and Plasmas,15.0,10.0,33.0,117.0,0.0,20.0,80.0,0.0,2.0,7.0,No
+MTHM047,2020/1,"Bayesian Statistics, Philosophy and Practice",15.0,28.0,33.0,117.0,0.0,70.0,30.0,0.0,3.0,7.0,No
+MTHM048,2020/1,Ergodic Theory,15.0,20.0,33.0,117.0,0.0,20.0,80.0,,3.0,7.0,No
+MTHM050,2020/1,Research Project in Statistics,60.0,,20.0,580.0,0.0,100.0,0.0,0.0,3.0,7.0,No
+MTHM501,2020/1,Working with Data,15.0,50.0,30.0,120.0,0.0,100.0,0.0,0.0,1.0,7.0,No
+MTHM502,2020/1,Introduction to Data Science and Statistical Modelling,15.0,15.0,36.0,114.0,0.0,0.0,60.0,40.0,2.0,7.0,No
+MTHM503,2020/1,Applications of Data Science and Statistics,15.0,50.0,36.0,114.0,0.0,100.0,0.0,0.0,2.0,7.0,No
+MTHM504,2020/1,Applied Data Science and Statistics Project,60.0,50.0,20.0,580.0,0.0,100.0,0.0,0.0,3.0,7.0,No
+MTHM505,2020/1,Data Science and Statistical Modelling in Space and Time,15.0,50.0,30.0,118.0,,100.0,0.0,,2.0,,No
+MTHM506,2020/1,Statistical Data Modelling,15.0,50.0,30.0,120.0,,100.0,0.0,,3.0,7.0,No
+MTHM507,2020/1,Communicating Data Science,15.0,50.0,40.0,110.0,,100.0,0.0,,3.0,7.0,No
+BEEM062,2020/1,,,,,,,,,,,,
+BEP1140,2021/2,,,,,,,,,,,,
+BUS1908,2021/2,,,,,,,,,,,,
+BEMM496Z,2021/2,,,,,,,,,,,,
+BEMM497Z,2021/2,,,,,,,,,,,,
+BEMM498Z,2021/2,,,,,,,,,,,,
+ENG1002,2021/2,Engineering Mathematics and Scientific Computing,30.0,200.0,100.0,200.0,0.0,30.0,70.0,0.0,2.0,4.0,No
+ENG1005,2021/2,Multi-Disciplinary Group Challenge Project,30.0,,70.0,230.0,,60.0,0.0,40.0,5.0,4.0,No
+ENG1006,2021/2,Entrepreneurship 1,15.0,225.0,30.0,120.0,0.0,100.0,0.0,0.0,7.0,4.0,No
+ENG1007,2021/2,Fundamentals of Mechanics,15.0,,44.0,106.0,0.0,40.0,60.0,0.0,4.0,4.0,No
+ENG1008,2021/2,Fundamentals of Materials,15.0,,44.0,106.0,0.0,45.0,55.0,0.0,3.0,4.0,No
+ENG1009,2021/2,Fundamentals of Electronics,15.0,,76.0,74.0,0.0,45.0,55.0,0.0,3.0,4.0,No
+ECM1102,2021/2,Core Engineering 1,30,195.0,130.0,170.0,0.0,24.0,70.0,6.0,7.0,4.0,No
+ECM1106,2021/2,Electronics for Engineers: Core Engineering 2,15,206.0,34.0,116.0,0.0,10.0,60.0,30.0,3.0,1.0,No
+ECM1107,2021/2,Materials and Manufacturing: Core Engineering 2,15,171.0,28.0,122.0,0.0,30.0,70.0,0.0,3.0,1.0,No
+ECM1108,2021/2,Engineering Mechanics: Core Engineering 2,15,173.0,40.0,110.0,0.0,30.0,70.0,0.0,5.0,1.0,No
+ECM1110,2021/2,Engineering Mathematics,30,195.0,100.0,200.0,0.0,20.0,80.0,0.0,3.0,4.0,No
+ECM1111,2021/2,Entrepreneurship Skills Development 1,15,225.0,45.0,105.0,0.0,100.0,0.0,0.0,9.0,4.0,No
+ENG2001,2021/2,Civil Engineering Challenge Project,30,60.0,85.0,205.0,,0.0,0.0,,5.0,5.0,No
+ENG2003,2021/2,Electronic Engineering Challenge Project,30,23.0,70.0,230.0,,100.0,0.0,,6.0,5.0,No
+ENG2004,2021/2,Entrepreneurship 2,15,250.0,25.0,125.0,0.0,100.0,0.0,0.0,5.0,5.0,No
+ENG2005,2021/2,Entrepreneurship Challenge Project,30,,55.0,245.0,,100.0,0.0,,5.0,5.0,No
+ENG2006,2021/2,Industry 4.0,15,,24.0,126.0,,100.0,0.0,,3.0,5.0,No
+ENG2007,2021/2,Introduction to Fluid Dynamics,15,,50.0,100.0,,30.0,70.0,,2.0,5.0,No
+ENG2008,2021/2,Microcontroller Engineering,15,15.0,63.0,87.0,,40.0,60.0,,4.0,5.0,No
+ENG2009,2021/2,Modelling of Engineering Systems,15,,33.0,117.0,,50.0,50.0,,2.0,5.0,No
+ENG2010,2021/2,Soil Mechanics,15,,57.0,93.0,,50.0,35.0,15.0,3.0,5.0,No
+ENG2011,2021/2,Solid Mechanics,15,,25.0,125.0,0.0,20.0,80.0,,2.0,5.0,No
+ENG2012,2021/2,Structural Behaviour,15,160.0,39.0,111.0,,15.0,85.0,,2.0,5.0,No
+ENG2013,2021/2,Sustainable Design Challenge Project,30,,55.0,245.0,,100.0,0.0,,4.0,5.0,No
+ENG2014,2021/2,Technology Entrepreneurship,15,20.0,19.0,131.0,,100.0,0.0,,2.0,5.0,No
+ENG2015,2021/2,Management Challenge Project,30,,55.0,245.0,,100.0,0.0,,4.0,5.0,No
+ENG2016,2021/2,Introduction in Economics and Company Finance,15,,22.0,128.0,,50.0,50.0,,2.0,4.0,No
+ENG2017,2021/2,Communication and Networking Technologies,15,20.0,30.0,120.0,0.0,40.0,60.0,,4.0,2.0,No
+ENG2118,2021/2,Analogue and Digital Electronics Design,15,24.0,50.0,100.0,,40.0,60.0,,5.0,,No
+ECM2102,2021/2,Management and Management Science,15,175.0,34.0,116.0,0.0,40.0,60.0,,3.0,5.0,No
+ECM2103,2021/2,Introduction to Mechanical Engineering Design,15,114.0,34.0,116.0,0.0,100.0,0.0,,4.0,5.0,No
+ECM2105,2021/2,Control Engineering,15,182.0,33.0,117.0,0.0,30.0,70.0,,2.0,2.0,No
+ECM2106,2021/2,Manufacturing Systems,15,17.0,22.0,138.0,0.0,30.0,70.0,,3.0,5.0,No
+ECM2108,2021/2,Construction Methods and Materials,15,46.0,45.0,105.0,0.0,100.0,0.0,0.0,5.0,2.0,No
+ECM2109,2021/2,Structures,15,145.0,45.0,105.0,0.0,15.0,85.0,0.0,2.0,2.0,No
+ECM2110,2021/2,Geotechnics 1,15,49.0,50.0,100.0,0.0,50.0,50.0,,2.0,2.0,No
+ECM2111,2021/2,Mathematical Modelling of Engineering Systems,15,226.0,34.0,116.0,0.0,15.0,85.0,,2.0,5.0,No
+ECM2113,2021/2,Thermofluid Engineering,15,213.0,46.0,104.0,,40.0,60.0,,3.0,2.0,No
+ECM2114,2021/2,Solid Mechanics,15,209.0,36.0,114.0,0.0,30.0,70.0,,2.0,2.0,No
+ECM2117,2021/2,Communication and Networking Technologies,15,20.0,30.0,120.0,0.0,40.0,60.0,,4.0,2.0,No
+ECM2118,2021/2,Analogue and Digital Electronics Design,15,24.0,49.0,101.0,0.0,40.0,60.0,,6.0,5.0,No
+ECM2119,2021/2,Mathematical Modelling and Control Engineering,15,15.0,34.0,116.0,0.0,15.0,85.0,,2.0,2.0,No
+ECM2120,2021/2,Materials Engineering,15,7.0,28.0,122.0,0.0,30.0,70.0,,3.0,2.0,No
+ECM2121,2021/2,Entrepreneurship 2,15,200.0,55.0,95.0,0.0,100.0,0.0,0.0,5.0,5.0,No
+ENG3001,2021/2,Construction Project Management,15,,50.0,100.0,,100.0,0.0,,2.0,6.0,No
+ENG3002,2021/2,Decision Making Systems & Decision Theory,15,,,,,,,,,6.0,No
+ENG3003,2021/2,Digital Engineering and Building Information Modelling,15,,33.0,117.0,,100.0,0.0,,2.0,6.0,No
+ENG3004,2021/2,Engineering Electromagnetics,15,,,,,,,,,6.0,No
+ENG3005,2021/2,Fluid Dynamics and CFD,15,,50.0,100.0,,60.0,40.0,,3.0,6.0,No
+ENG3006,2021/2,Geotechnical Engineering and Foundation Design,15,,48.0,102.0,,30.0,50.0,20.0,3.0,6.0,No
+ENG3007,2021/2,Global Entrepreneurial Marketing,15,,,,,,,,,6.0,No
+ENG3008,2021/2,Group Design and Build Project - MEng students,30,,,,,,,,,6.0,No
+ENG3008A,2021/2,Mechanical Design and Build: Part 1 - Research,15,,18.0,132.0,0.0,50.0,0.0,50.0,2.0,6.0,No
+ENG3008B,2021/2,Mechanical Design and Build: Part 2 - Development,15,,33.0,117.0,0.0,50.0,0.0,50.0,2.0,6.0,No
+ENG3009,2021/2,Structures & Finite Element Analysis,15,,48.0,102.0,,100.0,0.0,,3.0,6.0,No
+ENG3010,2021/2,Industrial Awareness & Problem Solving,15,,,,,0.0,0.0,,,6.0,No
+ENG3011,2021/2,Management and Leadership,15,,,,,0.0,0.0,,,6.0,No
+ENG3012,2021/2,Mechatronics,15,,33.0,,117.0,25.0,70.0,5.0,3.0,6.0,No
+ENG3013,2021/2,Structural Mechanics and Dynamics,15,,,,,,,,,,No
+ENG3013A,2021/2,Civil Design and Build: Part 1 - Research,15,,18.0,132.0,0.0,50.0,0.0,50.0,2.0,,No
+ENG3013B,2021/2,Civil Design and Build: Part 2 - Development,15,,33.0,117.0,,50.0,0.0,50.0,2.0,,No
+ENG3014,2021/2,Structural Engineering,15,,35.0,115.0,,35.0,65.0,,3.0,6.0,No
+ENG3015,2021/2,Structural Dynamics,15,,40.0,110.0,,30.0,70.0,,2.0,6.0,No
+ENG3016,2021/2,Thermodynamics and Heat Transfer,15,,43.0,107.0,,15.0,70.0,15.0,3.0,6.0,No
+ENG3017,2021/2,Quality Control and Improvement,15,,,,,,,,,6.0,No
+ENG3018,2021/2,Control Engineering,15,180.0,32.0,118.0,0.0,25.0,75.0,0.0,2.0,6.0,No
+ENG3019A,2021/2,Management Design and Build: Part 1 - Research,15,,,,,,,,,,No
+ENG3019B,2021/2,Management Design and Build: Part 2 - Development,15,,,,,,,,,,No
+ENG3020A,2021/2,Entrepreneurship Design and Build: Part 1 - Research,15,,18.0,132.0,,50.0,0.0,50.0,2.0,,No
+ENG3020B,2021/2,Entrepreneurship Design and Build: Part 2 - Development,15,,33.0,117.0,,50.0,0.0,50.0,2.0,,No
+ENG3021A,2021/2,Electronic Design and Build: Part 1 - Research,15,,,,,,,,,,No
+ENG3021B,2021/2,Electronic Design and Build: Part 2 - Development,15,,,,,,,,,,No
+ECM3130,2021/2,Engineering in Society and Company Finance,15,183.0,78.0,72.0,0.0,30.0,70.0,,2.0,3.0,No
+ECM3149,2021/2,Commercial and Industrial Experience and Individual Project (BEng/MEng),45,7.0,27.0,123.0,300.0,100.0,0.0,0.0,,6.0,No
+ECM3150,2021/2,Electromagnetics and Wave Propagation,15,30.0,25.0,125.0,,30.0,70.0,,2.0,6.0,No
+ECM3151,2021/2,Thermofluids and Energy Conversion,15,113.0,43.0,107.0,0.0,30.0,70.0,,2.0,6.0,No
+ECM3152,2021/2,Computational Engineering,15,79.0,31.0,119.0,29.0,100.0,0.0,,3.0,3.0,No
+ECM3153,2021/2,Management of Product Development,15,82.0,22.0,128.0,0.0,40.0,60.0,,3.0,3.0,No
+ECM3154,2021/2,Manufacturing,15,28.0,25.0,125.0,0.0,30.0,70.0,,3.0,3.0,No
+ECM3155,2021/2,Structural Engineering,15,39.0,37.0,113.0,0.0,35.0,65.0,0.0,3.0,6.0,No
+ECM3156,2021/2,Civil Engineering Hydraulics,15,36.0,28.0,122.0,0.0,30.0,70.0,,5.0,3.0,No
+ECM3157,2021/2,Geotechnics 2,15,39.0,101.0,49.0,0.0,15.0,50.0,35.0,3.0,3.0,No
+ECM3158,2021/2,Water Resources and Pollution Control,15,28.0,48.0,102.0,0.0,30.0,70.0,,3.0,3.0,No
+ECM3159,2021/2,Management of Processes and People,15,26.0,24.0,126.0,0.0,40.0,60.0,,3.0,6.0,No
+ECM3160,2021/2,Materials,15,49.0,84.0,66.0,0.0,40.0,60.0,,4.0,3.0,No
+ECM3161,2021/2,Civil Engineering Design Studies,15,34.0,47.0,103.0,0.0,100.0,0.0,,3.0,3.0,No
+ECM3162,2021/2,Electronic Engineering Design Studies,15,30.0,33.0,117.0,0.0,100.0,0.0,,6.0,6.0,No
+ECM3163,2021/2,Mechanical Engineering Design Studies,15,86.0,44.0,108.0,0.0,100.0,0.0,0.0,4.0,3.0,No
+ECM3164,2021/2,Operations Management,15,39.0,22.0,128.0,0.0,30.0,70.0,,2.0,6.0,No
+ECM3165,2021/2,Digital Signal Processing,15,20.0,45.0,105.0,0.0,40.0,60.0,,5.0,3.0,No
+ECM3166,2021/2,Communications Engineering,15,17.0,50.0,100.0,0.0,20.0,60.0,20.0,4.0,3.0,No
+ECM3171,2021/2,Computer Aided Engineering Drawing,15,101.0,27.0,123.0,0.0,100.0,0.0,0.0,4.0,6.0,No
+ECM3172,2021/2,Study Abroad Semester,60,10.0,0.0,0.0,600.0,100.0,0.0,0.0,2.0,6.0,No
+ECM3173,2021/2,Structural Dynamics,15,80.0,40.0,110.0,,25.0,75.0,,2.0,6.0,No
+ECM3174,2021/2,Year in Industry,120,4.0,6.0,,,80.0,0.0,20.0,4.0,6.0,No
+ECM3175,2021/2,Individual Project,30,106.0,27.0,300.0,0.0,100.0,0.0,0.0,2.0,6.0,No
+ECM3176,2021/2,Industrial Awareness and Problem Solving,15,40.0,45.0,105.0,0.0,100.0,0.0,0.0,3.0,6.0,No
+ECM3177,2021/2,Market Research and Business Planning,15,50.0,12.0,138.0,0.0,100.0,0.0,0.0,2.0,6.0,No
+ENGM001,2021/2,Additive Manufacturing,15,,16.0,137.0,,40.0,60.0,,2.0,7.0,No
+ENGM002,2021/2,Advanced Communication Systems,15,,33.0,117.0,,40.0,60.0,,5.0,7.0,No
+ENGM003,2021/2,Advanced Finite Element Analysis (FEA),15,,33.0,117.0,,0.0,0.0,,3.0,7.0,No
+ENGM005,2021/2,Business Start-up Project,90,,,900.0,,100.0,0.0,,1.0,7.0,No
+ENGM006,2021/2,Civil Engineering Materials,15,,44.0,106.0,,30.0,70.0,,2.0,7.0,No
+ENGM008,2021/2,Design of Reinforced Concrete and Steel Structures,15,,26.0,124.0,,30.0,70.0,,3.0,7.0,No
+ENGM009,2021/2,Electric Machines and Power Electronics,15,,47.0,103.0,,30.0,70.0,,4.0,7.0,No
+ENGM010,2021/2,Data-Centric Engineering,15,,33.0,117.0,,100.0,0.0,,4.0,7.0,No
+ENGM011,2021/2,Entrepreneurship 3,30,,22.0,278.0,,100.0,0.0,,2.0,7.0,No
+ENGM012,2021/2,Performance Based Design Under Dynamic Loading,15,,33.0,117.0,,30.0,70.0,,2.0,7.0,No
+ENGM014,2021/2,Individual Project - MEng students,45,,,,,,,,,7.0,No
+ENGM015,2021/2,MEng Individual Investigative Project,45,,22.0,428.0,,80.0,0.0,20.0,3.0,7.0,No
+ENGM016,2021/2,Metamaterials,15,,33.0,117.0,,80.0,0.0,20.0,3.0,7.0,No
+ENGM017,2021/2,Composite Materials,15,,22.0,128.0,,40.0,60.0,,2.0,7.0,No
+ENGM018,2021/2,Nonlinear Control,15,,35.0,115.0,,30.0,70.0,,2.0,7.0,No
+ENGM019,2021/2,Quality Engineering & Management,15,,22.0,128.0,,0.0,0.0,,2.0,7.0,No
+ENGM020,2021/2,Robotics and Automation,15,,63.0,87.0,,60.0,40.0,,3.0,7.0,No
+ENGM021,2021/2,Smart Production Systems,15,,33.0,117.0,,0.0,100.0,,2.0,7.0,No
+ENGM023,2021/2,Sustainable Manufacturing,15,,22.0,128.0,,100.0,0.0,,1.0,7.0,No
+ENGM024,2021/2,Trauma and Degeneration,15,,,,,,,,,7.0,No
+ENGM025,2021/2,Smart Civil Structures,15,,44.0,106.0,,65.0,35.0,,4.0,,No
+ENGM026,2021/2,"Design, Innovation & Entrepreneurship",15,,22.0,128.0,,100.0,0.0,0.0,1.0,7.0,No
+ENGM027,2021/2,Engineering Management Science,30,150.0,66.0,234.0,,85.0,0.0,15.0,5.0,,No
+ENGM028,2021/2,MSc Industrial Placement,60,20.0,20.0,80.0,500.0,80.0,0.0,20.0,,7.0,No
+ECMM102,2021/2,Group Project (MEng),60,75.0,0.0,600.0,,100.0,0.0,,2.0,7.0,No
+ECMM103,2021/2,Computer Aided Engineering Design,15,37.0,28.0,122.0,0.0,100.0,0.0,,4.0,7.0,No
+ECMM107,2021/2,Mechanics of Materials,15,0.0,28.0,122.0,,30.0,70.0,,2.0,7.0,No
+ECMM108,2021/2,Advanced Structural Engineering,15,0.0,22.0,128.0,,50.0,50.0,0.0,3.0,7.0,No
+ECMM109,2021/2,Advanced Geotechnical Engineering,15,0.0,22.0,128.0,0.0,100.0,0.0,0.0,3.0,7.0,No
+ECMM110,2021/2,Water and Environmental Systems,15,0.0,22.0,128.0,,65.0,0.0,35.0,3.0,7.0,No
+ECMM112,2021/2,Manufacturing Supply Chain Management,15,30.0,22.0,128.0,0.0,100.0,0.0,0.0,2.0,7.0,No
+ECMM113,2021/2,"Agile, Lean and Competitive Enterprise",15,60.0,44.0,106.0,,100.0,0.0,0.0,2.0,7.0,No
+ECMM124,2021/2,Hydroinformatics Tools,15,0.0,40.0,110.0,,30.0,70.0,,2.0,7.0,No
+ECMM127,2021/2,Advanced Materials Engineering,15,0.0,22.0,128.0,,30.0,70.0,,3.0,7.0,No
+ECMM132,2021/2,Urban Drainage and Waste Water Management,15,0.0,44.0,106.0,0.0,30.0,70.0,0.0,2.0,7.0,No
+ECMM133,2021/2,Water Supply and Distribution Management,15,0.0,36.0,114.0,0.0,30.0,70.0,0.0,2.0,7.0,No
+ECMM134,2021/2,Environmental Processes,15,0.0,34.0,116.0,0.0,30.0,70.0,0.0,2.0,7.0,No
+ECMM136,2021/2,Systems Analysis in Engineering,15,0.0,22.0,128.0,0.0,30.0,70.0,0.0,2.0,7.0,No
+ECMM140,2021/2,Vibration Engineering,15,0.0,33.0,117.0,0.0,30.0,70.0,0.0,2.0,7.0,No
+ECMM141,2021/2,Multivariable State-Space Control,15,0.0,27.0,123.0,0.0,20.0,80.0,0.0,2.0,7.0,No
+ECMM142,2021/2,Contemporary Advanced Materials Research,15,0.0,22.0,128.0,0.0,80.0,0.0,20.0,5.0,7.0,No
+ECMM147,2021/2,Mechatronics: Sensors and Machine Automation,15,47.0,33.0,117.0,0.0,25.0,70.0,5.0,3.0,7.0,No
+ECMM148,2021/2,Advanced CFD,15,0.0,26.0,124.0,0.0,100.0,0.0,0.0,4.0,7.0,No
+ECMM149,2021/2,Linear Systems and Structural Analysis,15,0.0,33.0,117.0,0.0,30.0,70.0,0.0,3.0,7.0,No
+ECMM150,2021/2,Structural Design,15,0.0,37.0,113.0,0.0,30.0,70.0,0.0,3.0,7.0,No
+ECMM151,2021/2,Introduction to Earthquake Engineering,15,0.0,50.0,100.0,0.0,30.0,70.0,0.0,2.0,7.0,No
+ECMM153,2021/2,Conceptual Design of Buildings,15,30.0,40.0,110.0,0.0,30.0,70.0,0.0,2.0,7.0,No
+ECMM158,2021/2,Active and Passive Structural Control,15,0.0,40.0,110.0,0.0,30.0,70.0,,2.0,7.0,No
+ECMM159,2021/2,Structural Health and Performance Monitoring,15,0.0,44.0,106.0,0.0,100.0,0.0,0.0,2.0,7.0,No
+ECMM160,2021/2,Engineering Materials and the Environment,15,0.0,22.0,128.0,0.0,40.0,60.0,0.0,4.0,7.0,No
+ECMM162,2021/2,Water Management in Developing Countries,15,20.0,30.0,120.0,0.0,100.0,0.0,0.0,4.0,7.0,No
+ECMM163,2021/2,Sustainable Engineering,15,0.0,40.0,110.0,0.0,100.0,0.0,0.0,2.0,7.0,No
+ECMM164,2021/2,MSc Dissertation,60,200.0,22.0,578.0,0.0,0.0,90.0,10.0,3.0,7.0,No
+ECMM168,2021/2,Project Management,15,0.0,44.0,106.0,0.0,50.0,50.0,0.0,2.0,7.0,No
+ECMM171,2021/2,Programming for Engineering,15,66.0,36.0,114.0,0.0,80.0,0.0,20.0,3.0,7.0,No
+ECMM172,2021/2,Management Science,15,0.0,44.0,106.0,0.0,50.0,50.0,0.0,2.0,7.0,No
+ECMM178,2021/2,Computational Techniques for Engineers,15,0.0,26.0,124.0,0.0,0.0,0.0,100.0,2.0,7.0,No
+ECMM180,2021/2,Business Start-up Project,90,50.0,0.0,100.0,0.0,100.0,0.0,0.0,4.0,7.0,No
+ECMM181,2021/2,Entrepreneurship Skills Development 3,30.0,50.0,40.0,260.0,0.0,100.0,0.0,0.0,2.0,7.0,No
+EMP3001,2021/2,Commercial and Industrial Experience,15.0,31.0,9.0,61.0,80.0,100.0,0.0,,2.0,6.0,No
+EMP3003,2021/2,Professional Experience,45.0,1.0,20.0,350.0,80.0,90.0,0.0,10.0,5.0,6.0,No
+EAFM088,2021/2,,,,,,,,,,,,
+CLA3045,2021/2,,,,,,,,,,,,
+MTH1000,2021/2,Foundations,0.0,300.0,84.0,36.0,,0.0,0.0,0.0,,4.0,No
+MTH1001,2021/2,Mathematical Structures,30.0,200.0,76.0,224.0,,0.0,100.0,0.0,2.0,4.0,No
+MTH1002,2021/2,Mathematical Methods,30.0,200.0,76.0,224.0,,0.0,100.0,,2.0,4.0,No
+MTH1003,2021/2,Mathematical Modelling,30.0,200.0,88.0,212.0,0.0,40.0,60.0,0.0,4.0,4.0,No
+MTH1004,2021/2,"Probability, Statistics and Data",30.0,275.0,89.0,211.0,,40.0,60.0,,3.0,4.0,No
+MTH1100,2021/2,Employability and Preparation for Placement or Internship,0.0,30.0,15.0,30.0,0.0,0.0,0.0,,,5.0,No
+MTH2003,2021/2,Differential Equations,15.0,300.0,38.0,112.0,,10.0,90.0,0.0,2.0,5.0,No
+MTH2004,2021/2,Vector Calculus and Applications,15.0,250.0,33.0,118.0,,40.0,60.0,,2.0,5.0,No
+MTH2005,2021/2,Modelling: Theory and Practice,30.0,128.0,64.0,236.0,,70.0,30.0,,3.0,5.0,No
+MTH2006,2021/2,Statistical Modelling and Inference,30.0,128.0,70.0,230.0,0.0,30.0,70.0,0.0,3.0,5.0,No
+MTH2008,2021/2,Real Analysis,15.0,260.0,38.0,112.0,0.0,10.0,90.0,0.0,2.0,5.0,No
+MTH2009,2021/2,Complex Analysis,15.0,200.0,38.0,112.0,0.0,10.0,90.0,0.0,2.0,5.0,No
+MTH2010,2021/2,"Groups, Rings and Fields",15.0,120.0,38.0,112.0,,10.0,90.0,0.0,2.0,5.0,No
+MTH2011,2021/2,Linear Algebra,15.0,230.0,38.0,112.0,0.0,10.0,90.0,0.0,2.0,5.0,No
+MTH2100,2021/2,Employability and Career Resources,0.0,240.0,15.0,30.0,0.0,0.0,0.0,,,5.0,No
+MTH3001,2021/2,Theory of Weather and Climate,15.0,61.0,33.0,117.0,0.0,20.0,80.0,0.0,2.0,6.0,No
+MTH3004,2021/2,Number Theory,15.0,100.0,33.0,117.0,0.0,20.0,80.0,0.0,2.0,6.0,No
+MTH3006,2021/2,Mathematical Biology and Ecology,15.0,90.0,33.0,117.0,0.0,20.0,80.0,0.0,2.0,6.0,No
+MTH3007,2021/2,Fluid Dynamics,15.0,152.0,33.0,117.0,0.0,20.0,80.0,0.0,2.0,6.0,No
+MTH3008,2021/2,Partial Differential Equations,15.0,88.0,33.0,117.0,0.0,20.0,80.0,0.0,2.0,6.0,No
+MTH3011,2021/2,Nonlinear Systems and Control,15.0,11.0,33.0,117.0,0.0,20.0,80.0,0.0,2.0,6.0,No
+MTH3019,2021/2,Mathematics: History and Culture,15.0,67.0,20.0,130.0,0.0,40.0,50.0,10.0,4.0,6.0,No
+MTH3022,2021/2,"Graphs, Networks and Algorithms",15.0,76.0,33.0,117.0,0.0,0.0,60.0,40.0,3.0,6.0,No
+MTH3024,2021/2,Stochastic Processes,15.0,100.0,33.0,117.0,,20.0,80.0,,2.0,6.0,No
+MTH3025,2021/2,Semester of Mathematical Studies Abroad,60.0,5.0,,,,100.0,0.0,,,6.0,No
+MTH3026,2021/2,Cryptography,15.0,116.0,33.0,117.0,0.0,20.0,80.0,0.0,2.0,6.0,No
+MTH3028,2021/2,Statistical Inference: Theory and Practice,15.0,80.0,33.0,117.0,,30.0,70.0,,2.0,6.0,No
+MTH3030,2021/2,Mathematics of Climate Change,15.0,170.0,33.0,117.0,,20.0,80.0,,2.0,6.0,No
+MTH3032,2021/2,Applications of Geometry and Topology,15.0,44.0,33.0,117.0,0.0,20.0,80.0,,2.0,6.0,No
+MTH3035,2021/2,Mathematics Group Project,15.0,138.0,22.0,128.0,0.0,85.0,0.0,15.0,5.0,6.0,No
+MTH3038,2021/2,Galois Theory,15.0,30.0,33.0,117.0,0.0,20.0,80.0,0.0,2.0,6.0,No
+MTH3039,2021/2,Computational Nonlinear Dynamics,15.0,19.0,33.0,117.0,0.0,100.0,0.0,0.0,2.0,6.0,No
+MTH3040,2021/2,Topology and Metric Spaces,15.0,24.0,33.0,127.0,0.0,20.0,80.0,0.0,2.0,6.0,No
+MTH3041,2021/2,"Bayesian statistics, Philosophy and Practice",15.0,25.0,33.0,117.0,0.0,20.0,80.0,,2.0,6.0,No
+MTH3042,2021/2,Integral Equations,15.0,150.0,33.0,117.0,,20.0,80.0,0.0,2.0,6.0,No
+MTH3045,2021/2,Statistical Computing,15.0,100.0,33.0,117.0,,70.0,30.0,,3.0,6.0,No
+MTH3048,2021/2,Sustainability Summer School Programme,15.0,6.0,48.0,102.0,0.0,80.0,20.0,0.0,2.0,6.0,No
+MTH3100,2021/2,Industrial Placement,120.0,6.0,6.0,314.0,880.0,90.0,0.0,10.0,6.0,3.0,No
+MTHM001,2021/2,Functional Analysis,15.0,20.0,33.0,117.0,0.0,20.0,80.0,0.0,3.0,7.0,No
+MTHM002,2021/2,Methods for Stochastics and Finance,15.0,58.0,33.0,117.0,,0.0,100.0,,3.0,7.0,No
+MTHM003,2021/2,Analysis and Computation for Finance,15.0,49.0,39.0,114.0,,50.0,50.0,,4.0,7.0,No
+MTHM004,2021/2,Fractal Geometry,15.0,20.0,33.0,127.0,0.0,0.0,100.0,0.0,1.0,7.0,No
+MTHM005,2021/2,Mathematical Sciences Project,30.0,34.0,22.0,278.0,,90.0,0.0,10.0,2.0,7.0,No
+MTHM006,2021/2,Mathematical Theory of Option Pricing,15.0,48.0,22.0,128.0,,20.0,80.0,0.0,3.0,7.0,No
+MTHM007,2021/2,Engaging with Research,15.0,20.0,44.0,106.0,0.0,100.0,0.0,0.0,4.0,7.0,No
+MTHM008,2021/2,Computational Modelling,15.0,20.0,33.0,117.0,0.0,100.0,0.0,0.0,3.0,7.0,No
+MTHM009,2021/2,Advanced Topics in Mathematical & Computational Biology,15.0,10.0,33.0,117.0,0.0,100.0,0.0,0.0,1.0,7.0,No
+MTHM010,2021/2,Representation Theory of Finite Groups,15.0,,33.0,117.0,,20.0,80.0,,3.0,7.0,No
+MTHM017,2021/2,Advanced Topics in Statistics,15.0,50.0,30.0,120.0,0.0,100.0,0.0,0.0,2.0,7.0,No
+MTHM018,2021/2,Dynamical Systems and Chaos,15.0,33.0,33.0,117.0,0.0,20.0,80.0,0.0,3.0,7.0,No
+MTHM019,2021/2,Fluid Dynamics of Atmospheres and Oceans,15.0,23.0,33.0,117.0,0.0,20.0,80.0,0.0,3.0,7.0,No
+MTHM021,2021/2,Advanced Mathematics Project,60.0,25.0,22.0,578.0,0.0,100.0,0.0,0.0,2.0,7.0,No
+MTHM023,2021/2,Modelling the Weather and Climate,15.0,5.0,33.0,117.0,0.0,50.0,50.0,0.0,3.0,7.0,No
+MTHM029,2021/2,Algebraic Curves,15.0,11.0,50.0,100.0,0.0,20.0,80.0,0.0,3.0,7.0,No
+MTHM030,2021/2,"Waves, Instabilities and Turbulence",15.0,13.0,33.0,117.0,0.0,40.0,60.0,0.0,3.0,7.0,No
+MTHM031,2021/2,Magnetic Fields and Fluid Flows,15.0,21.0,33.0,117.0,0.0,20.0,80.0,0.0,2.0,7.0,No
+MTHM032,2021/2,"Mathematics, Business and Finance Project",30.0,4.0,22.0,278.0,,100.0,0.0,0.0,3.0,7.0,No
+MTHM033,2021/2,Statistical Modelling in Space and Time,15.0,20.0,33.0,115.0,0.0,20.0,80.0,0.0,2.0,7.0,No
+MTHM036,2021/2,Research in Mathematical Sciences,15.0,42.0,20.0,130.0,0.0,90.0,0.0,10.0,3.0,7.0,No
+MTHM040,2021/2,MSci Project,45.0,3.0,25.0,425.0,0.0,90.0,0.0,10.0,3.0,7.0,No
+MTHM041,2021/2,Analytic Number Theory,15.0,30.0,33.0,117.0,0.0,0.0,100.0,0.0,1.0,7.0,No
+MTHM044,2021/2,MMATH Project in Statistics,45.0,20.0,25.0,425.0,0.0,90.0,0.0,10.0,3.0,7.0,No
+MTHM045,2021/2,Space Weather and Plasmas,15.0,10.0,33.0,117.0,0.0,20.0,80.0,0.0,2.0,7.0,No
+MTHM047,2021/2,"Bayesian Statistics, Philosophy and Practice",15.0,28.0,33.0,117.0,0.0,20.0,80.0,0.0,2.0,7.0,No
+MTHM048,2021/2,Ergodic Theory,15.0,20.0,33.0,117.0,0.0,20.0,80.0,,3.0,7.0,No
+MTHM051,2021/2,Fundamentals of Weather and Climate Science,15.0,,33.0,117.0,,20.0,80.0,,2.0,7.0,No
+MTHM052,2021/2,Mid-Latitude Weather Systems,15.0,20.0,33.0,117.0,,20.0,80.0,,2.0,7.0,No
+MTHM053,2021/2,MSc Professional Placement,60.0,20.0,20.0,80.0,500.0,80.0,0.0,20.0,3.0,7.0,No
+MTHM501,2021/2,Working with Data,15.0,50.0,30.0,120.0,0.0,100.0,0.0,0.0,1.0,7.0,No
+MTHM502,2021/2,Introduction to Data Science and Statistical Modelling,15.0,50.0,30.0,120.0,0.0,100.0,0.0,0.0,1.0,7.0,No
+MTHM503,2021/2,Applications of Data Science and Statistics,15.0,15.0,36.0,114.0,0.0,60.0,40.0,0.0,3.0,7.0,No
+MTHM504,2021/2,Applied Data Science and Statistics Project,60.0,50.0,20.0,580.0,0.0,100.0,0.0,0.0,3.0,7.0,No
+MTHM505,2021/2,Data Science and Statistical Modelling in Space and Time,15.0,50.0,30.0,118.0,,100.0,0.0,,2.0,,No
+MTHM506,2021/2,Statistical Data Modelling,15.0,50.0,30.0,120.0,,100.0,0.0,,3.0,7.0,No
+MTHM507,2021/2,Communicating Data Science,15.0,60.0,40.0,110.0,,100.0,0.0,,3.0,7.0,No
+MTHM508,2021/2,Bayesian Philosophy and Methods in Data Science,15.0,28.0,33.0,117.0,,50.0,50.0,,3.0,,No
+LAW2701,2021/2,,,,,,,,,,,,
+ARC2516,2021/2,,,,,,,,,,,,
+BEP1160,2022/3,,,,,,,,,,,,
+BEM3047,2022/3,,,,,,,,,,,,
+BEMM492Z,2022/3,,,,,,,,,,,,
+BEPM001,2022/3,,,,,,,,,,,,
+BEPM002,2022/3,,,,,,,,,,,,
+BEPM003,2022/3,,,,,,,,,,,,
+ENG1002,2022/3,Engineering Mathematics and Scientific Computing,30.0,200.0,120.0,180.0,0.0,30.0,70.0,0.0,2.0,4.0,No
+ENG1005,2022/3,Multi-Disciplinary Group Challenge Project,30.0,240.0,70.0,230.0,,50.0,0.0,50.0,6.0,4.0,No
+ENG1006,2022/3,Entrepreneurship 1,15.0,225.0,27.0,123.0,0.0,100.0,0.0,0.0,6.0,4.0,No
+ENG1007,2022/3,Fundamentals of Mechanics,15.0,240.0,44.0,106.0,0.0,40.0,60.0,0.0,4.0,4.0,No
+ENG1008,2022/3,Fundamentals of Materials,15.0,240.0,44.0,106.0,0.0,45.0,55.0,0.0,3.0,4.0,No
+ENG1009,2022/3,Fundamentals of Electronics,15.0,,76.0,74.0,0.0,45.0,55.0,0.0,3.0,4.0,No
+ECM1102,2022/3,Core Engineering 1,30.0,195.0,130.0,170.0,0.0,24.0,70.0,6.0,7.0,4.0,No
+ECM1106,2022/3,Electronics for Engineers: Core Engineering 2,15.0,206.0,34.0,116.0,0.0,10.0,60.0,30.0,3.0,1.0,No
+ECM1107,2022/3,Materials and Manufacturing: Core Engineering 2,15.0,171.0,28.0,122.0,0.0,30.0,70.0,0.0,3.0,1.0,No
+ECM1108,2022/3,Engineering Mechanics: Core Engineering 2,15.0,173.0,40.0,110.0,0.0,30.0,70.0,0.0,5.0,1.0,No
+ECM1110,2022/3,Engineering Mathematics,30.0,195.0,100.0,200.0,0.0,20.0,80.0,0.0,3.0,4.0,No
+ECM1111,2022/3,Entrepreneurship Skills Development 1,15,225.0,45,105.0,0.0,100,0,0.0,9.0,4.0,No
+ENG2001,2022/3,Civil Engineering Challenge Project,30,60.0,100,200.0,0.0,100,0,0.0,3.0,5.0,No
+ENG2003,2022/3,Electronic Engineering Challenge Project,30,30.0,70,230.0,,100,0,,6.0,5.0,No
+ENG2004,2022/3,Entrepreneurship 2,15,250.0,25,125.0,0.0,100,0,0.0,5.0,5.0,No
+ENG2005,2022/3,Entrepreneurship Challenge Project,30,20.0,55,245.0,0.0,100,0,0.0,5.0,5.0,No
+ENG2006,2022/3,Industry 4.0,15,200.0,24,126.0,,100,0,0.0,3.0,5.0,No
+ENG2007,2022/3,Introduction to Fluid Dynamics,15,,50,100.0,,30,70,,2.0,5.0,No
+ENG2008,2022/3,Microcontroller Engineering,15,15.0,63,87.0,0.0,40,60,,4.0,5.0,No
+ENG2009,2022/3,Modelling of Engineering Systems,15,,33,117.0,,50,50,,2.0,5.0,No
+ENG2010,2022/3,Soil Mechanics,15,,57,93.0,,50,35,15.0,3.0,5.0,No
+ENG2011,2022/3,Solid Mechanics,15,,25,125.0,0.0,20,80,,2.0,5.0,No
+ENG2012,2022/3,Structural Behaviour,15,160.0,39,111.0,,15,85,,2.0,5.0,No
+ENG2013,2022/3,Sustainable Design Challenge Project,30,,55,245.0,,100,0,,4.0,5.0,No
+ENG2014,2022/3,Technology Entrepreneurship,15,20.0,19,131.0,,100,0,,2.0,5.0,No
+ENG2015,2022/3,Management Challenge Project,30,,55,245.0,,100,0,0.0,4.0,5.0,No
+ENG2016,2022/3,Introduction in Economics and Company Finance,15,25.0,22,128.0,,50,50,,2.0,4.0,No
+ENG2017,2022/3,Communication and Networking Technologies,15,20.0,30,120.0,0.0,40,60,,4.0,2.0,No
+ENG2118,2022/3,Analogue and Digital Electronics Design,15,24.0,50,100.0,,40,60,,5.0,,No
+ECM2102,2022/3,Management and Management Science,15,175.0,34,116.0,0.0,40,60,,3.0,5.0,No
+ECM2105,2022/3,Control Engineering,15,182.0,33,117.0,0.0,30,70,,2.0,2.0,No
+ECM2106,2022/3,Manufacturing Systems,15,17.0,22,138.0,0.0,30,70,,3.0,5.0,No
+ECM2115,2022/3,"PICS, Microcontrollers and Microprocessors",15,33.0,51,99.0,0.0,40,60,,4.0,5.0,No
+ECM2121,2022/3,Entrepreneurship 2,15,200.0,55,95.0,0.0,100,0,0.0,5.0,5.0,No
+ENG3001,2022/3,Construction Project Management,15,,50,100.0,,100,0,,2.0,6.0,No
+ENG3002,2022/3,Decision Making Systems & Decision Theory,15,35.0,22,128.0,0.0,0,100,0.0,1.0,6.0,No
+ENG3003,2022/3,Digital Engineering and Building Information Modelling,15,,33,117.0,,100,0,,2.0,6.0,No
+ENG3004,2022/3,Engineering Electromagnetics,15,30.0,42,108.0,0.0,30,70,0.0,2.0,6.0,No
+ENG3005,2022/3,Fluid Dynamics and CFD,15,,50,100.0,,60,40,,3.0,6.0,No
+ENG3006,2022/3,Geotechnical Engineering and Foundation Design,15,,48,102.0,,30,50,20.0,3.0,6.0,No
+ENG3007,2022/3,Global Entrepreneurial Marketing,15,15.0,11,139.0,0.0,100,0,0.0,1.0,6.0,No
+ENG3008A,2022/3,Mechanical Design and Build: Part 1 - Research,15,27.0,18,132.0,0.0,100,0,0.0,3.0,6.0,No
+ENG3008B,2022/3,Mechanical Design and Build: Part 2 - Development,15,27.0,33,117.0,0.0,100,0,0.0,3.0,6.0,No
+ENG3010,2022/3,Industrial Awareness & Problem Solving,15,40.0,45,105.0,0.0,100,0,0.0,3.0,6.0,No
+ENG3011,2022/3,Management and Leadership,15,35.0,11,139.0,0.0,60,40,0.0,2.0,6.0,No
+ENG3012,2022/3,Mechatronics,15,40.0,33,,117.0,25,70,5.0,3.0,6.0,No
+ENG3013A,2022/3,Civil Design and Build: Part 1 - Research,15,,18,132.0,0.0,100,0,0.0,3.0,6.0,No
+ENG3013B,2022/3,Civil Design and Build: Part 2 - Development,15,,33,117.0,,100,0,0.0,3.0,,No
+ENG3014,2022/3,Structural Engineering,15,,35,115.0,0.0,35,65,0.0,3.0,6.0,No
+ENG3015,2022/3,Structural Dynamics,15,,40,110.0,,30,70,,2.0,6.0,No
+ENG3016,2022/3,Thermodynamics and Heat Transfer,15,,43,107.0,,15,70,15.0,3.0,6.0,No
+ENG3017,2022/3,Quality Control and Improvement,15,35.0,22,128.0,0.0,30,70,0.0,2.0,6.0,No
+ENG3018,2022/3,Control Engineering,15,180.0,32,118.0,0.0,25,75,0.0,2.0,6.0,No
+ENG3019A,2022/3,Management Design and Build: Part 1 - Research,15,,18,132.0,0.0,50,0,50.0,2.0,6.0,No
+ENG3019B,2022/3,Management Design and Build: Part 2 - Development,15,,33,117.0,0.0,50,0,50.0,2.0,6.0,No
+ENG3020A,2022/3,Entrepreneurship Design and Build: Part 1 - Research,15,,13,137.0,,100,0,,3.0,6.0,No
+ENG3020B,2022/3,Entrepreneurship Design and Build: Part 2 - Development,15,,33,117.0,0.0,50,0,50.0,2.0,6.0,No
+ENG3021A,2022/3,Electronic Design and Build: Part 1 - Research,15,,18,132.0,0.0,70,0,30.0,3.0,6.0,No
+ENG3021B,2022/3,Electronic Design and Build: Part 2 - Development,15,,33,0.0,117.0,50,0,50.0,3.0,6.0,No
+ENG3022,2022/3,Finite Element Analysis for High Value Manufacturing,15,90.0,48,102.0,0.0,0,0,,2.0,6.0,No
+ENG3207,2022/3,Practical Hydraulic Engineering,15,25.0,40,60.0,50.0,30,70,0.0,2.0,6.0,No
+ECM3130,2022/3,Engineering in Society and Company Finance,15,183.0,78.0,72.0,0.0,30.0,70.0,,2.0,3.0,No
+ECM3149,2022/3,Commercial and Industrial Experience and Individual Project (BEng/MEng),45,7.0,27.0,123.0,300.0,100.0,0.0,0.0,,6.0,No
+ECM3152,2022/3,Computational Engineering,15,79.0,31.0,119.0,29.0,100.0,0.0,,3.0,3.0,No
+ECM3153,2022/3,Management of Product Development,15,82.0,22.0,128.0,0.0,40.0,60.0,,3.0,3.0,No
+ECM3156,2022/3,Civil Engineering Hydraulics,15,47.0,54.0,96.0,0.0,30.0,40.0,30.0,5.0,3.0,No
+ECM3158,2022/3,Water Resources and Pollution Control,15,28.0,48.0,102.0,0.0,30.0,70.0,,3.0,3.0,No
+ECM3159,2022/3,Management of Processes and People,15,26.0,24.0,126.0,0.0,40.0,60.0,,3.0,6.0,No
+ECM3160,2022/3,Materials,15,49.0,84.0,66.0,0.0,40.0,60.0,,4.0,3.0,No
+ECM3164,2022/3,Operations Management,15,39.0,22.0,128.0,0.0,30.0,70.0,,2.0,6.0,No
+ECM3165,2022/3,Digital Signal Processing,15,20.0,45.0,105.0,0.0,40.0,60.0,,5.0,3.0,No
+ECM3166,2022/3,Communications Engineering,15,30.0,50.0,100.0,0.0,20.0,60.0,20.0,4.0,3.0,No
+ECM3172,2022/3,Study Abroad Semester,60,10.0,0.0,0.0,600.0,0.0,100.0,0.0,1.0,6.0,No
+ECM3173,2022/3,Structural Dynamics,15,80.0,40.0,110.0,,25.0,75.0,,2.0,6.0,No
+ECM3174,2022/3,Year in Industry,120,4.0,6.0,,,80.0,0.0,20.0,4.0,6.0,No
+ECM3175,2022/3,Individual Project,30,106.0,27.0,300.0,0.0,100.0,0.0,0.0,2.0,6.0,No
+ECM3176,2022/3,Industrial Awareness and Problem Solving,15,40.0,45.0,105.0,0.0,100.0,0.0,0.0,3.0,6.0,No
+ECM3177,2022/3,Market Research and Business Planning,15,50.0,12.0,138.0,0.0,100.0,0.0,0.0,2.0,6.0,No
+ENGM001,2022/3,Additive Manufacturing,15,,16.0,137.0,0.0,40.0,60.0,0.0,2.0,7.0,No
+ENGM002,2022/3,Advanced Communication Systems,15,,41.0,109.0,,40.0,60.0,,5.0,7.0,No
+ENGM003,2022/3,Advanced Finite Element Analysis (FEA),15,,33.0,117.0,0.0,100.0,0.0,0.0,3.0,7.0,No
+ENGM005,2022/3,Business Start-up Project,90,,,900.0,,100.0,0.0,,1.0,7.0,No
+ENGM006,2022/3,Civil Engineering Materials,15,,44.0,106.0,,30.0,70.0,,2.0,7.0,No
+ENGM008,2022/3,Design of Reinforced Concrete and Steel Structures,15,,26.0,124.0,,30.0,70.0,,3.0,7.0,No
+ENGM009,2022/3,Electric Machines and Power Electronics,15,10.0,43.0,107.0,0.0,30.0,70.0,0.0,4.0,7.0,No
+ENGM010,2022/3,Data-Centric Engineering,15,,33.0,117.0,,100.0,0.0,,4.0,7.0,No
+ENGM011,2022/3,Entrepreneurship 3,30,,22.0,278.0,,100.0,0.0,,2.0,7.0,No
+ENGM012,2022/3,Performance Based Design Under Dynamic Loading,15,,33.0,117.0,,30.0,70.0,,2.0,7.0,No
+ENGM014,2022/3,Individual Project - MEng students,45,,,,,,,,,7.0,No
+ENGM015,2022/3,MEng Individual Investigative Project,45,80.0,22.0,428.0,,80.0,0.0,20.0,3.0,7.0,No
+ENGM016,2022/3,Metamaterials,15,,33.0,117.0,,80.0,0.0,20.0,3.0,7.0,No
+ENGM017,2022/3,Composite Materials,15,,22.0,128.0,,40.0,60.0,,2.0,7.0,No
+ENGM018,2022/3,Nonlinear Control,15,,35.0,115.0,,30.0,70.0,,2.0,7.0,No
+ENGM020,2022/3,Robotics and Automation,15,,41.0,109.0,,60.0,40.0,,3.0,7.0,No
+ENGM021,2022/3,Smart Production Systems,15,150.0,33.0,117.0,,0.0,100.0,,1.0,7.0,No
+ENGM023,2022/3,Sustainable Manufacturing,15,250.0,22.0,128.0,,100.0,0.0,,1.0,7.0,No
+ENGM024,2022/3,Trauma and Degeneration,15,,,,,,,,,7.0,No
+ENGM025,2022/3,Smart Civil Structures,15,,44.0,106.0,,65.0,35.0,,4.0,,No
+ENGM026,2022/3,"Design, Innovation & Entrepreneurship",15,15.0,27.0,123.0,,100.0,0.0,0.0,2.0,7.0,No
+ENGM027,2022/3,Engineering Management Science,30,150.0,66.0,234.0,,85.0,0.0,15.0,5.0,,No
+ENGM028,2022/3,MSc Industrial Placement,60,20.0,20.0,80.0,500.0,80.0,0.0,20.0,,7.0,No
+ENGM029,2022/3,Power Systems Analysis,15,10.0,41.0,109.0,,30.0,70.0,,3.0,,No
+ENGM030,2022/3,Digital Twinning for Power System Plant,15,10.0,41.0,109.0,,30.0,70.0,,3.0,,No
+ENGM031,2022/3,Smart Grids and Sustainable Energy Systems,15,10.0,41.0,109.0,,30.0,70.0,,3.0,,No
+ENGM032,2022/3,Resilience of Electrical Energy Systems,15,10.0,41.0,109.0,,30.0,70.0,,3.0,,No
+ENGM033,2022/3,Supply Chain Quality Management,15,100.0,20.0,130.0,0.0,30.0,70.0,0.0,2.0,7.0,No
+ENGM034,2022/3,Energy Autonomous Sensor Systems,15,,,,,,,,,,No
+ECMM102,2022/3,Group Project (MEng),60,75.0,0.0,600.0,,100.0,0.0,,2.0,7.0,No
+ECMM103,2022/3,Computer Aided Engineering Design,15,37.0,28.0,122.0,0.0,100.0,0.0,,4.0,7.0,No
+ECMM107,2022/3,Mechanics of Materials,15,0.0,28.0,122.0,,30.0,70.0,,2.0,7.0,No
+ECMM108,2022/3,Advanced Structural Engineering,15,0.0,22.0,128.0,,50.0,50.0,0.0,3.0,7.0,No
+ECMM109,2022/3,Advanced Geotechnical Engineering,15.0,0.0,41.0,109.0,0.0,100.0,0.0,0.0,3.0,7.0,No
+ECMM110,2022/3,Water and Environmental Systems,15.0,0.0,22.0,128.0,,65.0,0.0,35.0,3.0,7.0,No
+ECMM112,2022/3,Manufacturing Supply Chain Management,15.0,30.0,22.0,128.0,0.0,100.0,0.0,0.0,2.0,7.0,No
+ECMM113,2022/3,"Agile, Lean and Competitive Enterprise",15.0,60.0,44.0,106.0,,100.0,0.0,0.0,2.0,7.0,No
+ECMM124,2022/3,Hydroinformatics Tools,15.0,0.0,40.0,110.0,,30.0,70.0,,2.0,7.0,No
+ECMM127,2022/3,Advanced Materials Engineering,15.0,0.0,22.0,128.0,,30.0,70.0,,3.0,7.0,No
+ECMM132,2022/3,Urban Drainage and Waste Water Management,15.0,0.0,44.0,106.0,0.0,30.0,70.0,0.0,2.0,7.0,No
+ECMM133,2022/3,Water Supply and Distribution Management,15.0,0.0,36.0,114.0,0.0,30.0,70.0,0.0,2.0,7.0,No
+ECMM134,2022/3,Environmental Processes,15.0,0.0,34.0,116.0,0.0,30.0,70.0,0.0,2.0,7.0,No
+ECMM136,2022/3,Systems Analysis in Engineering,15.0,0.0,22.0,128.0,0.0,30.0,70.0,0.0,2.0,7.0,No
+ECMM140,2022/3,Vibration Engineering,15.0,0.0,33.0,117.0,0.0,30.0,70.0,0.0,2.0,7.0,No
+ECMM141,2022/3,Multivariable State-Space Control,15.0,0.0,27.0,123.0,0.0,20.0,80.0,0.0,2.0,7.0,No
+ECMM142,2022/3,Contemporary Advanced Materials Research,15.0,0.0,22.0,128.0,0.0,80.0,0.0,20.0,5.0,7.0,No
+ECMM144,2022/3,Environmental and Computational Hydraulics,15.0,0.0,36.0,114.0,0.0,100.0,0.0,0.0,3.0,7.0,No
+ECMM145,2022/3,Computational Hydrology,15.0,20.0,36.0,114.0,0.0,100.0,0.0,0.0,2.0,7.0,No
+ECMM146,2022/3,Mathematical Modelling of Waste Water Treatment Processes,15.0,19.0,36.0,114.0,0.0,100.0,0.0,0.0,3.0,7.0,No
+ECMM147,2022/3,Mechatronics: Sensors and Machine Automation,15.0,47.0,33.0,117.0,0.0,25.0,70.0,5.0,3.0,7.0,No
+ECMM148,2022/3,Advanced CFD,15.0,0.0,26.0,124.0,0.0,100.0,0.0,0.0,4.0,7.0,No
+ECMM149,2022/3,Linear Systems and Structural Analysis,15.0,0.0,33.0,117.0,0.0,30.0,70.0,0.0,3.0,7.0,No
+ECMM150,2022/3,Structural Design,15.0,0.0,37.0,113.0,0.0,30.0,70.0,0.0,3.0,7.0,No
+ECMM151,2022/3,Introduction to Earthquake Engineering,15.0,0.0,50.0,100.0,0.0,30.0,70.0,0.0,2.0,7.0,No
+ECMM153,2022/3,Conceptual Design of Buildings,15.0,30.0,40.0,110.0,0.0,30.0,70.0,0.0,2.0,7.0,No
+ECMM158,2022/3,Active and Passive Structural Control,15.0,0.0,40.0,110.0,0.0,30.0,70.0,,2.0,7.0,No
+ECMM159,2022/3,Structural Health and Performance Monitoring,15.0,0.0,44.0,106.0,0.0,100.0,0.0,0.0,2.0,7.0,No
+ECMM160,2022/3,Engineering Materials and the Environment,15.0,0.0,22.0,128.0,0.0,40.0,60.0,0.0,4.0,7.0,No
+ECMM162,2022/3,Water Management in Developing Countries,15.0,20.0,30.0,120.0,0.0,100.0,0.0,0.0,3.0,7.0,No
+ECMM163,2022/3,Sustainable Engineering,15.0,0.0,40.0,110.0,0.0,100.0,0.0,0.0,2.0,7.0,No
+ECMM164,2022/3,MSc Dissertation,60.0,200.0,22.0,578.0,0.0,0.0,90.0,10.0,3.0,7.0,No
+ECMM168,2022/3,Project Management,15.0,0.0,44.0,106.0,0.0,50.0,50.0,0.0,2.0,7.0,No
+ECMM171,2022/3,Programming for Engineering,15.0,66.0,36.0,114.0,0.0,80.0,0.0,20.0,3.0,7.0,No
+ECMM172,2022/3,Management Science,15.0,0.0,44.0,106.0,0.0,50.0,50.0,0.0,2.0,7.0,No
+ECMM178,2022/3,Computational Techniques for Engineers,15.0,0.0,26.0,124.0,0.0,0.0,0.0,100.0,2.0,7.0,No
+ECMM180,2022/3,Business Start-up Project,90.0,50.0,0.0,100.0,0.0,100.0,0.0,0.0,4.0,7.0,No
+ECMM181,2022/3,Entrepreneurship Skills Development 3,30.0,50.0,20.0,280.0,0.0,100.0,0.0,0.0,2.0,7.0,No
+EMP3001,2022/3,Commercial and Industrial Experience,15.0,31.0,9.0,61.0,80.0,100.0,0.0,0.0,2.0,6.0,No
+EMP3003,2022/3,Professional Experience,45.0,1.0,20.0,350.0,80.0,90.0,0.0,10.0,5.0,6.0,No
+EAF2513,2022/3,,,,,,,,,,,,
+PSYM230,2022/3,,,,,,,,,,,,
+PSYM231,2022/3,,,,,,,,,,,,
+PSYM232,2022/3,,,,,,,,,,,,
+PSYM233,2022/3,,,,,,,,,,,,
+PYCM118,2022/3,,,,,,,,,,,,
+PYCMXXX,2022/3,,,,,,,,,,,,
+CLAM260,2022/3,,,,,,,,,,,,
+BIO2092,2022/3,,,,,,,,,,,,
+BIOM704Z,2022/3,,,,,,,,,,,,
+BIOM705Z,2022/3,,,,,,,,,,,,
+BIOM706Z,2022/3,,,,,,,,,,,,
+BIOM707Z,2022/3,,,,,,,,,,,,
+BIOM708Z,2022/3,,,,,,,,,,,,
+BIOM709Z,2022/3,,,,,,,,,,,,
+MTH0001,2022/3,Principles of Pure Mathematics,30.0,30.0,88.0,212.0,0.0,40.0,60.0,0.0,4.0,,No
+MTH0002,2022/3,Applied Mathematics,30.0,30.0,88.0,212.0,0.0,40.0,60.0,0.0,6.0,,No
+MTH0003,2022/3,Exploring Mathematics,15.0,30.0,33.0,117.0,0.0,50.0,50.0,0.0,4.0,,No
+MTH0004,2022/3,Foundation Statistics,15.0,30.0,44.0,106.0,0.0,40.0,60.0,0.0,3.0,,No
+MTH0005,2022/3,Science: Skills and Culture,30.0,30.0,41.0,237.0,22.0,70.0,0.0,30.0,4.0,,No
+MTH1000,2022/3,Foundations,0.0,300.0,84.0,36.0,,0.0,0.0,0.0,,4.0,No
+MTH1001,2022/3,Mathematical Structures,30.0,200.0,76.0,224.0,,10.0,90.0,0.0,4.0,4.0,No
+MTH1002,2022/3,Mathematical Methods,30.0,200.0,76.0,224.0,,0.0,100.0,0.0,4.0,4.0,No
+MTH1003,2022/3,Mathematical Modelling,30.0,200.0,88.0,212.0,0.0,40.0,60.0,0.0,4.0,4.0,No
+MTH1004,2022/3,"Probability, Statistics and Data",30.0,275.0,88.0,212.0,,30.0,70.0,,4.0,4.0,No
+MTH1100,2022/3,Employability and Preparation for Placement or Internship,0.0,30.0,15.0,30.0,0.0,0.0,0.0,,,5.0,No
+MTH2003,2022/3,Differential Equations,15.0,300.0,38.0,112.0,,10.0,90.0,0.0,3.0,5.0,No
+MTH2004,2022/3,Vector Calculus and Applications,15.0,250.0,33.0,118.0,,40.0,60.0,,3.0,5.0,No
+MTH2005,2022/3,Modelling: Theory and Practice,30.0,128.0,64.0,236.0,,70.0,30.0,,4.0,5.0,No
+MTH2006,2022/3,Statistical Modelling and Inference,30.0,128.0,70.0,230.0,0.0,30.0,70.0,0.0,3.0,5.0,No
+MTH2008,2022/3,Real Analysis,15.0,260.0,38.0,112.0,0.0,10.0,90.0,0.0,3.0,5.0,No
+MTH2009,2022/3,Complex Analysis,15.0,200.0,38.0,112.0,0.0,10.0,90.0,0.0,2.0,5.0,No
+MTH2010,2022/3,"Groups, Rings and Fields",15.0,120.0,38.0,112.0,,10.0,90.0,0.0,3.0,5.0,No
+MTH2011,2022/3,Linear Algebra,15.0,230.0,38.0,112.0,0.0,20.0,80.0,0.0,6.0,5.0,No
+MTH2100,2022/3,Employability and Career Resources,0.0,240.0,15.0,30.0,0.0,0.0,0.0,,,5.0,No
+MTH3001,2022/3,Theory of Weather and Climate,15.0,61.0,33.0,117.0,0.0,20.0,80.0,0.0,3.0,6.0,No
+MTH3004,2022/3,Number Theory,15.0,100.0,33.0,117.0,0.0,20.0,80.0,0.0,3.0,6.0,No
+MTH3006,2022/3,Mathematical Biology and Ecology,15.0,90.0,33.0,117.0,0.0,20.0,80.0,0.0,3.0,6.0,No
+MTH3007,2022/3,Fluid Dynamics,15.0,152.0,33.0,117.0,0.0,20.0,80.0,0.0,3.0,6.0,No
+MTH3008,2022/3,Partial Differential Equations,15.0,88.0,33.0,117.0,0.0,20.0,80.0,0.0,3.0,6.0,No
+MTH3011,2022/3,Nonlinear Systems and Control,15.0,11.0,33.0,117.0,0.0,20.0,80.0,0.0,2.0,6.0,No
+MTH3012,2022/3,Advanced Statistical Modelling,15.0,37.0,33.0,117.0,,100.0,0.0,0.0,3.0,6.0,No
+MTH3019,2022/3,Mathematics: History and Culture,15.0,67.0,20.0,130.0,0.0,40.0,50.0,10.0,4.0,6.0,No
+MTH3022,2022/3,"Graphs, Networks and Algorithms",15.0,76.0,33.0,117.0,0.0,0.0,60.0,40.0,3.0,6.0,No
+MTH3024,2022/3,Stochastic Processes,15.0,100.0,33.0,117.0,,20.0,80.0,,2.0,6.0,No
+MTH3025,2022/3,Semester of Mathematical Studies Abroad,60.0,5.0,,,,100.0,0.0,,,6.0,No
+MTH3026,2022/3,Cryptography,15.0,116.0,33.0,117.0,0.0,20.0,80.0,0.0,3.0,6.0,No
+MTH3028,2022/3,Statistical Inference: Theory and Practice,15.0,80.0,33.0,117.0,,20.0,80.0,,2.0,6.0,No
+MTH3030,2022/3,Mathematics of Climate Change,15.0,170.0,33.0,117.0,,20.0,80.0,,3.0,6.0,No
+MTH3032,2022/3,Applications of Geometry and Topology,15.0,44.0,33.0,117.0,0.0,20.0,80.0,,3.0,6.0,No
+MTH3035,2022/3,Mathematics Group Project,15.0,138.0,22.0,128.0,0.0,75.0,0.0,25.0,6.0,6.0,No
+MTH3038,2022/3,Galois Theory,15.0,30.0,33.0,117.0,0.0,20.0,80.0,0.0,3.0,6.0,No
+MTH3039,2022/3,Computational Nonlinear Dynamics,15.0,19.0,33.0,117.0,0.0,100.0,0.0,0.0,2.0,6.0,No
+MTH3040,2022/3,Topology and Metric Spaces,15.0,24.0,33.0,127.0,0.0,20.0,80.0,0.0,3.0,6.0,No
+MTH3041,2022/3,"Bayesian statistics, Philosophy and Practice",15.0,25.0,33.0,117.0,0.0,20.0,80.0,,2.0,6.0,No
+MTH3042,2022/3,Integral Equations,15.0,150.0,33.0,117.0,,20.0,80.0,0.0,3.0,6.0,No
+MTH3044,2022/3,Bayesian Data Modelling,15.0,37.0,33.0,117.0,0.0,100.0,0.0,0.0,3.0,6.0,No
+MTH3045,2022/3,Statistical Computing,15.0,100.0,33.0,117.0,,70.0,30.0,,3.0,6.0,No
+MTH3047,2022/3,Mathematics for Environment and Sustainability,15.0,30.0,42.0,108.0,0.0,100.0,0.0,0.0,3.0,6.0,No
+MTH3100,2022/3,Industrial Placement,120.0,6.0,6.0,314.0,880.0,85.0,0.0,15.0,4.0,3.0,No
+MTHM001,2022/3,Functional Analysis,15.0,20.0,33.0,117.0,0.0,20.0,80.0,0.0,3.0,7.0,No
+MTHM002,2022/3,Methods for Stochastics and Finance,15.0,58.0,33.0,117.0,,0.0,100.0,,3.0,7.0,No
+MTHM003,2022/3,Analysis and Computation for Finance,15.0,49.0,39.0,114.0,,50.0,50.0,,4.0,7.0,No
+MTHM004,2022/3,Fractal Geometry,15.0,20.0,33.0,127.0,0.0,0.0,100.0,0.0,1.0,7.0,No
+MTHM005,2022/3,Mathematical Sciences Project,30.0,34.0,22.0,278.0,,90.0,0.0,10.0,2.0,7.0,No
+MTHM006,2022/3,Mathematical Theory of Option Pricing,15.0,48.0,22.0,128.0,,20.0,80.0,0.0,3.0,7.0,No
+MTHM007,2022/3,Engaging with Research,15.0,20.0,44.0,106.0,0.0,100.0,0.0,0.0,4.0,7.0,No
+MTHM008,2022/3,Computational Modelling,15.0,20.0,33.0,117.0,0.0,100.0,0.0,0.0,3.0,7.0,No
+MTHM009,2022/3,Advanced Topics in Mathematical & Computational Biology,15.0,10.0,33.0,117.0,0.0,100.0,0.0,0.0,1.0,7.0,No
+MTHM017,2022/3,Advanced Topics in Statistics,15.0,100.0,30.0,120.0,0.0,100.0,0.0,0.0,1.0,7.0,No
+MTHM018,2022/3,Dynamical Systems and Chaos,15.0,33.0,33.0,117.0,0.0,20.0,80.0,0.0,3.0,7.0,No
+MTHM019,2022/3,Fluid Dynamics of Atmospheres and Oceans,15.0,23.0,33.0,117.0,0.0,20.0,80.0,0.0,3.0,7.0,No
+MTHM021,2022/3,Advanced Mathematics Project,60.0,25.0,22.0,578.0,0.0,100.0,0.0,0.0,2.0,7.0,No
+MTHM023,2022/3,Modelling the Weather and Climate,15.0,5.0,33.0,117.0,0.0,50.0,50.0,0.0,3.0,7.0,No
+MTHM028,2022/3,Algebraic Number Theory,15.0,15.0,33.0,117.0,0.0,20.0,80.0,0.0,4.0,7.0,No
+MTHM029,2022/3,Algebraic Curves,15.0,11.0,50.0,100.0,0.0,20.0,80.0,0.0,3.0,7.0,No
+MTHM030,2022/3,"Waves, Instabilities and Turbulence",15.0,13.0,33.0,117.0,0.0,40.0,60.0,0.0,3.0,7.0,No
+MTHM031,2022/3,Magnetic Fields and Fluid Flows,15.0,21.0,33.0,117.0,0.0,20.0,80.0,0.0,2.0,7.0,No
+MTHM032,2022/3,"Mathematics, Business and Finance Project",30.0,4.0,22.0,278.0,,100.0,0.0,0.0,2.0,7.0,No
+MTHM033,2022/3,Statistical Modelling in Space and Time,15.0,20.0,33.0,115.0,0.0,20.0,80.0,0.0,2.0,7.0,No
+MTHM036,2022/3,Research in Mathematical Sciences,15.0,42.0,20.0,130.0,0.0,90.0,0.0,10.0,3.0,7.0,No
+MTHM040,2022/3,MSci Project,45.0,3.0,25.0,425.0,0.0,90.0,0.0,10.0,3.0,7.0,No
+MTHM041,2022/3,Analytic Number Theory,15.0,30.0,33.0,117.0,0.0,0.0,100.0,0.0,1.0,7.0,No
+MTHM044,2022/3,MMATH Project in Statistics,45.0,20.0,25.0,425.0,0.0,90.0,0.0,10.0,3.0,7.0,No
+MTHM045,2022/3,Space Weather and Plasmas,15.0,10.0,33.0,117.0,0.0,20.0,80.0,0.0,2.0,7.0,No
+MTHM047,2022/3,"Bayesian Statistics, Philosophy and Practice",15.0,28.0,33.0,117.0,0.0,20.0,80.0,0.0,2.0,7.0,No
+MTHM048,2022/3,Ergodic Theory,15.0,20.0,33.0,117.0,0.0,20.0,80.0,,3.0,7.0,No
+MTHM050,2022/3,Research Project in Statistics,60.0,,20.0,580.0,0.0,85.0,0.0,15.0,3.0,7.0,No
+MTHM051,2022/3,Fundamentals of Weather and Climate Science,15.0,,33.0,117.0,,20.0,80.0,,2.0,7.0,No
+MTHM052,2022/3,Mid-Latitude Weather Systems,15.0,20.0,33.0,117.0,,20.0,80.0,,2.0,7.0,No
+MTHM053,2022/3,MSc Professional Placement,60.0,20.0,20.0,80.0,500.0,80.0,0.0,20.0,3.0,7.0,No
+MTHM054,2022/3,Climate Change Science and Solutions,15.0,60.0,20.0,130.0,0.0,100.0,0.0,0.0,3.0,7.0,No
+MTHM501,2022/3,Working with Data,15.0,50.0,30.0,120.0,0.0,100.0,0.0,0.0,1.0,7.0,No
+MTHM502,2022/3,Introduction to Data Science and Statistical Modelling,15.0,50.0,30.0,120.0,0.0,100.0,0.0,0.0,2.0,7.0,No
+MTHM503,2022/3,Applications of Data Science and Statistics,15.0,15.0,36.0,114.0,0.0,80.0,20.0,0.0,2.0,7.0,No
+MTHM504,2022/3,Applied Data Science and Statistics Project,60.0,50.0,20.0,580.0,0.0,100.0,0.0,0.0,3.0,7.0,No
+MTHM505,2022/3,Data Science and Statistical Modelling in Space and Time,15.0,50.0,30.0,118.0,,100.0,0.0,,2.0,,No
+MTHM506,2022/3,Statistical Data Modelling,15.0,50.0,30.0,120.0,,100.0,0.0,,2.0,7.0,No
+MTHM507,2022/3,Communicating Data Science,15.0,60.0,40.0,110.0,,100.0,0.0,,2.0,7.0,No
+MTHM508,2022/3,Bayesian Philosophy and Methods in Data Science,15.0,28.0,33.0,117.0,,50.0,50.0,,3.0,,No
+LAW1701,2022/3,,,,,,,,,,,,
+LAW2701,2022/3,,,,,,,,,,,,
+LAW3000,2022/3,,,,,,,,,,,,
+LAW3041D,2022/3,,,,,,,,,,,,
+LAW3155,2022/3,,,,,,,,,,,,
+PHY1021,2022/3,Vector Mechanics,15.0,149.0,34.0,116.0,0.0,10.0,90.0,,4.0,4.0,No
+PHY1022,2022/3,Introduction to Astrophysics,15.0,150.0,34.0,116.0,0.0,10.0,90.0,,4.0,4.0,No
+PHY1023,2022/3,Waves and Optics,15.0,150.0,34.0,116.0,,10.0,90.0,,4.0,4.0,No
+PHY1024,2022/3,Properties of Matter,15.0,,34.0,116.0,,10.0,90.0,,4.0,4.0,No
+PHY1025,2022/3,Mathematics Skills,15.0,149.0,36.0,114.0,,10.0,90.0,,4.0,4.0,No
+PHY1026,2022/3,Mathematics for Physicists,15.0,,36.0,114.0,,10.0,90.0,,4.0,4.0,No
+PHY1027,2022/3,Practical Physics I,15.0,142.0,84.0,66.0,,50.0,0.0,50.0,4.0,4.0,No
+PHY1028,2022/3,IT and Electronics Skills,15.0,114.0,58.0,92.0,,70.0,0.0,30.0,5.0,4.0,No
+PHY1029,2022/3,IT and Astrophysics Skills,15.0,26.0,58.0,92.0,,70.0,0.0,30.0,4.0,4.0,No
+PHY1030,2022/3,Practical Physics and IT Skills,15,14.0,89.0,61.0,,40,0,60.0,,4,No
+PHY1031,2022/3,Scientific Programming in Python,15,120.0,62.0,88.0,0.0,100,0,0.0,2.0,4,No
+PHY2021,2022/3,Electromagnetism I,15,160.0,33.0,117.0,,10,90,,3.0,5,No
+PHY2022,2022/3,Quantum Mechanics I,15,170.0,33.0,117.0,,10,90,,3.0,5,No
+PHY2023,2022/3,Thermal Physics,15,162.0,33.0,117.0,,10,90,,3.0,5,No
+PHY2024,2022/3,Condensed Matter I,15,146.0,33.0,117.0,,10,90,,3.0,5,No
+PHY2025,2022/3,Mathematics with Physical Applications,15,146.0,36.0,114.0,,20,80,,4.0,5,No
+PHY2026,2022/3,Practical Physics II,15,141.0,96.0,54.0,,76,0,24.0,6.0,5,No
+PHY2027,2022/3,Scientific Programming in C,15,60.0,33.0,117.0,,70,0,30.0,5.0,5,No
+PHY2029,2022/3,The Physics of Living Systems,15,64.0,22.0,128.0,,0,100,,1.0,5,No
+PHY2030,2022/3,Observing the Universe,15,84.0,22.0,128.0,,0,100,,1.0,5,No
+PHY2032,2022/3,Analytical and Chaotic Dynamics,15,33.0,22.0,128.0,,0,100,,1.0,5,No
+PHY2033,2022/3,Physics Practicals (One-term/semester inbound exchange),15,1.0,85.0,65.0,,60,0,40.0,4.0,5,No
+PHY2035,2022/3,Scientific Programming in Python,15,120.0,33.0,117.0,,70,0,30.0,5.0,5,No
+PHY2036,2022/3,Study Abroad Electives,60,8.0,,,600.0,33,67,,2.0,5,No
+PHY2037,2022/3,Nonlinear Optics and Imaging,15,33.0,22.0,128.0,,0,100,,1.0,5,No
+PHY3051,2022/3,Electromagnetism II,15,60.0,25.0,125.0,,0,100,,1.0,6,No
+PHY3052,2022/3,Nuclear and High Energy Physics,15,118.0,25.0,125.0,,0,100,,1.0,6,No
+PHY3053,2022/3,General Problems,15,101.0,17.0,133.0,,0,100,,1.0,6,No
+PHY3054,2022/3,Electromagnetism II (IS),15,4.0,,150.0,,0,100,,1.0,6,No
+PHY3055,2022/3,Electromagnetism and Quantum Mechanics,15,60.0,25.0,125.0,,0,100,,1.0,6,No
+PHY3056,2022/3,Nuclear and High Energy Physics (IS),15,118.0,,150.0,,0,100,,1.0,6,No
+PHY3061,2022/3,The Biophysics of Cells and Tissues,15,44.0,22.0,128.0,,0,100,,1.0,6,No
+PHY3062,2022/3,Methods of Theoretical Physics,15,46.0,22.0,128.0,,0,100,,1.0,6,No
+PHY3064,2022/3,Nanostructures and Graphene Science,15,12.0,13.0,136.0,,80,0,20.0,3.0,6,No
+PHY3066,2022/3,Galaxies and High Energy Astrophysics,15,59.0,22.0,128.0,,0,100,,1.0,6,No
+PHY3067,2022/3,Energy and the Environment,15,84.0,27.0,123.0,,90,0,10.0,3.0,6,No
+PHY3068,2022/3,Principles of Theoretical Physics,15,19.0,22.0,128.0,,0,100,,1.0,6,No
+PHY3070,2022/3,Stars from Birth to Death,15,66.0,22.0,128.0,,0,100,,1.0,6,No
+PHY3071,2022/3,Soft Matter,15,33.0,22.0,128.0,,0,100,,1.0,6,No
+PHY3122,2022/3,Project and Dissertation,30,40.0,240.0,60.0,,40,0,60.0,3.0,6,No
+PHY3138,2022/3,Projects and Dissertations,30,53.0,198.0,102.0,,30,0,70.0,6.0,6,No
+PHY3147,2022/3,One-Semester Physics Project and Report,15,12.0,99.0,51.0,,60,0,40.0,3.0,6,No
+PHY3150,2022/3,Applying Physics (Group Project),15,8.0,99.0,51.0,,50,0,50.0,4.0,6,No
+PHY3218,2022/3,Study Abroad Physics Options,60,8.0,,,600.0,33,67,,2.0,6,No
+PHY3306,2022/3,Professional Experience,75,4.0,,,750.0,50,0,50.0,5.0,6,No
+PHY3308,2022/3,Professional Placement,120,4.0,,,,50,0,50.0,5.0,6,No
+PHYM001,2022/3,Statistical Physics,15,70.0,22.0,128.0,,0,100,,1.0,7,No
+PHYM002,2022/3,Quantum Mechanics II,15,,25.0,125.0,,0,100,,1.0,7,No
+PHYM003,2022/3,Condensed Matter II,15,76.0,22.0,128.0,,0,100,,1.0,7,No
+PHYM004,2022/3,Computational Physics and Modelling,15,19.0,22.0,128.0,,90,0,10.0,3.0,7,No
+PHYM005,2022/3,Independent Study,15,1.0,,150.0,,100,0,,1.0,7,No
+PHYM006,2022/3,Relativity and Cosmology,15,32.0,22.0,128.0,,0,100,,1.0,7,No
+PHYM008,2022/3,Physical Methods in Biology and Medicine,15,34.0,22.0,128.0,,0,100,,1.0,7,No
+PHYM009,2022/3,Project and Dissertation,45,61.0,302.0,148.0,,63,0,37.0,3.0,7,No
+PHYM010,2022/3,Project and Dissertation,60,15.0,442.0,158.0,,41,0,59.0,5.0,7,No
+PHYM012,2022/3,Solar and Extra-Solar Planets and Their Atmospheres,15,47.0,22.0,128.0,,0,100,,1.0,7,No
+PHYM013,2022/3,Quantum Many-Body Theory,15,21.0,22.0,128.0,,0,100,,1.0,7,No
+PHYM015,2022/3,Quantum Optics and Photonics,15,33.0,22.0,128.0,0.0,0,100,,1.0,7,No
+PHYM502,2022/3,Frontiers in Physics Research,15,10.0,6.0,144.0,0.0,100,0,0.0,2.0,7,No
+PHYM503,2022/3,Research Project,90.0,10.0,20.0,880.0,0.0,85.0,0.0,15.0,3.0,7.0,No
+SOC2115,2022/3,,,,,,,,,,,,
+SOC3115,2022/3,,,,,,,,,,,,
+ENG1002,2023/4,Engineering Mathematics and Scientific Computing,30.0,200.0,120.0,180.0,0.0,30.0,70.0,0.0,2.0,4.0,No
+ENG1005,2023/4,Multi-Disciplinary Group Challenge Project,30.0,240.0,70.0,230.0,,100.0,0.0,0.0,6.0,4.0,No
+ENG1006,2023/4,Entrepreneurship 1,15.0,225.0,30.0,120.0,0.0,100.0,0.0,0.0,8.0,4.0,No
+ENG1007,2023/4,Fundamentals of Mechanics,15.0,240.0,44.0,106.0,0.0,40.0,60.0,0.0,4.0,4.0,No
+ENG1008,2023/4,Fundamentals of Materials,15.0,240.0,44.0,106.0,0.0,40.0,60.0,0.0,3.0,4.0,No
+ENG1009,2023/4,Fundamentals of Electronics,15.0,,76.0,74.0,0.0,45.0,55.0,0.0,3.0,4.0,No
+ENG1200DA,2023/4,Core Engineering,30.0,25.0,93.0,34.0,173.0,30.0,70.0,0.0,5.0,4.0,No
+ENG1201DA,2023/4,Mathematics for Engineers,15.0,25.0,64.0,18.0,68.0,40.0,60.0,0.0,4.0,4.0,No
+ENG1202DA,2023/4,Basic Mechanics,15.0,25.0,50.0,40.0,60.0,50.0,50.0,0.0,3.0,4.0,No
+ENG1203DA,2023/4,Professional Studies and Skills Development A,15.0,25.0,50.0,50.0,50.0,100.0,0.0,0.0,4.0,4.0,No
+ENG1204DA,2023/4,Materials,15.0,25.0,30.0,50.0,70.0,40.0,60.0,0.0,3.0,4.0,No
+ENG1205DA,2023/4,Advanced Mathematics for Engineers,15.0,25.0,64.0,48.0,38.0,60.0,40.0,,4.0,4.0,No
+ENG1206DA,2023/4,Professional Studies and Skills Development B,15.0,25.0,50.0,50.0,50.0,100.0,0.0,0.0,2.0,5.0,No
+ENG2001,2023/4,Civil Engineering Challenge Project,30.0,60.0,100.0,200.0,0.0,100.0,0.0,0.0,3.0,5.0,No
+ENG2003,2023/4,Electronic Engineering Challenge Project,30.0,30.0,70.0,230.0,,100.0,0.0,,6.0,5.0,No
+ENG2004,2023/4,Entrepreneurship 2,15.0,250.0,25.0,125.0,0.0,100.0,0.0,0.0,5.0,5.0,No
+ENG2005,2023/4,Entrepreneurship Challenge Project,30.0,20.0,43.0,257.0,0.0,100.0,0.0,0.0,4.0,5.0,No
+ENG2006,2023/4,Industry 4.0,15.0,200.0,24.0,126.0,,100.0,0.0,0.0,3.0,5.0,No
+ENG2007,2023/4,Introduction to Fluid Dynamics,15.0,,50.0,100.0,,30.0,70.0,,2.0,5.0,No
+ENG2008,2023/4,Microcontroller Engineering,15.0,15.0,63.0,87.0,0.0,40.0,60.0,,4.0,5.0,No
+ENG2009,2023/4,Modelling of Engineering Systems,15.0,,33.0,117.0,,50.0,50.0,,2.0,5.0,No
+ENG2010,2023/4,Soil Mechanics,15.0,,57.0,93.0,,50.0,35.0,15.0,3.0,5.0,No
+ENG2011,2023/4,Solid Mechanics,15.0,,25.0,125.0,0.0,20.0,80.0,,2.0,5.0,No
+ENG2012,2023/4,Structural Behaviour,15.0,160.0,39.0,111.0,,15.0,85.0,,2.0,5.0,No
+ENG2013,2023/4,Sustainable Design Challenge Project,30.0,,55.0,245.0,,100.0,0.0,,4.0,5.0,No
+ENG2014,2023/4,Technology Entrepreneurship,15.0,20.0,19.0,131.0,,100.0,0.0,,2.0,5.0,No
+ENG2015,2023/4,Management Challenge Project,30.0,,55.0,245.0,,100.0,0.0,0.0,4.0,5.0,No
+ENG2016,2023/4,Introduction in Economics and Company Finance,15.0,25.0,22.0,128.0,,50.0,50.0,,2.0,4.0,No
+ENG2017,2023/4,Communication and Networking Technologies,15.0,20.0,30.0,120.0,0.0,40.0,60.0,,4.0,2.0,No
+ENG2118,2023/4,Analogue and Digital Electronics Design,15.0,24.0,50.0,100.0,,40.0,60.0,,5.0,,No
+ENG2200DA,2023/4,Structural Materials,15.0,25.0,40.0,20.0,90.0,100.0,0.0,0.0,2.0,5.0,No
+ENG2201DA,2023/4,Mechanics,15.0,25.0,32.0,118.0,0.0,20.0,80.0,0.0,2.0,4.0,No
+ENG2202DA,2023/4,Structures,15.0,25.0,35.0,80.0,35.0,20.0,80.0,0.0,2.0,5.0,No
+ENG2203DA,2023/4,Geotechnics 1,15.0,25.0,41.0,20.0,89.0,50.0,50.0,0.0,2.0,5.0,No
+ENG2204DA,2023/4,Construction Site Management,15.0,25.0,50.0,50.0,50.0,100.0,0.0,0.0,4.0,5.0,No
+ENG2206DA,2023/4,BIM and Temporary Works,15.0,30.0,50.0,50.0,50.0,100.0,0.0,0.0,2.0,5.0,No
+ENG2207DA,2023/4,Project Management,15.0,25.0,36.0,26.0,88.0,100.0,0.0,0.0,2.0,5.0,No
+ENG2208DA,2023/4,Sustainable Development,15.0,25.0,28.0,82.0,40.0,100.0,0.0,,2.0,6.0,No
+ENG2209DA,2023/4,Structural Concrete,15.0,40.0,40.0,60.0,50.0,100.0,0.0,0.0,2.0,5.0,No
+ECM2106,2023/4,Manufacturing Systems,15.0,17.0,22.0,138.0,0.0,30.0,70.0,0.0,3.0,5.0,No
+ENG3001,2023/4,Construction Project Management,15.0,,50.0,100.0,,100.0,0.0,,3.0,6.0,No
+ENG3002,2023/4,Decision Making Systems & Decision Theory,15.0,35.0,22.0,128.0,0.0,0.0,100.0,0.0,1.0,6.0,No
+ENG3003,2023/4,Digital Engineering and Building Information Modelling,15.0,,32.0,118.0,,100.0,0.0,0.0,2.0,6.0,No
+ENG3004,2023/4,Engineering Electromagnetics,15.0,30.0,42.0,108.0,0.0,30.0,70.0,0.0,2.0,6.0,No
+ENG3005,2023/4,Fluid Dynamics and CFD,15.0,,50.0,100.0,,60.0,40.0,,3.0,6.0,No
+ENG3006,2023/4,Geotechnical Engineering and Foundation Design,15.0,,48.0,102.0,0.0,30.0,50.0,20.0,3.0,6.0,No
+ENG3007,2023/4,Global Entrepreneurial Marketing,15.0,15.0,11.0,139.0,0.0,100.0,0.0,0.0,1.0,6.0,No
+ENG3008A,2023/4,Mechanical Design and Build: Part 1 - Research,15,27.0,18.0,132.0,0.0,100,0,0.0,3.0,6.0,No
+ENG3008B,2023/4,Mechanical Design and Build: Part 2 - Development,15,27.0,33.0,117.0,0.0,100,0,0.0,3.0,6.0,No
+ENG3010,2023/4,Industrial Awareness & Problem Solving,15,40.0,45.0,105.0,0.0,100,0,0.0,3.0,6.0,No
+ENG3011,2023/4,Management and Leadership,15,35.0,22.0,128.0,0.0,40,60,0.0,2.0,6.0,No
+ENG3012,2023/4,Mechatronics,15,40.0,33.0,117.0,0.0,25,70,5.0,3.0,6.0,No
+ENG3013A,2023/4,Civil Design and Build: Part 1 - Research,15,,18.0,132.0,0.0,100,0,0.0,3.0,6.0,No
+ENG3013B,2023/4,Civil Design and Build: Part 2 - Development,15,,33.0,117.0,,100,0,0.0,3.0,,No
+ENG3014,2023/4,Structural Engineering,15,,35.0,115.0,0.0,35,65,0.0,3.0,6.0,No
+ENG3015,2023/4,Structural Dynamics,15,,40.0,110.0,0.0,30,70,0.0,2.0,6.0,No
+ENG3016,2023/4,Thermodynamics and Heat Transfer,15,,43.0,107.0,,15,70,15.0,3.0,6.0,No
+ENG3017,2023/4,Quality Control and Improvement,15,35.0,22.0,128.0,0.0,25,75,0.0,2.0,6.0,No
+ENG3018,2023/4,Control Engineering,15,180.0,32.0,118.0,0.0,20,80,0.0,5.0,6.0,No
+ENG3019A,2023/4,Management Design and Build: Part 1 - Research,15,,18.0,132.0,0.0,50,0,50.0,2.0,6.0,No
+ENG3019B,2023/4,Management Design and Build: Part 2 - Development,15,,33.0,117.0,0.0,50,0,50.0,2.0,6.0,No
+ENG3020A,2023/4,Entrepreneurship Design and Build: Part 1 - Research,15,,13.0,137.0,,100,0,0.0,3.0,6.0,No
+ENG3020B,2023/4,Entrepreneurship Design and Build: Part 2 - Development,15,,33.0,117.0,0.0,50,0,50.0,2.0,6.0,No
+ENG3021A,2023/4,Electronic Design and Build: Part 1 - Research,15,,18.0,132.0,0.0,70,0,30.0,3.0,6.0,No
+ENG3021B,2023/4,Electronic Design and Build: Part 2 - Development,15,,33.0,0.0,117.0,50,0,50.0,3.0,6.0,No
+ENG3022,2023/4,Finite Element Analysis for High Value Manufacturing,15,90.0,48.0,102.0,0.0,0,0,,2.0,6.0,No
+ENG3201DA,2023/4,Structural Engineering,15,25.0,40.0,60.0,50.0,60,40,0.0,3.0,6.0,No
+ENG3202DA,2023/4,Geotechnics 2,15,25.0,98.0,52.0,0.0,15,50,35.0,3.0,6.0,No
+ENG3203DA,2023/4,Civil Engineering Design Studies,15,25.0,50.0,50.0,50.0,100,0,0.0,2.0,6.0,No
+ENG3204DA,2023/4,Individual Project,30,25.0,25.0,175.0,100.0,100,0,0.0,2.0,6.0,No
+ENG3206DA,2023/4,Conceptual Design of Buildings,30,25.0,40.0,60.0,50.0,100,0,0.0,4.0,6.0,No
+ENG3207DA,2023/4,Practical Hydraulic Engineering,15,25.0,40.0,60.0,50.0,30,70,0.0,2.0,6.0,No
+ENG3211DA,2023/4,Accounting and Company Finance,15,25.0,44.0,106.0,0.0,50,50,0.0,2.0,6.0,No
+ECM3153,2023/4,Management of Product Development,15,82.0,22.0,128.0,0.0,40,60,,3.0,3.0,No
+ECM3156,2023/4,Civil Engineering Hydraulics,15,47.0,54.0,96.0,0.0,30,40,30.0,5.0,3.0,No
+ECM3158,2023/4,Water Resources and Pollution Control,15,28.0,48.0,102.0,0.0,30,70,,3.0,3.0,No
+ECM3160,2023/4,Materials,15,49.0,84.0,66.0,0.0,40,60,,4.0,3.0,No
+ECM3164,2023/4,Operations Management,15,39.0,22.0,128.0,0.0,30,70,,2.0,6.0,No
+ECM3165,2023/4,Digital Signal Processing,15,20.0,45.0,105.0,0.0,40,60,,5.0,3.0,No
+ECM3166,2023/4,Communications Engineering,15,30.0,50.0,100.0,0.0,20,60,20.0,4.0,3.0,No
+ECM3172,2023/4,Study Abroad Semester,60,10.0,0.0,0.0,600.0,0,100,0.0,1.0,6.0,No
+ECM3174,2023/4,Year in Industry,120,4.0,6.0,,,80,0,20.0,4.0,6.0,No
+ECM3175,2023/4,Individual Project,30,106.0,27.0,300.0,0.0,100,0,0.0,1.0,6.0,No
+ENGM001,2023/4,Additive Manufacturing,15,,16.0,137.0,0.0,40,60,0.0,2.0,7.0,No
+ENGM002,2023/4,Advanced Communication Systems,15,15.0,42.0,108.0,,30,70,,3.0,7.0,No
+ENGM003,2023/4,Advanced Finite Element Analysis (FEA),15,,33.0,117.0,0.0,100,0,0.0,2.0,7.0,No
+ENGM005,2023/4,Business Start-up Project,90,,,900.0,,100,0,0.0,1.0,7.0,No
+ENGM006,2023/4,Civil Engineering Materials,15,30.0,44.0,106.0,,30,70,,2.0,7.0,No
+ENGM008,2023/4,Design of Reinforced Concrete and Steel Structures,15,,26.0,124.0,,30,70,,3.0,7.0,No
+ENGM009,2023/4,Electric Machines and Power Electronics,15,10.0,43.0,107.0,0.0,30,70,0.0,4.0,7.0,No
+ENGM010,2023/4,Data-Centric Engineering,15,,36.0,117.0,,30,70,0.0,3.0,7.0,No
+ENGM011,2023/4,Entrepreneurship 3,30,50.0,20.0,280.0,,100,0,0.0,2.0,7.0,No
+ENGM012,2023/4,Performance Based Design Under Dynamic Loading,30,,35.0,117.0,,25,75,,2.0,7.0,No
+ENGM015,2023/4,MEng Individual Investigative Project,45,80.0,26.0,424.0,,80,0,20.0,3.0,7.0,No
+ENGM016,2023/4,Metamaterials,15,,33.0,117.0,,80,0,20.0,3.0,7.0,No
+ENGM017,2023/4,Composite Materials,15,,22.0,128.0,,40,60,,2.0,7.0,No
+ENGM018,2023/4,Nonlinear Control,15,,35.0,115.0,,20,80,,2.0,7.0,No
+ENGM020,2023/4,Robotics and Automation,15.0,,41.0,109.0,,60.0,40.0,,3.0,7.0,No
+ENGM021,2023/4,Smart Production Systems,15.0,150.0,33.0,117.0,,0.0,100.0,,1.0,7.0,No
+ENGM023,2023/4,Sustainable Manufacturing,15.0,250.0,22.0,128.0,,0.0,90.0,10.0,2.0,7.0,No
+ENGM025,2023/4,Smart Civil Structures,15.0,,44.0,106.0,0.0,100.0,0.0,0.0,3.0,7.0,No
+ENGM026,2023/4,"Design, Innovation & Entrepreneurship",15.0,15.0,27.0,123.0,,100.0,0.0,0.0,2.0,7.0,No
+ENGM028,2023/4,MSc Industrial Placement,60.0,20.0,20.0,80.0,500.0,80.0,0.0,20.0,,7.0,No
+ENGM029,2023/4,Power Systems Analysis,15.0,10.0,42.0,108.0,0.0,30.0,70.0,0.0,3.0,7.0,No
+ENGM030,2023/4,Digital Twinning for Power System Plant,15.0,10.0,42.0,108.0,0.0,30.0,70.0,0.0,3.0,7.0,No
+ENGM031,2023/4,Smart Grids and Sustainable Energy Systems,15.0,10.0,42.0,108.0,0.0,100.0,0.0,0.0,3.0,7.0,No
+ENGM032,2023/4,Resilience of Electrical Energy Systems,15.0,10.0,42.0,108.0,0.0,30.0,70.0,0.0,3.0,7.0,No
+ENGM033,2023/4,Supply Chain Quality Management,15.0,100.0,20.0,130.0,0.0,30.0,70.0,0.0,2.0,7.0,No
+ENGM035,2023/4,Finance for Engineers,15.0,20.0,44.0,106.0,0.0,100.0,0.0,0.0,2.0,7.0,No
+ENGM036,2023/4,Digital Mapping and Survey,15.0,20.0,44.0,106.0,0.0,100.0,0.0,0.0,2.0,7.0,No
+ENGM037,2023/4,Digital Design,15.0,20.0,44.0,106.0,0.0,100.0,0.0,0.0,2.0,7.0,No
+ENGM038,2023/4,Digital Analysis,30.0,20.0,88.0,212.0,0.0,100.0,0.0,0.0,3.0,7.0,No
+ENGM039,2023/4,"Modelling, Simulation and Machine Learning for Operations Management",15.0,300.0,41.0,109.0,0.0,0.0,0.0,20.0,3.0,7.0,No
+ENGM040,2023/4,Research Ethics and Methodology,15.0,300.0,17.0,133.0,0.0,50.0,0.0,50.0,3.0,7.0,No
+ECMM103,2023/4,Computer Aided Engineering Design,15.0,37.0,28.0,122.0,0.0,100.0,0.0,,4.0,7.0,No
+ECMM109,2023/4,Advanced Geotechnical Engineering,15.0,0.0,41.0,109.0,0.0,100.0,0.0,0.0,3.0,7.0,No
+ECMM110,2023/4,Water and Environmental Systems,15.0,0.0,22.0,128.0,0.0,100.0,0.0,0.0,3.0,7.0,No
+ECMM112,2023/4,Manufacturing Supply Chain Management,15.0,30.0,22.0,128.0,0.0,100.0,0.0,0.0,2.0,7.0,No
+ECMM113,2023/4,"Agile, Lean and Competitive Enterprise",15.0,60.0,44.0,106.0,,100.0,0.0,0.0,2.0,7.0,No
+ECMM124,2023/4,Hydroinformatics Tools,15.0,0.0,48.0,102.0,,30.0,70.0,,2.0,7.0,No
+ECMM132,2023/4,Urban Drainage and Waste Water Management,15.0,0.0,44.0,106.0,0.0,30.0,70.0,0.0,2.0,7.0,No
+ECMM133,2023/4,Water Supply and Distribution Management,15.0,0.0,44.0,108.0,0.0,30.0,70.0,0.0,2.0,7.0,No
+ECMM134,2023/4,Environmental Processes,15.0,0.0,34.0,116.0,0.0,30.0,70.0,0.0,3.0,7.0,No
+ECMM148,2023/4,Advanced CFD,15.0,0.0,26.0,124.0,0.0,100.0,0.0,0.0,4.0,7.0,No
+ECMM149,2023/4,Linear Systems and Structural Analysis,15.0,0.0,33.0,117.0,0.0,30.0,70.0,0.0,3.0,7.0,No
+ECMM150,2023/4,Structural Design,15.0,0.0,37.0,113.0,0.0,30.0,70.0,0.0,3.0,7.0,No
+ECMM153,2023/4,Conceptual Design of Buildings,15.0,30.0,40.0,110.0,0.0,30.0,70.0,0.0,2.0,7.0,No
+ECMM162,2023/4,Water Management in Developing Countries,15.0,20.0,30.0,120.0,0.0,100.0,0.0,0.0,3.0,7.0,No
+ECMM163,2023/4,Sustainable Engineering,15.0,0.0,38.0,112.0,0.0,100.0,0.0,0.0,2.0,7.0,No
+ECMM164,2023/4,MSc Dissertation,60.0,200.0,22.0,578.0,0.0,90.0,0.0,10.0,3.0,7.0,No
+EMP3001,2023/4,Commercial and Industrial Experience,15.0,31.0,9.0,61.0,80.0,100.0,0.0,0.0,2.0,6.0,No
+EMP3003,2023/4,Professional Experience,45.0,1.0,20.0,350.0,80.0,90.0,0.0,10.0,5.0,6.0,No
+CMMM012,2023/4,,,,,,,,,,,,
+DRAM153,2023/4,,,,,,,,,,,,
+DRAM154,2023/4,,,,,,,,,,,,
+PSYM221Z,2023/4,,,,,,,,,,,,
+PSYM237Z,2023/4,,,,,,,,,,,,
+PSYM238Z,2023/4,,,,,,,,,,,,
+PSYM239Z,2023/4,,,,,,,,,,,,
+MTH0001,2023/4,Principles of Pure Mathematics,30.0,30.0,88.0,212.0,0.0,40.0,60.0,0.0,4.0,,No
+MTH0002,2023/4,Applied Mathematics,30.0,30.0,88.0,212.0,0.0,40.0,60.0,0.0,5.0,4.0,No
+MTH0003,2023/4,Exploring Mathematics,15.0,30.0,33.0,117.0,0.0,50.0,50.0,0.0,4.0,,No
+MTH0004,2023/4,Foundation Statistics,15.0,30.0,44.0,106.0,0.0,50.0,50.0,0.0,3.0,,No
+MTH0005,2023/4,Science: Skills and Culture,30.0,30.0,41.0,237.0,22.0,70.0,0.0,30.0,4.0,,No
+MTH1000,2023/4,Foundations,0.0,300.0,84.0,36.0,,0.0,0.0,0.0,,4.0,No
+MTH1001,2023/4,Mathematical Structures,30.0,200.0,76.0,224.0,,10.0,90.0,0.0,4.0,4.0,No
+MTH1002,2023/4,Mathematical Methods,30.0,200.0,76.0,224.0,,0.0,100.0,0.0,4.0,4.0,No
+MTH1003,2023/4,Mathematical Modelling,30,200.0,88.0,212.0,0.0,40,60,0.0,4.0,4,No
+MTH1004,2023/4,"Probability, Statistics and Data",30,275.0,88.0,212.0,,30,70,,4.0,4,No
+MTH1100,2023/4,Employability and Preparation for Placement or Internship,0,30.0,15.0,30.0,0.0,0,0,,,5,No
+MTH2003,2023/4,Differential Equations,15,300.0,38.0,112.0,,10,90,0.0,3.0,5,No
+MTH2004,2023/4,Vector Calculus and Applications,15,250.0,33.0,118.0,,20,80,,3.0,5,No
+MTH2005,2023/4,Modelling: Theory and Practice,30,128.0,64.0,236.0,,70,30,,4.0,5,No
+MTH2006,2023/4,Statistical Modelling and Inference,30,128.0,70.0,230.0,0.0,30,70,0.0,3.0,5,No
+MTH2008,2023/4,Real Analysis,15,260.0,38.0,112.0,0.0,10,90,0.0,3.0,5,No
+MTH2009,2023/4,Complex Analysis,15,200.0,38.0,112.0,0.0,10,90,0.0,3.0,5,No
+MTH2010,2023/4,"Groups, Rings and Fields",15,120.0,38.0,112.0,,10,90,0.0,3.0,5,No
+MTH2011,2023/4,Linear Algebra,15,230.0,38.0,112.0,0.0,20,80,0.0,6.0,5,No
+MTH2100,2023/4,Employability and Career Resources,0,240.0,15.0,30.0,0.0,0,0,,,5,No
+MTH3001,2023/4,Theory of Weather and Climate,15,61.0,33.0,117.0,0.0,20,80,0.0,3.0,6,No
+MTH3004,2023/4,Number Theory,15,100.0,33.0,117.0,0.0,20,80,0.0,3.0,6,No
+MTH3006,2023/4,Mathematical Biology and Ecology,15,90.0,33.0,117.0,0.0,20,80,0.0,3.0,6,No
+MTH3007,2023/4,Fluid Dynamics,15,152.0,33.0,117.0,0.0,20,80,0.0,3.0,6,No
+MTH3008,2023/4,Partial Differential Equations,15,88.0,33.0,117.0,0.0,20,80,0.0,3.0,6,No
+MTH3011,2023/4,Nonlinear Systems and Control,15,11.0,33.0,117.0,0.0,20,80,0.0,2.0,6,No
+MTH3013,2023/4,Applied Differential Geometry,15,25.0,33.0,117.0,,20,80,,3.0,6,No
+MTH3019,2023/4,Mathematics: History and Culture,15,67.0,20.0,130.0,0.0,40,50,10.0,4.0,6,No
+MTH3022,2023/4,"Graphs, Networks and Algorithms",15,76.0,33.0,117.0,0.0,0,60,40.0,3.0,6,No
+MTH3024,2023/4,Stochastic Processes,15,100.0,33.0,117.0,,20,80,,2.0,6,No
+MTH3025,2023/4,Semester of Mathematical Studies Abroad,60,5.0,,,,100,0,,,6,No
+MTH3026,2023/4,Cryptography,15,116.0,33.0,117.0,0.0,20,80,0.0,3.0,6,No
+MTH3028,2023/4,Statistical Inference: Theory and Practice,15,80.0,33.0,117.0,,20,80,,2.0,6,No
+MTH3030,2023/4,Mathematics of Climate Change,15,170.0,33.0,117.0,,20,80,,3.0,6,No
+MTH3035,2023/4,Mathematics Group Project,15,138.0,22.0,128.0,0.0,75,0,25.0,6.0,6,No
+MTH3038,2023/4,Galois Theory,15,30.0,33.0,117.0,0.0,20,80,0.0,3.0,6,No
+MTH3039,2023/4,Computational Nonlinear Dynamics,15,19.0,33.0,117.0,0.0,100,0,0.0,2.0,6,No
+MTH3040,2023/4,Topology and Metric Spaces,15,24.0,33.0,127.0,0.0,20,80,0.0,3.0,6,No
+MTH3041,2023/4,"Bayesian statistics, Philosophy and Practice",15,25.0,33.0,117.0,0.0,20,80,,2.0,6,No
+MTH3042,2023/4,Integral Equations,15,150.0,33.0,117.0,,20,80,0.0,3.0,6,No
+MTH3045,2023/4,Statistical Computing,15,45.0,31.0,119.0,,0,50,50.0,2.0,6,No
+MTH3047,2023/4,Mathematics for Environment and Sustainability,15,30.0,42.0,108.0,0.0,100,0,0.0,3.0,6,No
+MTH3100,2023/4,Industrial Placement,120,6.0,6.0,314.0,880.0,85,0,15.0,4.0,3,No
+MTHM002,2023/4,Methods for Stochastics and Finance,15,58.0,33.0,117.0,,0,100,,3.0,7,No
+MTHM003,2023/4,Analysis and Computation for Finance,15,49.0,39.0,114.0,,50,50,,4.0,7,No
+MTHM004,2023/4,Fractal Geometry,15,20.0,33.0,127.0,0.0,0,100,0.0,1.0,7,No
+MTHM005,2023/4,Mathematical Sciences Project,30,34.0,22.0,278.0,,90,0,10.0,2.0,7,No
+MTHM006,2023/4,Mathematical Theory of Option Pricing,15,48.0,22.0,128.0,,20,80,0.0,3.0,7,No
+MTHM007,2023/4,Engaging with Research,15,20.0,44.0,106.0,0.0,100,0,0.0,4.0,7,No
+MTHM008,2023/4,Computational Modelling,15,20.0,33.0,117.0,0.0,100,0,0.0,3.0,7,No
+MTHM009,2023/4,Advanced Topics in Mathematical & Computational Biology,15,10.0,33.0,117.0,0.0,100,0,0.0,1.0,7,No
+MTHM010,2023/4,Representation Theory of Finite Groups,15,,33.0,117.0,,20,80,,3.0,7,No
+MTHM014,2023/4,Metric Number Theory and Diophantine Approximation,15,25.0,33.0,117.0,0.0,20,80,0.0,3.0,7,No
+MTHM015,2023/4,AI and Data Science Methods for Life and Health Sciences,15,20.0,50.0,100.0,0.0,100,0,0.0,2.0,7,No
+MTHM017,2023/4,Advanced Topics in Statistics,15,100.0,30.0,120.0,0.0,100,0,0.0,1.0,7,No
+MTHM018,2023/4,Dynamical Systems and Chaos,15,33.0,33.0,117.0,0.0,20,80,0.0,3.0,7,No
+MTHM019,2023/4,Fluid Dynamics of Atmospheres and Oceans,15,23.0,33.0,117.0,0.0,20,80,0.0,3.0,7,No
+MTHM021,2023/4,Advanced Mathematics Project,60,25.0,22.0,578.0,0.0,100,0,0.0,2.0,7,No
+MTHM023,2023/4,Modelling the Weather and Climate,15.0,5.0,33.0,117.0,0.0,50.0,50.0,0.0,3.0,7.0,No
+MTHM028,2023/4,Algebraic Number Theory,15.0,15.0,33.0,117.0,0.0,20.0,80.0,0.0,4.0,7.0,No
+MTHM029,2023/4,Algebraic Curves,15.0,11.0,50.0,100.0,0.0,20.0,80.0,0.0,3.0,7.0,No
+MTHM030,2023/4,"Waves, Instabilities and Turbulence",15.0,13.0,33.0,117.0,0.0,40.0,60.0,0.0,3.0,7.0,No
+MTHM031,2023/4,Magnetic Fields and Fluid Flows,15.0,21.0,33.0,117.0,0.0,20.0,80.0,0.0,2.0,7.0,No
+MTHM032,2023/4,"Mathematics, Business and Finance Project",30.0,4.0,22.0,278.0,,100.0,0.0,0.0,2.0,7.0,No
+MTHM033,2023/4,Statistical Modelling in Space and Time,15.0,20.0,33.0,115.0,0.0,20.0,80.0,0.0,2.0,7.0,No
+MTHM036,2023/4,Research in Mathematical Sciences,15.0,42.0,19.0,131.0,0.0,85.0,0.0,15.0,3.0,7.0,No
+MTHM040,2023/4,MSci Project,45.0,3.0,25.0,425.0,0.0,80.0,0.0,20.0,4.0,7.0,No
+MTHM041,2023/4,Analytic Number Theory,15.0,30.0,33.0,117.0,0.0,0.0,100.0,0.0,1.0,7.0,No
+MTHM044,2023/4,MMATH Project in Statistics,45.0,20.0,25.0,425.0,0.0,90.0,0.0,10.0,3.0,7.0,No
+MTHM045,2023/4,Space Weather and Plasmas,15.0,10.0,33.0,117.0,0.0,20.0,80.0,0.0,2.0,7.0,No
+MTHM047,2023/4,"Bayesian Statistics, Philosophy and Practice",15.0,28.0,33.0,117.0,0.0,20.0,80.0,0.0,2.0,7.0,No
+MTHM048,2023/4,Ergodic Theory,15.0,20.0,33.0,117.0,0.0,20.0,80.0,,3.0,7.0,No
+MTHM050,2023/4,Research Project in Statistics,60.0,,20.0,580.0,0.0,85.0,0.0,15.0,3.0,7.0,No
+MTHM051,2023/4,Fundamentals of Weather and Climate Science,15.0,,33.0,117.0,,20.0,80.0,,2.0,7.0,No
+MTHM052,2023/4,Mid-Latitude Weather Systems,15.0,20.0,33.0,117.0,0.0,20.0,80.0,0.0,3.0,7.0,No
+MTHM053,2023/4,MSc Professional Placement,60.0,20.0,20.0,80.0,500.0,80.0,0.0,20.0,3.0,7.0,No
+MTHM054,2023/4,Climate Change Science and Solutions,15.0,60.0,20.0,130.0,0.0,100.0,0.0,0.0,3.0,7.0,No
+MTHM501,2023/4,Working with Data,15.0,50.0,30.0,120.0,0.0,100.0,0.0,0.0,1.0,7.0,No
+MTHM502,2023/4,Introduction to Data Science and Statistical Modelling,15.0,50.0,30.0,120.0,0.0,100.0,0.0,0.0,1.0,7.0,No
+MTHM503,2023/4,Applications of Data Science and Statistics,15.0,15.0,36.0,114.0,0.0,80.0,20.0,0.0,2.0,7.0,No
+MTHM504,2023/4,Applied Data Science and Statistics Project,60.0,50.0,20.0,580.0,0.0,100.0,0.0,0.0,3.0,7.0,No
+MTHM505,2023/4,Data Science and Statistical Modelling in Space and Time,15.0,50.0,30.0,118.0,,100.0,0.0,,2.0,,No
+MTHM506,2023/4,Statistical Data Modelling,15.0,50.0,30.0,120.0,,100.0,0.0,,2.0,7.0,No
+MTHM507,2023/4,Communicating Data Science,15.0,60.0,40.0,110.0,0.0,100.0,0.0,0.0,2.0,7.0,No
+MTHM508,2023/4,Bayesian Philosophy and Methods in Data Science,15.0,28.0,33.0,117.0,,50.0,50.0,,3.0,,No
+MTHM611,2023/4,Topics in Environmental Intelligence,15.0,30.0,30.0,120.0,0.0,80.0,0.0,20.0,2.0,7.0,No
+MTHM612,2023/4,Environmental Intelligence Research Project,60.0,30.0,20.0,580.0,0.0,70.0,0.0,30.0,3.0,7.0,No
+HIH3217,2023/4,,,,,,,,,,,,
+POLM894DA,2023/4,,,,,,,,,,,,
+BEE3052,2023/4,,,,,,,,,,,,
+BEEM155,2023/4,,,,,,,,,,,,
+EASM142,2023/4,,,,,,,,,,,,
+PHY1021,2023/4,Vector Mechanics,15.0,149.0,34.0,116.0,0.0,10.0,90.0,,4.0,4.0,No
+PHY1022,2023/4,Introduction to Astrophysics,15.0,150.0,34.0,116.0,0.0,10.0,90.0,,4.0,4.0,No
+PHY1023,2023/4,Waves and Optics,15.0,150.0,34.0,116.0,,10.0,90.0,,4.0,4.0,No
+PHY1024,2023/4,Properties of Matter,15.0,,34.0,116.0,,10.0,90.0,,4.0,4.0,No
+PHY1025,2023/4,Mathematics Skills,15.0,149.0,36.0,114.0,0.0,10.0,90.0,0.0,3.0,4.0,No
+PHY1026,2023/4,Mathematics for Physicists,15.0,,36.0,114.0,,10.0,90.0,,4.0,4.0,No
+PHY1027,2023/4,Practical Physics I,15.0,142.0,93.0,57.0,,50.0,0.0,50.0,3.0,4.0,No
+PHY1028,2023/4,IT and Electronics Skills,15.0,114.0,58.0,92.0,,70.0,0.0,30.0,5.0,4.0,No
+PHY1029,2023/4,IT and Astrophysics Skills,15.0,26.0,58.0,92.0,,70.0,0.0,30.0,4.0,4.0,No
+PHY1030,2023/4,Practical Physics and IT Skills,15.0,14.0,89.0,61.0,,40.0,0.0,60.0,,4.0,No
+PHY1031,2023/4,Scientific Programming in Python,15.0,120.0,62.0,88.0,0.0,100.0,0.0,0.0,2.0,4.0,No
+PHY2021,2023/4,Electromagnetism I,15.0,160.0,33.0,117.0,,10.0,90.0,,3.0,5.0,No
+PHY2022,2023/4,Quantum Mechanics I,15.0,170.0,33.0,117.0,,10.0,90.0,,3.0,5.0,No
+PHY2023,2023/4,Thermal Physics,15.0,162.0,33.0,117.0,,10.0,90.0,,3.0,5.0,No
+PHY2024,2023/4,Condensed Matter I,15.0,146.0,33.0,117.0,,10.0,90.0,,3.0,5.0,No
+PHY2025,2023/4,Mathematics with Physical Applications,15.0,146.0,36.0,114.0,,20.0,80.0,,4.0,5.0,No
+PHY2026,2023/4,Practical Physics II,15.0,141.0,96.0,54.0,,76.0,0.0,24.0,4.0,5.0,No
+PHY2027,2023/4,Scientific Programming in C,15.0,60.0,33.0,117.0,,70.0,0.0,30.0,3.0,5.0,No
+PHY2029,2023/4,The Physics of Living Systems,15.0,64.0,22.0,128.0,,0.0,100.0,,1.0,5.0,No
+PHY2030,2023/4,Observing the Universe,15.0,84.0,22.0,128.0,,0.0,100.0,,1.0,5.0,No
+PHY2032,2023/4,Analytical and Chaotic Dynamics,15.0,33.0,22.0,128.0,,0.0,100.0,,1.0,5.0,No
+PHY2033,2023/4,Physics Practicals (One-term/semester inbound exchange),15.0,1.0,85.0,65.0,,60.0,0.0,40.0,4.0,5.0,No
+PHY2035,2023/4,Scientific Programming in Python,15.0,120.0,33.0,117.0,,70.0,0.0,30.0,5.0,5.0,No
+PHY2036,2023/4,Study Abroad Electives,60.0,8.0,,,600.0,33.0,67.0,,2.0,5.0,No
+PHY2037,2023/4,Nonlinear Optics and Imaging,15.0,33.0,22.0,128.0,,0.0,100.0,,1.0,5.0,No
+PHY2222,2023/4,Physics of Climate Change,15.0,30.0,20.0,130.0,0.0,100.0,0.0,0.0,2.0,5.0,No
+PHY3051,2023/4,Electromagnetism II,15.0,60.0,25.0,125.0,,0.0,100.0,,1.0,6.0,No
+PHY3052,2023/4,Nuclear and High Energy Physics,15.0,118.0,25.0,125.0,0.0,0.0,100.0,0.0,1.0,6.0,No
+PHY3053,2023/4,General Problems,15.0,101.0,17.0,133.0,,0.0,100.0,,1.0,6.0,No
+PHY3054,2023/4,Electromagnetism II (IS),15.0,4.0,,150.0,,0.0,100.0,,1.0,6.0,No
+PHY3055,2023/4,Electromagnetism and Quantum Mechanics,15.0,60.0,25.0,125.0,,0.0,100.0,,1.0,6.0,No
+PHY3056,2023/4,Nuclear and High Energy Physics (IS),15.0,118.0,,150.0,,0.0,100.0,,1.0,6.0,No
+PHY3061,2023/4,The Biophysics of Cells and Tissues,15.0,44.0,22.0,128.0,,0.0,100.0,,1.0,6.0,No
+PHY3062,2023/4,Methods of Theoretical Physics,15.0,46.0,22.0,128.0,,0.0,100.0,,1.0,6.0,No
+PHY3064,2023/4,Nanostructures and Graphene Science,15.0,12.0,13.0,136.0,,80.0,0.0,20.0,3.0,6.0,No
+PHY3066,2023/4,Galaxies and High Energy Astrophysics,15.0,59.0,22.0,128.0,,0.0,100.0,,1.0,6.0,No
+PHY3070,2023/4,Stars from Birth to Death,15.0,66.0,20.0,130.0,,40.0,60.0,,2.0,6.0,No
+PHY3071,2023/4,Soft Matter,15.0,33.0,22.0,128.0,,0.0,100.0,,1.0,6.0,No
+PHY3122,2023/4,Project and Dissertation,30.0,40.0,240.0,60.0,,40.0,0.0,60.0,3.0,6.0,No
+PHY3138,2023/4,Projects and Dissertations,30.0,53.0,198.0,102.0,,30.0,0.0,70.0,6.0,6.0,No
+PHY3147,2023/4,One-Semester Physics Project and Report,15.0,12.0,99.0,51.0,,60.0,0.0,40.0,3.0,6.0,No
+PHY3150,2023/4,Applying Physics (Group Project),15.0,8.0,99.0,51.0,,50.0,0.0,50.0,4.0,6.0,No
+PHY3218,2023/4,Study Abroad Physics Options,60.0,8.0,,,600.0,33.0,67.0,,2.0,6.0,No
+PHY3220,2023/4,Fluid Dynamics in Physics and Astronomy,15.0,30.0,22.0,128.0,0.0,40.0,60.0,0.0,2.0,6.0,No
+PHY3222,2023/4,"Energy, Materials and Sustainability",15.0,30.0,22.0,128.0,0.0,100.0,0.0,0.0,2.0,6.0,No
+PHY3306,2023/4,Professional Experience,75.0,4.0,,,750.0,50.0,0.0,50.0,5.0,6.0,No
+PHY3308,2023/4,Professional Placement,120.0,4.0,,,,50.0,0.0,50.0,5.0,6.0,No
+PHYM001,2023/4,Statistical Physics,15.0,70.0,22.0,128.0,,0.0,100.0,,1.0,7.0,No
+PHYM002,2023/4,Quantum Mechanics II,15.0,,25.0,125.0,,0.0,100.0,,1.0,7.0,No
+PHYM003,2023/4,Condensed Matter II,15.0,76.0,22.0,128.0,,0.0,100.0,,1.0,7.0,No
+PHYM004,2023/4,Computational Physics and Modelling,15.0,19.0,22.0,128.0,,90.0,0.0,10.0,3.0,7.0,No
+PHYM005,2023/4,Independent Study,15.0,1.0,,150.0,,100.0,0.0,,1.0,7.0,No
+PHYM006,2023/4,Relativity and Cosmology,15.0,32.0,22.0,128.0,,0.0,100.0,,1.0,7.0,No
+PHYM008,2023/4,Physical Methods in Biology and Medicine,15.0,34.0,22.0,128.0,,0.0,100.0,,1.0,7.0,No
+PHYM009,2023/4,Project and Dissertation,45.0,61.0,302.0,148.0,,63.0,0.0,37.0,3.0,7.0,No
+PHYM010,2023/4,Project and Dissertation,60.0,15.0,442.0,158.0,,41.0,0.0,59.0,5.0,7.0,No
+PHYM012,2023/4,Solar and Extra-Solar Planets and Their Atmospheres,15.0,47.0,22.0,128.0,,0.0,100.0,,1.0,7.0,No
+PHYM013,2023/4,Quantum Many-Body Theory,15.0,21.0,22.0,128.0,,0.0,100.0,,1.0,7.0,No
+PHYM015,2023/4,Quantum Optics and Photonics,15.0,33.0,22.0,128.0,0.0,0.0,100.0,,1.0,7.0,No
+PHYM502,2023/4,Frontiers in Physics Research,15.0,10.0,6.0,144.0,0.0,100.0,0.0,0.0,2.0,7.0,No
+PHYM503,2023/4,Research Project,90.0,10.0,20.0,880.0,0.0,85.0,0.0,15.0,3.0,7.0,No
+SOC3146,2023/4,,,,,,,,,,,,
+SOCM022,2023/4,,,,,,,,,,,,
+BEM2037,2024/5,,,,,,,,,,,,
+BEM3064,2024/5,,,,,,,,,,,,
+BEMM166,2024/5,,,,,,,,,,,,
+ENG1002,2024/5,Engineering Mathematics and Scientific Computing,30,200.0,120,180.0,0.0,30,70,0.0,2.0,4.0,No
+ENG1005,2024/5,Multi-Disciplinary Group Challenge Project,30,240.0,70,230.0,,100,0,0.0,6.0,4.0,No
+ENG1006,2024/5,Entrepreneurship 1,15,225.0,26,124.0,0.0,100,0,0.0,7.0,4.0,No
+ENG1007,2024/5,Fundamentals of Mechanics,15,240.0,49,101.0,0.0,40,60,0.0,4.0,4.0,No
+ENG1008,2024/5,Fundamentals of Materials,15,240.0,44,106.0,0.0,40,60,0.0,3.0,4.0,No
+ENG1009,2024/5,Fundamentals of Electronics,15,,76,74.0,0.0,40,60,0.0,3.0,4.0,No
+ENG1200DA,2024/5,Core Engineering,30,25.0,93,34.0,173.0,30,70,0.0,5.0,4.0,No
+ENG1201DA,2024/5,Mathematics for Engineers,15,25.0,64,18.0,68.0,40,60,0.0,4.0,4.0,No
+ENG1202DA,2024/5,Basic Mechanics,15,25.0,50,40.0,60.0,50,50,0.0,3.0,4.0,No
+ENG1203DA,2024/5,Professional Studies and Skills Development A,15,25.0,50,50.0,50.0,100,0,0.0,2.0,4.0,No
+ENG1204DA,2024/5,Materials,15,25.0,30,50.0,70.0,40,60,0.0,3.0,4.0,No
+ENG1205DA,2024/5,Advanced Mathematics for Engineers,15,25.0,64,48.0,38.0,60,40,,4.0,4.0,No
+ENG1206DA,2024/5,Professional Studies and Skills Development B,15,25.0,50,50.0,50.0,100,0,0.0,2.0,5.0,No
+ENG2001,2024/5,Civil Engineering Challenge Project,30,30.0,100,200.0,0.0,100,0,0.0,3.0,5.0,No
+ENG2003,2024/5,Electronic Engineering Challenge Project,30,35.0,72,228.0,0.0,100,0,0.0,6.0,5.0,No
+ENG2004,2024/5,Entrepreneurship 2,15,250.0,25,125.0,0.0,100,0,0.0,5.0,5.0,No
+ENG2005,2024/5,Entrepreneurship Challenge Project,30,20.0,43,257.0,0.0,100,0,0.0,4.0,5.0,No
+ENG2006,2024/5,Industry 4.0,15,200.0,24,126.0,,100,0,0.0,3.0,5.0,No
+ENG2007,2024/5,Introduction to Fluid Dynamics,15,,50,100.0,,30,70,,7.0,5.0,No
+ENG2008,2024/5,Microcontroller Engineering,15,35.0,63,87.0,0.0,40,60,,3.0,5.0,No
+ENG2009,2024/5,Modelling of Engineering Systems,15,,33,117.0,,25,75,0.0,3.0,5.0,No
+ENG2010,2024/5,Soil Mechanics,15,,87,63.0,,50,35,15.0,3.0,5.0,No
+ENG2011,2024/5,Solid Mechanics,15,,25,125.0,0.0,20,80,,2.0,5.0,No
+ENG2012,2024/5,Structural Behaviour,15,160.0,39,111.0,0.0,25,75,,2.0,5.0,No
+ENG2013,2024/5,Sustainable Design Challenge Project,30,150.0,55,245.0,,100,0,,4.0,5.0,No
+ENG2014,2024/5,Technology Entrepreneurship,15,20.0,19,131.0,,100,0,,3.0,5.0,No
+ENG2015,2024/5,Management Challenge Project,30,,55,245.0,,100,0,0.0,4.0,5.0,No
+ENG2016,2024/5,Introduction in Economics and Company Finance,15,25.0,22,128.0,,50,50,,2.0,4.0,No
+ENG2017,2024/5,Communication and Networking Technologies,15,30.0,30,120.0,0.0,40,60,,4.0,2.0,No
+ENG2118,2024/5,Analogue and Digital Electronics Design,15,35.0,50,100.0,,30,70,,3.0,,No
+ENG2200DA,2024/5,Structural Materials,15,25.0,40,20.0,90.0,100,0,0.0,2.0,5.0,No
+ENG2201DA,2024/5,Mechanics,15,25.0,32,118.0,0.0,20,80,0.0,2.0,4.0,No
+ENG2202DA,2024/5,Structures,15,25.0,35,80.0,35.0,20,80,0.0,2.0,5.0,No
+ENG2203DA,2024/5,Geotechnics 1,15,25.0,41,20.0,89.0,50,50,0.0,2.0,5.0,No
+ENG2204DA,2024/5,Construction Site Management,15,25.0,50,50.0,50.0,100,0,0.0,4.0,5.0,No
+ENG2206DA,2024/5,BIM and Temporary Works,15,30.0,50,50.0,50.0,100,0,0.0,2.0,5.0,No
+ENG2208DA,2024/5,Sustainable Development,15,25.0,28,82.0,40.0,100,0,,2.0,6.0,No
+ENG2209DA,2024/5,Structural Concrete,15,40.0,40,60.0,50.0,100,0,0.0,2.0,5.0,No
+ECM2100,2024/5,Employability and Placement Preparation for Engineers,0,40.0,20,20.0,0.0,0,0,,,5.0,No
+ECM2106,2024/5,Manufacturing Systems,15,17.0,22,138.0,0.0,30,70,0.0,3.0,5.0,No
+ENG3001,2024/5,Construction Project Management,15,,50,100.0,,100,0,,3.0,6.0,No
+ENG3002,2024/5,Decision Making Systems & Decision Theory,15,35.0,22,128.0,0.0,0,100,0.0,1.0,6.0,No
+ENG3003,2024/5,Digital Engineering and Building Information Modelling,15,,34,116.0,,100,0,0.0,2.0,6.0,No
+ENG3004,2024/5,Engineering Electromagnetics,15,30.0,42,108.0,0.0,30,70,0.0,2.0,6.0,No
+ENG3005,2024/5,Fluid Dynamics and CFD,15,50.0,50,100.0,,60,40,,3.0,6.0,No
+ENG3006,2024/5,Geotechnical Engineering and Foundation Design,15,,48,102.0,0.0,30,50,20.0,3.0,6.0,No
+ENG3007,2024/5,Global Entrepreneurial Marketing,15,15.0,11,139.0,0.0,100,0,0.0,1.0,6.0,No
+ENG3008A,2024/5,Mechanical Design and Build: Part 1 - Research,15,40.0,18,132.0,0.0,100,0,0.0,3.0,6.0,No
+ENG3008B,2024/5,Mechanical Design and Build: Part 2 - Development,15,47.0,33,117.0,0.0,100,0,0.0,3.0,6.0,No
+ENG3010,2024/5,Industrial Awareness & Problem Solving,15,40.0,45,105.0,0.0,100,0,0.0,3.0,6.0,No
+ENG3011,2024/5,Management and Leadership,15.0,35.0,22.0,128.0,0.0,40.0,60.0,0.0,2.0,6.0,No
+ENG3012,2024/5,Mechatronics,15.0,40.0,33.0,117.0,0.0,25.0,70.0,5.0,3.0,6.0,No
+ENG3013A,2024/5,Civil Design and Build: Part 1 - Research,15.0,,18.0,132.0,0.0,100.0,0.0,0.0,3.0,6.0,No
+ENG3013B,2024/5,Civil Design and Build: Part 2 - Development,15.0,,33.0,117.0,,100.0,0.0,0.0,3.0,,No
+ENG3014,2024/5,Structural Engineering,15.0,,35.0,115.0,0.0,35.0,65.0,0.0,3.0,6.0,No
+ENG3015,2024/5,Structural Dynamics,15.0,,40.0,110.0,0.0,20.0,80.0,0.0,2.0,6.0,No
+ENG3016,2024/5,Thermodynamics and Heat Transfer,15.0,150.0,43.0,107.0,,15.0,70.0,15.0,3.0,6.0,No
+ENG3017,2024/5,Quality Control and Improvement,15.0,35.0,22.0,128.0,0.0,25.0,75.0,0.0,2.0,6.0,No
+ENG3018,2024/5,Control Engineering,15.0,180.0,32.0,118.0,0.0,20.0,80.0,0.0,5.0,6.0,No
+ENG3019A,2024/5,Management Design and Build: Part 1 - Research,15.0,,18.0,132.0,0.0,50.0,0.0,50.0,2.0,6.0,No
+ENG3019B,2024/5,Management Design and Build: Part 2 - Development,15.0,,33.0,117.0,0.0,50.0,0.0,50.0,2.0,6.0,No
+ENG3020A,2024/5,Entrepreneurship Design and Build: Part 1 - Research,15.0,,13.0,137.0,,100.0,0.0,0.0,3.0,6.0,No
+ENG3020B,2024/5,Entrepreneurship Design and Build: Part 2 - Development,15.0,,33.0,117.0,0.0,50.0,0.0,50.0,2.0,6.0,No
+ENG3021A,2024/5,Electronic Design and Build: Part 1 - Research,15.0,,18.0,132.0,0.0,70.0,0.0,30.0,3.0,6.0,No
+ENG3021B,2024/5,Electronic Design and Build: Part 2 - Development,15.0,,41.0,109.0,0.0,50.0,0.0,50.0,3.0,6.0,No
+ENG3022,2024/5,Finite Element Analysis for High Value Manufacturing,15.0,90.0,48.0,102.0,0.0,100.0,0.0,,2.0,6.0,No
+ENG3023,2024/5,Zero Emission Vehicles,15.0,,39.0,111.0,0.0,20.0,80.0,0.0,2.0,6.0,No
+ENG3201DA,2024/5,Structural Engineering,15.0,25.0,40.0,60.0,50.0,60.0,40.0,0.0,3.0,6.0,No
+ENG3202DA,2024/5,Geotechnics 2,15.0,25.0,98.0,52.0,0.0,15.0,50.0,35.0,3.0,6.0,No
+ENG3204DA,2024/5,Individual Project,30.0,25.0,25.0,175.0,100.0,100.0,0.0,0.0,2.0,6.0,No
+ENG3206DA,2024/5,Conceptual Design of Buildings,30.0,25.0,64.0,86.0,50.0,100.0,0.0,0.0,4.0,6.0,No
+ENG3207DA,2024/5,Practical Hydraulic Engineering,15.0,25.0,43.0,60.0,50.0,20.0,80.0,0.0,2.0,6.0,No
+ENG3211DA,2024/5,Accounting and Company Finance,15.0,25.0,44.0,106.0,0.0,50.0,50.0,0.0,2.0,6.0,No
+ECM3153,2024/5,Management of Product Development,15.0,45.0,22.0,128.0,0.0,40.0,60.0,,3.0,3.0,No
+ECM3156,2024/5,Civil Engineering Hydraulics,15.0,50.0,43.0,107.0,0.0,20.0,80.0,0.0,2.0,3.0,No
+ECM3158,2024/5,,,,,,,,,,,,
+ECM3160,2024/5,Materials,15.0,150.0,84.0,66.0,0.0,40.0,60.0,,4.0,3.0,No
+ECM3164,2024/5,Operations Management,15.0,39.0,22.0,128.0,0.0,30.0,70.0,,2.0,6.0,No
+ECM3165,2024/5,Digital Signal Processing,15.0,30.0,45.0,105.0,0.0,30.0,70.0,,4.0,3.0,No
+ECM3166,2024/5,Communications Engineering,15.0,30.0,50.0,100.0,0.0,30.0,70.0,0.0,3.0,3.0,No
+ECM3172,2024/5,Study Abroad Semester,60.0,10.0,0.0,0.0,600.0,0.0,100.0,0.0,1.0,6.0,No
+ECM3174,2024/5,Year in Industry,120.0,4.0,6.0,114.0,,80.0,0.0,20.0,4.0,6.0,No
+ECM3175,2024/5,Individual Project,30.0,106.0,27.0,273.0,0.0,100.0,0.0,0.0,1.0,6.0,No
+ENGM001,2024/5,Additive Manufacturing,15.0,30.0,16.0,137.0,0.0,40.0,60.0,0.0,2.0,7.0,No
+ENGM002,2024/5,Advanced Communication Systems,15.0,15.0,42.0,108.0,0.0,30.0,70.0,,3.0,7.0,No
+ENGM003,2024/5,Advanced Finite Element Analysis (FEA),15.0,,33.0,117.0,0.0,100.0,0.0,0.0,2.0,7.0,No
+ENGM005,2024/5,Business Start-up Project,90.0,,,900.0,,100.0,0.0,0.0,1.0,7.0,No
+ENGM006,2024/5,Civil Engineering Materials,15.0,30.0,44.0,106.0,,30.0,70.0,,2.0,7.0,No
+ENGM008,2024/5,Design of Reinforced Concrete and Steel Structures,15.0,25.0,44.0,106.0,,30.0,70.0,,3.0,7.0,No
+ENGM009,2024/5,Electric Machines and Power Electronics,15.0,20.0,43.0,107.0,0.0,30.0,70.0,0.0,4.0,7.0,No
+ENGM010,2024/5,Data-Centric Engineering,15.0,,33.0,117.0,,30.0,70.0,0.0,3.0,7.0,No
+ENGM011,2024/5,Entrepreneurship 3,30.0,50.0,20.0,280.0,,100.0,0.0,0.0,2.0,7.0,No
+ENGM012,2024/5,Performance Based Design Under Dynamic Loading,15.0,30.0,35.0,115.0,,20.0,80.0,,2.0,7.0,No
+ENGM015,2024/5,MEng Individual Investigative Project,45.0,80.0,26.0,428.0,,80.0,0.0,20.0,3.0,7.0,No
+ENGM016,2024/5,Metamaterials,15.0,15.0,33.0,117.0,,100.0,0.0,0.0,2.0,7.0,No
+ENGM017,2024/5,Composite Materials,15.0,20.0,33.0,117.0,,40.0,60.0,,2.0,7.0,No
+ENGM018,2024/5,Nonlinear Control,15.0,20.0,35.0,115.0,,20.0,80.0,,2.0,7.0,No
+ENGM020,2024/5,Robotics and Automation,15.0,,41.0,109.0,,40.0,60.0,,3.0,7.0,No
+ENGM021,2024/5,Smart Production Systems,15.0,150.0,33.0,117.0,0.0,0.0,100.0,,1.0,7.0,No
+ENGM023,2024/5,Sustainable Manufacturing,15.0,250.0,22.0,128.0,,80.0,0.0,20.0,2.0,7.0,No
+ENGM025,2024/5,Smart Civil Structures,15.0,,44.0,106.0,0.0,100.0,0.0,0.0,3.0,7.0,No
+ENGM026,2024/5,"Design, Innovation & Entrepreneurship",15.0,15.0,27.0,123.0,,100.0,0.0,0.0,2.0,7.0,No
+ENGM028,2024/5,MSc Industrial Placement,60.0,20.0,20.0,80.0,500.0,80.0,0.0,20.0,,7.0,No
+ENGM029,2024/5,Power Systems Analysis,15.0,25.0,42.0,108.0,0.0,30.0,70.0,0.0,3.0,7.0,No
+ENGM030,2024/5,Digital Twinning for Power System Plant,15.0,10.0,43.0,107.0,0.0,30.0,70.0,0.0,7.0,7.0,No
+ENGM031,2024/5,Smart Grids and Sustainable Energy Systems,15.0,25.0,42.0,108.0,0.0,100.0,0.0,0.0,3.0,7.0,No
+ENGM032,2024/5,Resilience of Electrical Energy Systems,15.0,25.0,42.0,108.0,0.0,30.0,70.0,0.0,3.0,7.0,No
+ENGM033,2024/5,Supply Chain Quality Management,15.0,100.0,20.0,130.0,0.0,25.0,75.0,0.0,2.0,7.0,No
+ENGM035,2024/5,Finance for Engineers,15.0,20.0,44.0,106.0,0.0,100.0,0.0,0.0,2.0,7.0,No
+ENGM036,2024/5,Digital Mapping and Survey,15.0,20.0,44.0,106.0,0.0,100.0,0.0,0.0,2.0,7.0,No
+ENGM038,2024/5,Digital Analysis,30.0,20.0,88.0,212.0,0.0,100.0,0.0,0.0,3.0,7.0,No
+ENGM039,2024/5,"Modelling, Simulation and Machine Learning for Operations Management",15.0,300.0,41.0,109.0,0.0,80.0,0.0,20.0,3.0,7.0,No
+ENGM040,2024/5,Research Ethics and Methodology,15.0,300.0,17.0,133.0,0.0,50.0,0.0,50.0,3.0,7.0,No
+ENGM043,2024/5,Energy Efficient Electronic Circuits,15.0,,,,,,,,,,No
+ECMM103,2024/5,Computer Aided Engineering Design,15.0,37.0,28.0,122.0,0.0,100.0,0.0,,4.0,7.0,No
+ECMM109,2024/5,Advanced Geotechnical Engineering,15.0,0.0,41.0,109.0,0.0,100.0,0.0,0.0,3.0,7.0,No
+ECMM110,2024/5,Water and Environmental Systems,15.0,20.0,33.0,117.0,0.0,100.0,0.0,0.0,3.0,7.0,No
+ECMM112,2024/5,Manufacturing Supply Chain Management,15.0,30.0,22.0,128.0,0.0,100.0,0.0,0.0,2.0,7.0,No
+ECMM113,2024/5,"Agile, Lean and Competitive Enterprise",15.0,60.0,44.0,106.0,,100.0,0.0,0.0,2.0,7.0,No
+ECMM124,2024/5,Hydroinformatics Tools,15.0,30.0,48.0,102.0,,30.0,70.0,,2.0,7.0,No
+ECMM132,2024/5,Urban Drainage and Waste Water Management,15.0,20.0,44.0,106.0,0.0,30.0,70.0,0.0,2.0,7.0,No
+ECMM133,2024/5,Water Supply and Distribution Management,15.0,20.0,44.0,106.0,0.0,30.0,70.0,0.0,2.0,7.0,No
+ECMM134,2024/5,Environmental Processes,15.0,20.0,46.0,104.0,0.0,30.0,70.0,0.0,3.0,7.0,No
+ECMM141,2024/5,Multivariable State-Space Control,15.0,15.0,22.0,118.0,0.0,20.0,80.0,0.0,2.0,7.0,No
+ECMM148,2024/5,Advanced CFD,15.0,30.0,26.0,124.0,0.0,100.0,0.0,0.0,4.0,7.0,No
+ECMM149,2024/5,Linear Systems and Structural Analysis,15.0,0.0,33.0,117.0,0.0,30.0,70.0,0.0,3.0,7.0,No
+ECMM150,2024/5,Structural Design,15.0,0.0,37.0,113.0,0.0,30.0,70.0,0.0,3.0,7.0,No
+ECMM153,2024/5,Conceptual Design of Buildings,15.0,30.0,40.0,110.0,0.0,30.0,70.0,0.0,2.0,7.0,No
+ECMM162,2024/5,Water Management in Developing Countries,15.0,20.0,30.0,120.0,0.0,100.0,0.0,0.0,3.0,7.0,No
+ECMM163,2024/5,Sustainable Engineering,15.0,0.0,40.0,110.0,0.0,100.0,0.0,0.0,2.0,7.0,No
+ECMM164,2024/5,MSc Dissertation,60.0,200.0,22.0,578.0,0.0,90.0,0.0,10.0,3.0,7.0,No
+EMP3001,2024/5,Commercial and Industrial Experience,15.0,31.0,9.0,61.0,80.0,100.0,0.0,0.0,2.0,6.0,No
+EDUM073,2024/5,,,,,,,,,,,,
+EDUM074,2024/5,,,,,,,,,,,,
+EDUM075,2024/5,,,,,,,,,,,,
+EDUM076,2024/5,,,,,,,,,,,,
+EDUM077,2024/5,,,,,,,,,,,,
+EDUM078,2024/5,,,,,,,,,,,,
+EDUM079,2024/5,,,,,,,,,,,,
+EDUM080,2024/5,,,,,,,,,,,,
+EDUM081,2024/5,,,,,,,,,,,,
+EDUM095,2024/5,,,,,,,,,,,,
+EFPM901DA,2024/5,,,,,,,,,,,,
+CMM2010,2024/5,,,,,,,,,,,,
+DRAM165,2024/5,,,,,,,,,,,,
+PSYM248,2024/5,,,,,,,,,,,,
+PSYM249,2024/5,,,,,,,,,,,,
+PSYM250,2024/5,,,,,,,,,,,,
+PSYM251,2024/5,,,,,,,,,,,,
+PSYM252,2024/5,,,,,,,,,,,,
+CLA3263,2024/5,,,,,,,,,,,,
+MTH0001,2024/5,Principles of Pure Mathematics,30.0,30.0,88.0,212.0,0.0,20.0,80.0,0.0,6.0,,No
+MTH0003,2024/5,Exploring Mathematics,15.0,30.0,44.0,106.0,0.0,50.0,50.0,0.0,4.0,,No
+MTH0004,2024/5,Foundation Statistics,15.0,30.0,44.0,106.0,0.0,50.0,50.0,0.0,4.0,,No
+MTH0005,2024/5,Science: Skills and Culture,30.0,30.0,44.0,256.0,0.0,70.0,0.0,30.0,4.0,,No
+MTH0006,2024/5,Applied Mathematics,15.0,30.0,44.0,106.0,0.0,30.0,70.0,0.0,3.0,3.0,No
+MTH0007,2024/5,Programming Skills,15.0,30.0,44.0,106.0,0.0,0.0,100.0,0.0,2.0,3.0,No
+MTH1000,2024/5,Foundations,0.0,300.0,84.0,36.0,,0.0,0.0,0.0,,4.0,No
+MTH1001,2024/5,Mathematical Structures,30.0,270.0,76.0,224.0,,20.0,80.0,0.0,4.0,4.0,No
+MTH1002,2024/5,Mathematical Methods,30.0,200.0,76.0,224.0,,0.0,100.0,0.0,4.0,4.0,No
+MTH1003,2024/5,Mathematical Modelling,30.0,200.0,88.0,212.0,0.0,40.0,60.0,0.0,4.0,4.0,No
+MTH1004,2024/5,"Probability, Statistics and Data",30.0,275.0,88.0,212.0,,30.0,70.0,,4.0,4.0,No
+MTH1100,2024/5,Employability and Preparation for Placement or Internship,0.0,30.0,15.0,30.0,0.0,0.0,0.0,,,5.0,No
+MTH2003,2024/5,Differential Equations,15.0,300.0,38.0,112.0,,10.0,90.0,0.0,3.0,5.0,No
+MTH2004,2024/5,Vector Calculus and Applications,15.0,250.0,33.0,118.0,,20.0,80.0,,3.0,5.0,No
+MTH2005,2024/5,Modelling: Theory and Practice,30.0,128.0,64.0,236.0,,70.0,30.0,,4.0,5.0,No
+MTH2006,2024/5,Statistical Modelling and Inference,30.0,128.0,70.0,230.0,0.0,30.0,70.0,0.0,3.0,5.0,No
+MTH2008,2024/5,Real Analysis,15.0,260.0,38.0,112.0,0.0,20.0,80.0,0.0,2.0,5.0,No
+MTH2009,2024/5,Complex Analysis,15.0,200.0,38.0,112.0,0.0,20.0,80.0,0.0,2.0,5.0,No
+MTH2010,2024/5,"Groups, Rings and Fields",15.0,120.0,38.0,112.0,0.0,20.0,80.0,0.0,5.0,5.0,No
+MTH2011,2024/5,Linear Algebra,15.0,230.0,38.0,112.0,0.0,20.0,80.0,0.0,6.0,5.0,No
+MTH2100,2024/5,Employability and Career Resources,0.0,240.0,15.0,30.0,0.0,0.0,0.0,,,5.0,No
+MTH3001,2024/5,Theory of Weather and Climate,15.0,61.0,33.0,117.0,0.0,20.0,80.0,0.0,3.0,6.0,No
+MTH3004,2024/5,Number Theory,15.0,100.0,33.0,117.0,0.0,20.0,80.0,0.0,3.0,6.0,No
+MTH3006,2024/5,Mathematical Biology and Ecology,15.0,90.0,33.0,117.0,0.0,20.0,80.0,0.0,3.0,6.0,No
+MTH3007,2024/5,Fluid Dynamics,15.0,152.0,33.0,117.0,0.0,20.0,80.0,0.0,3.0,6.0,No
+MTH3008,2024/5,Partial Differential Equations,15.0,88.0,33.0,117.0,0.0,20.0,80.0,0.0,3.0,6.0,No
+MTH3011,2024/5,Nonlinear Systems and Control,15.0,11.0,33.0,117.0,0.0,20.0,80.0,0.0,2.0,6.0,No
+MTH3013,2024/5,Applied Differential Geometry,15.0,25.0,33.0,117.0,0.0,20.0,80.0,0.0,3.0,6.0,No
+MTH3019,2024/5,Mathematics: History and Culture,15.0,67.0,20.0,130.0,0.0,40.0,50.0,10.0,4.0,6.0,No
+MTH3022,2024/5,"Graphs, Networks and Algorithms",15.0,76.0,33.0,117.0,0.0,0.0,60.0,40.0,3.0,6.0,No
+MTH3024,2024/5,Stochastic Processes,15.0,100.0,33.0,117.0,,20.0,80.0,,2.0,6.0,No
+MTH3026,2024/5,Cryptography,15.0,116.0,33.0,117.0,0.0,20.0,80.0,0.0,3.0,6.0,No
+MTH3028,2024/5,Statistical Inference: Theory and Practice,15.0,80.0,33.0,117.0,,20.0,80.0,,2.0,6.0,No
+MTH3030,2024/5,Mathematics of Climate Change,15.0,170.0,33.0,117.0,,20.0,80.0,,3.0,6.0,No
+MTH3035,2024/5,Mathematics Group Project,15.0,138.0,22.0,128.0,0.0,75.0,0.0,25.0,6.0,6.0,No
+MTH3038,2024/5,Galois Theory,15.0,30.0,33.0,117.0,0.0,20.0,80.0,0.0,3.0,6.0,No
+MTH3039,2024/5,Computational Nonlinear Dynamics,15.0,19.0,33.0,117.0,0.0,100.0,0.0,0.0,2.0,6.0,No
+MTH3040,2024/5,Topology and Metric Spaces,15.0,24.0,33.0,127.0,0.0,20.0,80.0,0.0,3.0,6.0,No
+MTH3041,2024/5,"Bayesian statistics, Philosophy and Practice",15.0,25.0,33.0,117.0,0.0,20.0,80.0,,2.0,6.0,No
+MTH3042,2024/5,Integral Equations,15.0,150.0,33.0,117.0,0.0,20.0,80.0,0.0,3.0,6.0,No
+MTH3045,2024/5,Statistical Computing,15.0,45.0,31.0,119.0,,0.0,50.0,50.0,2.0,6.0,No
+MTH3050,2024/5,Functional Analysis,15.0,,33.0,117.0,0.0,20.0,80.0,0.0,3.0,6.0,No
+MTH3100,2024/5,Industrial Placement,120.0,6.0,6.0,314.0,880.0,85.0,0.0,15.0,3.0,6.0,No
+MTHM002,2024/5,Methods for Stochastics and Finance,15.0,58.0,33.0,117.0,0.0,0.0,100.0,0.0,2.0,7.0,No
+MTHM003,2024/5,Analysis and Computation for Finance,15.0,49.0,39.0,114.0,0.0,40.0,60.0,0.0,3.0,7.0,No
+MTHM004,2024/5,Fractal Geometry,15.0,20.0,33.0,127.0,0.0,0.0,100.0,0.0,1.0,7.0,No
+MTHM005,2024/5,Mathematical Sciences Project,30.0,34.0,22.0,278.0,,90.0,0.0,10.0,2.0,7.0,No
+MTHM006,2024/5,Mathematical Theory of Option Pricing,15.0,48.0,33.0,117.0,0.0,20.0,80.0,0.0,3.0,7.0,No
+MTHM007,2024/5,Engaging with Research,15.0,20.0,44.0,106.0,0.0,80.0,0.0,20.0,6.0,7.0,No
+MTHM008,2024/5,Computational Modelling,15.0,20.0,33.0,117.0,0.0,100.0,0.0,0.0,3.0,7.0,No
+MTHM009,2024/5,Advanced Topics in Mathematical & Computational Biology,15.0,10.0,33.0,117.0,0.0,100.0,0.0,0.0,1.0,7.0,No
+MTHM010,2024/5,Representation Theory of Finite Groups,15.0,,33.0,117.0,0.0,20.0,80.0,0.0,3.0,7.0,No
+MTHM015,2024/5,AI and Data Science Methods for Life and Health Sciences,15.0,20.0,33.0,117.0,0.0,100.0,0.0,0.0,2.0,7.0,No
+MTHM017,2024/5,Advanced Topics in Statistics,15.0,100.0,30.0,120.0,0.0,100.0,0.0,0.0,1.0,7.0,No
+MTHM018,2024/5,Dynamical Systems and Chaos,15.0,33.0,33.0,117.0,0.0,20.0,80.0,0.0,3.0,7.0,No
+MTHM019,2024/5,Fluid Dynamics of Atmospheres and Oceans,15.0,23.0,33.0,117.0,0.0,20.0,80.0,0.0,3.0,7.0,No
+MTHM021,2024/5,Advanced Mathematics Project,60.0,25.0,22.0,578.0,0.0,100.0,0.0,0.0,2.0,7.0,No
+MTHM023,2024/5,Modelling the Weather and Climate,15.0,5.0,33.0,117.0,0.0,35.0,65.0,0.0,3.0,7.0,No
+MTHM029,2024/5,Algebraic Curves,15.0,11.0,50.0,100.0,0.0,20.0,80.0,0.0,3.0,7.0,No
+MTHM030,2024/5,"Waves, Instabilities and Turbulence",15.0,13.0,33.0,117.0,0.0,30.0,70.0,0.0,3.0,7.0,No
+MTHM031,2024/5,Magnetic Fields and Fluid Flows,15.0,21.0,33.0,117.0,0.0,20.0,80.0,0.0,2.0,7.0,No
+MTHM032,2024/5,"Mathematics, Business and Finance Project",30.0,4.0,22.0,278.0,,100.0,0.0,0.0,2.0,7.0,No
+MTHM033,2024/5,Statistical Modelling in Space and Time,15.0,20.0,33.0,115.0,0.0,20.0,80.0,0.0,2.0,7.0,No
+MTHM036,2024/5,Research in Mathematical Sciences,15.0,42.0,19.0,131.0,0.0,85.0,0.0,15.0,3.0,7.0,No
+MTHM040,2024/5,MSci Project,45.0,3.0,25.0,425.0,0.0,80.0,0.0,20.0,4.0,7.0,No
+MTHM044,2024/5,MMATH Project in Statistics,45.0,20.0,25.0,425.0,0.0,90.0,0.0,10.0,3.0,7.0,No
+MTHM045,2024/5,Space Weather and Plasmas,15.0,10.0,33.0,117.0,0.0,20.0,80.0,0.0,2.0,7.0,No
+MTHM047,2024/5,"Bayesian Statistics, Philosophy and Practice",15.0,28.0,33.0,117.0,0.0,20.0,80.0,0.0,2.0,7.0,No
+MTHM048,2024/5,Ergodic Theory,15.0,20.0,33.0,117.0,0.0,20.0,80.0,,3.0,7.0,No
+MTHM050,2024/5,Research Project in Statistics,60.0,,20.0,580.0,0.0,85.0,0.0,15.0,3.0,7.0,No
+MTHM051,2024/5,Fundamentals of Weather and Climate Science,15.0,,33.0,117.0,0.0,20.0,80.0,0.0,2.0,7.0,No
+MTHM052,2024/5,Mid-Latitude Weather Systems,15.0,20.0,33.0,117.0,0.0,20.0,80.0,0.0,3.0,7.0,No
+MTHM053,2024/5,MSc Professional Placement,60.0,20.0,20.0,80.0,500.0,80.0,0.0,20.0,3.0,7.0,No
+MTHM054,2024/5,Climate Change Science and Solutions,15.0,60.0,20.0,130.0,0.0,100.0,0.0,0.0,3.0,7.0,No
+MTHM059,2024/5,Case Studies in Mathematical Finance,30.0,,66.0,234.0,0.0,100.0,0.0,0.0,3.0,7.0,No
+MTHM060,2024/5,Actuarial and Mathematical Finance Project,60.0,25.0,22.0,578.0,0.0,100.0,0.0,0.0,2.0,7.0,No
+MTHM061,2024/5,Topics in Analytic Number Theory,15.0,22.0,48.0,102.0,0.0,40.0,40.0,20.0,6.0,7.0,No
+MTHM062,2024/5,Data-driven Analysis and Modelling of Dynamical Systems,15.0,50.0,33.0,117.0,0.0,40.0,60.0,0.0,3.0,7.0,No
+MTHM063,2024/5,Uncertainty Quantification,15.0,30.0,33.0,117.0,0.0,60.0,40.0,0.0,3.0,,No
+MTHM064,2024/5,Dissertation Project,60.0,40.0,20.0,580.0,0.0,100.0,0.0,0.0,3.0,7.0,No
+MTHM501,2024/5,Working with Data,15.0,50.0,30.0,120.0,0.0,100.0,0.0,0.0,1.0,7.0,No
+MTHM502,2024/5,Introduction to Data Science and Statistical Modelling,15.0,150.0,30.0,120.0,0.0,100.0,0.0,0.0,1.0,7.0,No
+MTHM503,2024/5,Applications of Data Science and Statistics,15.0,15.0,36.0,114.0,0.0,80.0,20.0,0.0,2.0,7.0,No
+MTHM504,2024/5,Applied Data Science and Statistics Project,60.0,50.0,20.0,580.0,0.0,100.0,0.0,0.0,3.0,7.0,No
+MTHM505,2024/5,Data Science and Statistical Modelling in Space and Time,15.0,50.0,30.0,118.0,,100.0,0.0,,2.0,,No
+MTHM506,2024/5,Statistical Data Modelling,15.0,50.0,30.0,120.0,,100.0,0.0,,2.0,7.0,No
+MTHM507,2024/5,Communicating Data Science,15.0,60.0,40.0,110.0,0.0,100.0,0.0,0.0,2.0,7.0,No
+MTHM508,2024/5,Bayesian Philosophy and Methods in Data Science,15.0,28.0,33.0,117.0,,50.0,50.0,,3.0,,No
+MTHM611,2024/5,Topics in Environmental Intelligence,15.0,30.0,30.0,120.0,0.0,80.0,0.0,20.0,2.0,7.0,No
+MTHM612,2024/5,Environmental Intelligence Research Project,60.0,30.0,20.0,580.0,0.0,70.0,0.0,30.0,3.0,7.0,No
+LAW1004,2024/5,,,,,,,,,,,,
+BEE3045,2024/5,,,,,,,,,,,,
+GEO1211,2024/5,,,,,,,,,,,,
+GEO2319,2024/5,,,,,,,,,,,,
+GEO3223,2024/5,,,,,,,,,,,,
+GEO3603,2024/5,,,,,,,,,,,,
+PHY1021,2024/5,Vector Mechanics,15.0,149.0,34.0,116.0,0.0,10.0,90.0,,4.0,4.0,No
+PHY1022,2024/5,Introduction to Astrophysics,15.0,150.0,34.0,116.0,0.0,10.0,90.0,,4.0,4.0,No
+PHY1023,2024/5,Waves and Optics,15.0,150.0,34.0,116.0,,10.0,90.0,,4.0,4.0,No
+PHY1024,2024/5,Properties of Matter,15,,34.0,116.0,,10,90,,4.0,4,No
+PHY1025,2024/5,Mathematics Skills,15,149.0,36.0,114.0,0.0,10,90,0.0,3.0,4,No
+PHY1026,2024/5,Mathematics for Physicists,15,,36.0,114.0,,10,90,,4.0,4,No
+PHY1027,2024/5,Practical Physics I,15,142.0,93.0,57.0,,50,0,50.0,3.0,4,No
+PHY1030,2024/5,Practical Physics and IT Skills,15,14.0,89.0,61.0,,40,0,60.0,,4,No
+PHY1031,2024/5,Scientific Programming in Python,15,120.0,62.0,88.0,0.0,100,0,0.0,2.0,4,No
+PHY2021,2024/5,Electromagnetism I,15,160.0,33.0,117.0,,10,90,,3.0,5,No
+PHY2022,2024/5,Quantum Mechanics I,15,170.0,25.0,125.0,0.0,10,90,0.0,3.0,5,No
+PHY2023,2024/5,Thermal Physics,15,162.0,33.0,117.0,,10,90,,3.0,5,No
+PHY2024,2024/5,Condensed Matter I,15,146.0,33.0,117.0,,10,90,,3.0,5,No
+PHY2025,2024/5,Mathematics with Physical Applications,15,146.0,36.0,114.0,,20,80,,4.0,5,No
+PHY2026,2024/5,Practical Physics II,15,141.0,96.0,54.0,0.0,65,0,35.0,4.0,5,No
+PHY2027,2024/5,Scientific Programming in C,15,60.0,33.0,117.0,0.0,100,0,0.0,3.0,5,No
+PHY2029,2024/5,The Physics of Living Systems,15,35.0,22.0,128.0,,40,60,0.0,2.0,5,No
+PHY2030,2024/5,Observing the Universe,15,84.0,22.0,128.0,0.0,0,100,0.0,1.0,5,No
+PHY2032,2024/5,Analytical and Chaotic Dynamics,15,33.0,22.0,128.0,0.0,0,100,0.0,1.0,5,No
+PHY2037,2024/5,Nonlinear Optics and Imaging,15,33.0,22.0,128.0,0.0,30,70,0.0,2.0,5,No
+PHY2222,2024/5,Physics of Climate Change,15,30.0,20.0,130.0,0.0,100,0,0.0,2.0,5,No
+PHY3051,2024/5,Electromagnetism II,15,60.0,25.0,125.0,0.0,0,100,0.0,1.0,6,No
+PHY3052,2024/5,Nuclear and High Energy Physics,15,118.0,25.0,125.0,0.0,0,100,0.0,1.0,6,No
+PHY3053,2024/5,General Problems,15,101.0,17.0,133.0,,0,100,,1.0,6,No
+PHY3055,2024/5,Electromagnetism and Quantum Mechanics,15,60.0,25.0,125.0,,0,100,,1.0,6,No
+PHY3061,2024/5,The Biophysics of Cells and Tissues,15,44.0,22.0,128.0,0.0,0,100,0.0,1.0,6,No
+PHY3062,2024/5,Methods of Theoretical Physics,15,46.0,22.0,128.0,0.0,0,100,0.0,1.0,6,No
+PHY3064,2024/5,Nanostructures and Graphene Science,15,12.0,13.0,136.0,0.0,80,0,20.0,3.0,6,No
+PHY3066,2024/5,Galaxies and High Energy Astrophysics,15,59.0,22.0,128.0,0.0,0,100,0.0,1.0,6,No
+PHY3068,2024/5,Principles of Theoretical Physics,15,19.0,22.0,128.0,0.0,0,100,0.0,1.0,6,No
+PHY3070,2024/5,Stars from Birth to Death,15,66.0,20.0,130.0,0.0,40,60,0.0,2.0,6,No
+PHY3122,2024/5,Project and Dissertation,30,40.0,240.0,60.0,,40,0,60.0,3.0,6,No
+PHY3138,2024/5,Projects and Dissertations,30,53.0,198.0,102.0,,30,0,70.0,6.0,6,No
+PHY3147,2024/5,One-Semester Physics Project and Report,15,12.0,99.0,51.0,,60,0,40.0,3.0,6,No
+PHY3150,2024/5,Applying Physics (Group Project),15,8.0,99.0,51.0,,50,0,50.0,4.0,6,No
+PHY3220,2024/5,Fluid Dynamics in Physics and Astronomy,15,30.0,22.0,128.0,0.0,40,60,0.0,2.0,6,No
+PHY3222,2024/5,"Energy, Materials and Sustainability",15,30.0,22.0,128.0,0.0,100,0,0.0,2.0,6,No
+PHY3306,2024/5,Professional Experience,75,4.0,,,750.0,50,0,50.0,5.0,6,No
+PHY3308,2024/5,Professional Placement,120,4.0,,,,50,0,50.0,5.0,6,No
+PHYM001,2024/5,Statistical Physics,15,70.0,22.0,128.0,,0,100,,1.0,7,No
+PHYM002,2024/5,Quantum Mechanics II,15,,25.0,125.0,0.0,0,100,0.0,1.0,7,No
+PHYM003,2024/5,Condensed Matter II,15,76.0,22.0,128.0,0.0,0,100,0.0,1.0,7,No
+PHYM004,2024/5,Computational Physics and Modelling,15,19.0,22.0,128.0,0.0,90,0,10.0,3.0,7,No
+PHYM006,2024/5,Relativity and Cosmology,15,32.0,22.0,128.0,0.0,0,100,0.0,1.0,7,No
+PHYM008,2024/5,Physical Methods in Biology and Medicine,15,34.0,22.0,128.0,0.0,0,100,0.0,1.0,7,No
+PHYM009,2024/5,Project and Dissertation,45,61.0,302.0,148.0,0.0,63,0,37.0,3.0,7,No
+PHYM010,2024/5,Project and Dissertation,60,15.0,442.0,158.0,,41,0,59.0,5.0,7,No
+PHYM012,2024/5,Solar and Extra-Solar Planets and Their Atmospheres,15,47.0,22.0,128.0,0.0,0,100,0.0,1.0,7,No
+PHYM013,2024/5,Quantum Many-Body Theory,15,21.0,22.0,128.0,0.0,0,100,0.0,1.0,7,No
+PHYM015,2024/5,Quantum Optics and Photonics,15,33.0,22.0,128.0,0.0,0,100,0.0,1.0,7,No
+PHYM502,2024/5,Frontiers in Physics Research,15,10.0,6.0,144.0,0.0,100,0,0.0,2.0,7,No
+PHYM503,2024/5,Research Project,90,10.0,20.0,880.0,0.0,85,0,15.0,3.0,7,No

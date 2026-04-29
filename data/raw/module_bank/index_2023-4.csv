@@ -1,0 +1,1578 @@
+module_code,module_title,credits_raw,term_raw,stage,dept_slug,academic_year,dept_name
+ENG1002,Engineering Mathematics and Scientific Computing,30,1 and 2,,engineering,2023/4,Engineering
+ENG1005,Multi-Disciplinary Group Challenge Project,30,1 and 2,,engineering,2023/4,Engineering
+ENG1006,Entrepreneurship 1,15,1,,engineering,2023/4,Engineering
+ENG1007,Fundamentals of Mechanics,15,1 and 2,,engineering,2023/4,Engineering
+ENG1008,Fundamentals of Materials,15,1 and 2,,engineering,2023/4,Engineering
+ENG1009,Fundamentals of Electronics,15,1 and 2,,engineering,2023/4,Engineering
+ENG1200DA,Core Engineering,30,1 and 2,,engineering,2023/4,Engineering
+ENG1201DA,Mathematics for Engineers,15,1 and 2,,engineering,2023/4,Engineering
+ENG1202DA,Basic Mechanics,15,2,,engineering,2023/4,Engineering
+ENG1203DA,Professional Studies and Skills Development A,15,1 and 2,,engineering,2023/4,Engineering
+ENG1204DA,Materials,15,2,,engineering,2023/4,Engineering
+ENG1205DA,Advanced Mathematics for Engineers,15,1 and 2,,engineering,2023/4,Engineering
+ENG1206DA,Professional Studies and Skills Development B,15,1 and 2,,engineering,2023/4,Engineering
+ENG2001,Civil Engineering Challenge Project,30,1 and 2,,engineering,2023/4,Engineering
+ENG2003,Electronic Engineering Challenge Project,30,1 and 2,,engineering,2023/4,Engineering
+ENG2004,Entrepreneurship 2,15,2,,engineering,2023/4,Engineering
+ENG2005,Entrepreneurship Challenge Project,30,1 and 2,,engineering,2023/4,Engineering
+ENG2006,Industry 4.0,15,2,,engineering,2023/4,Engineering
+ENG2007,Introduction to Fluid Dynamics,15,1,,engineering,2023/4,Engineering
+ENG2008,Microcontroller Engineering,15,2,,engineering,2023/4,Engineering
+ENG2009,Modelling of Engineering Systems,15,1,,engineering,2023/4,Engineering
+ENG2010,Soil Mechanics,15,1,,engineering,2023/4,Engineering
+ENG2011,Solid Mechanics,15,1,,engineering,2023/4,Engineering
+ENG2012,Structural Behaviour,15,2,,engineering,2023/4,Engineering
+ENG2013,Sustainable Design Challenge Project,30,1 and 2,,engineering,2023/4,Engineering
+ENG2014,Technology Entrepreneurship,15,2,,engineering,2023/4,Engineering
+ENG2015,Management Challenge Project,30,1 and 2,,engineering,2023/4,Engineering
+ENG2016,Introduction in Economics and Company Finance,15,1,,engineering,2023/4,Engineering
+ENG2017,Communication and Networking Technologies,15,1,,engineering,2023/4,Engineering
+ENG2118,Analogue and Digital Electronics Design,15,1,,engineering,2023/4,Engineering
+ENG2200DA,Structural Materials,15,1,,engineering,2023/4,Engineering
+ENG2201DA,Mechanics,15,1,,engineering,2023/4,Engineering
+ENG2202DA,Structures,15,2,,engineering,2023/4,Engineering
+ENG2203DA,Geotechnics 1,15,1,,engineering,2023/4,Engineering
+ENG2204DA,Construction Site Management,15,1 and 2,,engineering,2023/4,Engineering
+ENG2206DA,BIM and Temporary Works,15,1,,engineering,2023/4,Engineering
+ENG2207DA,Project Management,15,2,,engineering,2023/4,Engineering
+ENG2208DA,Sustainable Development,15,2,,engineering,2023/4,Engineering
+ENG2209DA,Structural Concrete,15,2,,engineering,2023/4,Engineering
+ECM2106,Manufacturing Systems,15,2,,engineering,2023/4,Engineering
+ENG3001,Construction Project Management,15,2,,engineering,2023/4,Engineering
+ENG3002,Decision Making Systems & Decision Theory,15,2,,engineering,2023/4,Engineering
+ENG3003,Digital Engineering and Building Information Modelling,15,1,,engineering,2023/4,Engineering
+ENG3004,Engineering Electromagnetics,15,1,,engineering,2023/4,Engineering
+ENG3005,Fluid Dynamics and CFD,15,1,,engineering,2023/4,Engineering
+ENG3006,Geotechnical Engineering and Foundation Design,15,2,,engineering,2023/4,Engineering
+ENG3007,Global Entrepreneurial Marketing,15,2,,engineering,2023/4,Engineering
+ENG3008A,Mechanical Design and Build: Part 1 - Research,15,1,,engineering,2023/4,Engineering
+ENG3008B,Mechanical Design and Build: Part 2 - Development,15,2,,engineering,2023/4,Engineering
+ENG3010,Industrial Awareness & Problem Solving,15,2,,engineering,2023/4,Engineering
+ENG3011,Management and Leadership,15,2,,engineering,2023/4,Engineering
+ENG3012,Mechatronics,15,1,,engineering,2023/4,Engineering
+ENG3013A,Civil Design and Build: Part 1 - Research,15,1,,engineering,2023/4,Engineering
+ENG3013B,Civil Design and Build: Part 2 - Development,15,2,,engineering,2023/4,Engineering
+ENG3014,Structural Engineering,15,1,,engineering,2023/4,Engineering
+ENG3015,Structural Dynamics,15,2,,engineering,2023/4,Engineering
+ENG3016,Thermodynamics and Heat Transfer,15,2,,engineering,2023/4,Engineering
+ENG3017,Quality Control and Improvement,15,1,,engineering,2023/4,Engineering
+ENG3018,Control Engineering,15,2,,engineering,2023/4,Engineering
+ENG3019A,Management Design and Build: Part 1 - Research,15,1,,engineering,2023/4,Engineering
+ENG3019B,Management Design and Build: Part 2 - Development,15,2,,engineering,2023/4,Engineering
+ENG3020A,Entrepreneurship Design and Build: Part 1 - Research,15,1,,engineering,2023/4,Engineering
+ENG3020B,Entrepreneurship Design and Build: Part 2 - Development,15,2,,engineering,2023/4,Engineering
+ENG3021A,Electronic Design and Build: Part 1 - Research,15,1,,engineering,2023/4,Engineering
+ENG3021B,Electronic Design and Build: Part 2 - Development,15,2,,engineering,2023/4,Engineering
+ENG3022,Finite Element Analysis for High Value Manufacturing,15,1,,engineering,2023/4,Engineering
+ENG3201DA,Structural Engineering,15,1 and 2,,engineering,2023/4,Engineering
+ENG3202DA,Geotechnics 2,15,1,,engineering,2023/4,Engineering
+ENG3203DA,Civil Engineering Design Studies,15,1 and 2,,engineering,2023/4,Engineering
+ENG3204DA,Individual Project,30,"1, 2 and 3",,engineering,2023/4,Engineering
+ENG3206DA,Conceptual Design of Buildings,30,1 and 2,,engineering,2023/4,Engineering
+ENG3207DA,Practical Hydraulic Engineering,15,1,,engineering,2023/4,Engineering
+ENG3211DA,Accounting and Company Finance,15,1,,engineering,2023/4,Engineering
+ECM3153,Management of Product Development,15,1,,engineering,2023/4,Engineering
+ECM3156,Civil Engineering Hydraulics,15,1,,engineering,2023/4,Engineering
+ECM3158,Water Resources and Pollution Control,15,1,,engineering,2023/4,Engineering
+ECM3160,Materials,15,1,,engineering,2023/4,Engineering
+ECM3164,Operations Management,15,1,,engineering,2023/4,Engineering
+ECM3165,Digital Signal Processing,15,2,,engineering,2023/4,Engineering
+ECM3166,Communications Engineering,15,1,,engineering,2023/4,Engineering
+ECM3172,Study Abroad Semester,60,2 and 3,,engineering,2023/4,Engineering
+ECM3174,Year in Industry,120,1,,engineering,2023/4,Engineering
+ECM3175,Individual Project,30,"1, 2 and 3",,engineering,2023/4,Engineering
+ENGM001,Additive Manufacturing,15,,,engineering,2023/4,Engineering
+ENGM002,Advanced Communication Systems,15,1,,engineering,2023/4,Engineering
+ENGM003,Advanced Finite Element Analysis (FEA),15,1,,engineering,2023/4,Engineering
+ENGM005,Business Start-up Project,90,,,engineering,2023/4,Engineering
+ENGM006,Civil Engineering Materials,15,1,,engineering,2023/4,Engineering
+ENGM008,Design of Reinforced Concrete and Steel Structures,15,,,engineering,2023/4,Engineering
+ENGM009,Electric Machines and Power Electronics,15,1,,engineering,2023/4,Engineering
+ENGM010,Data-Centric Engineering,15,2,,engineering,2023/4,Engineering
+ENGM011,Entrepreneurship 3,30,1 and 2,,engineering,2023/4,Engineering
+ENGM012,Performance Based Design Under Dynamic Loading,30,1,,engineering,2023/4,Engineering
+ENGM015,MEng Individual Investigative Project,45,1 and 2,,engineering,2023/4,Engineering
+ENGM016,Metamaterials,15,,,engineering,2023/4,Engineering
+ENGM017,Composite Materials,15,,,engineering,2023/4,Engineering
+ENGM018,Nonlinear Control,15,2,,engineering,2023/4,Engineering
+ENGM020,Robotics and Automation,15,2,,engineering,2023/4,Engineering
+ENGM021,Smart Production Systems,15,2,,engineering,2023/4,Engineering
+ENGM023,Sustainable Manufacturing,15,1,,engineering,2023/4,Engineering
+ENGM025,Smart Civil Structures,15,2 and 3,,engineering,2023/4,Engineering
+ENGM026,"Design, Innovation & Entrepreneurship",15,1,,engineering,2023/4,Engineering
+ENGM028,MSc Industrial Placement,60,"1, 2 and 3",,engineering,2023/4,Engineering
+ENGM029,Power Systems Analysis,15,1,,engineering,2023/4,Engineering
+ENGM030,Digital Twinning for Power System Plant,15,2,,engineering,2023/4,Engineering
+ENGM031,Smart Grids and Sustainable Energy Systems,15,2,,engineering,2023/4,Engineering
+ENGM032,Resilience of Electrical Energy Systems,15,2,,engineering,2023/4,Engineering
+ENGM033,Supply Chain Quality Management,15,2,,engineering,2023/4,Engineering
+ENGM035,Finance for Engineers,15,1,,engineering,2023/4,Engineering
+ENGM036,Digital Mapping and Survey,15,1,,engineering,2023/4,Engineering
+ENGM037,Digital Design,15,2,,engineering,2023/4,Engineering
+ENGM038,Digital Analysis,30,1 and 2,,engineering,2023/4,Engineering
+ENGM039,"Modelling, Simulation and Machine Learning for Operations Management",15,1,,engineering,2023/4,Engineering
+ENGM040,Research Ethics and Methodology,15,2,,engineering,2023/4,Engineering
+ECMM103,Computer Aided Engineering Design,15,1,,engineering,2023/4,Engineering
+ECMM109,Advanced Geotechnical Engineering,15,2,,engineering,2023/4,Engineering
+ECMM110,Water and Environmental Systems,15,2,,engineering,2023/4,Engineering
+ECMM112,Manufacturing Supply Chain Management,15,1,,engineering,2023/4,Engineering
+ECMM113,"Agile, Lean and Competitive Enterprise",15,1,,engineering,2023/4,Engineering
+ECMM124,Hydroinformatics Tools,15,1,,engineering,2023/4,Engineering
+ECMM132,Urban Drainage and Waste Water Management,15,2,,engineering,2023/4,Engineering
+ECMM133,Water Supply and Distribution Management,15,1,,engineering,2023/4,Engineering
+ECMM134,Environmental Processes,15,1,,engineering,2023/4,Engineering
+ECMM148,Advanced CFD,15,1,,engineering,2023/4,Engineering
+ECMM149,Linear Systems and Structural Analysis,15,1,,engineering,2023/4,Engineering
+ECMM150,Structural Design,15,2,,engineering,2023/4,Engineering
+ECMM153,Conceptual Design of Buildings,15,1,,engineering,2023/4,Engineering
+ECMM162,Water Management in Developing Countries,15,2,,engineering,2023/4,Engineering
+ECMM163,Sustainable Engineering,15,2,,engineering,2023/4,Engineering
+ECMM164,MSc Dissertation,60,2 and 3,,engineering,2023/4,Engineering
+EMP3001,Commercial and Industrial Experience,15,1,,engineering,2023/4,Engineering
+EMP3003,Professional Experience,45,1 and 2,,engineering,2023/4,Engineering
+CMM1001,Perspectives on Communications,30,1,Stage One Modules,communications,2023/4,Communications
+CMM1002,Communications Challenges,30,2,Stage One Modules,communications,2023/4,Communications
+DRA1015,Theatre Histories,30,1,Stage One Modules,communications,2023/4,Communications
+DRA1016,Performance Analysis,30,2,Stage One Modules,communications,2023/4,Communications
+DRA1017,Staging the Text,30,2,Stage One Modules,communications,2023/4,Communications
+DRA1018,The Creative Actor,30,1,Stage One Modules,communications,2023/4,Communications
+EAF1504,Introduction to Film History,30,1,Stage One Modules,communications,2023/4,Communications
+EAF1506,Interrogating Screens,30,1,Stage One Modules,communications,2023/4,Communications
+EAF1507,The Contemporary Film and Television Industries,30,2,Stage One Modules,communications,2023/4,Communications
+CMM2002,Communications in the Workplace,30,1,Stage Two Modules,communications,2023/4,Communications
+CMM2008,Communications Research Methods,30,2,Stage Two Modules,communications,2023/4,Communications
+CMM2009,Communications in the 21st Century,30,1,Stage Two Modules,communications,2023/4,Communications
+CMM2010,Professional Writing,30,1,Stage Two Modules,communications,2023/4,Communications
+CMM2011,History of Communications,30,2,Stage Two Modules,communications,2023/4,Communications
+CMM2012,Communications and the Climate Crisis,30,2,Stage Two Modules,communications,2023/4,Communications
+CMM2013,Introduction to Games Studies,30,2,Stage Two Modules,communications,2023/4,Communications
+DRA2028,Performance and Participation,30,1,Stage Two Modules,communications,2023/4,Communications
+DRA2044,Acting Shakespeare,30,1,Stage Two Modules,communications,2023/4,Communications
+DRA2045,Theatre and Health,30,1,Stage Two Modules,communications,2023/4,Communications
+DRA2047,Interpretive Acting,30,1,Stage Two Modules,communications,2023/4,Communications
+DRA2061B,Digital Theatrecrafts,30,2,Stage Two Modules,communications,2023/4,Communications
+DRA2071,Adaptation in Contemporary Theatre and Performance,30,2,Stage Two Modules,communications,2023/4,Communications
+DRA2072,Culture in / as Performance,30,1,Stage Two Modules,communications,2023/4,Communications
+DRA2083,Intermedial Performance Practice,30,2,Stage Two Modules,communications,2023/4,Communications
+DRA2087,Activism and Performance,30,1,Stage Two Modules,communications,2023/4,Communications
+DRA2092,Modernist Drama in Contemporary Theatre,30,2,Stage Two Modules,communications,2023/4,Communications
+DRA2104,Approaches to Comedy,30,1,Stage Two Modules,communications,2023/4,Communications
+DRA2105,Eco-Theatre: Outdoor and Immersive Performance,30,1,Stage Two Modules,communications,2023/4,Communications
+DRA2106,"Theatres of Space, Form and Colour",30,2,Stage Two Modules,communications,2023/4,Communications
+DRA2107,Popular Performance Practices,30,2,Stage Two Modules,communications,2023/4,Communications
+DRA2108,Introduction to Creative Producing: Making Change and Shifting Cultures,30,2,Stage Two Modules,communications,2023/4,Communications
+DRA2109,Ensemble Acting: Co-Creation,30,1,Stage Two Modules,communications,2023/4,Communications
+EAF2500,"European Cinemas: Art, Industry, Entertainment",15,1,Stage Two Modules,communications,2023/4,Communications
+EAF2502,Shots in the Dark,30,1,Stage Two Modules,communications,2023/4,Communications
+EAF2508,"Cinescapes: Time, Space and Identity",30,2,Stage Two Modules,communications,2023/4,Communications
+EAF2510,"Adaptation: Text, Image, Culture",30,2,Stage Two Modules,communications,2023/4,Communications
+EAF2511,"Television: Times, Trends and Technologies",30,1,Stage Two Modules,communications,2023/4,Communications
+EAF2512,"European Cinemas: Art, Industry, Entertainment",30,1,Stage Two Modules,communications,2023/4,Communications
+EAF2513,Filmmaking,30,2,Stage Two Modules,communications,2023/4,Communications
+CMM3002,Communications: Dissertation,30,1,Stage Three Modules,communications,2023/4,Communications
+CMM3003,Communications: Practical Research Project,30,2,Stage Three Modules,communications,2023/4,Communications
+CMM3004,Social Media and Society,30,1,Stage Three Modules,communications,2023/4,Communications
+DRA3011,Practice II: Technical Specialisation,30,1,Stage Three Modules,communications,2023/4,Communications
+DRA3012,Theatre Practice I: Applied Drama,30,1,Stage Three Modules,communications,2023/4,Communications
+DRA3024,Restoration Theatre:Culture and Politics,30,1,Stage Three Modules,communications,2023/4,Communications
+DRA3050,Creative Industries Management,30,1,Stage Three Modules,communications,2023/4,Communications
+DRA3061,Practical Essay,30,2 and 3,Stage Three Modules,communications,2023/4,Communications
+DRA3076,The Actor's Body: Intercultural Theories and Practices,30,1,Stage Three Modules,communications,2023/4,Communications
+DRA3088,Women and Theatre 1700-1928,30,1,Stage Three Modules,communications,2023/4,Communications
+DRA3094,Theatre Dissertation,30,2,Stage Three Modules,communications,2023/4,Communications
+DRA3100,Physical Performance,30,1,Stage Three Modules,communications,2023/4,Communications
+DRA3102,Audio Dramaturgy: Theatre of the Ear,30,1,Stage Three Modules,communications,2023/4,Communications
+DRA3104,Approaches to Acting,30,1,Stage Three Modules,communications,2023/4,Communications
+DRA3106,Acting for Screen,30,1,Stage Three Modules,communications,2023/4,Communications
+EAF3501,American Independent Film,30,2,Stage Three Modules,communications,2023/4,Communications
+EAF3508,Beyond Sex and the City: Becoming a Woman in Western Cinema,30,2,Stage Three Modules,communications,2023/4,Communications
+EAF3513,British Screens,30,1,Stage Three Modules,communications,2023/4,Communications
+EAF3514,Film Studies Dissertation,30,2,Stage Three Modules,communications,2023/4,Communications
+EAF3515,Something to See: War and Visual Media,30,1,Stage Three Modules,communications,2023/4,Communications
+EAF3516,Creative Film Dissertation,30,2,Stage Three Modules,communications,2023/4,Communications
+EAF3518,Queering British Film and Television,30,1,Stage Three Modules,communications,2023/4,Communications
+EAF3520,Beyond Sex and the City: Becoming a Woman in Contemporary Western Cinema,15,2,Stage Three Modules,communications,2023/4,Communications
+EAF3521,Film Audiences,30,2,Stage Three Modules,communications,2023/4,Communications
+CMMM001,Media and Communications: Theory and Concepts,30,1,Masters Modules,communications,2023/4,Communications
+CMMM002,Social Media: Management and Strategy,30,1,Masters Modules,communications,2023/4,Communications
+CMMM003,Gaming in Everyday Life: A Global Perspective,30,1,Masters Modules,communications,2023/4,Communications
+CMMM004,Investigating Media Infrastructure,30,2,Masters Modules,communications,2023/4,Communications
+CMMM005,Social Media and Migration,30,2,Masters Modules,communications,2023/4,Communications
+CMMM006,Soft Power and International Communications,30,2,Masters Modules,communications,2023/4,Communications
+CMMM012,Selling the Self: Influencer Culture and Digital Capitalism,30,1,Masters Modules,communications,2023/4,Communications
+DRAM103,Cultural Adaptation,30,1,Masters Modules,communications,2023/4,Communications
+DRAM136,Contemporary Performance Practices,30,1,Masters Modules,communications,2023/4,Communications
+DRAM141,Ideas Generation and the Creative Process,30,1,Masters Modules,communications,2023/4,Communications
+DRAM142,Creative Management,30,2,Masters Modules,communications,2023/4,Communications
+DRAM145,Dissertation (Written or Project),60,2 and 3,Masters Modules,communications,2023/4,Communications
+DRAM147,Applying Performance: A Reflective Practice,30,2,Masters Modules,communications,2023/4,Communications
+DRAM148,Principles and Practices of Applied Theatre,30,1,Masters Modules,communications,2023/4,Communications
+DRAM149,Performance Practice Project,30,2,Masters Modules,communications,2023/4,Communications
+DRAM150,Researching Theatre and Performance,30,1 and 2,Masters Modules,communications,2023/4,Communications
+DRAM153,Changing Cultural Leadership,60,1 and 2,Masters Modules,communications,2023/4,Communications
+DRAM154,Independent Project,60,2 and 3,Masters Modules,communications,2023/4,Communications
+EAFM081,Hearing Film: Film Sound and Music,30,2,Masters Modules,communications,2023/4,Communications
+EAFM088,"Sense, Sensation and Cinema",30,1,Masters Modules,communications,2023/4,Communications
+EAFM089,Archival Encounters: Material Film Histories,30,1,Masters Modules,communications,2023/4,Communications
+EAFM200,Distribution and Markets,30,1,Masters Modules,communications,2023/4,Communications
+EAFM201,The Entertainment Value Chain,30,2,Masters Modules,communications,2023/4,Communications
+EAFM202,Models of Innovation,30,2,Masters Modules,communications,2023/4,Communications
+EAFM203,Dissertation,60,3,Masters Modules,communications,2023/4,Communications
+EAFM204,Dissertation Project,60,3,Masters Modules,communications,2023/4,Communications
+EAFM205,"The International Film Business: Approaches, Concepts and Strategies",30,1,Masters Modules,communications,2023/4,Communications
+EAFM910,"Stars, Stardom and Celebrity From the Classical Era to the Contemporary",30,2,Masters Modules,communications,2023/4,Communications
+EAFM911,Dissertation,60,2 and 3,Masters Modules,communications,2023/4,Communications
+PSY1105,Introduction to Behaviour and Evolution,15,1,Stage One Modules,psychology,2023/4,Psychology
+PSY1126,Classic Studies in Psychology,15,2,Stage One Modules,psychology,2023/4,Psychology
+PSY1202,Introduction to Biological Psychology,15,2,Stage One Modules,psychology,2023/4,Psychology
+PSY1203,Introduction to Social Psychology,15,1,Stage One Modules,psychology,2023/4,Psychology
+PSY1204,Introduction to Clinical Psychology,15,1,Stage One Modules,psychology,2023/4,Psychology
+PSY1205,Introduction to Statistics,15,1 and 2,Stage One Modules,psychology,2023/4,Psychology
+PSY1206,Introduction to Research Methods,15,1,Stage One Modules,psychology,2023/4,Psychology
+PSY1207,"Cognition, Emotion and Development",15,2,Stage One Modules,psychology,2023/4,Psychology
+PSY1208,Workplace Learning,15,1 and 2,Stage One Modules,psychology,2023/4,Psychology
+PSY1406,Professional Placement Foundation,,"1, 2 and 3",Stage One Modules,psychology,2023/4,Psychology
+PSY2203,Social Psychology II,15,1,Stage Two Modules,psychology,2023/4,Psychology
+PSY2205,Personality and Individual Differences,15,1,Stage Two Modules,psychology,2023/4,Psychology
+PSY2206,Methods and Statistics in Psychology II,15,1 and 2,Stage Two Modules,psychology,2023/4,Psychology
+PSY2209,Cognition Practical I,15,1,Stage Two Modules,psychology,2023/4,Psychology
+PSY2210,Social Practical I,15,1,Stage Two Modules,psychology,2023/4,Psychology
+PSY2212,Cognition Practical II,15,2,Stage Two Modules,psychology,2023/4,Psychology
+PSY2213,Social Practical II,15,2,Stage Two Modules,psychology,2023/4,Psychology
+PSY2214,Observations and Experiments in Animal Behaviour,15,1,Stage Two Modules,psychology,2023/4,Psychology
+PSY2216,Qualitative Methods and Interview Skills,15,2,Stage Two Modules,psychology,2023/4,Psychology
+PSY2217,Wild Behaviour,15,2,Stage Two Modules,psychology,2023/4,Psychology
+PSY2218,Social Practical III,15,1,Stage Two Modules,psychology,2023/4,Psychology
+PSY2303,Cognition and Emotion,15,2,Stage Two Modules,psychology,2023/4,Psychology
+PSY2304,Biological Basis of Behaviour,15,2,Stage Two Modules,psychology,2023/4,Psychology
+PSY2306,Development Psychology and Psychopathology,15,1,Stage Two Modules,psychology,2023/4,Psychology
+PSY2406,Professional Placement Preparation,,"1, 2 and 3",Stage Two Modules,psychology,2023/4,Psychology
+PSY3401,Psychology Research Project,45,1 and 2,Stage Three Modules,psychology,2023/4,Psychology
+PSY3402,Methods and Statistics in Psychology III,15,1,Stage Three Modules,psychology,2023/4,Psychology
+PSY3403,Contemporary Issues in Psychology,15,2,Stage Three Modules,psychology,2023/4,Psychology
+PSY3404,One Year Study Abroad,120,"1, 2 and 3",Stage Three Modules,psychology,2023/4,Psychology
+PSY3405,Psychology Dissertation,30,1 and 2,Stage Three Modules,psychology,2023/4,Psychology
+PSY3406,Professional Placement,120,"1, 2 and 3",Stage Three Modules,psychology,2023/4,Psychology
+PSY3411,Psychology and Law,15,1 and 2,Stage Three Modules,psychology,2023/4,Psychology
+PSY3412,The Psychology of Gender,15,1,Stage Three Modules,psychology,2023/4,Psychology
+PSY3416,Work and Organisational Psychology,15,1,Stage Three Modules,psychology,2023/4,Psychology
+PSY3417,The Associative Mind,15,1,Stage Three Modules,psychology,2023/4,Psychology
+PSY3418,Processes of Human Memory,15,1,Stage Three Modules,psychology,2023/4,Psychology
+PSY3419,Studying Cognition and Emotion with Brain Imaging,15,1,Stage Three Modules,psychology,2023/4,Psychology
+PSY3420,Brain Plasticity and Language Learning across the Lifespan,15,1,Stage Three Modules,psychology,2023/4,Psychology
+PSY3424,"Applied Social Psychology: Health, Environment and Society",15,1,Stage Three Modules,psychology,2023/4,Psychology
+PSY3425,Cognitive Behavioural Approaches to Mood Disorders,15,2,Stage Three Modules,psychology,2023/4,Psychology
+PSY3426,Parental Psychiatric Disorders and Children's Development,15,2,Stage Three Modules,psychology,2023/4,Psychology
+PSY3427,Compulsive Behaviour,15,1,Stage Three Modules,psychology,2023/4,Psychology
+PSY3431,Comparative Approaches in the Study of Brain and Behaviour,15,1,Stage Three Modules,psychology,2023/4,Psychology
+PSY3432,The Moral Mind,15,1,Stage Three Modules,psychology,2023/4,Psychology
+PSY3436,Neuropsychology of Ageing and Dementia,15,1,Stage Three Modules,psychology,2023/4,Psychology
+PSY3437,The Psychology of Addiction,15,1,Stage Three Modules,psychology,2023/4,Psychology
+PSY3439,Social Exclusion and Inclusion in Childhood and Adolescence,15,1,Stage Three Modules,psychology,2023/4,Psychology
+PSY3440,The Psychology of Helping,15,1,Stage Three Modules,psychology,2023/4,Psychology
+PSY3443,The Social Psychology of Ageing and Ageism,15,1,Stage Three Modules,psychology,2023/4,Psychology
+PSY3444,Foundations of Human Behaviour,15,1,Stage Three Modules,psychology,2023/4,Psychology
+PSY3445,Mechanisms of Face Recognition,15,1,Stage Three Modules,psychology,2023/4,Psychology
+PSY3446,Prevention Science in Developmental Psychopathology,15,2,Stage Three Modules,psychology,2023/4,Psychology
+PSY3447,Solitude and Social Withdrawal across the Lifespan,15,1,Stage Three Modules,psychology,2023/4,Psychology
+PSY3448,Sleep and Psychology,15,2,Stage Three Modules,psychology,2023/4,Psychology
+PSY3449,The Evolution of Social Behaviour,15,1,Stage Three Modules,psychology,2023/4,Psychology
+PSY3450,Philosophy of Mind,15,1,Stage Three Modules,psychology,2023/4,Psychology
+PSY3451,"Clinical Neuroscience: Brains, Drugs and Psychiatry",15,2,Stage Three Modules,psychology,2023/4,Psychology
+PSY3452,Social and Affective Neuroscience,15,1,Stage Three Modules,psychology,2023/4,Psychology
+PSY3454,Lifecourse Influences on Behaviour and Cognition,15,2,Stage Three Modules,psychology,2023/4,Psychology
+PSY3455,Environmental Psychology,15,2,Stage Three Modules,psychology,2023/4,Psychology
+PSY3456,Cognitive Biases in Emotion and Psychopathology,15,2,Stage Three Modules,psychology,2023/4,Psychology
+PSY3457,The Psychology of Play,15,2,Stage Three Modules,psychology,2023/4,Psychology
+PSY3458,"The Psychology of Inequality, Conflict and Social Change",15,1,Stage Three Modules,psychology,2023/4,Psychology
+PSY3459,The Social Psychology of Global Health,15,1,Stage Three Modules,psychology,2023/4,Psychology
+PSY3460,Health Neuroscience,15,2,Stage Three Modules,psychology,2023/4,Psychology
+PSY3461,Neuroscience of Cognition and Behaviour,15,1,Stage Three Modules,psychology,2023/4,Psychology
+PSY3462,Women's Reproductive Mental Health,15,2,Stage Three Modules,psychology,2023/4,Psychology
+PSY3910,Professional Development Experience,5,1 and 2,Stage Three Modules,psychology,2023/4,Psychology
+PYC3007,Core Skills for Working with Young People with Mental Health Problems and Their Families,60,"1, 2 and 3",Stage Three Modules,psychology,2023/4,Psychology
+PYC3008,Evidence-based CBT with Children and Young People,60,"1, 2 and 3",Stage Three Modules,psychology,2023/4,Psychology
+PYC3009,Evidence-based Parenting Interventions,60,"1, 2 and 3",Stage Three Modules,psychology,2023/4,Psychology
+PYC3010,Fundamental Principles 0-5s,20,"1, 2 and 3",Stage Three Modules,psychology,2023/4,Psychology
+PYC3011,Interventions to Enhance Attachment in Vulnerable Groups,20,"1, 2 and 3",Stage Three Modules,psychology,2023/4,Psychology
+PYC3012,Interventions for Existing Diagnosable Problems in Children Aged 1.5 to 5 Years,20,"1, 2 and 3",Stage Three Modules,psychology,2023/4,Psychology
+PYC3019,Engagement and Assessment of Patients with Common Mental Health Problems,20,1,Stage Three Modules,psychology,2023/4,Psychology
+PYC3019DA,Engagement and Assessment of Patients with Common Mental Health Problems,20,1,Stage Three Modules,psychology,2023/4,Psychology
+PYC3020,Evidence-based Low Intensity Treatments for Common Mental Health Problems,20,1,Stage Three Modules,psychology,2023/4,Psychology
+PYC3020DA,Evidence-based Low Intensity Treatments for Common Mental Health Problems,20,1,Stage Three Modules,psychology,2023/4,Psychology
+PYC3021,"Values, Diversity and Context",20,2,Stage Three Modules,psychology,2023/4,Psychology
+PYC3021DA,"Values, Diversity and Context",20,2,Stage Three Modules,psychology,2023/4,Psychology
+PYC3022,Children and Young People's Mental Health Settings: Context and Values,20,2 and 3,Stage Three Modules,psychology,2023/4,Psychology
+PYC3023,Fundamental Skills: Assessment and Engagement,20,2 and 3,Stage Three Modules,psychology,2023/4,Psychology
+PYC3024,Evidence-based Interventions for Common Mental Health Problems with Children and Young People (Theory and Skills),20,"1, 2 and 3",Stage Three Modules,psychology,2023/4,Psychology
+PYC3025,"Working, Assessing and Engaging in Education Settings",20,1 and 2,Stage Three Modules,psychology,2023/4,Psychology
+PYC3026,Common Problems and Processes in Education Settings,20,2 and 3,Stage Three Modules,psychology,2023/4,Psychology
+PYC3027,Interventions for Emerging Mental Health Difficulties in Education Settings,20,2,Stage Three Modules,psychology,2023/4,Psychology
+PYC3028,Autism-Learning Disability Core Knowledge and Skills,20,2,Stage Three Modules,psychology,2023/4,Psychology
+PYC3029,"Assessment, Engagement and Formulation with Young People and Families (Autism and Learning Disabilities)",20,2,Stage Three Modules,psychology,2023/4,Psychology
+PYC3030,Mental Health Interventions with Young People and Families (Autism and Learning Disabilities),20,2 and 3,Stage Three Modules,psychology,2023/4,Psychology
+PYC3031,Engagement and Assessment with People with Severe Mental Health Problems,20,"1, 2 and 3",Stage Three Modules,psychology,2023/4,Psychology
+PYC3032,Care Planning in Partnership,20,"1, 2 and 3",Stage Three Modules,psychology,2023/4,Psychology
+PYC3033,Low Intensity Psychological Interventions for Severe Mental Health Problems,20,"1, 2 and 3",Stage Three Modules,psychology,2023/4,Psychology
+PYC3132,Supervising Evidence-Based Psychological Therapies (Low Intensity Cognitive Behavioural Therapy),20,1,Stage Three Modules,psychology,2023/4,Psychology
+PYC3133,Evidence-Based Practice,20,1 and 3,Stage Three Modules,psychology,2023/4,Psychology
+PYC3134,Enhanced Practice,20,2 and 3,Stage Three Modules,psychology,2023/4,Psychology
+PYC3135,Introduction to Leadership,20,2 and 3,Stage Three Modules,psychology,2023/4,Psychology
+PYC3136,"Working, Assessing and Engaging in Community Based and Primary Care Settings",20,1 and 2,Stage Three Modules,psychology,2023/4,Psychology
+PYC3137,Mental Health Prevention in Community and Primary Care Settings,20,2 and 3,Stage Three Modules,psychology,2023/4,Psychology
+PYC3138,Interventions for Emerging Mental Health Difficulties in Community and Primary Care Settings,20,2,Stage Three Modules,psychology,2023/4,Psychology
+PSYM201,Advanced Statistics,30,1 and 2,Masters Modules,psychology,2023/4,Psychology
+PSYM202,Behavioural Science Research Skills,15,1 and 2,Masters Modules,psychology,2023/4,Psychology
+PSYM204,Advances and Methods in Social and Organisational Psychology,30,1 and 2,Masters Modules,psychology,2023/4,Psychology
+PSYM205,Advances and Methods in Animal Behaviour,30,1 and 2,Masters Modules,psychology,2023/4,Psychology
+PSYM208,Animal Behaviour Research Skills,15,"1, 2 and 3",Masters Modules,psychology,2023/4,Psychology
+PSYM210,Research Apprenticeship,90,"1, 2 and 3",Masters Modules,psychology,2023/4,Psychology
+PSYM211,Current Research Issues in Social and Organisational Psychology,15,2,Masters Modules,psychology,2023/4,Psychology
+PSYM212,Current Research Issues in Psychological Research Methods,15,1 and 2,Masters Modules,psychology,2023/4,Psychology
+PSYM213,Current Research Issues in Animal Behaviour,15,1 and 2,Masters Modules,psychology,2023/4,Psychology
+PSYM220,Research Project,60,"1, 2 and 3",Masters Modules,psychology,2023/4,Psychology
+PSYM220Z,Research Project,60,1 and 2,Masters Modules,psychology,2023/4,Psychology
+PSYM221,Introduction to Statistics,15,1,Masters Modules,psychology,2023/4,Psychology
+PSYM221Z,Introduction to Statistics,15,1,Masters Modules,psychology,2023/4,Psychology
+PSYM222,Research Methods and Conceptual Issues in Psychology,15,1,Masters Modules,psychology,2023/4,Psychology
+PSYM222Z,Research Methods and Conceptual Issues in Psychology,15,1,Masters Modules,psychology,2023/4,Psychology
+PSYM223,Social Psychology,15,2,Masters Modules,psychology,2023/4,Psychology
+PSYM223Z,Social Psychology,15,1,Masters Modules,psychology,2023/4,Psychology
+PSYM225,Biological Psychology,15,1,Masters Modules,psychology,2023/4,Psychology
+PSYM225Z,Biological Psychology,15,1,Masters Modules,psychology,2023/4,Psychology
+PSYM227,Clinical Psychology,15,2,Masters Modules,psychology,2023/4,Psychology
+PSYM227Z,Clinical Psychology,15,1,Masters Modules,psychology,2023/4,Psychology
+PSYM230,Advances in Clinical Psychology and Neuroscience,15,2,Masters Modules,psychology,2023/4,Psychology
+PSYM231,Critical Perspectives in Addiction Psychology,15,1,Masters Modules,psychology,2023/4,Psychology
+PSYM232,Current Research Issues in Clinical Psychology,15,1 and 2,Masters Modules,psychology,2023/4,Psychology
+PSYM233,Clinical Psychology Placement,15,1 and 2,Masters Modules,psychology,2023/4,Psychology
+PSYM234,"Methods in Cognitive, Affective and Developmental Psychology and Neuroscience",15,1,Masters Modules,psychology,2023/4,Psychology
+PSYM235Z,Psychedelics: Therapeutic Practice and the Metaphysics of Mind,30,,Masters Modules,psychology,2023/4,Psychology
+PSYM236Z,Psychedelics: Neuroscience and Cultural Ethics,30,,Masters Modules,psychology,2023/4,Psychology
+PSYM237Z,"History, Anthropology and Sociology of Psychedelic Use",30,,Masters Modules,psychology,2023/4,Psychology
+PSYM238Z,Critical Evaluation of Psychedelic Research,30,,Masters Modules,psychology,2023/4,Psychology
+PSYM239Z,Project Psychedelic,60,,Masters Modules,psychology,2023/4,Psychology
+PSYM240,Introduction to Clinical Psychology Practice,15,2,Masters Modules,psychology,2023/4,Psychology
+PYCM001,Psychological Therapies Research Project,60,"1, 2 and 3",Masters Modules,psychology,2023/4,Psychology
+PYCM002,Methodological Approaches in Psychological Therapies Research,20,"1, 2 and 3",Masters Modules,psychology,2023/4,Psychology
+PYCM015,Family Therapy and the Family of Therapies,15,1,Masters Modules,psychology,2023/4,Psychology
+PYCM027,Core Skills for Working with Young People with Mental Health Problems and Their Families,60,"1, 2 and 3",Masters Modules,psychology,2023/4,Psychology
+PYCM028,Evidence-based CBT with Children and Young People,60,"1, 2 and 3",Masters Modules,psychology,2023/4,Psychology
+PYCM029,Evidence-based Parenting Interventions,60,"1, 2 and 3",Masters Modules,psychology,2023/4,Psychology
+PYCM030,Systemic Family Practice in CAMHS,30,1,Masters Modules,psychology,2023/4,Psychology
+PYCM031,Systemic Family Practice for Adolescent Eating Disorders,30,2 and 3,Masters Modules,psychology,2023/4,Psychology
+PYCM032,Systemic Family Practice for Adolescent Conduct Disorders,15,2,Masters Modules,psychology,2023/4,Psychology
+PYCM033,Systemic Family Practice for Adolescent Self-harm/Depression,15,3,Masters Modules,psychology,2023/4,Psychology
+PYCM034,Fundamental Principles 0-5s,20,"1, 2 and 3",Masters Modules,psychology,2023/4,Psychology
+PYCM035,Interventions to Enhance Attachment in Vulnerable Groups,20,"1, 2 and 3",Masters Modules,psychology,2023/4,Psychology
+PYCM036,Interventions for Existing Diagnosable Problems in Children Aged 1.5 to 5 Years,20,"1, 2 and 3",Masters Modules,psychology,2023/4,Psychology
+PYCM037,The Fundamentals of Cognitive Behavioural Therapy,30,"1, 2 and 3",Masters Modules,psychology,2023/4,Psychology
+PYCM038,Cognitive Behavioural Therapy (CBT) for Depression,30,"1, 2 and 3",Masters Modules,psychology,2023/4,Psychology
+PYCM039,Cognitive Behavioural Therapy (CBT) for Anxiety Disorder,30,"1, 2 and 3",Masters Modules,psychology,2023/4,Psychology
+PYCM040,Cognitive Behavioural Therapy (CBT) - Clinical Practice,30,"1, 2 and 3",Masters Modules,psychology,2023/4,Psychology
+PYCM042,Clinical Supervision Practice Placement,30,2,Masters Modules,psychology,2023/4,Psychology
+PYCM051,Psychological Therapies Research Methods,15,1 and 2,Masters Modules,psychology,2023/4,Psychology
+PYCM052,Evidenced-Based Practice and Practice-Based Evidence in Family Therapy,15,3,Masters Modules,psychology,2023/4,Psychology
+PYCM053,Key Concepts and Skills in Systemic/Family Therapy Practice,15,1 and 2,Masters Modules,psychology,2023/4,Psychology
+PYCM054,Systemic Clinical Practice: Part 1,15,"1, 2 and 3",Masters Modules,psychology,2023/4,Psychology
+PYCM055,Systemic Clinical Practice: Part 2,15,"1, 2 and 3",Masters Modules,psychology,2023/4,Psychology
+PYCM056,Issues in Contemporary Family Therapy Practice,15,2,Masters Modules,psychology,2023/4,Psychology
+PYCM057,Couple Therapy,15,3,Masters Modules,psychology,2023/4,Psychology
+PYCM061,Psychodynamic Clinical Practice II,15,"1, 2 and 3",Masters Modules,psychology,2023/4,Psychology
+PYCM067,Engagement and Assessment of Patients with Common Mental Health Problems,20,1,Masters Modules,psychology,2023/4,Psychology
+PYCM068,Evidence-based Low Intensity Treatments for Common Mental Health Problems,20,,Masters Modules,psychology,2023/4,Psychology
+PYCM069,"Values, Diversity and Context",20,2,Masters Modules,psychology,2023/4,Psychology
+PYCM070,Fundamentals of Professional Practice and Ethics,20,"1, 2 and 3",Masters Modules,psychology,2023/4,Psychology
+PYCM070DA,Fundamentals of Professional Practice and Ethics,20,"1, 2 and 3",Masters Modules,psychology,2023/4,Psychology
+PYCM077,Essential Competencies for Working with People with Psychosis and Bipolar Diagnoses,30,"1, 2 and 3",Masters Modules,psychology,2023/4,Psychology
+PYCM078,Cognitive Behavioural Therapy (CBT) for Psychosis and Bipolar Disorder,30,"1, 2 and 3",Masters Modules,psychology,2023/4,Psychology
+PYCM079,Children and Young People's Mental Health Settings: Context and Values,20,2 and 3,Masters Modules,psychology,2023/4,Psychology
+PYCM080,Fundamental Skills: Assessment and Engagement,20,2 and 3,Masters Modules,psychology,2023/4,Psychology
+PYCM081,Evidence-based Interventions for Common Mental Health Problems with Children and Young People (Theory and Skills),20,"1, 2 and 3",Masters Modules,psychology,2023/4,Psychology
+PYCM082,"Working, Assessing and Engaging in Education Settings",20,1 and 2,Masters Modules,psychology,2023/4,Psychology
+PYCM083,Common Problems and Processes in Education Settings,20,2 and 3,Masters Modules,psychology,2023/4,Psychology
+PYCM084,Interventions for Emerging Mental Health Difficulties in Education Settings,20,2,Masters Modules,psychology,2023/4,Psychology
+PYCM086,Autism-Learning Disability Core Knowledge and Skills,20,1 and 2,Masters Modules,psychology,2023/4,Psychology
+PYCM087,"Assessment, Engagement and Formulation with Young People and Families (Autism and Learning Disabilities)",20,2 and 3,Masters Modules,psychology,2023/4,Psychology
+PYCM088,Mental Health Interventions with Young People and Families (Autism and Learning Disabilities),20,2,Masters Modules,psychology,2023/4,Psychology
+PYCM089,Supervising Evidence-Based Psychological Therapies/Interventions in Child and Adolescent Mental Health,30,1,Masters Modules,psychology,2023/4,Psychology
+PYCM090,Clinical Supervision Practice Placement (Wellbeing Practitioner for Children and Young People),30,"1, 2 and 3",Masters Modules,psychology,2023/4,Psychology
+PYCM091,Clinical Supervision Practice Placement (Education Mental Health Practitioner),30,2,Masters Modules,psychology,2023/4,Psychology
+PYCM096,Evidence-based Low Intensity Treatments for Common Mental Health Problems,20,1 and 2,Masters Modules,psychology,2023/4,Psychology
+PYCM097DA,Evidence-Based Psychological Interventions in Clinical Practice,30,"1, 2 and 3",Masters Modules,psychology,2023/4,Psychology
+PYCM098DA,Clinical Research and Evidence-Based Practice,40,"1, 2 and 3",Masters Modules,psychology,2023/4,Psychology
+PYCM100DA,"Assessment, Diagnosis and Formulation in Clinical Practice",20,"1, 2 and 3",Masters Modules,psychology,2023/4,Psychology
+PYCM101,Psychological Therapies Research and Evaluation,60,"1, 2 and 3",Masters Modules,psychology,2023/4,Psychology
+PYCM101DA,Clinical Practice,50,"1, 2 and 3",Masters Modules,psychology,2023/4,Psychology
+PYCM102DA,Degree Apprenticeship End Point Assessment,20,"1, 2 and 3",Masters Modules,psychology,2023/4,Psychology
+PYCM103,"Values, Diversity and Context",20,2 and 3,Masters Modules,psychology,2023/4,Psychology
+PYCM104,The Fundamentals of Cognitive Behavioural Therapy,20,2,Masters Modules,psychology,2023/4,Psychology
+PYCM105,Cognitive Behavioural Therapy (CBT) for Anxiety and Depression - Theory,20,3,Masters Modules,psychology,2023/4,Psychology
+PYCM106,Cognitive Behavioural Therapy (CBT) for Anxiety and Depression - Clinical Practice,20,3,Masters Modules,psychology,2023/4,Psychology
+PYCM107,Working with Complexity: Essential Competencies for Working with People with Psychosis and Bipolar Disorder,20,"1, 2 and 3",Masters Modules,psychology,2023/4,Psychology
+PYCM108,Cognitive Behavioural Therapy (CBT) for Psychosis and Bipolar Disorder - Theory,20,2 and 3,Masters Modules,psychology,2023/4,Psychology
+PYCM109,Cognitive Behavioural Therapy (CBT) for Psychosis and Bipolar Disorder - Clinical Practice,20,2 and 3,Masters Modules,psychology,2023/4,Psychology
+PYCM110,Working with Complexity: Essential Competencies for Working with People with Personality Disorder,20,"1, 2 and 3",Masters Modules,psychology,2023/4,Psychology
+PYCM111,Cognitive Behavioural Therapy (CBT) for Personality Disorder - Theory,20,2 and 3,Masters Modules,psychology,2023/4,Psychology
+PYCM112,Cognitive Behavioural Therapy (CBT) for Personality disorder - Clinical Practice,20,2 and 3,Masters Modules,psychology,2023/4,Psychology
+PYCM113,Psychodynamic and Psychoanalytic Psychotherapy Clinical Practice I,60,"1, 2 and 3",Masters Modules,psychology,2023/4,Psychology
+PYCM114,Psychoanalytic Theory I,30,"1, 2 and 3",Masters Modules,psychology,2023/4,Psychology
+PYCM115,Institutional Observation,30,"1, 2 and 3",Masters Modules,psychology,2023/4,Psychology
+PYCM116,Psychological Therapies Small-Scale Research Project and Viva,60,"1, 2 and 3",Masters Modules,psychology,2023/4,Psychology
+PYCM117,Children and Young People's Mental Health Settings: Context and Values,20,2 and 3,Masters Modules,psychology,2023/4,Psychology
+PYCM118,"Working with CYP and Families with complex mental health needs: Assessment, Engagement and Formulation",20,2 and 3,Masters Modules,psychology,2023/4,Psychology
+PYCM119,Working with CYP and Families with Complex Mental Health Needs: Therapeutic Skills and Interventions to Improve Psychological Wellbeing,20,1 and 3,Masters Modules,psychology,2023/4,Psychology
+PYCM120,Engagement and assessment with people with severe mental health problems,20,"1, 2 and 3",Masters Modules,psychology,2023/4,Psychology
+PYCM121,Care Planning in Partnership,20,"1, 2 and 3",Masters Modules,psychology,2023/4,Psychology
+PYCM122,Low Intensity Psychological Interventions for Severe Mental Health Problems,20,"1, 2 and 3",Masters Modules,psychology,2023/4,Psychology
+PYCM123,Supervising Evidence-Based Psychological Interventions in Child and Adolescent Mental Health or Education Settings,30,"1, 2 and 3",Masters Modules,psychology,2023/4,Psychology
+PYCM124,Enhanced Practice in Early Intervention,30,"1, 2 and 3",Masters Modules,psychology,2023/4,Psychology
+PYCM125,Adapting Low Intensity Practice with Children and Young People (and Families) with Neurodiversity,30,"1, 2 and 3",Masters Modules,psychology,2023/4,Psychology
+PYCM130,Mental Health Law: Underpinning Knowledge and Context,30,1 and 2,Masters Modules,psychology,2023/4,Psychology
+PYCM131,Trainee Approved Clinician Practice,30,"1, 2 and 3",Masters Modules,psychology,2023/4,Psychology
+PYCM132,Supervising Evidence-Based Psychological Therapies (Low Intensity Cognitive Behavioural Therapy),20,1,Masters Modules,psychology,2023/4,Psychology
+PYCM133,Evidence-Based Practice,20,1 and 3,Masters Modules,psychology,2023/4,Psychology
+PYCM134,Enhanced Practice,20,2 and 3,Masters Modules,psychology,2023/4,Psychology
+PYCM135,Introduction to Leadership,20,2 and 3,Masters Modules,psychology,2023/4,Psychology
+PYCM136,"Working, Assessing and Engaging in Community Based and Primary Care Settings",20,1 and 2,Masters Modules,psychology,2023/4,Psychology
+PYCM137,Mental Health Prevention in Community and Primary Care Settings,20,2 and 3,Masters Modules,psychology,2023/4,Psychology
+PYCM138,Interventions for Emerging Mental Health Difficulties in Community and Primary Care Settings,20,2,Masters Modules,psychology,2023/4,Psychology
+PYCM139DA,Clinical Research and Evidence-Based Practice,30,"1, 2 and 3",Masters Modules,psychology,2023/4,Psychology
+PYCM140DA,"Assessment, Diagnosis and Formulation in Clinical Practice",30,"1, 2 and 3",Masters Modules,psychology,2023/4,Psychology
+CLA1001,Greek History: Problems and Sources,30,1 and 2,Stage One Modules,classics,2023/4,Classics
+CLA1006,Greek and Roman Drama,30,1 and 2,Stage One Modules,classics,2023/4,Classics
+CLA1025,Classical Language and Texts Greek I (A),15,1,Stage One Modules,classics,2023/4,Classics
+CLA1026,Classical Language and Texts: Greek I (B),15,2,Stage One Modules,classics,2023/4,Classics
+CLA1027,Classical Language and Texts: Latin I (A),15,1,Stage One Modules,classics,2023/4,Classics
+CLA1028,Classical Language and Texts: Latin I (B),15,2,Stage One Modules,classics,2023/4,Classics
+CLA1202,Classical Language and Texts: Greek II,30,1 and 2,Stage One Modules,classics,2023/4,Classics
+CLA1204,Classical Language and Texts: Greek III,30,1 and 2,Stage One Modules,classics,2023/4,Classics
+CLA1252,Classical Language and Texts: Latin II,30,1 and 2,Stage One Modules,classics,2023/4,Classics
+CLA1254,Classical Language and Texts: Latin III,30,1 and 2,Stage One Modules,classics,2023/4,Classics
+CLA1307,Ancient Sources (Written Evidence) Ancient Medicine,15,1,Stage One Modules,classics,2023/4,Classics
+CLA1406,Text and Context: Roman Love Elegy,15,2,Stage One Modules,classics,2023/4,Classics
+CLA1410,Text and Context: Writing Women in Ancient Literature,15,1,Stage One Modules,classics,2023/4,Classics
+CLA1507,Ancient World: Greek Philosophy,15,1,Stage One Modules,classics,2023/4,Classics
+CLA1514,"Ancient Sources (Material Evidence) - Pompeii: Destruction, Discovery and Afterlife",15,1,Stage One Modules,classics,2023/4,Classics
+CLA1517,Ancient Sources (Material Evidence): Hellenistic Palaces in West Asia,15,2,Stage One Modules,classics,2023/4,Classics
+THE1070,Elements of New Testament Greek,15,1,Stage One Modules,classics,2023/4,Classics
+THE1076,Religion in the Modern World,15,1,Stage One Modules,classics,2023/4,Classics
+THE1101,The Bible: Past and Present,15,2,Stage One Modules,classics,2023/4,Classics
+THE1103,Introducing Christian Theologies,15,1,Stage One Modules,classics,2023/4,Classics
+THE1106,Philosophy of Religion and Christian Ethics,15,2,Stage One Modules,classics,2023/4,Classics
+THE1109,Introduction to the History and Literatures of the Bible,15,1,Stage One Modules,classics,2023/4,Classics
+THE1110,The History of Early Christianities,15,2,Stage One Modules,classics,2023/4,Classics
+CLA2001,Greek History: Problems and Sources,30,1 and 2,Stage Two Modules,classics,2023/4,Classics
+CLA2006,Greek and Roman Drama,30,1 and 2,Stage Two Modules,classics,2023/4,Classics
+CLA2030,Ancient World: Racecraft,15,,Stage Two Modules,classics,2023/4,Classics
+CLA2202,Classical Language and Texts: Greek II,30,1 and 2,Stage Two Modules,classics,2023/4,Classics
+CLA2205,Classical Language and Texts: Greek IV,30,1 and 2,Stage Two Modules,classics,2023/4,Classics
+CLA2252,Classical Language and Texts: Latin II,30,1 and 2,Stage Two Modules,classics,2023/4,Classics
+CLA2254,Classical Language and Texts: Latin IV,30,1 and 2,Stage Two Modules,classics,2023/4,Classics
+CLA2307,Ancient Sources (Written Evidence) Ancient Medicine,15,1,Stage Two Modules,classics,2023/4,Classics
+CLA2406,Text and Context: Roman Love Elegy,15,2,Stage Two Modules,classics,2023/4,Classics
+CLA2410,Text and Context: Writing Women in Ancient Literature,15,1,Stage Two Modules,classics,2023/4,Classics
+CLA2507,Ancient World: Greek Philosophy,15,1,Stage Two Modules,classics,2023/4,Classics
+CLA2514,"Ancient Sources (Material Evidence) - Pompeii: Destruction, Discovery and Afterlife",15,1,Stage Two Modules,classics,2023/4,Classics
+CLA2517,Ancient Sources (Material Evidence): Hellenistic Palaces in West Asia,15,2,Stage Two Modules,classics,2023/4,Classics
+THE2024,"Spirituality - Prayer, Meditation and Worship",30,2,Stage Two Modules,classics,2023/4,Classics
+THE2034,Intermediate New Testament Greek,15,2,Stage Two Modules,classics,2023/4,Classics
+THE2147,"Early Christian Women: Eve, Mary, Thecla",30,1,Stage Two Modules,classics,2023/4,Classics
+THE2152,"Evolution, God and Gaia",30,2,Stage Two Modules,classics,2023/4,Classics
+THE2173,Life and Death in Israel and Judah,30,2,Stage Two Modules,classics,2023/4,Classics
+THE2185,Incarnation: Topics in Philosophical Theology,30,1,Stage Two Modules,classics,2023/4,Classics
+THE2221,"God, Food and Alcohol in Israelite Cultures",30,,Stage Two Modules,classics,2023/4,Classics
+THE2224,Modern Jewish History and Thought,30,1,Stage Two Modules,classics,2023/4,Classics
+THE2225,Trans Studies in Christianity and Judaism,30,2,Stage Two Modules,classics,2023/4,Classics
+THE2226,The Transformation of Modern Orthodox Christianity,30,1,Stage Two Modules,classics,2023/4,Classics
+THE2227,Military Ethics in Religious and Philosophical Perspectives,30,2,Stage Two Modules,classics,2023/4,Classics
+CLA3008,The Age of Cicero,30,1 and 2,Stage Three Modules,classics,2023/4,Classics
+CLA3009,Dissertation,30,1 and 2,Stage Three Modules,classics,2023/4,Classics
+CLA3033,"Magic, Witchcraft and Ghosts in the Greek and Roman Worlds",30,1 and 2,Stage Three Modules,classics,2023/4,Classics
+CLA3045,Thucydides and the Idea of History,30,1 and 2,Stage Three Modules,classics,2023/4,Classics
+CLA3056,Ovid and the Erotic Passions,15,2,Stage Three Modules,classics,2023/4,Classics
+CLA3113,Art in Greek Society,15,1,Stage Three Modules,classics,2023/4,Classics
+CLA3123,Applied Classics,15,1,Stage Three Modules,classics,2023/4,Classics
+CLA3124,Receptions of the Classical Body,30,2,Stage Three Modules,classics,2023/4,Classics
+CLA3125,Reading and Writing Greek Literature in the Hellenistic World,30,1 and 2,Stage Three Modules,classics,2023/4,Classics
+CLA3202,Classical Language and Texts: Greek II,30,1 and 2,Stage Three Modules,classics,2023/4,Classics
+CLA3204,Classical Language and Texts: Greek III,30,1 and 2,Stage Three Modules,classics,2023/4,Classics
+CLA3205,Classical Language and Texts: Greek IV,30,1 and 2,Stage Three Modules,classics,2023/4,Classics
+CLA3206,Classical Language and Texts: Latin IV,30,1 and 2,Stage Three Modules,classics,2023/4,Classics
+CLA3252,Classical Language and Texts: Latin II,30,1 and 2,Stage Three Modules,classics,2023/4,Classics
+CLA3254,Classical Language and Texts: Latin III,30,1 and 2,Stage Three Modules,classics,2023/4,Classics
+CLA3255,Greek Political Thought,15,1,Stage Three Modules,classics,2023/4,Classics
+CLA3257,Living in the Roman World: Society and Culture,30,1 and 2,Stage Three Modules,classics,2023/4,Classics
+CLA3263,Being and Not-Being in Greek Philosophy: from Parmenides to Aristotle,15,1,Stage Three Modules,classics,2023/4,Classics
+CLA3267,Dialogues with the Past: Creative Interpretative Project,15,1 and 2,Stage Three Modules,classics,2023/4,Classics
+CLA3274,The Persians in a Near Eastern Context,30,1,Stage Three Modules,classics,2023/4,Classics
+CLA3275,Women Writing Classics,15,2,Stage Three Modules,classics,2023/4,Classics
+CLA3277,Lost Works and Fragments,15,2,Stage Three Modules,classics,2023/4,Classics
+CLA3278,Roman Political Thought,15,2,Stage Three Modules,classics,2023/4,Classics
+CLA3279,"Knowledge, Wealth and Power in the Ancient World",30,1 and 2,Stage Three Modules,classics,2023/4,Classics
+THE3024,"Spirituality - Prayer, Meditation and Worship",30,2,Stage Three Modules,classics,2023/4,Classics
+THE3082,Theology Dissertation,30,1 and 2,Stage Three Modules,classics,2023/4,Classics
+THE3147,"Early Christian women: Eve, Mary, Thecla",30,1,Stage Three Modules,classics,2023/4,Classics
+THE3152,"Evolution, God and Gaia",30,2,Stage Three Modules,classics,2023/4,Classics
+THE3173,Life and Death in Israel and Judah,30,2,Stage Three Modules,classics,2023/4,Classics
+THE3185,Incarnation: Topics in Philosophical Theology,30,1,Stage Three Modules,classics,2023/4,Classics
+THE3221,"God, Food and Alcohol in Israelite Cultures",30,1,Stage Three Modules,classics,2023/4,Classics
+THE3224,Modern Jewish History and Thought,30,1,Stage Three Modules,classics,2023/4,Classics
+THE3225,Trans Studies in Christianity and Judaism,30,2,Stage Three Modules,classics,2023/4,Classics
+THE3226,The Transformation of Modern Orthodox Christianity,30,1,Stage Three Modules,classics,2023/4,Classics
+THE3227,Military Ethics in Religious and Philosophical Perspectives,30,2,Stage Three Modules,classics,2023/4,Classics
+CLAM046,The City of Rome,30,1 and 2,Masters Modules,classics,2023/4,Classics
+CLAM077,Ancient Texts and their Interpretation,15,1,Masters Modules,classics,2023/4,Classics
+CLAM078,Classical Reception: An Introduction,15,1,Masters Modules,classics,2023/4,Classics
+CLAM079,Cultures of the Body in the Roman Empire,15,1,Masters Modules,classics,2023/4,Classics
+CLAM101,"The Western Dragon in Lore, Literature and Art",15,1,Masters Modules,classics,2023/4,Classics
+CLAM104,Cultural Transformations in Late Antiquity,15,1,Masters Modules,classics,2023/4,Classics
+CLAM105,Migration and the Migrant through Ancient and Modern Eyes,15,2,Masters Modules,classics,2023/4,Classics
+CLAM106,Ancient Philosophy,15,2,Masters Modules,classics,2023/4,Classics
+CLAM108,"Rome: Globalisation, Materiality",15,2,Masters Modules,classics,2023/4,Classics
+CLAM111,Ancient Drama in its Social and Cultural Context,15,2,Masters Modules,classics,2023/4,Classics
+CLAM202,Classical Language and Texts: Greek II,30,1 and 2,Masters Modules,classics,2023/4,Classics
+CLAM204,Greek III,30,1 and 2,Masters Modules,classics,2023/4,Classics
+CLAM205,Greek IV,30,1 and 2,Masters Modules,classics,2023/4,Classics
+CLAM252,Classical Language and Texts: Latin II,30,1 and 2,Masters Modules,classics,2023/4,Classics
+CLAM254,Latin III,30,1 and 2,Masters Modules,classics,2023/4,Classics
+CLAM255,Latin IV,30,1 and 2,Masters Modules,classics,2023/4,Classics
+CLAM259,Ancient Epigraphy,15,2,Masters Modules,classics,2023/4,Classics
+CLAM261,Homers Odyssey and the Caribbean,15,2,Masters Modules,classics,2023/4,Classics
+CLAM262,Pandemics and disease in the ancient Mediterranean,15,1,Masters Modules,classics,2023/4,Classics
+THEM020,Dissertation,60,"1, 2 and 3",Masters Modules,classics,2023/4,Classics
+THEM124,Elements of New Testament Greek,15,1,Masters Modules,classics,2023/4,Classics
+THEM126,Intermediate New Testament Greek,15,2,Masters Modules,classics,2023/4,Classics
+THEM150,Modern Christian Thought,15,1,Masters Modules,classics,2023/4,Classics
+THEM303,Cultures of Age and Aging in the Bible and Beyond,15,2,Masters Modules,classics,2023/4,Classics
+THEM305,Ecological Interpretation of the Bible,15,2,Masters Modules,classics,2023/4,Classics
+THEM306,Heaven and Philosophy,15,1,Masters Modules,classics,2023/4,Classics
+THEM310,"The First Tourists? Helena, Egeria and the Rise of Christian Pilgrimage",15,1,Masters Modules,classics,2023/4,Classics
+THEM311,Theology and Trauma,15,2,Masters Modules,classics,2023/4,Classics
+BIO1016,Introduction to Professional Placement,,2,Stage One Modules,biosciences,2023/4,Biosciences
+BIO1331,Animals,15,1,Stage One Modules,biosciences,2023/4,Biosciences
+BIO1332,Biochemistry,15,1,Stage One Modules,biosciences,2023/4,Biosciences
+BIO1333,Fundamental Principles for Bioscientists,15,1,Stage One Modules,biosciences,2023/4,Biosciences
+BIO1334,Genetics,15,1,Stage One Modules,biosciences,2023/4,Biosciences
+BIO1336,Ecology,15,2,Stage One Modules,biosciences,2023/4,Biosciences
+BIO1337,Microbiology,15,2,Stage One Modules,biosciences,2023/4,Biosciences
+BIO1338,Plants,15,2,Stage One Modules,biosciences,2023/4,Biosciences
+BIO1339,Cells,15,2,Stage One Modules,biosciences,2023/4,Biosciences
+BIO1345,Structure and Reactivity of Organic Compounds I,15,2,Stage One Modules,biosciences,2023/4,Biosciences
+BIO1347,General Chemistry,30,1 and 2,Stage One Modules,biosciences,2023/4,Biosciences
+BIO2001,Preparing for Professional Placements,,1 and 2,Stage Two Modules,biosciences,2023/4,Biosciences
+BIO2066,Forensic Science,15,2,Stage Two Modules,biosciences,2023/4,Biosciences
+BIO2068,Forensic Science,30,1 and 2,Stage Two Modules,biosciences,2023/4,Biosciences
+BIO2071,Research Skills and Bioethics,15,1 and 2,Stage Two Modules,biosciences,2023/4,Biosciences
+BIO2074,Marine Biology,15,2,Stage Two Modules,biosciences,2023/4,Biosciences
+BIO2076,Ecology and Environment,15,1,Stage Two Modules,biosciences,2023/4,Biosciences
+BIO2081,Coral Reef Field Course,15,"1, 2 and 3",Stage Two Modules,biosciences,2023/4,Biosciences
+BIO2082,Animal Ecophysiology,15,1,Stage Two Modules,biosciences,2023/4,Biosciences
+BIO2085,Structure and Reactivity of Organic Compounds II,15,1,Stage Two Modules,biosciences,2023/4,Biosciences
+BIO2086,Metabolism,15,2,Stage Two Modules,biosciences,2023/4,Biosciences
+BIO2088,Advanced Cell Biology,15,2,Stage Two Modules,biosciences,2023/4,Biosciences
+BIO2089,Molecular Biology of the Gene,15,1,Stage Two Modules,biosciences,2023/4,Biosciences
+BIO2090,Analytical Techniques in Biochemistry,15,1,Stage Two Modules,biosciences,2023/4,Biosciences
+BIO2091,Bioinorganic Chemistry,15,2,Stage Two Modules,biosciences,2023/4,Biosciences
+BIO2092,Genomics and Introductory Bioinformatics,15,2,Stage Two Modules,biosciences,2023/4,Biosciences
+BIO2093,Modern Theories of Evolution,15,2,Stage Two Modules,biosciences,2023/4,Biosciences
+BIO2096,Practical Skills in Field Ecology,15,3,Stage Two Modules,biosciences,2023/4,Biosciences
+BIO2099,Molecular Plant Science,15,2,Stage Two Modules,biosciences,2023/4,Biosciences
+BIO2101,Advanced Microbiology,15,1,Stage Two Modules,biosciences,2023/4,Biosciences
+BIO2104,Introduction to Declarative Computer Programming,15,2,Stage Two Modules,biosciences,2023/4,Biosciences
+BIO2106,Employability and Workplace Learning,15,1 and 2,Stage Two Modules,biosciences,2023/4,Biosciences
+BIO3037,Ecology of Environmental Change,15,2,Stage Three Modules,biosciences,2023/4,Biosciences
+BIO3041,Pharmacology and Medicinal Chemistry,15,2,Stage Three Modules,biosciences,2023/4,Biosciences
+BIO3046,Frontiers in Plant Biology,15,1,Stage Three Modules,biosciences,2023/4,Biosciences
+BIO3047,Advanced Applications of Physiology,15,2,Stage Three Modules,biosciences,2023/4,Biosciences
+BIO3048,Learning from Professional Placement Experience,30,"1, 2 and 3",Stage Three Modules,biosciences,2023/4,Biosciences
+BIO3049,Professional Placement and Report,90,"1, 2 and 3",Stage Three Modules,biosciences,2023/4,Biosciences
+BIO3062,One Year Study Abroad,120,1,Stage Three Modules,biosciences,2023/4,Biosciences
+BIO3067,Ecotoxicology,15,1,Stage Three Modules,biosciences,2023/4,Biosciences
+BIO3073,Specialist Topics in Chemical Sciences,15,2,Stage Three Modules,biosciences,2023/4,Biosciences
+BIO3077,Frontiers in Molecular Cell Biology,15,2,Stage Three Modules,biosciences,2023/4,Biosciences
+BIO3078,Cellular Basis of Immunity,15,1,Stage Three Modules,biosciences,2023/4,Biosciences
+BIO3082,Science Communication,15,2,Stage Three Modules,biosciences,2023/4,Biosciences
+BIO3083,Current Issues in Marine Biology,15,1,Stage Three Modules,biosciences,2023/4,Biosciences
+BIO3085,Horizons of Biochemical Research,15,1,Stage Three Modules,biosciences,2023/4,Biosciences
+BIO3086,Cell Biology of Disease,15,1,Stage Three Modules,biosciences,2023/4,Biosciences
+BIO3089,Organic Synthesis and Drug Design,15,1,Stage Three Modules,biosciences,2023/4,Biosciences
+BIO3090,Secondary Metabolites,15,2,Stage Three Modules,biosciences,2023/4,Biosciences
+BIO3092,Bioinformatics,15,2,Stage Three Modules,biosciences,2023/4,Biosciences
+BIO3093,Energy Metabolism,15,2,Stage Three Modules,biosciences,2023/4,Biosciences
+BIO3096,Biosciences Research Project,45,"1, 2 and 3",Stage Three Modules,biosciences,2023/4,Biosciences
+BIO3097,Living in a Microbial World,15,2,Stage Three Modules,biosciences,2023/4,Biosciences
+BIO3131,Trends in Ecology and Evolution,15,2,Stage Three Modules,biosciences,2023/4,Biosciences
+BIO3910,Professional Development Experience,5,3,Stage Three Modules,biosciences,2023/4,Biosciences
+BIO3911,Professional Development Experience,10,3,Stage Three Modules,biosciences,2023/4,Biosciences
+BIO3912,Professional Development Experience,15,3,Stage Three Modules,biosciences,2023/4,Biosciences
+BIOM052,Academic Research Project,60,"1, 2 and 3",Masters Modules,biosciences,2023/4,Biosciences
+BIOM509,Professional Skills,15,1,Masters Modules,biosciences,2023/4,Biosciences
+BIOM514,Secondary Metabolites,15,2,Masters Modules,biosciences,2023/4,Biosciences
+BIOM515,Cellular Basis of Immunity,15,1,Masters Modules,biosciences,2023/4,Biosciences
+BIOM516,Bioinformatics,15,2,Masters Modules,biosciences,2023/4,Biosciences
+BIOM517,Energy Metabolism,15,2,Masters Modules,biosciences,2023/4,Biosciences
+BIOM527,Research Grant Proposal,15,1,Masters Modules,biosciences,2023/4,Biosciences
+BIOM534,Medical Mycology,15,1,Masters Modules,biosciences,2023/4,Biosciences
+BIOM536,Project 1 - Medical Mycology,60,1 and 2,Masters Modules,biosciences,2023/4,Biosciences
+BIOM537,Project 2 - Fungal Immunology,60,3,Masters Modules,biosciences,2023/4,Biosciences
+BIOM538,Extended Medical Mycology Project,120,"1, 2 and 3",Masters Modules,biosciences,2023/4,Biosciences
+BIOM543,Ecology of Environmental Change,15,2,Masters Modules,biosciences,2023/4,Biosciences
+BIOM544,Ecotoxicology,15,1,Masters Modules,biosciences,2023/4,Biosciences
+BIOM545,Frontiers in Plant Biology,15,1,Masters Modules,biosciences,2023/4,Biosciences
+BIOM546,Living in a Microbial World,15,2,Masters Modules,biosciences,2023/4,Biosciences
+BIOM547,Frontiers in Molecular Cell Biology,15,2,Masters Modules,biosciences,2023/4,Biosciences
+BIOM548,Cell Biology of Disease,15,1,Masters Modules,biosciences,2023/4,Biosciences
+BIOM549,Advanced Laboratory Skills,15,1 and 2,Masters Modules,biosciences,2023/4,Biosciences
+BIOM550,Research Project 1,45,"1, 2 and 3",Masters Modules,biosciences,2023/4,Biosciences
+BIOM553,Current Issues in Marine Biology,15,1,Masters Modules,biosciences,2023/4,Biosciences
+BIOM554,Advanced Applications of Physiology,15,2,Masters Modules,biosciences,2023/4,Biosciences
+BIOM555,Bioimaging,15,1,Masters Modules,biosciences,2023/4,Biosciences
+BIOM560,Research Project,90,2 and 3,Masters Modules,biosciences,2023/4,Biosciences
+BIOM567,Application of Genomics in Infectious Disease,15,3,Masters Modules,biosciences,2023/4,Biosciences
+BIOM567Z,Application of Genomics in Infectious Disease,15,3,Masters Modules,biosciences,2023/4,Biosciences
+BIOM568,Blue Planet,15,1,Masters Modules,biosciences,2023/4,Biosciences
+BIOM569,Research Project,90,"1, 2 and 3",Masters Modules,biosciences,2023/4,Biosciences
+BIOM700Z,The Principles of Medical Mycology,15,1 and 2,Masters Modules,biosciences,2023/4,Biosciences
+BIOM701Z,Medically Important Fungi,15,1 and 2,Masters Modules,biosciences,2023/4,Biosciences
+BIOM702Z,Fungal Diseases,15,1 and 2,Masters Modules,biosciences,2023/4,Biosciences
+BIOM703Z,Diagnosis and Antifungal Therapy,15,1 and 2,Masters Modules,biosciences,2023/4,Biosciences
+BIOM704Z,Molecular Mycology,15,,Masters Modules,biosciences,2023/4,Biosciences
+BIOM705Z,Immunology of Fungal Diseases,15,,Masters Modules,biosciences,2023/4,Biosciences
+BIOM706Z,Fungal Diseases in Specific Patient Populations,15,,Masters Modules,biosciences,2023/4,Biosciences
+BIOM707Z,Microscopy and Histology,15,,Masters Modules,biosciences,2023/4,Biosciences
+BIOM708Z,Medical Mycology Diagnostic Aspects,15,,Masters Modules,biosciences,2023/4,Biosciences
+BIOM709Z,Communicating Science,15,,Masters Modules,biosciences,2023/4,Biosciences
+BIOM710Z,Research Methodology and Grant Proposal,15,1,Masters Modules,biosciences,2023/4,Biosciences
+BIOM711Z,Research Project,45,"1, 2 and 3",Masters Modules,biosciences,2023/4,Biosciences
+JBIM001,Dissertation/Research Project,60,3,Masters Modules,biosciences,2023/4,Biosciences
+JBIM002,Fieldwork Statistics and Experimental Design,15,1,Masters Modules,biosciences,2023/4,Biosciences
+JBIM003,Island Biogeography,15,1,Masters Modules,biosciences,2023/4,Biosciences
+JBIM004,Island Ecology,15,1,Masters Modules,biosciences,2023/4,Biosciences
+JBIM005,Biodiversity and Evolution on Islands,15,1,Masters Modules,biosciences,2023/4,Biosciences
+JBIM006,Invasion and Extinction on Islands,15,2,Masters Modules,biosciences,2023/4,Biosciences
+JBIM007,Global Conservation Strategies and Legislation,15,2,Masters Modules,biosciences,2023/4,Biosciences
+JBIM008,Islands and Climate Change,15,2,Masters Modules,biosciences,2023/4,Biosciences
+JBIM009,Island Conservation in Action,15,2,Masters Modules,biosciences,2023/4,Biosciences
+MTH0001,Principles of Pure Mathematics,30,1 and 2,,mathematics,2023/4,Mathematics
+MTH0002,Applied Mathematics,30,1 and 2,,mathematics,2023/4,Mathematics
+MTH0003,Exploring Mathematics,15,2,,mathematics,2023/4,Mathematics
+MTH0004,Foundation Statistics,15,1,,mathematics,2023/4,Mathematics
+MTH0005,Science: Skills and Culture,30,1 and 2,,mathematics,2023/4,Mathematics
+MTH1000,Foundations,0,1 and 2,,mathematics,2023/4,Mathematics
+MTH1001,Mathematical Structures,30,1 and 2,,mathematics,2023/4,Mathematics
+MTH1002,Mathematical Methods,30,1 and 2,,mathematics,2023/4,Mathematics
+MTH1003,Mathematical Modelling,30,1 and 2,,mathematics,2023/4,Mathematics
+MTH1004,"Probability, Statistics and Data",30,1 and 2,,mathematics,2023/4,Mathematics
+MTH1100,Employability and Preparation for Placement or Internship,0,1 and 2,,mathematics,2023/4,Mathematics
+MTH2003,Differential Equations,15,1,,mathematics,2023/4,Mathematics
+MTH2004,Vector Calculus and Applications,15,2,,mathematics,2023/4,Mathematics
+MTH2005,Modelling: Theory and Practice,30,1 and 2,,mathematics,2023/4,Mathematics
+MTH2006,Statistical Modelling and Inference,30,1 and 2,,mathematics,2023/4,Mathematics
+MTH2008,Real Analysis,15,1,,mathematics,2023/4,Mathematics
+MTH2009,Complex Analysis,15,2,,mathematics,2023/4,Mathematics
+MTH2010,"Groups, Rings and Fields",15,1,,mathematics,2023/4,Mathematics
+MTH2011,Linear Algebra,15,2,,mathematics,2023/4,Mathematics
+MTH2100,Employability and Career Resources,0,1 and 2,,mathematics,2023/4,Mathematics
+MTH3001,Theory of Weather and Climate,15,2,,mathematics,2023/4,Mathematics
+MTH3004,Number Theory,15,1,,mathematics,2023/4,Mathematics
+MTH3006,Mathematical Biology and Ecology,15,1,,mathematics,2023/4,Mathematics
+MTH3007,Fluid Dynamics,15,1,,mathematics,2023/4,Mathematics
+MTH3008,Partial Differential Equations,15,2,,mathematics,2023/4,Mathematics
+MTH3011,Nonlinear Systems and Control,15,2,,mathematics,2023/4,Mathematics
+MTH3013,Applied Differential Geometry,15,2,,mathematics,2023/4,Mathematics
+MTH3019,Mathematics: History and Culture,15,1,,mathematics,2023/4,Mathematics
+MTH3022,"Graphs, Networks and Algorithms",15,2,,mathematics,2023/4,Mathematics
+MTH3024,Stochastic Processes,15,2,,mathematics,2023/4,Mathematics
+MTH3025,Semester of Mathematical Studies Abroad,60,1,,mathematics,2023/4,Mathematics
+MTH3026,Cryptography,15,2,,mathematics,2023/4,Mathematics
+MTH3028,Statistical Inference: Theory and Practice,15,1,,mathematics,2023/4,Mathematics
+MTH3030,Mathematics of Climate Change,15,1,,mathematics,2023/4,Mathematics
+MTH3035,Mathematics Group Project,15,1,,mathematics,2023/4,Mathematics
+MTH3038,Galois Theory,15,1,,mathematics,2023/4,Mathematics
+MTH3039,Computational Nonlinear Dynamics,15,1,,mathematics,2023/4,Mathematics
+MTH3040,Topology and Metric Spaces,15,2,,mathematics,2023/4,Mathematics
+MTH3041,"Bayesian statistics, Philosophy and Practice",15,1,,mathematics,2023/4,Mathematics
+MTH3042,Integral Equations,15,2,,mathematics,2023/4,Mathematics
+MTH3045,Statistical Computing,15,2,,mathematics,2023/4,Mathematics
+MTH3047,Mathematics for Environment and Sustainability,15,2,,mathematics,2023/4,Mathematics
+MTH3100,Industrial Placement,120,"1, 2 and 3",,mathematics,2023/4,Mathematics
+MTHM002,Methods for Stochastics and Finance,15,1,,mathematics,2023/4,Mathematics
+MTHM003,Analysis and Computation for Finance,15,1,,mathematics,2023/4,Mathematics
+MTHM004,Fractal Geometry,15,2,,mathematics,2023/4,Mathematics
+MTHM005,Mathematical Sciences Project,30,1 and 2,,mathematics,2023/4,Mathematics
+MTHM006,Mathematical Theory of Option Pricing,15,2,,mathematics,2023/4,Mathematics
+MTHM007,Engaging with Research,15,1 and 2,,mathematics,2023/4,Mathematics
+MTHM008,Computational Modelling,15,1,,mathematics,2023/4,Mathematics
+MTHM009,Advanced Topics in Mathematical & Computational Biology,15,2,,mathematics,2023/4,Mathematics
+MTHM010,Representation Theory of Finite Groups,15,1,,mathematics,2023/4,Mathematics
+MTHM014,Metric Number Theory and Diophantine Approximation,15,1,,mathematics,2023/4,Mathematics
+MTHM015,AI and Data Science Methods for Life and Health Sciences,15,2,,mathematics,2023/4,Mathematics
+MTHM017,Advanced Topics in Statistics,15,"1, 2 and 3",,mathematics,2023/4,Mathematics
+MTHM018,Dynamical Systems and Chaos,15,1,,mathematics,2023/4,Mathematics
+MTHM019,Fluid Dynamics of Atmospheres and Oceans,15,1,,mathematics,2023/4,Mathematics
+MTHM021,Advanced Mathematics Project,60,2 and 3,,mathematics,2023/4,Mathematics
+MTHM023,Modelling the Weather and Climate,15,2,,mathematics,2023/4,Mathematics
+MTHM028,Algebraic Number Theory,15,2,,mathematics,2023/4,Mathematics
+MTHM029,Algebraic Curves,15,2,,mathematics,2023/4,Mathematics
+MTHM030,"Waves, Instabilities and Turbulence",15,2,,mathematics,2023/4,Mathematics
+MTHM031,Magnetic Fields and Fluid Flows,15,1,,mathematics,2023/4,Mathematics
+MTHM032,"Mathematics, Business and Finance Project",30,1 and 2,,mathematics,2023/4,Mathematics
+MTHM033,Statistical Modelling in Space and Time,15,2,,mathematics,2023/4,Mathematics
+MTHM036,Research in Mathematical Sciences,15,1,,mathematics,2023/4,Mathematics
+MTHM040,MSci Project,45,1 and 2,,mathematics,2023/4,Mathematics
+MTHM041,Analytic Number Theory,15,1,,mathematics,2023/4,Mathematics
+MTHM044,MMATH Project in Statistics,45,1 and 2,,mathematics,2023/4,Mathematics
+MTHM045,Space Weather and Plasmas,15,2,,mathematics,2023/4,Mathematics
+MTHM047,"Bayesian Statistics, Philosophy and Practice",15,1,,mathematics,2023/4,Mathematics
+MTHM048,Ergodic Theory,15,2,,mathematics,2023/4,Mathematics
+MTHM050,Research Project in Statistics,60,3,,mathematics,2023/4,Mathematics
+MTHM051,Fundamentals of Weather and Climate Science,15,1,,mathematics,2023/4,Mathematics
+MTHM052,Mid-Latitude Weather Systems,15,2,,mathematics,2023/4,Mathematics
+MTHM053,MSc Professional Placement,60,"1, 2 and 3",,mathematics,2023/4,Mathematics
+MTHM054,Climate Change Science and Solutions,15,2,,mathematics,2023/4,Mathematics
+MTHM501,Working with Data,15,1 and 2,,mathematics,2023/4,Mathematics
+MTHM502,Introduction to Data Science and Statistical Modelling,15,1 and 2,,mathematics,2023/4,Mathematics
+MTHM503,Applications of Data Science and Statistics,15,2,,mathematics,2023/4,Mathematics
+MTHM504,Applied Data Science and Statistics Project,60,"1, 2 and 3",,mathematics,2023/4,Mathematics
+MTHM505,Data Science and Statistical Modelling in Space and Time,15,2 and 3,,mathematics,2023/4,Mathematics
+MTHM506,Statistical Data Modelling,15,2 and 3,,mathematics,2023/4,Mathematics
+MTHM507,Communicating Data Science,15,2,,mathematics,2023/4,Mathematics
+MTHM508,Bayesian Philosophy and Methods in Data Science,15,1,,mathematics,2023/4,Mathematics
+MTHM611,Topics in Environmental Intelligence,15,2,,mathematics,2023/4,Mathematics
+MTHM612,Environmental Intelligence Research Project,60,3,,mathematics,2023/4,Mathematics
+EMP3001,Commercial and Industrial Experience,15,1,,mathematics,2023/4,Mathematics
+EMP3003,Professional Experience,45,1 and 2,,mathematics,2023/4,Mathematics
+HIH1002,"Losing an Empire, Finding a Role: Britain Since 1945",15,1,Stage One Modules,history,2023/4,History
+HIH1014,The Body in Eighteenth-Century Britain,15,1,Stage One Modules,history,2023/4,History
+HIH1042,Murder in Early Modern England,15,1,Stage One Modules,history,2023/4,History
+HIH1043,The Collapse of Communism in Central-Eastern Europe and the Soviet Union,15,2,Stage One Modules,history,2023/4,History
+HIH1051,"Everyday Life in the Anglophone Caribbean, c.1900-1966",15,1,Stage One Modules,history,2023/4,History
+HIH1137,Becoming a Historian: Core,15,1,Stage One Modules,history,2023/4,History
+HIH1138,"Medieval, Manufactured? Uses and Reuses of the Middle Ages",15,2,Stage One Modules,history,2023/4,History
+HIH1139,Becoming a Historian: Extended,15,2,Stage One Modules,history,2023/4,History
+HIH1140,"Confinement, Care, Cure: Psychiatric Institutions in the Twentieth Century",15,1,Stage One Modules,history,2023/4,History
+HIH1411,From Wigan Pier to Piccadilly: Britain between the Wars,15,2,Stage One Modules,history,2023/4,History
+HIH1412,Early Modern Magic and Witchcraft,15,2,Stage One Modules,history,2023/4,History
+HIH1421,Understanding Medieval and Early Modern History,30,1,Stage One Modules,history,2023/4,History
+HIH1422,Understanding Modern History,30,2,Stage One Modules,history,2023/4,History
+HIH1505,The First Crusade,15,2,Stage One Modules,history,2023/4,History
+HIH1506,The First Day of the Somme,15,2,Stage One Modules,history,2023/4,History
+HIH1532,The History of Strategic Thinking,15,2,Stage One Modules,history,2023/4,History
+HIH1534,Maritime Power in the Age of Nelson,15,2,Stage One Modules,history,2023/4,History
+HIH1539,Early Modern Things: Materials as Historical Sources,15,2,Stage One Modules,history,2023/4,History
+HIH1585,Ladies of the Night: Prostitution in the Victorian World,15,1,Stage One Modules,history,2023/4,History
+HIH1586,Early Modern Venice: Representations and Myths,15,2,Stage One Modules,history,2023/4,History
+HIH1596,The Good War? The United States in World War II,15,2,Stage One Modules,history,2023/4,History
+HIH1600,Images of Stalinism,15,1,Stage One Modules,history,2023/4,History
+HIH1612,Renaissance Florence 1350-1550,15,2,Stage One Modules,history,2023/4,History
+HIH1614,"Environment and Industry, 1750-1950: Global Perspectives",15,1,Stage One Modules,history,2023/4,History
+HIH1616,"Producing Poverty: Peasants in a Global Perspective, 700-1300CE",15,1,Stage One Modules,history,2023/4,History
+HIH1618,"Body, Border, Partition: Understanding Violence in South Asia",15,1,Stage One Modules,history,2023/4,History
+HIH2002,Uses of the Past,30,1,Stage Two Modules,history,2023/4,History
+HIH2011A,"Forgetting Fascism, Remembering Communism: Memory in Modern Europe",30,1,Stage Two Modules,history,2023/4,History
+HIH2014A,"Decolonisation and the Collapse of the British Empire, 1919-1968",30,2,Stage Two Modules,history,2023/4,History
+HIH2019A,"Science, Technology and Medicine in the Cold War",30,1,Stage Two Modules,history,2023/4,History
+HIH2032A,Europe 1650-1800: From Enlightenment to Romanticism,30,1,Stage Two Modules,history,2023/4,History
+HIH2036A,"Albion's Fatal Tree: Capital Punishment in England, 1688-1965",30,2,Stage Two Modules,history,2023/4,History
+HIH2037,American Frontiers: The West in U.S. History and Mythology,30,2,Stage Two Modules,history,2023/4,History
+HIH2041,"The First Welfare State? England's Poor Law, 1520-1835",30,2,Stage Two Modules,history,2023/4,History
+HIH2111,"Mediterranean Maritime Supremacy, 1500-1700",30,,Stage Two Modules,history,2023/4,History
+HIH2137A,"Inventing Modern Man: Constructions of Mind, Body and the Individual, 1400-1800",30,2,Stage Two Modules,history,2023/4,History
+HIH2138A,"History of Development: Ideologies, Politics and Projects",30,2,Stage Two Modules,history,2023/4,History
+HIH2145A,Spain from Absolutism to Democracy,30,2,Stage Two Modules,history,2023/4,History
+HIH2179A,The American Empire,30,1,Stage Two Modules,history,2023/4,History
+HIH2184A,"From Conquest to Communism: Central Asia under the Russian and Soviet Empires, 1730-1945",30,1,Stage Two Modules,history,2023/4,History
+HIH2185A,"China in the World, 1500-1840",30,1,Stage Two Modules,history,2023/4,History
+HIH2186A,Deviants and Dissenters in Early Modern England,30,2,Stage Two Modules,history,2023/4,History
+HIH2208A,Medieval Paris,30,1,Stage Two Modules,history,2023/4,History
+HIH2209A,African American History,30,2,Stage Two Modules,history,2023/4,History
+HIH2210A,"The Russian Empire, 1689-1917",30,1,Stage Two Modules,history,2023/4,History
+HIH2218A,"Religion, Society and Culture in Tudor England",30,1,Stage Two Modules,history,2023/4,History
+HIH2237,Doing History in the Digital Age,30,2,Stage Two Modules,history,2023/4,History
+HIH2588,"Empire, Identity and Heritage in South-East Europe and the Middle East (1800-1950)",30,2,Stage Two Modules,history,2023/4,History
+HIH2590,An Age of Iron? Europe in the Tenth Century,30,1,Stage Two Modules,history,2023/4,History
+HIH2592,"Science, Empire and Natural History Museums: A Global Perspective",30,1,Stage Two Modules,history,2023/4,History
+HIH2593,'Undesirables': Migration Mobility and Empire,30,2,Stage Two Modules,history,2023/4,History
+HIH3005,General Third-Year Dissertation,30,1 and 2,Stage Three Modules,history,2023/4,History
+HIH3051,The Rise of Capitalism in Britain 1660-1830 (Sources),30,1 and 2,Stage Three Modules,history,2023/4,History
+HIH3052,The Rise of Capitalism in Britain 1660-1830 (Context),30,1 and 2,Stage Three Modules,history,2023/4,History
+HIH3053,Death to the Traitors: Rebellion and Resisting Tyranny in the Middle Ages: Sources,30,1 and 2,Stage Three Modules,history,2023/4,History
+HIH3054,Death to the Traitors: Rebellion and Resisting Tyranny in the Middle Ages: Context,30,1 and 2,Stage Three Modules,history,2023/4,History
+HIH3056,"Them and Us: Imagining the Social ""Other"" in Britain since the 1880s: Sources",30,1 and 2,Stage Three Modules,history,2023/4,History
+HIH3057,"Them and Us: Imagining the Social ""Other"" in Britain since the 1880s: Context",30,1 and 2,Stage Three Modules,history,2023/4,History
+HIH3058,Engendering Empire: Making the British Imperial World: Sources,30,1 and 2,Stage Three Modules,history,2023/4,History
+HIH3059,Engendering Empire: Making the British Imperial World: Context,30,1 and 2,Stage Three Modules,history,2023/4,History
+HIH3061,"Women's Experience in Britain: Race, Class and Gender since 1945 (Sources)",30,1 and 2,Stage Three Modules,history,2023/4,History
+HIH3062,"Women's Experience in Britain: Race, Class and Gender since 1945 (Context)",30,1 and 2,Stage Three Modules,history,2023/4,History
+HIH3132,The Body in Early Modern England: Sources,30,1 and 2,Stage Three Modules,history,2023/4,History
+HIH3133,The Body in Early Modern England: Context,30,1 and 2,Stage Three Modules,history,2023/4,History
+HIH3157,"The Irish Revolution, 1912-23: Sources",30,1 and 2,Stage Three Modules,history,2023/4,History
+HIH3158,"The Irish Revolution, 1912-23: Context",30,1 and 2,Stage Three Modules,history,2023/4,History
+HIH3170,From the Grand Tour to Gladiator: Modern Encounters with the Ancient World: Sources,30,1 and 2,Stage Three Modules,history,2023/4,History
+HIH3171,From the Grand Tour to Gladiator: Modern Encounters with the Ancient World: Context,30,1 and 2,Stage Three Modules,history,2023/4,History
+HIH3216,"The Yes, Minister Files: Perspectives on British Government since 1914: Sources",30,1 and 2,Stage Three Modules,history,2023/4,History
+HIH3217,"The Yes, Minister Files: Perspectives on British Government since 1914: Context",30,1 and 2,Stage Three Modules,history,2023/4,History
+HIH3250,Colonial Conflict and Decolonisation 1918-1975: Sources,30,1 and 2,Stage Three Modules,history,2023/4,History
+HIH3251,Colonial Conflict and Decolonisation 1918-1975: Context,30,1 and 2,Stage Three Modules,history,2023/4,History
+HIH3298,"Law, Politics and Society across the British Empire, 1750-1960: Sources",30,1 and 2,Stage Three Modules,history,2023/4,History
+HIH3299,"Law, Politics and Society across the British Empire, 1750-1960: Context",30,1 and 2,Stage Three Modules,history,2023/4,History
+HIH3617,"News, Media and Communication",30,1 and 2,Stage Three Modules,history,2023/4,History
+HIH3626,"Heroes: Conceptions, Constructions and Representations",30,1 and 2,Stage Three Modules,history,2023/4,History
+HIH3628,Civil Wars,30,1 and 2,Stage Three Modules,history,2023/4,History
+HIH3633,Revolutions,30,1 and 2,Stage Three Modules,history,2023/4,History
+HIH3634,"Race, Resistance and Decolonisation",30,1 and 2,Stage Three Modules,history,2023/4,History
+HIH3639,"Beyond Cannibalism: Indigenous Peoples and the European Colonisation of Brazil, 1500-1822: Context",30,1 and 2,Stage Three Modules,history,2023/4,History
+HIH3640,"Beyond Cannibalism: Indigenous Peoples and the European Colonisation of Brazil, 1500-1822: Sources",30,1 and 2,Stage Three Modules,history,2023/4,History
+HISM001,Critical Approaches to Early Modern History,30,1,Masters Modules,history,2023/4,History
+HISM002,Critical Approaches to Maritime and Naval History,30,1,Masters Modules,history,2023/4,History
+HISM003,Critical Approaches to Imperial and Global History,30,1,Masters Modules,history,2023/4,History
+HISM036,"Gender, Society and Culture in Early Modern Europe",30,2,Masters Modules,history,2023/4,History
+HISM039,History in Public: A Workplace Project,30,"1, 2 and 3",Masters Modules,history,2023/4,History
+HISM040,Introduction to Digital Humanities,30,2,Masters Modules,history,2023/4,History
+HISM041,Food and Agriculture in Historical Perspective,30,2,Masters Modules,history,2023/4,History
+HISM042,Working with Medieval Manuscripts and Documents,30,2,Masters Modules,history,2023/4,History
+HISM043,Critical Approaches to the History of Violence and Conflict,30,1,Masters Modules,history,2023/4,History
+HISM180,Dissertation in Medieval Studies,60,2 and 3,Masters Modules,history,2023/4,History
+HISM185,Supervised Independent Study in the Humanities,15,1 and 2,Masters Modules,history,2023/4,History
+HISM186,Supervised Independent Study in the Humanities,30,1 and 2,Masters Modules,history,2023/4,History
+HISM201,"Debating British Political History, 1906 to the Present",30,2,Masters Modules,history,2023/4,History
+HISM400,Dissertation in History,60,2 and 3,Masters Modules,history,2023/4,History
+HISM403,Dissertation in History,90,2 and 3,Masters Modules,history,2023/4,History
+HISM479,"Sexual Discoveries: the Reception, Interpretation and Purpose of Queer History",30,2,Masters Modules,history,2023/4,History
+HISM482,Empire and Globalisation,30,2,Masters Modules,history,2023/4,History
+HISM483,European Empires and Proto-Globalisation 1200-1800,30,2,Masters Modules,history,2023/4,History
+POL1017,Globalisation of World Politics,15,1,Stage One Modules,politics,2023/4,Politics
+POL1018,The Challenges of World Politics in the Twenty-First Century,15,2,Stage One Modules,politics,2023/4,Politics
+POL1019,Power and Democracy,15,1,Stage One Modules,politics,2023/4,Politics
+POL1020,Politics in Europe,15,1,Stage One Modules,politics,2023/4,Politics
+POL1025,Classical Political Thought,15,1,Stage One Modules,politics,2023/4,Politics
+POL1026,Early Modern Political Thought,15,2,Stage One Modules,politics,2023/4,Politics
+POL1028,Introduction to Strategic Studies,15,2,Stage One Modules,politics,2023/4,Politics
+POL1029,Introduction to Comparative Politics,15,2,Stage One Modules,politics,2023/4,Politics
+POL1044,Introduction to Public Policy,15,2,Stage One Modules,politics,2023/4,Politics
+POL1045,International Politics of the Global South,15,2,Stage One Modules,politics,2023/4,Politics
+POL1046,The State of the UK: Identifying Marginalised Identities and Addressing Inequalities,15,1,Stage One Modules,politics,2023/4,Politics
+POL1047,Global Sustainability Governance and Policy,15,1,Stage One Modules,politics,2023/4,Politics
+POL2020,Contemporary Theories of World Politics,15,1,Stage Two Modules,politics,2023/4,Politics
+POL2025,Health Policy in Comparative Perspective,15,1,Stage Two Modules,politics,2023/4,Politics
+POL2026,"Political Analysis: Behaviour, Institutions, Ideas",15,1,Stage Two Modules,politics,2023/4,Politics
+POL2027,The Politics of the World Economy,15,2,Stage Two Modules,politics,2023/4,Politics
+POL2046,The Economics of Politics,15,1,Stage Two Modules,politics,2023/4,Politics
+POL2047,American Politics,15,2,Stage Two Modules,politics,2023/4,Politics
+POL2050,Political Philosophy,15,1,Stage Two Modules,politics,2023/4,Politics
+POL2057,Security Studies,15,2,Stage Two Modules,politics,2023/4,Politics
+POL2059,Political Thought of Modernity,15,2,Stage Two Modules,politics,2023/4,Politics
+POL2076,"Rising Powers, Peace and Conflict",15,2,Stage Two Modules,politics,2023/4,Politics
+POL2079,Contemporary Public Debate in an Age of 'Anti-Politics',15,2,Stage Two Modules,politics,2023/4,Politics
+POL2081,Thinking about Race: Perspectives from the Biological and Social Sciences,15,2,Stage Two Modules,politics,2023/4,Politics
+POL2082,Changing Character of Warfare,15,1,Stage Two Modules,politics,2023/4,Politics
+POL2098,What is Law? Jurisprudence from Stone Tablet to Brain Imaging,15,1,Stage Two Modules,politics,2023/4,Politics
+POL2102,Explaining Public Policies,15,1,Stage Two Modules,politics,2023/4,Politics
+POL2104,Party Politics and Democracy,15,1,Stage Two Modules,politics,2023/4,Politics
+POL2106,America in the World,15,1,Stage Two Modules,politics,2023/4,Politics
+POL2112,Politics and Its Discontents,15,1,Stage Two Modules,politics,2023/4,Politics
+POL2113,Parliamentary Studies,15,2,Stage Two Modules,politics,2023/4,Politics
+POL2114,Issues in Modern British Politics,15,2,Stage Two Modules,politics,2023/4,Politics
+POL2115,British Foreign Policy,15,1,Stage Two Modules,politics,2023/4,Politics
+POL2116,Political Economy of Armed Conflicts,15,2,Stage Two Modules,politics,2023/4,Politics
+POL2117,Great Power Politics,15,1,Stage Two Modules,politics,2023/4,Politics
+POL2120,"Democratic Innovations, Deliberation and Public Policy",15,1,Stage Two Modules,politics,2023/4,Politics
+POL2121,Politics and Conflict in Deeply Divided Societies,15,2,Stage Two Modules,politics,2023/4,Politics
+POL2122,The Politics and Policies of Youth Engagement,15,2,Stage Two Modules,politics,2023/4,Politics
+POL2124,The Politics of the Body,15,1,Stage Two Modules,politics,2023/4,Politics
+POL2126,Environmental policy in times of crisis,15,2,Stage Two Modules,politics,2023/4,Politics
+POL2127,Electoral Politics,15,1,Stage Two Modules,politics,2023/4,Politics
+POL2128,Introduction to Research Design in Politics and International Relations,15,2,Stage Two Modules,politics,2023/4,Politics
+POL3000,Deadly Words: The Language of Political Violence,15,2,Stage Three Modules,politics,2023/4,Politics
+POL3040,Dissertation,30,1 and 2,Stage Three Modules,politics,2023/4,Politics
+POL3051,The Media in Europe,30,1 and 2,Stage Three Modules,politics,2023/4,Politics
+POL3054,Nuclear Weapons in International Relations,15,1,Stage Three Modules,politics,2023/4,Politics
+POL3069,Globalisation and the Politics of Resistance,30,1 and 2,Stage Three Modules,politics,2023/4,Politics
+POL3120,War and Public Opinion,30,1 and 2,Stage Three Modules,politics,2023/4,Politics
+POL3136,Political Psychology,30,1 and 2,Stage Three Modules,politics,2023/4,Politics
+POL3156,Central Asian Politics,30,1 and 2,Stage Three Modules,politics,2023/4,Politics
+POL3168,War and its Aftermath: Interventions and Contemporary Conflict,30,1 and 2,Stage Three Modules,politics,2023/4,Politics
+POL3174,International Security and US Foreign Policy,30,1 and 2,Stage Three Modules,politics,2023/4,Politics
+POL3180,"Latin American Parties, Politics and Elections",30,1 and 2,Stage Three Modules,politics,2023/4,Politics
+POL3193,"Women in the Criminal Justice System: Law, Policy and Institutions",30,1 and 2,Stage Three Modules,politics,2023/4,Politics
+POL3194,Rethinking the Politics of Communities,30,1 and 2,Stage Three Modules,politics,2023/4,Politics
+POL3196,Democracy in the European Union,30,1 and 2,Stage Three Modules,politics,2023/4,Politics
+POL3202,China in World Affairs,30,1 and 2,Stage Three Modules,politics,2023/4,Politics
+POL3206,The Political Economy of the State,30,1 and 2,Stage Three Modules,politics,2023/4,Politics
+POL3217,Feminist Political Theory,30,1 and 2,Stage Three Modules,politics,2023/4,Politics
+POL3226,"Money, Lobbying and Policymaking",30,1 and 2,Stage Three Modules,politics,2023/4,Politics
+POL3231,Research Experience,15,1,Stage Three Modules,politics,2023/4,Politics
+POL3247,Politics of Biology,15,1,Stage Three Modules,politics,2023/4,Politics
+POL3248,Marxism(s) and International Relations,15,1,Stage Three Modules,politics,2023/4,Politics
+POL3256,Trumping the Mainstream: The Populist Radical Right and Democratic politics,30,1 and 2,Stage Three Modules,politics,2023/4,Politics
+POL3259,Climate Justice,30,1 and 2,Stage Three Modules,politics,2023/4,Politics
+POL3260,Russian Foreign Policy,15,2,Stage Three Modules,politics,2023/4,Politics
+POL3264,International Relations in Global History,15,1,Stage Three Modules,politics,2023/4,Politics
+POL3267,"Misinformation, Misperceptions and Conspiracy Theories",15,2,Stage Three Modules,politics,2023/4,Politics
+POL3277,Developments in British Politics: Institutions and Behaviour,15,2,Stage Three Modules,politics,2023/4,Politics
+POL3282,"World Orders: Past, Present and Future",30,1 and 2,Stage Three Modules,politics,2023/4,Politics
+POL3288,Political Science and the Real World,30,1 and 2,Stage Three Modules,politics,2023/4,Politics
+POL3291,Disrupting Western and Neo-Liberal Policing of the Global and the Local,30,1 and 2,Stage Three Modules,politics,2023/4,Politics
+POL3292,LGBTQ+ Policies and Politics in the UK,15,2,Stage Three Modules,politics,2023/4,Politics
+POL3293,The Political Economy of Chinese Development,15,2,Stage Three Modules,politics,2023/4,Politics
+POL3294,"Land, Power and Politics: a critical problem-based approach",15,2,Stage Three Modules,politics,2023/4,Politics
+POL3295,"Security, Society and Algorithms",15,2,Stage Three Modules,politics,2023/4,Politics
+POL3296,Political Economy of Populism,15,2,Stage Three Modules,politics,2023/4,Politics
+POL3297,Comparative Political Economy: Varieties of Capitalism,15,1,Stage Three Modules,politics,2023/4,Politics
+POL3298,Studies of Terrorism,15,2,Stage Three Modules,politics,2023/4,Politics
+POL3300,Securitisation of Migration,30,1 and 2,Stage Three Modules,politics,2023/4,Politics
+POL3301,"Freedom, Creativity and Life",30,1 and 2,Stage Three Modules,politics,2023/4,Politics
+POLM013M,MPA Dissertation,60,2 and 3,Masters Modules,politics,2023/4,Politics
+POLM014M,MPA Applied Studies,60,"1, 2 and 3",Masters Modules,politics,2023/4,Politics
+POLM016,"Food Systems, Alternative Food Networks and Ethical Consumption",15,2,Masters Modules,politics,2023/4,Politics
+POLM022,Challenges and Opportunities in Global Security,30,1,Masters Modules,politics,2023/4,Politics
+POLM023,Capstone in Global Security Studies,30,2 and 3,Masters Modules,politics,2023/4,Politics
+POLM024,"Security, Society and Algorithms",30,2,Masters Modules,politics,2023/4,Politics
+POLM057,Understanding and Interpretation in Political Thought,30,1,Masters Modules,politics,2023/4,Politics
+POLM063,Qualitative Methods in Social Research,15,2,Masters Modules,politics,2023/4,Politics
+POLM082,International Relations of the Middle East,30,2,Masters Modules,politics,2023/4,Politics
+POLM084,"Conflict, Security and Development in World Politics",30,1,Masters Modules,politics,2023/4,Politics
+POLM085,"Work Placement in Conflict, Security and Development",30,1 and 2,Masters Modules,politics,2023/4,Politics
+POLM088,State-building after Civil War,30,1,Masters Modules,politics,2023/4,Politics
+POLM140,Qualitative Methods in Social Research,30,2,Masters Modules,politics,2023/4,Politics
+POLM144,"The West, Civilisations and World Order",30,1,Masters Modules,politics,2023/4,Politics
+POLM148,"Brexit: Causes, Interpretation and Implications",30,1,Masters Modules,politics,2023/4,Politics
+POLM156,The Transformation of Politics in the Global Age,30,2,Masters Modules,politics,2023/4,Politics
+POLM158,Digital Politics and Policy,30,2,Masters Modules,politics,2023/4,Politics
+POLM167,Global Governance: Institutions and Challenges,30,1,Masters Modules,politics,2023/4,Politics
+POLM168,"From Oppression to Resistance: Exploring the Intersections of Race, Class and Gender",30,2,Masters Modules,politics,2023/4,Politics
+POLM173,Theories of International Development,30,2,Masters Modules,politics,2023/4,Politics
+POLM174,"Tools, Policy and Practice of International Development",30,1,Masters Modules,politics,2023/4,Politics
+POLM217,"Conflict, Security and Development in Eurasia",30,1,Masters Modules,politics,2023/4,Politics
+POLM220M,Management and Governance: Comparing Public Administration around the World,30,1,Masters Modules,politics,2023/4,Politics
+POLM222M,"The Politics, Policy and Practice of Sustainable Development",30,2,Masters Modules,politics,2023/4,Politics
+POLM231,State Crime,30,1,Masters Modules,politics,2023/4,Politics
+POLM237M,Collaborative and Participatory Governance,30,2,Masters Modules,politics,2023/4,Politics
+POLM239,International Organisation,30,2,Masters Modules,politics,2023/4,Politics
+POLM502,International Relations: Power and Institutions,30,1,Masters Modules,politics,2023/4,Politics
+POLM503,Foreign Policy Decision-Making,30,2,Masters Modules,politics,2023/4,Politics
+POLM651,State and Society in the Middle East,30,2,Masters Modules,politics,2023/4,Politics
+POLM803,Sources in Modernity and Post-Modernity,30,2,Masters Modules,politics,2023/4,Politics
+POLM809,Applied Quantitative Data Analysis,15,1,Masters Modules,politics,2023/4,Politics
+POLM886,Dissertation,60,"1, 2 and 3",Masters Modules,politics,2023/4,Politics
+POLM887,Public Policy Process,30,1,Masters Modules,politics,2023/4,Politics
+POLM891DA,Introduction to Systems Thinking,30,2,Masters Modules,politics,2023/4,Politics
+POLM892DA,Organisational Viability and Sustainability,30,3,Masters Modules,politics,2023/4,Politics
+POLM893DA,"Equality, Diversity and Leadership",30,2,Masters Modules,politics,2023/4,Politics
+POLM894DA,Systemic Intervention,30,2,Masters Modules,politics,2023/4,Politics
+POLM895DA,Work-Based Project 1,30,3,Masters Modules,politics,2023/4,Politics
+POLM896DA,Work-Based Project 2,30,3,Masters Modules,politics,2023/4,Politics
+POLM897,"Surveys and Experiments: Design, Implementation and Analysis",15,1,Masters Modules,politics,2023/4,Politics
+LAW1003,Criminal Law,30,1 and 2,Stage One Modules,law,2023/4,Law
+LAW1004,The Law of Contract,30,1 and 2,Stage One Modules,law,2023/4,Law
+LAW1013,French Constitutional Law,30,1 and 2,Stage One Modules,law,2023/4,Law
+LAW1035,Constitutional and Administrative Law,30,1 and 2,Stage One Modules,law,2023/4,Law
+LAW1036,Legal Foundations,30,1 and 2,Stage One Modules,law,2023/4,Law
+LAW1910,Academic Language Skills for Law,,1 and 2,Stage One Modules,law,2023/4,Law
+LAW2004B,Contract Law,30,1 and 2,Stage Two Modules,law,2023/4,Law
+LAW2015,The Law of Torts,30,1 and 2,Stage Two Modules,law,2023/4,Law
+LAW2015B,The Law of Torts,30,1 and 2,Stage Two Modules,law,2023/4,Law
+LAW2017,Land Law,30,1 and 2,Stage Two Modules,law,2023/4,Law
+LAW2017B,Land Law,30,1 and 2,Stage Two Modules,law,2023/4,Law
+LAW2033,French Administrative Law,30,1 and 2,Stage Two Modules,law,2023/4,Law
+LAW2035B,Constitutional and Administrative Law,30,1 and 2,Stage Two Modules,law,2023/4,Law
+LAW2041,Equity and Trusts,30,1 and 2,Stage Two Modules,law,2023/4,Law
+LAW2091,(European) Consumer Law,15,2,Stage Two Modules,law,2023/4,Law
+LAW2095,Equality and Diversity,15,2,Stage Two Modules,law,2023/4,Law
+LAW2103,European Union Law,15,1,Stage Two Modules,law,2023/4,Law
+LAW2109,Competition Law,15,2,Stage Two Modules,law,2023/4,Law
+LAW2153,"Law, Democracy and Populism: The Rise and Fall of Constitutional Democracy",15,2,Stage Two Modules,law,2023/4,Law
+LAW2155,Jurisprudence,15,2,Stage Two Modules,law,2023/4,Law
+LAW2701,Law Placement,,1 and 2,Stage Two Modules,law,2023/4,Law
+LAW3000,Year Abroad,120,1 and 2,Stage Three Modules,law,2023/4,Law
+LAW3003,Criminal Law,30,1 and 2,Stage Three Modules,law,2023/4,Law
+LAW3003B,Criminal Law,30,1 and 2,Stage Three Modules,law,2023/4,Law
+LAW3011,"Gender, Sexuality and Law",15,1,Stage Three Modules,law,2023/4,Law
+LAW3019,Commercial Law,30,1 and 2,Stage Three Modules,law,2023/4,Law
+LAW3020,Family Law,30,1 and 2,Stage Three Modules,law,2023/4,Law
+LAW3024,Public International Law,30,1 and 2,Stage Three Modules,law,2023/4,Law
+LAW3026,Employment Law,30,1 and 2,Stage Three Modules,law,2023/4,Law
+LAW3041B,Trusts,30,1 and 2,Stage Three Modules,law,2023/4,Law
+LAW3041D,Trusts,30,1 and 2,Stage Three Modules,law,2023/4,Law
+LAW3047,Dissertation,30,1 and 2,Stage Three Modules,law,2023/4,Law
+LAW3051,French Law of Contract,30,1 and 2,Stage Three Modules,law,2023/4,Law
+LAW3083,Company Law Foundation,15,1,Stage Three Modules,law,2023/4,Law
+LAW3132,Islamic Law and Society,15,1,Stage Three Modules,law,2023/4,Law
+LAW3146,"International Law, Conflict and Strategy",30,1 and 2,Stage Three Modules,law,2023/4,Law
+LAW3151A,Research Paper,15,1,Stage Three Modules,law,2023/4,Law
+LAW3151B,Research Paper,15,2,Stage Three Modules,law,2023/4,Law
+LAW3157B,European Union Law,15,1,Stage Three Modules,law,2023/4,Law
+LAW3167,Access to Justice Clinic,30,1 and 2,Stage Three Modules,law,2023/4,Law
+LAW3170,Medical Ethics and Law,30,1 and 2,Stage Three Modules,law,2023/4,Law
+LAW3173,Technology and Human Rights Law,15,2,Stage Three Modules,law,2023/4,Law
+LAW3175,Medical Ethics and Law Foundations,15,1,Stage Three Modules,law,2023/4,Law
+LAW3184,International Commercial Litigation,15,2,Stage Three Modules,law,2023/4,Law
+LAW3190,Artificial Intelligence and the Law,15,2,Stage Three Modules,law,2023/4,Law
+LAW3198,Business and Human Rights Law,15,1,Stage Three Modules,law,2023/4,Law
+LAW3200,Environmental Law,15,2,Stage Three Modules,law,2023/4,Law
+LAW3204,"Migrants, Refugees and Citizens in the UK",15,1,Stage Three Modules,law,2023/4,Law
+LAW3205,"Law, Testimony and Trauma",15,1,Stage Three Modules,law,2023/4,Law
+LAW3213,Criminal Evidence,15,2,Stage Three Modules,law,2023/4,Law
+LAW3214,Human Rights Law,30,1 and 2,Stage Three Modules,law,2023/4,Law
+LAW3700,Law with Legal Placement: Placement Module,120,1 and 2,Stage Three Modules,law,2023/4,Law
+LAW3701,Law Placement,120,"1, 2 and 3",Stage Three Modules,law,2023/4,Law
+LAW3911,International Criminal Law and Justice,15,2,Stage Three Modules,law,2023/4,Law
+LAWM145,"Dignity, Democracy and the Law",15,1,Masters Modules,law,2023/4,Law
+LAWM152,Qualitative Empirical Legal Research,15,1,Masters Modules,law,2023/4,Law
+LAWM153,Quantitative Empirical Legal Research,15,2,Masters Modules,law,2023/4,Law
+LAWM155,Human Rights and Digital Technologies,15,2,Masters Modules,law,2023/4,Law
+LAWM156,International Crimes and Human Rights Abuses,15,2,Masters Modules,law,2023/4,Law
+LAWM157,International Human Rights Law: United Nations System,15,1,Masters Modules,law,2023/4,Law
+LAWM158,International Human Rights Law: Regional Systems,15,2,Masters Modules,law,2023/4,Law
+LAWM159,International Law of Armed Conflict,15,1,Masters Modules,law,2023/4,Law
+LAWM161,"Migration, citizenship and asylum in international law",15,2,Masters Modules,law,2023/4,Law
+LAWM162,The International Criminal Court: Law and Practice,15,1,Masters Modules,law,2023/4,Law
+LAWM163,The International Law of Cyber Operations,15,2,Masters Modules,law,2023/4,Law
+LAWM164,The Use of Force in International Law,15,1,Masters Modules,law,2023/4,Law
+LAWM165,Automated and Autonomous Transport: Cars and Ships,15,1,Masters Modules,law,2023/4,Law
+LAWM166,Business and Human Rights Law and Policy,15,2,Masters Modules,law,2023/4,Law
+LAWM167,"Blockchain, Policy, Property",15,2,Masters Modules,law,2023/4,Law
+LAWM168,"Corporate Law, Corporate Governance and Sustainability",15,1,Masters Modules,law,2023/4,Law
+LAWM169,Data Protection and Privacy,15,1,Masters Modules,law,2023/4,Law
+LAWM170,Digital Copyright Law,15,1,Masters Modules,law,2023/4,Law
+LAWM172,EU Competition Law,15,1,Masters Modules,law,2023/4,Law
+LAWM173,Financial Markets Law and Regulation,15,1,Masters Modules,law,2023/4,Law
+LAWM174,International Arbitration,15,2,Masters Modules,law,2023/4,Law
+LAWM175,International Commercial Law,15,1,Masters Modules,law,2023/4,Law
+LAWM176,International Commercial Litigation,15,1,Masters Modules,law,2023/4,Law
+LAWM177,International Trade and Society,15,2,Masters Modules,law,2023/4,Law
+LAWM178,LLM Law Clinic,15,2,Masters Modules,law,2023/4,Law
+LAWM180,Principles of Company Law,15,1,Masters Modules,law,2023/4,Law
+LAWM181,"Regulating AI: Law, Policy and Ethics",15,2,Masters Modules,law,2023/4,Law
+LAWM183,International Banking and Fintech Law and Regulation,15,2,Masters Modules,law,2023/4,Law
+LAWM640,Dissertation,60,2 and 3,Masters Modules,law,2023/4,Law
+LAWM686,Approaches to Research in Law (ESRC),15,1,Masters Modules,law,2023/4,Law
+BEE1006,Introduction to Finance,15,2,Stage One Modules,economics,2023/4,Economics
+BEE1022,Introduction to Statistics,15,1,Stage One Modules,economics,2023/4,Economics
+BEE1023,Introduction to Econometrics,15,2,Stage One Modules,economics,2023/4,Economics
+BEE1024,Mathematics for Economists,15,1,Stage One Modules,economics,2023/4,Economics
+BEE1025,Statistics for Business and Management,15,2,Stage One Modules,economics,2023/4,Economics
+BEE1029,Economic Principles,30,1,Stage One Modules,economics,2023/4,Economics
+BEE1032,History of Economic Thought,15,1,Stage One Modules,economics,2023/4,Economics
+BEE1034,Economics for Management,15,1,Stage One Modules,economics,2023/4,Economics
+BEE1035,Basic Quantitative Methods,15,1,Stage One Modules,economics,2023/4,Economics
+BEE1036,Economics I,15,1,Stage One Modules,economics,2023/4,Economics
+BEE1037,Economics II,15,2,Stage One Modules,economics,2023/4,Economics
+BEE1038,Introduction to Data Science in Economics,15,2,Stage One Modules,economics,2023/4,Economics
+BEE1039,Introduction to Behavioural Economics,15,2,Stage One Modules,economics,2023/4,Economics
+BEE1040,Personal Finance,15,2,Stage One Modules,economics,2023/4,Economics
+BEE2010,Philosophy of Economics,15,2,Stage Two Modules,economics,2023/4,Economics
+BEE2020,Introduction to Econometric Theory,15,2,Stage Two Modules,economics,2023/4,Economics
+BEE2021,Policy Issues in the Global Economy,15,2,Stage Two Modules,economics,2023/4,Economics
+BEE2025,Microeconomics II,30,1 and 2,Stage Two Modules,economics,2023/4,Economics
+BEE2026,Macroeconomics II,30,1 and 2,Stage Two Modules,economics,2023/4,Economics
+BEE2027,Financial Markets and Decisions I,15,2,Stage Two Modules,economics,2023/4,Economics
+BEE2030,Economics and Ethics,15,1,Stage Two Modules,economics,2023/4,Economics
+BEE2031,Econometrics,15,1,Stage Two Modules,economics,2023/4,Economics
+BEE2032,Applied Econometrics,15,2,Stage Two Modules,economics,2023/4,Economics
+BEE2033,Public Finance,15,1,Stage Two Modules,economics,2023/4,Economics
+BEE2034,Environmental Economics,15,1,Stage Two Modules,economics,2023/4,Economics
+BEE2035,Family Economics and Policy,15,2,Stage Two Modules,economics,2023/4,Economics
+BEE2037,Money and Banking,15,1,Stage Two Modules,economics,2023/4,Economics
+BEE2038,Intermediate Microeconomics,15,1,Stage Two Modules,economics,2023/4,Economics
+BEE2039,Intermediate Macroeconomics,15,2,Stage Two Modules,economics,2023/4,Economics
+BEE2040,The Economics of Financial Crises,15,1,Stage Two Modules,economics,2023/4,Economics
+BEE2041,Data Science in Economics,15,2,Stage Two Modules,economics,2023/4,Economics
+BEE2042,Behavioural Insights for Business and Management,15,1,Stage Two Modules,economics,2023/4,Economics
+BEE2044,Game Theory,15,2,Stage Two Modules,economics,2023/4,Economics
+BEE3015,Econometric Analysis,30,1 and 2,Stage Three Modules,economics,2023/4,Economics
+BEE3019,Law and Economics,15,1,Stage Three Modules,economics,2023/4,Economics
+BEE3032,Futures and Options,15,2,Stage Three Modules,economics,2023/4,Economics
+BEE3034,Financial Markets and Decisions 2,15,1,Stage Three Modules,economics,2023/4,Economics
+BEE3042,International Political Economy,15,1,Stage Three Modules,economics,2023/4,Economics
+BEE3045,International Economics,15,1,Stage Three Modules,economics,2023/4,Economics
+BEE3047,Public Economics 1,15,2,Stage Three Modules,economics,2023/4,Economics
+BEE3049,"Behaviour, Decisions and Markets",15,2,Stage Three Modules,economics,2023/4,Economics
+BEE3052,Development Economics,15,1,Stage Three Modules,economics,2023/4,Economics
+BEE3053,Economic Growth,15,2,Stage Three Modules,economics,2023/4,Economics
+BEE3054,Advanced Mathematics for Economists,15,2,Stage Three Modules,economics,2023/4,Economics
+BEE3057,Labour Economics,15,1,Stage Three Modules,economics,2023/4,Economics
+BEE3058,Political Economics,15,2,Stage Three Modules,economics,2023/4,Economics
+BEE3059,Asset Pricing,15,2,Stage Three Modules,economics,2023/4,Economics
+BEE3063,Economics of Management Strategy,15,2,Stage Three Modules,economics,2023/4,Economics
+BEE3066,Machine Learning for Economics,15,1,Stage Three Modules,economics,2023/4,Economics
+BEE3068,Economics Dissertation,30,,Stage Three Modules,economics,2023/4,Economics
+BEE3069,Behavioural Economics: Theory and Practice,15,2,Stage Three Modules,economics,2023/4,Economics
+BEE3070,Economic Analysis and Pandemics,15,1,Stage Three Modules,economics,2023/4,Economics
+BEE3071,Applied Econometrics for Business,15,1,Stage Three Modules,economics,2023/4,Economics
+BEE3072,Econometrics: Cause and Effect,15,2,Stage Three Modules,economics,2023/4,Economics
+BEE3074,Economics of Crime,15,2,Stage Three Modules,economics,2023/4,Economics
+BEE3109,"Bitcoin, Money and Trust",15,1,Stage Three Modules,economics,2023/4,Economics
+BEEM011,Applied Econometrics 1,15,1,Masters Modules,economics,2023/4,Economics
+BEEM012,Applied Econometrics 2,15,2,Masters Modules,economics,2023/4,Economics
+BEEM015,Industrial Economics and Strategy,15,2,Masters Modules,economics,2023/4,Economics
+BEEM061,Fundamentals of Financial Technology,15,1,Masters Modules,economics,2023/4,Economics
+BEEM062,Advanced Financial Technology,15,2,Masters Modules,economics,2023/4,Economics
+BEEM063,Hackathon Project,30,2 and 3,Masters Modules,economics,2023/4,Economics
+BEEM100,Macroeconomics,15,2,Masters Modules,economics,2023/4,Economics
+BEEM101,Microeconomics,15,1,Masters Modules,economics,2023/4,Economics
+BEEM103,Optimisation Techniques for Economists,15,1,Masters Modules,economics,2023/4,Economics
+BEEM115,Research Design and Dissertation,60,2 and 3,Masters Modules,economics,2023/4,Economics
+BEEM117,Economics of Corporate Finance,15,2,Masters Modules,economics,2023/4,Economics
+BEEM120,Macroeconomics of Money and Financial Markets,15,1,Masters Modules,economics,2023/4,Economics
+BEEM124,Dissertation,45,3,Masters Modules,economics,2023/4,Economics
+BEEM125,Experimental and Behavioural Economics,15,2,Masters Modules,economics,2023/4,Economics
+BEEM136,Research Methods I,15,1,Masters Modules,economics,2023/4,Economics
+BEEM137,Microeconomic Theory I,15,1,Masters Modules,economics,2023/4,Economics
+BEEM138,Macroeconomic Theory I,15,1,Masters Modules,economics,2023/4,Economics
+BEEM139,Econometric Theory I,15,1,Masters Modules,economics,2023/4,Economics
+BEEM140,Microeconomic Theory II,15,2,Masters Modules,economics,2023/4,Economics
+BEEM141,Macroeconomic Theory II,15,2,Masters Modules,economics,2023/4,Economics
+BEEM142,Econometric Theory II,15,2,Masters Modules,economics,2023/4,Economics
+BEEM143,Research Methods II,15,2,Masters Modules,economics,2023/4,Economics
+BEEM144,Topics in Microeconomic Theory I,15,1,Masters Modules,economics,2023/4,Economics
+BEEM145,Topics in Macroeconomic Theory I,15,1,Masters Modules,economics,2023/4,Economics
+BEEM146,Topics in Empirical Economics I,15,1,Masters Modules,economics,2023/4,Economics
+BEEM147,Topics in Microeconomic Theory II,15,2,Masters Modules,economics,2023/4,Economics
+BEEM148,Topics in Macroeconomic Theory II,15,2,Masters Modules,economics,2023/4,Economics
+BEEM149,Topics in Empirical Economics II,15,2,Masters Modules,economics,2023/4,Economics
+BEEM150,Dissertation,60,3,Masters Modules,economics,2023/4,Economics
+BEEM152,Behavioural Development Economics,15,2,Masters Modules,economics,2023/4,Economics
+BEEM154,Economics of Public Finance,15,2,Masters Modules,economics,2023/4,Economics
+BEEM155,Development Economics,15,1,Masters Modules,economics,2023/4,Economics
+BEEM156,Applied Development Economics Project,45,3,Masters Modules,economics,2023/4,Economics
+BEEM157,Behavioural Finance,15,1,Masters Modules,economics,2023/4,Economics
+BEEM159,Law for FinTech,15,2,Masters Modules,economics,2023/4,Economics
+BEEM161,Smart Contracts,15,2,Masters Modules,economics,2023/4,Economics
+BEEM162,Environmental Economics and Sustainability,15,1,Masters Modules,economics,2023/4,Economics
+BEEM495Z,Environmental Economics (GSS),30,2,Masters Modules,economics,2023/4,Economics
+EAS1032,Approaches to Criticism,30,1 and 2,Stage One Modules,english,2023/4,English
+EAS1035,Beginnings: English Literature before 1800,30,1,Stage One Modules,english,2023/4,English
+EAS1037,The Novel,15,2,Stage One Modules,english,2023/4,English
+EAS1038,The Poem,15,2,Stage One Modules,english,2023/4,English
+EAS1040,Academic English,15,1,Stage One Modules,english,2023/4,English
+EAS1041,Rethinking Shakespeare,15,2,Stage One Modules,english,2023/4,English
+EAS1042,Write after Reading,30,1,Stage One Modules,english,2023/4,English
+EAS1044,Imagine This: Prompts for Creative Writing,15,2,Stage One Modules,english,2023/4,English
+EAS2026,Desire and Power: English Literature 1570-1640,30,1,Stage Two Modules,english,2023/4,English
+EAS2029,Revolutions and Evolutions 19C Writings,30,2,Stage Two Modules,english,2023/4,English
+EAS2031,Creative Writing: Building a Story,30,1,Stage Two Modules,english,2023/4,English
+EAS2032,Creative Writing: Making a Poem,30,1,Stage Two Modules,english,2023/4,English
+EAS2033,British Cultures: The Exeter Seminar,15,1,Stage Two Modules,english,2023/4,English
+EAS2035,Serious Play: Creative Writing Workshop,30,2,Stage Two Modules,english,2023/4,English
+EAS2036,Theatrical Cultures in Early Modern England,30,1,Stage Two Modules,english,2023/4,English
+EAS2071,Chaucer and His Contemporaries,30,1,Stage Two Modules,english,2023/4,English
+EAS2080,Renaissance and Revolution,30,2,Stage Two Modules,english,2023/4,English
+EAS2089,"Creative Industries: Their Past, Our Future",30,1,Stage Two Modules,english,2023/4,English
+EAS2090,Humanities after the Human: Further Adventures in Critical Theory,30,2,Stage Two Modules,english,2023/4,English
+EAS2102,Satire and the City: English Literature 1660-1750,30,2,Stage Two Modules,english,2023/4,English
+EAS2103,Modernism and Modernity: Literature 1900-1960,30,1,Stage Two Modules,english,2023/4,English
+EAS2104,Crossing the Water: Transatlantic Literary Relations,30,2,Stage Two Modules,english,2023/4,English
+EAS2106,Romanticism,30,2,Stage Two Modules,english,2023/4,English
+EAS2113,"Culture, Crisis and Ecology in a Postcolonial World",30,2,Stage Two Modules,english,2023/4,English
+EAS2114,Shakespeare's Women,15,2,Stage Two Modules,english,2023/4,English
+EAS2116,Empire of Liberty: American Literature of the Long Nineteenth Century,30,1,Stage Two Modules,english,2023/4,English
+EAS3003,Dissertation,30,2,Stage Three Modules,english,2023/4,English
+EAS3122,Creative Writing Dissertation,30,2,Stage Three Modules,english,2023/4,English
+EAS3128,Writing the Short Film,30,1,Stage Three Modules,english,2023/4,English
+EAS3131,Advanced Critical Theory,30,2,Stage Three Modules,english,2023/4,English
+EAS3152,Heroes and Exiles: English Poetry of the Age of Beowulf,30,2,Stage Three Modules,english,2023/4,English
+EAS3167,James Joyce's Ulysses,30,2,Stage Three Modules,english,2023/4,English
+EAS3179,Life and Death in Early Modern Literature,30,1,Stage Three Modules,english,2023/4,English
+EAS3181,Visual and Literary Cultures of Realism,30,2,Stage Three Modules,english,2023/4,English
+EAS3182,Encountering the Other in Medieval Literature,30,1,Stage Three Modules,english,2023/4,English
+EAS3191,Writing for Children and Young Adults,30,2,Stage Three Modules,english,2023/4,English
+EAS3195,Acts of Writing: From Decolonisation to Globalisation,30,1,Stage Three Modules,english,2023/4,English
+EAS3198,The Death of the Novel,30,2,Stage Three Modules,english,2023/4,English
+EAS3219,"Virginia Woolf: Fiction, Feeling, Form",30,1,Stage Three Modules,english,2023/4,English
+EAS3225,"'Reader, I Married Him': The Evolution of Romance Fiction from 1740 to the Present",30,1,Stage Three Modules,english,2023/4,English
+EAS3234,Citizens of the World,30,1,Stage Three Modules,english,2023/4,English
+EAS3235,American Modern,30,2,Stage Three Modules,english,2023/4,English
+EAS3237,The Rise of Science,30,2,Stage Three Modules,english,2023/4,English
+EAS3241,Harlem and After: African American Literature 1925-present,30,1,Stage Three Modules,english,2023/4,English
+EAS3245,The 21st Century Museum,30,1,Stage Three Modules,english,2023/4,English
+EAS3252,"Poison, Filth, Trash: Modernism, Censorship and Resistance",30,1,Stage Three Modules,english,2023/4,English
+EAS3311,"Piracy in Early Modern Literature, 1570-1730",30,1,Stage Three Modules,english,2023/4,English
+EAS3408,Poetry and Politics,30,1,Stage Three Modules,english,2023/4,English
+EAS3414,Jane Austen: In and Out of Context,30,1,Stage Three Modules,english,2023/4,English
+EAS3415,The Development of British Children's Literature,30,1,Stage Three Modules,english,2023/4,English
+EAS3416,"Feeling Bodies: Emotions in Early Modern Literature and Culture, 1500-1700",30,1,Stage Three Modules,english,2023/4,English
+EAS3417,"Sex, Scandal and Sensation in Victorian Literature",30,1,Stage Three Modules,english,2023/4,English
+EAS3419,Writing South Asia,30,2,Stage Three Modules,english,2023/4,English
+EAS3421,Picturing the Global City: Literature and Visual Culture in the 21st Century,30,1,Stage Three Modules,english,2023/4,English
+EAS3500,American Counterculture in Literature,30,2,Stage Three Modules,english,2023/4,English
+EAS3501,Fiction Matters,30,2,Stage Three Modules,english,2023/4,English
+EAS3502,Shakespeare and Crisis,30,2,Stage Three Modules,english,2023/4,English
+EAS3503,"Migration, Literature and Culture",30,2,Stage Three Modules,english,2023/4,English
+EAS3504,Surrealism and its Legacies,30,1,Stage Three Modules,english,2023/4,English
+EAS3507,Writing Song Lyrics,30,1,Stage Three Modules,english,2023/4,English
+EASM023,Dissertation,60,2 and 3,Masters Modules,english,2023/4,English
+EASM099,Making Progress? Literature in a Changing Environment,30,1,Masters Modules,english,2023/4,English
+EASM100,The Cultures of American Modernism,30,1,Masters Modules,english,2023/4,English
+EASM106,Criticism and Theory: Current Debates,30,1,Masters Modules,english,2023/4,English
+EASM109,"Bodies Politic: Cultural and Sexual Politics in England, 1603-1679",30,2,Masters Modules,english,2023/4,English
+EASM121,The Poetry of Events - Building a Plot,30,1,Masters Modules,english,2023/4,English
+EASM123,Creative Writing Dissertation,60,3,Masters Modules,english,2023/4,English
+EASM133,The Structures of Realism,30,2,Masters Modules,english,2023/4,English
+EASM142,Revival and Return: Using the Past from Pope to Keats,30,2,Masters Modules,english,2023/4,English
+EASM151,Modernism and Material Culture,30,1,Masters Modules,english,2023/4,English
+EASM152,Criticism and Theory: Critical and Literary Theory in a Global Context,30,2,Masters Modules,english,2023/4,English
+EASM154,The Body and Identity,30,2,Masters Modules,english,2023/4,English
+EASM157,The Literature of Cold War America,30,1,Masters Modules,english,2023/4,English
+EASM166,Prose Writing Workshop,30,1,Masters Modules,english,2023/4,English
+EASM167,World Cinema / World Literature,30,2,Masters Modules,english,2023/4,English
+EASM169,Publishing and Power: Black and Asian Literary Networks in the UK,30,1,Masters Modules,english,2023/4,English
+EASM171,"Expanding Queerness: Critical Debates in Theory, Literature, Film and Television",30,1,Masters Modules,english,2023/4,English
+EASM174,Writing Women in the English Middle Ages,30,2,Masters Modules,english,2023/4,English
+EASM175,Dissertation (Research-Based or Practical Publishing Project),60,2 and 3,Masters Modules,english,2023/4,English
+EASM176,Editorial Processes and Practices: Creating Products,30,1,Masters Modules,english,2023/4,English
+EASM178,Publishing Work Placement,30,1 and 2,Masters Modules,english,2023/4,English
+EASM180,Crossing Medieval Boundaries,30,1,Masters Modules,english,2023/4,English
+EASM184,World Literature and Postcolonial Studies,30,1,Masters Modules,english,2023/4,English
+EASM185,Story Machines: Interactive Texts and Narrative Games,30,2,Masters Modules,english,2023/4,English
+EASM191,Environments of Early Modern Drama,30,2,Masters Modules,english,2023/4,English
+EASM192,Global Voices: Shakespeare and the Early Modern World,30,1,Masters Modules,english,2023/4,English
+EASM193,Publishing and Production,30,1,Masters Modules,english,2023/4,English
+EASM196,Writing for the Planet: Creative Writing as Climate and Ecological Activism,30,1,Masters Modules,english,2023/4,English
+GEO1105,"Geographies of Place, Identity and Culture",15,2,Stage One Modules,geography,2023/4,Geography
+GEO1106,Geographies of Global Change,15,1,Stage One Modules,geography,2023/4,Geography
+GEO1211,Earth System Science: The History of Our Planet,15,2,Stage One Modules,geography,2023/4,Geography
+GEO1213,Earth System Science: Our Changing Planet,15,1,Stage One Modules,geography,2023/4,Geography
+GEO1309,Study Skills for Human Geographers,15,1 and 2,Stage One Modules,geography,2023/4,Geography
+GEO1310,Geographies of Environment and Sustainability,15,2,Stage One Modules,geography,2023/4,Geography
+GEO1311,Study Skills for Physical Geographers,15,1 and 2,Stage One Modules,geography,2023/4,Geography
+GEO1312,Fieldwork in Physical Geography,15,1,Stage One Modules,geography,2023/4,Geography
+GEO1313,Learning through Place: Doing Human Geography,15,1,Stage One Modules,geography,2023/4,Geography
+GEO1316,Concepts in Geography,15,1,Stage One Modules,geography,2023/4,Geography
+GEO1317,Professional Placement Foundation,,"1, 2 and 3",Stage One Modules,geography,2023/4,Geography
+GEO2131,"Nature, Development and Justice",15,2,Stage Two Modules,geography,2023/4,Geography
+GEO2132,Global Urban Futures,15,2,Stage Two Modules,geography,2023/4,Geography
+GEO2135,In/visible Spaces of Modern Life,15,1,Stage Two Modules,geography,2023/4,Geography
+GEO2136,Geographies of Migration,15,2,Stage Two Modules,geography,2023/4,Geography
+GEO2230,Reconstructing Past Environments,15,2,Stage Two Modules,geography,2023/4,Geography
+GEO2232,The Cryosphere,15,1 and 3,Stage Two Modules,geography,2023/4,Geography
+GEO2233,Landscape Response to Environmental Change: from Source to Sink,15,1,Stage Two Modules,geography,2023/4,Geography
+GEO2234,The 'Anthropocene',15,1,Stage Two Modules,geography,2023/4,Geography
+GEO2235,"Ecosystems of the future: climate change, terrestrial feedbacks and nature-based solutions",15,2,Stage Two Modules,geography,2023/4,Geography
+GEO2311,Ideas in Geography,15,1,Stage Two Modules,geography,2023/4,Geography
+GEO2317,Climate Change: Science and Society,15,1,Stage Two Modules,geography,2023/4,Geography
+GEO2319,Professional Placement Preparation,,"1, 2 and 3",Stage Two Modules,geography,2023/4,Geography
+GEO2321,Introduction to Remote Sensing,15,2,Stage Two Modules,geography,2023/4,Geography
+GEO2322C,"Nature, Environment and Sustainability Field Course",15,1,Stage Two Modules,geography,2023/4,Geography
+GEO2327,Geographies of Justice: Research Methodologies in Action,15,1,Stage Two Modules,geography,2023/4,Geography
+GEO2329,Geographies of Consumption: Doing Human Geography Research,30,1 and 2,Stage Two Modules,geography,2023/4,Geography
+GEO2332,Numerical Methods for Physical Geographers,15,1,Stage Two Modules,geography,2023/4,Geography
+GEO2333,Applied GIS: Mapping with Technology,15,1,Stage Two Modules,geography,2023/4,Geography
+GEO2334,Research Design in Physical Geography,30,1 and 2,Stage Two Modules,geography,2023/4,Geography
+GEO2465,Doing Human Geography Research,30,1 and 2,Stage Two Modules,geography,2023/4,Geography
+GEO2466,Research Methodologies in Action,15,1,Stage Two Modules,geography,2023/4,Geography
+GEO3000,European Year Abroad,120,"1, 2 and 3",Stage Three Modules,geography,2023/4,Geography
+GEO3101,Gender and Geography,15,1,Stage Three Modules,geography,2023/4,Geography
+GEO3123,Geographies of Material Culture,15,1,Stage Three Modules,geography,2023/4,Geography
+GEO3129,Images of the Earth,15,1,Stage Three Modules,geography,2023/4,Geography
+GEO3142,Geographies of the Body,15,2,Stage Three Modules,geography,2023/4,Geography
+GEO3144,Geopolitical Cultures,15,2,Stage Three Modules,geography,2023/4,Geography
+GEO3145,Troubled Times and Lost Futures: Geographical Thought After Progress,15,2,Stage Three Modules,geography,2023/4,Geography
+GEO3146,Digital Geographies,15,1,Stage Three Modules,geography,2023/4,Geography
+GEO3147,"Literature, Environment, Activism",15,2,Stage Three Modules,geography,2023/4,Geography
+GEO3148,Berlin Field Course,15,2 and 3,Stage Three Modules,geography,2023/4,Geography
+GEO3149,Seville Field Course,15,2,Stage Three Modules,geography,2023/4,Geography
+GEO3155,Iceland Field Course,15,2,Stage Three Modules,geography,2023/4,Geography
+GEO3223,Landscape Systems Management,15,2,Stage Three Modules,geography,2023/4,Geography
+GEO3225,Climate Change and its Impacts,15,2,Stage Three Modules,geography,2023/4,Geography
+GEO3227,Weather,15,1,Stage Three Modules,geography,2023/4,Geography
+GEO3230,Tropical Forests in a Changing World,15,1,Stage Three Modules,geography,2023/4,Geography
+GEO3239,GIS for Professionals,15,1,Stage Three Modules,geography,2023/4,Geography
+GEO3242,"Historical, Functional and Conservation Biogeography of Plants",15,1,Stage Three Modules,geography,2023/4,Geography
+GEO3246,Tropical Marine Carbonate Systems: Responses to Environmental Change,15,1,Stage Three Modules,geography,2023/4,Geography
+GEO3311,BA Dissertation,45,1 and 2,Stage Three Modules,geography,2023/4,Geography
+GEO3312,BA Dissertation,30,1 and 2,Stage Three Modules,geography,2023/4,Geography
+GEO3321,BSc Dissertation,45,1 and 2,Stage Three Modules,geography,2023/4,Geography
+GEO3322,BSc Dissertation,30,1 and 2,Stage Three Modules,geography,2023/4,Geography
+GEO3325,Environmental Futures Field Course,15,2,Stage Three Modules,geography,2023/4,Geography
+GEO3601,Study Abroad,120,"1, 2 and 3",Stage Three Modules,geography,2023/4,Geography
+GEO3603,Professional Placement for Geographers,120,1,Stage Three Modules,geography,2023/4,Geography
+GEOM022,Dissertation in Sustainable Futures,60,2 and 3,Masters Modules,geography,2023/4,Geography
+GEOM023,Contemporary Debates in Sustainable Futures,15,1 and 2,Masters Modules,geography,2023/4,Geography
+GEOM105A,Research Methods and Design in Human Geography,15,2 and 3,Masters Modules,geography,2023/4,Geography
+GEOM106A,Contemporary Debates in Human Geography,15,1,Masters Modules,geography,2023/4,Geography
+GEOM107,Dissertation,60,"1, 2 and 3",Masters Modules,geography,2023/4,Geography
+GEOM130,"Geographies of Culture, Creativity and Practice",15,1,Masters Modules,geography,2023/4,Geography
+GEOM131,Geographies of Life,15,2,Masters Modules,geography,2023/4,Geography
+GEOM132,"Space, Politics and Power",15,2,Masters Modules,geography,2023/4,Geography
+GEOM141,Global Challenges,15,1,Masters Modules,geography,2023/4,Geography
+GEOM143,Global Systems Thinking,15,1,Masters Modules,geography,2023/4,Geography
+GEOM144,Innovation and the Science-Policy Interface,15,2,Masters Modules,geography,2023/4,Geography
+GEOM145,Theory for Sustainable Transitions,15,1,Masters Modules,geography,2023/4,Geography
+GEOM146,Solutions Project (Academic),60,"1, 2 and 3",Masters Modules,geography,2023/4,Geography
+GEOM147,Solutions Project (Internship),60,"1, 2 and 3",Masters Modules,geography,2023/4,Geography
+GEOM149,Green Planet,15,2,Masters Modules,geography,2023/4,Geography
+GEOM180,Environmental Remote Sensing,15,1,Masters Modules,geography,2023/4,Geography
+GEOM181,Coding for Spatial Analysis,15,1,Masters Modules,geography,2023/4,Geography
+GEOM182,Drone Analysis and Geo-Visualizations,15,2,Masters Modules,geography,2023/4,Geography
+GEOM183,Spatial Data Science,15,2,Masters Modules,geography,2023/4,Geography
+GEOM184,Open Source GIS,15,2,Masters Modules,geography,2023/4,Geography
+GEOM185,Applied Project (Academic),60,"1, 2 and 3",Masters Modules,geography,2023/4,Geography
+GEOM186,Applied Project (Consultancy),60,"1, 2 and 3",Masters Modules,geography,2023/4,Geography
+GEOM433,Sustainability in Practice (Work Placement),15,"1, 2 and 3",Masters Modules,geography,2023/4,Geography
+GEOM434Z,Systems Thinking for Sustainability Challenges,30,3,Masters Modules,geography,2023/4,Geography
+PHL1002A,Knowledge and Reality 1,15,1,Stage One Modules,philosophy,2023/4,Philosophy
+PHL1002B,Knowledge and Reality 2,15,2,Stage One Modules,philosophy,2023/4,Philosophy
+PHL1004,Philosophical Problems 1,15,2,Stage One Modules,philosophy,2023/4,Philosophy
+PHL1005A,Evidence and Argument 1,15,1,Stage One Modules,philosophy,2023/4,Philosophy
+PHL1006,Introduction to Philosophical Analysis,15,2,Stage One Modules,philosophy,2023/4,Philosophy
+PHL1007,Philosophical Reading 1,15,1,Stage One Modules,philosophy,2023/4,Philosophy
+PHL1009,Philosophies of Art,15,1,Stage One Modules,philosophy,2023/4,Philosophy
+PHL1010,Introduction to Asian Philosophy,15,2,Stage One Modules,philosophy,2023/4,Philosophy
+PHL1013,Philosophy of Morality,15,2,Stage One Modules,philosophy,2023/4,Philosophy
+PHL1112,Philosophy of Film,15,2,Stage One Modules,philosophy,2023/4,Philosophy
+PHL2010A,Philosophy of Mind 1,15,1,Stage Two Modules,philosophy,2023/4,Philosophy
+PHL2015,Body and Mind,15,2,Stage Two Modules,philosophy,2023/4,Philosophy
+PHL2016,Metaphysics,15,2,Stage Two Modules,philosophy,2023/4,Philosophy
+PHL2018,Philosophy of Language,15,1,Stage Two Modules,philosophy,2023/4,Philosophy
+PHL2020,Virtues and Vices,15,1,Stage Two Modules,philosophy,2023/4,Philosophy
+PHL2021,Symbolic Logic,15,2,Stage Two Modules,philosophy,2023/4,Philosophy
+PHL2026,Philosophy of Science,15,2,Stage Two Modules,philosophy,2023/4,Philosophy
+PHL2038,The Self,15,1,Stage Two Modules,philosophy,2023/4,Philosophy
+PHL2040,Critical Theory: The Frankfurt School and Communicative Capitalism,15,1,Stage Two Modules,philosophy,2023/4,Philosophy
+PHL2041,"Feminist Philosophy: Gender, Race and Class",15,2,Stage Two Modules,philosophy,2023/4,Philosophy
+PHL2042,Philosophical Frontiers,15,2,Stage Two Modules,philosophy,2023/4,Philosophy
+PHL2045,Aesthetics,15,2,Stage Two Modules,philosophy,2023/4,Philosophy
+PHL2052,Epistemology,15,2,Stage Two Modules,philosophy,2023/4,Philosophy
+PHL2053,History of Philosophy,15,1,Stage Two Modules,philosophy,2023/4,Philosophy
+PHL2054,Philosophy of Psychiatry,15,2,Stage Two Modules,philosophy,2023/4,Philosophy
+PHL2056,The Nature of Normativity,15,2,Stage Two Modules,philosophy,2023/4,Philosophy
+PHL2061,Philosophy of Law,15,1,Stage Two Modules,philosophy,2023/4,Philosophy
+PHL2096,Cyborg Studies,15,1,Stage Two Modules,philosophy,2023/4,Philosophy
+PHL2111,"The Deep Past, History and Humanity",15,1,Stage Two Modules,philosophy,2023/4,Philosophy
+PHL2112,Practical Ethics,15,1,Stage Two Modules,philosophy,2023/4,Philosophy
+PHL2114,Aristotle's Ethics,15,2,Stage Two Modules,philosophy,2023/4,Philosophy
+PHL2117,Philosophy and Psychedelics,15,1,Stage Two Modules,philosophy,2023/4,Philosophy
+PHL2118,Moral agency in social context,15,1,Stage Two Modules,philosophy,2023/4,Philosophy
+PHL2119,Animal Minds and Animal Ethics,15,1,Stage Two Modules,philosophy,2023/4,Philosophy
+PHL2120,Philosophy and Sociology of Race,15,1,Stage Two Modules,philosophy,2023/4,Philosophy
+PHL2123,Philosophy of Medicine,15,2,Stage Two Modules,philosophy,2023/4,Philosophy
+PHL2126,Mind and World in Contemporary Japanese Philosophy,15,1,Stage Two Modules,philosophy,2023/4,Philosophy
+PHL2127,Hidden Voices in Early Modern Philosophy,15,1,Stage Two Modules,philosophy,2023/4,Philosophy
+PHL3013,Virtues and Vices,15,1,Stage Three Modules,philosophy,2023/4,Philosophy
+PHL3014,Symbolic Logic,15,2,Stage Three Modules,philosophy,2023/4,Philosophy
+PHL3026,Philosophy of Science,15,2,Stage Three Modules,philosophy,2023/4,Philosophy
+PHL3038,The Self,15,1,Stage Three Modules,philosophy,2023/4,Philosophy
+PHL3040,Philosophy Dissertation,30,1 and 2,Stage Three Modules,philosophy,2023/4,Philosophy
+PHL3045,Aesthetics,15,2,Stage Three Modules,philosophy,2023/4,Philosophy
+PHL3052,Epistemology,15,2,Stage Three Modules,philosophy,2023/4,Philosophy
+PHL3053,History of Philosophy,15,1,Stage Three Modules,philosophy,2023/4,Philosophy
+PHL3054,Philosophy of Psychiatry,15,2,Stage Three Modules,philosophy,2023/4,Philosophy
+PHL3056,The Nature of Normativity,15,2,Stage Three Modules,philosophy,2023/4,Philosophy
+PHL3061,Philosophy of Law,15,1,Stage Three Modules,philosophy,2023/4,Philosophy
+PHL3078,Critical Theory: The Frankfurt School and Communicative Capitalism,15,1,Stage Three Modules,philosophy,2023/4,Philosophy
+PHL3079,"Feminist Philosophy: Gender, Race and Class",15,2,Stage Three Modules,philosophy,2023/4,Philosophy
+PHL3080,Philosophical Frontiers,15,2,Stage Three Modules,philosophy,2023/4,Philosophy
+PHL3096,Cyborg Studies,15,1,Stage Three Modules,philosophy,2023/4,Philosophy
+PHL3111,"The Deep Past, History and Humanity",15,1,Stage Three Modules,philosophy,2023/4,Philosophy
+PHL3113,Practical Ethics,15,1,Stage Three Modules,philosophy,2023/4,Philosophy
+PHL3114,Aristotle's Ethics,15,2,Stage Three Modules,philosophy,2023/4,Philosophy
+PHL3117,Philosophy and Psychedelics,15,1,Stage Three Modules,philosophy,2023/4,Philosophy
+PHL3118,Animal Minds and Animal Ethics,15,1,Stage Three Modules,philosophy,2023/4,Philosophy
+PHL3119,Philosophy and Sociology of Race,15,1,Stage Three Modules,philosophy,2023/4,Philosophy
+PHL3122,Philosophy of Medicine,15,2,Stage Three Modules,philosophy,2023/4,Philosophy
+PHL3125,Mind and World in Contemporary Japanese Philosophy,15,1,Stage Three Modules,philosophy,2023/4,Philosophy
+PHL3126,Hidden Voices in Early Modern Philosophy,15,1,Stage Three Modules,philosophy,2023/4,Philosophy
+PHLM006,Contemporary Ethics,30,2,Masters Modules,philosophy,2023/4,Philosophy
+PHLM007,Current Issues in Mind and Cognition,30,1,Masters Modules,philosophy,2023/4,Philosophy
+PHLM008,"Mind, Body and World",30,2,Masters Modules,philosophy,2023/4,Philosophy
+PHLM009,Dissertation,60,3,Masters Modules,philosophy,2023/4,Philosophy
+PHLM010,Introduction to Philosophical Methods,30,1,Masters Modules,philosophy,2023/4,Philosophy
+PHLM011,Data Governance and Ethics,15,1 and 2,Masters Modules,philosophy,2023/4,Philosophy
+PHLM013,Philosophy and Psychedelics,15,2,Masters Modules,philosophy,2023/4,Philosophy
+PHLM014,Philosophy and Psychedelics,30,2,Masters Modules,philosophy,2023/4,Philosophy
+PHLM015,Contemporary Ethics,15,2,Masters Modules,philosophy,2023/4,Philosophy
+PHY1021,Vector Mechanics,15,1,,physics,2023/4,Physics
+PHY1022,Introduction to Astrophysics,15,1,,physics,2023/4,Physics
+PHY1023,Waves and Optics,15,2,,physics,2023/4,Physics
+PHY1024,Properties of Matter,15,2,,physics,2023/4,Physics
+PHY1025,Mathematics Skills,15,1,,physics,2023/4,Physics
+PHY1026,Mathematics for Physicists,15,2,,physics,2023/4,Physics
+PHY1027,Practical Physics I,15,1 and 2,,physics,2023/4,Physics
+PHY1028,IT and Electronics Skills,15,1 and 2,,physics,2023/4,Physics
+PHY1029,IT and Astrophysics Skills,15,1 and 2,,physics,2023/4,Physics
+PHY1030,Practical Physics and IT Skills,15,"1, 2 and 3",,physics,2023/4,Physics
+PHY1031,Scientific Programming in Python,15,1 and 2,,physics,2023/4,Physics
+PHY2021,Electromagnetism I,15,1,,physics,2023/4,Physics
+PHY2022,Quantum Mechanics I,15,1,,physics,2023/4,Physics
+PHY2023,Thermal Physics,15,2,,physics,2023/4,Physics
+PHY2024,Condensed Matter I,15,2,,physics,2023/4,Physics
+PHY2025,Mathematics with Physical Applications,15,1 and 2,,physics,2023/4,Physics
+PHY2026,Practical Physics II,15,1 and 2,,physics,2023/4,Physics
+PHY2027,Scientific Programming in C,15,1,,physics,2023/4,Physics
+PHY2029,The Physics of Living Systems,15,2,,physics,2023/4,Physics
+PHY2030,Observing the Universe,15,2,,physics,2023/4,Physics
+PHY2032,Analytical and Chaotic Dynamics,15,2,,physics,2023/4,Physics
+PHY2033,Physics Practicals (One-term/semester inbound exchange),15,1,,physics,2023/4,Physics
+PHY2035,Scientific Programming in Python,15,1,,physics,2023/4,Physics
+PHY2036,Study Abroad Electives,60,,,physics,2023/4,Physics
+PHY2037,Nonlinear Optics and Imaging,15,2,,physics,2023/4,Physics
+PHY2222,Physics of Climate Change,15,2,,physics,2023/4,Physics
+PHY3051,Electromagnetism II,15,1,,physics,2023/4,Physics
+PHY3052,Nuclear and High Energy Physics,15,2,,physics,2023/4,Physics
+PHY3053,General Problems,15,1 and 2,,physics,2023/4,Physics
+PHY3054,Electromagnetism II (IS),15,1,,physics,2023/4,Physics
+PHY3055,Electromagnetism and Quantum Mechanics,15,1,,physics,2023/4,Physics
+PHY3056,Nuclear and High Energy Physics (IS),15,2,,physics,2023/4,Physics
+PHY3061,The Biophysics of Cells and Tissues,15,1,,physics,2023/4,Physics
+PHY3062,Methods of Theoretical Physics,15,1,,physics,2023/4,Physics
+PHY3064,Nanostructures and Graphene Science,15,1,,physics,2023/4,Physics
+PHY3066,Galaxies and High Energy Astrophysics,15,1,,physics,2023/4,Physics
+PHY3068,Principles of Theoretical Physics,15,2,,physics,2023/4,Physics
+PHY3070,Stars from Birth to Death,15,1,,physics,2023/4,Physics
+PHY3071,Soft Matter,15,2,,physics,2023/4,Physics
+PHY3122,Project and Dissertation,30,2 and 3,,physics,2023/4,Physics
+PHY3138,Projects and Dissertations,30,1 and 2,,physics,2023/4,Physics
+PHY3147,One-Semester Physics Project and Report,15,1 and 2,,physics,2023/4,Physics
+PHY3150,Applying Physics (Group Project),15,2,,physics,2023/4,Physics
+PHY3218,Study Abroad Physics Options,60,,,physics,2023/4,Physics
+PHY3220,Fluid Dynamics in Physics and Astronomy,15,2,,physics,2023/4,Physics
+PHY3222,"Energy, Materials and Sustainability",15,2,,physics,2023/4,Physics
+PHY3306,Professional Experience,75,,,physics,2023/4,Physics
+PHY3308,Professional Placement,120,,,physics,2023/4,Physics
+PHYM001,Statistical Physics,15,1,,physics,2023/4,Physics
+PHYM002,Quantum Mechanics II,15,1,,physics,2023/4,Physics
+PHYM003,Condensed Matter II,15,2,,physics,2023/4,Physics
+PHYM004,Computational Physics and Modelling,15,1 and 2,,physics,2023/4,Physics
+PHYM005,Independent Study,15,1 and 2,,physics,2023/4,Physics
+PHYM006,Relativity and Cosmology,15,2,,physics,2023/4,Physics
+PHYM008,Physical Methods in Biology and Medicine,15,2,,physics,2023/4,Physics
+PHYM009,Project and Dissertation,45,1 and 2,,physics,2023/4,Physics
+PHYM010,Project and Dissertation,60,1 and 2,,physics,2023/4,Physics
+PHYM012,Solar and Extra-Solar Planets and Their Atmospheres,15,1,,physics,2023/4,Physics
+PHYM013,Quantum Many-Body Theory,15,1,,physics,2023/4,Physics
+PHYM015,Quantum Optics and Photonics,15,2,,physics,2023/4,Physics
+PHYM502,Frontiers in Physics Research,15,1 and 2,,physics,2023/4,Physics
+PHYM503,Research Project,90,"1, 2 and 3",,physics,2023/4,Physics
+ARC1007,Archaeological and Forensic Science Practicals,15,1,Stage One Modules,archaeology,2023/4,Archaeology
+ARC1008,Forensic Archaeology,15,2,Stage One Modules,archaeology,2023/4,Archaeology
+ARC1010,Themes in World Archaeology,15,1,Stage One Modules,archaeology,2023/4,Archaeology
+ARC1020,Essential Archaeological Methods,15,2,Stage One Modules,archaeology,2023/4,Archaeology
+ARC1030,Investigating British Archaeology,15,1,Stage One Modules,archaeology,2023/4,Archaeology
+ARC1040,Artefacts and Materials,15,1,Stage One Modules,archaeology,2023/4,Archaeology
+ARC1050,Objects: Contexts and Display,15,2,Stage One Modules,archaeology,2023/4,Archaeology
+ARC1070,Practical Skills in Archaeology,30,1 and 2,Stage One Modules,archaeology,2023/4,Archaeology
+ARC2003,Archaeological Fieldwork Project,30,1 and 2,Stage Two Modules,archaeology,2023/4,Archaeology
+ARC2004,Archaeological Fieldschool,30,1 and 2,Stage Two Modules,archaeology,2023/4,Archaeology
+ARC2012,Monumental Changes: Neolithic and Early Bronze Age Britain and Ireland,15,1,Stage Two Modules,archaeology,2023/4,Archaeology
+ARC2120,Things and Us: Ancient and Contemporary Material Culture,15,2,Stage Two Modules,archaeology,2023/4,Archaeology
+ARC2121,"Brooches, Beads, Swords and Shields: Early Medieval Material Culture",15,1,Stage Two Modules,archaeology,2023/4,Archaeology
+ARC2123,Sustainability and Collapse in Past Societies,15,2,Stage Two Modules,archaeology,2023/4,Archaeology
+ARC2130,Discovering the Past with Molecular Science,15,2,Stage Two Modules,archaeology,2023/4,Archaeology
+ARC2401,Understanding the Landscape of Medieval Britain,15,2,Stage Two Modules,archaeology,2023/4,Archaeology
+ARC2406,Medieval Castles in Context,15,1,Stage Two Modules,archaeology,2023/4,Archaeology
+ARC2408,"Romanisation: Interaction, Conquest and Change in Late Iron Age and Roman Dacia",15,2,Stage Two Modules,archaeology,2023/4,Archaeology
+ARC2504,Zooarchaeology,15,1,Stage Two Modules,archaeology,2023/4,Archaeology
+ARC2514,Forensic Anthropology,15,2,Stage Two Modules,archaeology,2023/4,Archaeology
+ARC2516,Human Origins and Evolution: the Lower and Middle Palaeolithic,15,1,Stage Two Modules,archaeology,2023/4,Archaeology
+ARC3000,Archaeological Dissertation,30,1 and 2,Stage Three Modules,archaeology,2023/4,Archaeology
+ARC3003,Professional Placement,30,1 and 2,Stage Three Modules,archaeology,2023/4,Archaeology
+ARC3006A,Advanced Fieldschool,15,1,Stage Three Modules,archaeology,2023/4,Archaeology
+ARC3010,Archaeological Science Dissertation,45,,Stage Three Modules,archaeology,2023/4,Archaeology
+ARC3011,Practicing Archaeological Science,15,1,Stage Three Modules,archaeology,2023/4,Archaeology
+ARC3012,Monumental changes: Neolithic and Early Bronze Age Britain and Ireland,15,1,Stage Three Modules,archaeology,2023/4,Archaeology
+ARC3120,Things and Us: Ancient and Contemporary Material Culture,15,2,Stage Three Modules,archaeology,2023/4,Archaeology
+ARC3121,"Brooches, Beads, Swords and Shields: Early Medieval Material Culture",15,1,Stage Three Modules,archaeology,2023/4,Archaeology
+ARC3123,Sustainability and Collapse in Past Societies,15,2,Stage Three Modules,archaeology,2023/4,Archaeology
+ARC3132,Digital Approaches to Archaeological Data,15,1,Stage Three Modules,archaeology,2023/4,Archaeology
+ARC3133,Digital Pasts,15,1,Stage Three Modules,archaeology,2023/4,Archaeology
+ARC3401,Understanding the Landscape of Medieval Britain,15,2,Stage Three Modules,archaeology,2023/4,Archaeology
+ARC3406,Medieval Castles in Context,15,1,Stage Three Modules,archaeology,2023/4,Archaeology
+ARC3408,"Romanisation: Interaction, Conquest and Change in Late Iron Age and Roman Dacia",15,2,Stage Three Modules,archaeology,2023/4,Archaeology
+ARC3510,Experimental Approaches to Forensic and Archaeological Investigations,15,1,Stage Three Modules,archaeology,2023/4,Archaeology
+ARC3516,Human Origins and Evolution: the Lower and Middle Palaeolithic,15,1,Stage Three Modules,archaeology,2023/4,Archaeology
+ARC3611,Funerary Osteoarchaeology,15,2,Stage Three Modules,archaeology,2023/4,Archaeology
+ARCM004,Dissertation,60,2,Masters Modules,archaeology,2023/4,Archaeology
+ARCM005,Professional Skills in Archaeology,15,2,Masters Modules,archaeology,2023/4,Archaeology
+ARCM007,Advanced Project,15,2,Masters Modules,archaeology,2023/4,Archaeology
+ARCM012,Skeletal Anatomy,15,1,Masters Modules,archaeology,2023/4,Archaeology
+ARCM107,Digital Pasts,15,1,Masters Modules,archaeology,2023/4,Archaeology
+ARCM120,Themes in Archaeological Theory and Practice,15,2,Masters Modules,archaeology,2023/4,Archaeology
+ARCM130,Discovering the Past with Molecular Science,15,1,Masters Modules,archaeology,2023/4,Archaeology
+ARCM300,Material Culture,15,1,Masters Modules,archaeology,2023/4,Archaeology
+ARCM403,Advanced Zooarchaeology,15,1,Masters Modules,archaeology,2023/4,Archaeology
+ARCM405,Advanced Human Osteology,15,1,Masters Modules,archaeology,2023/4,Archaeology
+ARCM407,Zooarchaeology,15,1,Masters Modules,archaeology,2023/4,Archaeology
+ARCM412,Funerary Osteoarchaeology,15,2,Masters Modules,archaeology,2023/4,Archaeology
+ARCM415,The Archaeology of Humans and Other Animals,15,2,Masters Modules,archaeology,2023/4,Archaeology
+ARCM600,Bioarchaeology Dissertation,60,2,Masters Modules,archaeology,2023/4,Archaeology
+ARCM602,Forensic Anthropology: Principles and Practice,15,2,Masters Modules,archaeology,2023/4,Archaeology
+SOC1001,Social Analysis,30,,Stage One Modules,sociology,2023/4,Sociology
+SOC1028,Media and Society,15,2,Stage One Modules,sociology,2023/4,Sociology
+SOC1039,Social Issues: Part I - Introducing Crime and Deviance,15,1,Stage One Modules,sociology,2023/4,Sociology
+SOC1045,Introduction to Criminal Justice,15,1,Stage One Modules,sociology,2023/4,Sociology
+SOC2005,Theoretical Sociology,30,1 and 2,Stage Two Modules,sociology,2023/4,Sociology
+SOC2009,Deviance: Interdisciplinary Perspectives,15,2,Stage Two Modules,sociology,2023/4,Sociology
+SOC2025,Current Themes in the Sociology of Sport,15,1,Stage Two Modules,sociology,2023/4,Sociology
+SOC2030,Sociology of Art and Culture,15,2,Stage Two Modules,sociology,2023/4,Sociology
+SOC2034,Gender and Society 1,15,2,Stage Two Modules,sociology,2023/4,Sociology
+SOC2035,International Criminal Justice: Comparative Criminology,15,2,Stage Two Modules,sociology,2023/4,Sociology
+SOC2036,International Criminal Justice: Application of Theory to Transnational and International Crime,15,1,Stage Two Modules,sociology,2023/4,Sociology
+SOC2037,Pharmaceutical Cultures,15,2,Stage Two Modules,sociology,2023/4,Sociology
+SOC2038,On Violence,15,1,Stage Two Modules,sociology,2023/4,Sociology
+SOC2039,Sociology of Family and Gender,15,2,Stage Two Modules,sociology,2023/4,Sociology
+SOC2068,"Race, Ethnicity and Criminalisation",15,1,Stage Two Modules,sociology,2023/4,Sociology
+SOC2087,Disability and Society,15,2,Stage Two Modules,sociology,2023/4,Sociology
+SOC2103,Senses and Society,15,2,Stage Two Modules,sociology,2023/4,Sociology
+SOC2110,Consumption and Society,15,1,Stage Two Modules,sociology,2023/4,Sociology
+SOC2116,Sociology and Demography of Religion,15,1,Stage Two Modules,sociology,2023/4,Sociology
+SOC2121,Cybercrime,15,1,Stage Two Modules,sociology,2023/4,Sociology
+SOC2122,Digital Society,15,1,Stage Two Modules,sociology,2023/4,Sociology
+SOC2131,"Social Media, Disinformation and Authoritarianism",15,1,Stage Two Modules,sociology,2023/4,Sociology
+SOC2134,"Emotions, the Body and the Social",15,1,Stage Two Modules,sociology,2023/4,Sociology
+SOC2135,Forensic Cultures,15,1,Stage Two Modules,sociology,2023/4,Sociology
+SOC3002,On Violence,15,1,Stage Three Modules,sociology,2023/4,Sociology
+SOC3013,Gender and Society 1,15,2,Stage Three Modules,sociology,2023/4,Sociology
+SOC3030,Sociology of Art and Culture,15,2,Stage Three Modules,sociology,2023/4,Sociology
+SOC3035,Deviance: Interdisciplinary Perspectives,15,2,Stage Three Modules,sociology,2023/4,Sociology
+SOC3036,International Criminal Justice: Application of Theory to Transnational and International Crime,15,1,Stage Three Modules,sociology,2023/4,Sociology
+SOC3040,Dissertation,30,1 and 2,Stage Three Modules,sociology,2023/4,Sociology
+SOC3080,Pharmaceutical Cultures,15,2,Stage Three Modules,sociology,2023/4,Sociology
+SOC3087,Disability and Society,15,2,Stage Three Modules,sociology,2023/4,Sociology
+SOC3097,Environment and Society,15,1,Stage Three Modules,sociology,2023/4,Sociology
+SOC3103,Senses and Society,15,2,Stage Three Modules,sociology,2023/4,Sociology
+SOC3107,Culture and Wellbeing,15,2,Stage Three Modules,sociology,2023/4,Sociology
+SOC3110,Consumption and Society,15,1,Stage Three Modules,sociology,2023/4,Sociology
+SOC3118,Sociology and Demography of Religion,15,1,Stage Three Modules,sociology,2023/4,Sociology
+SOC3129,Cybercrime,15,1,Stage Three Modules,sociology,2023/4,Sociology
+SOC3130,Digital Society,15,1,Stage Three Modules,sociology,2023/4,Sociology
+SOC3139,"Social Media, Disinformation and Authoritarianism",15,1,Stage Three Modules,sociology,2023/4,Sociology
+SOC3141,The Anthropology of Prisons,15,2,Stage Three Modules,sociology,2023/4,Sociology
+SOC3144,"Security, Society and Algorithms",15,2,Stage Three Modules,sociology,2023/4,Sociology
+SOC3146,Forensics in Policing,15,2,Stage Three Modules,sociology,2023/4,Sociology
+SOCM002A,Philosophy of the Social Sciences 1,15,2,Masters Modules,sociology,2023/4,Sociology
+SOCM002B,Philosophy of the Social Sciences,30,2,Masters Modules,sociology,2023/4,Sociology
+SOCM019,Research Methods in the Social Sciences,15,1,Masters Modules,sociology,2023/4,Sociology
+SOCM021,"Food Systems, Alternative Food Networks and Ethical Consumption",30,2,Masters Modules,sociology,2023/4,Sociology
+SOCM022,"Food, Body and Society",30,1,Masters Modules,sociology,2023/4,Sociology
+SOCM023,Social Theory,15,2,Masters Modules,sociology,2023/4,Sociology
+SOCM027,Social Theory,30,2,Masters Modules,sociology,2023/4,Sociology
+SOCM033,Data Governance and Ethics,15,1 and 2,Masters Modules,sociology,2023/4,Sociology
+SOCM044,"Food and Sustainability: Economy, Society and Environment",15,2,Masters Modules,sociology,2023/4,Sociology
+SOCM045,"Food and Sustainability: Economy, Society and Environment",30,2,Masters Modules,sociology,2023/4,Sociology
+SOCM046,"Meaning, Making Consuming",30,1,Masters Modules,sociology,2023/4,Sociology
+SOCM047,Understanding Media,30,1,Masters Modules,sociology,2023/4,Sociology
+SOCM904,Dissertation,60,3,Masters Modules,sociology,2023/4,Sociology
+NSC1002,Mathematics and Computing: Integrative Tools for Natural Sciences,30,1 and 2,Stage One Modules,naturalsciences,2023/4,Naturalsciences
+NSC1003,Foundations in Natural Science,60,1 and 2,Stage One Modules,naturalsciences,2023/4,Naturalsciences
+NSC1004,Experimental Science,15,1 and 2,Stage One Modules,naturalsciences,2023/4,Naturalsciences
+NSC1005,Frontiers in Science 1,15,1 and 2,Stage One Modules,naturalsciences,2023/4,Naturalsciences
+NSC2001,Frontiers in Science 2,30,1 and 2,Stage Two Modules,naturalsciences,2023/4,Naturalsciences
+NSC2002,Physical Chemistry,15,2,Stage Two Modules,naturalsciences,2023/4,Naturalsciences
+NSC2003,Introduction to Numerics and Simulation for Scientists,15,1,Stage Two Modules,naturalsciences,2023/4,Naturalsciences
+NSC3001,BSc Research Project,30,2,Stage Three Modules,naturalsciences,2023/4,Naturalsciences
+NSC3002,MSci Research Project 1,30,2,Stage Three Modules,naturalsciences,2023/4,Naturalsciences
+NSC3003,Group Project,30,1,Stage Three Modules,naturalsciences,2023/4,Naturalsciences
+NSC3004,Semester of Science Studies Abroad,60,1 and 2,Stage Three Modules,naturalsciences,2023/4,Naturalsciences
+NSC3007,Macromolecular and Supramolecular Chemistry,15,1,Stage Three Modules,naturalsciences,2023/4,Naturalsciences
+NSC3009,"Aerosols, Clouds and Climate",15,2,Stage Three Modules,naturalsciences,2023/4,Naturalsciences
+NSCM001,MSci Research Project 2,60,1 and 2,Masters Modules,naturalsciences,2023/4,Naturalsciences
+NSCM002,MSci Research Project 2 Extension,15,2,Masters Modules,naturalsciences,2023/4,Naturalsciences
+NSCM005,Mathematical Modelling in Biology and Medicine,15,1,Masters Modules,naturalsciences,2023/4,Naturalsciences
+NSCM006,Advanced Topics in Natural Sciences Chemistry I,15,1,Masters Modules,naturalsciences,2023/4,Naturalsciences
+NSCM007,Advanced Topics in Natural Sciences Chemistry II,15,2,Masters Modules,naturalsciences,2023/4,Naturalsciences
+LIB1105,Being Human in the Modern World,30,1 and 2,Stage One Modules,liberal-arts,2023/4,Liberal Arts
+LIB2000,Think Tank,15,2,Stage Two Modules,liberal-arts,2023/4,Liberal Arts
+LIB3000,Liberal Arts Dissertation,30,1 and 2,Stage Three Modules,liberal-arts,2023/4,Liberal Arts

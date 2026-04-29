@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>How Exeter assesses its students</title>
+<style>
+  :root {
+    --bg: #fafaf7;
+    --surface: #ffffff;
+    --ink: #1a1a1a;
+    --ink-2: #4a4a4a;
+    --ink-3: #7a7a7a;
+    --rule: #e3e3dd;
+    --accent: #d62728;
+    --serif: Georgia, "Times New Roman", serif;
+    --sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; background: var(--bg); color: var(--ink); }
+  body { font-family: var(--sans); font-size: 17px; line-height: 1.6; -webkit-font-smoothing: antialiased; }
+
+  .wrap { max-width: 720px; margin: 0 auto; padding: 3rem 1.25rem 5rem; }
+
+  header.masthead { padding-bottom: 1.25rem; margin-bottom: 2rem; border-bottom: 1px solid var(--rule); }
+  header.masthead .kicker { text-transform: uppercase; letter-spacing: 0.12em; font-size: 11px; color: var(--accent); font-weight: 600; margin: 0 0 1rem; }
+  header.masthead h1 { font-family: var(--serif); font-size: 48px; line-height: 1.05; font-weight: 700; letter-spacing: -0.01em; margin: 0 0 0.75rem; color: var(--ink); }
+  header.masthead .dek { font-size: 19px; line-height: 1.45; color: var(--ink-2); margin: 0 0 1.25rem; }
+  header.masthead .byline { font-size: 13px; color: var(--ink-3); margin: 0; }
+
+  h2 { font-family: var(--serif); font-size: 30px; line-height: 1.2; font-weight: 700; letter-spacing: -0.005em; margin: 3.5rem 0 0.5rem; color: var(--ink); }
+  .subhead { font-size: 14px; color: var(--ink-3); margin: 0 0 1.25rem; line-height: 1.5; font-style: italic; }
+
+  p { margin: 0 0 1.1rem; }
+  p strong { font-weight: 600; }
+
+  .chart { margin: 1.5rem 0 1rem; padding: 1rem 0.5rem 0.25rem; background: var(--surface); border: 1px solid var(--rule); border-radius: 4px; }
+  .chart img { display: block; max-width: 100%; height: auto; margin: 0 auto; }
+  .caption { font-size: 13px; color: var(--ink-3); margin: 0.75rem 1rem 0.75rem; line-height: 1.5; }
+
+  .pullquote { font-family: var(--serif); font-size: 26px; line-height: 1.35; font-style: italic; color: var(--ink); padding: 2rem 1rem; margin: 2rem -1rem; border-top: 2px solid var(--ink); border-bottom: 2px solid var(--ink); }
+
+  .stat-row { display: flex; gap: 1rem; margin: 1.5rem 0; flex-wrap: wrap; }
+  .stat-row .stat { flex: 1; min-width: 140px; padding: 0.75rem 1rem; background: var(--surface); border-left: 3px solid var(--accent); }
+  .stat-row .stat .num { font-family: var(--serif); font-size: 28px; font-weight: 700; line-height: 1.1; }
+  .stat-row .stat .label { font-size: 12px; color: var(--ink-3); text-transform: uppercase; letter-spacing: 0.05em; margin-top: 0.25rem; }
+
+  .method { margin-top: 4rem; padding-top: 2rem; border-top: 2px solid var(--ink); font-size: 14px; line-height: 1.6; color: var(--ink-2); }
+  .method h3 { font-family: var(--serif); font-size: 18px; font-weight: 700; margin: 0 0 0.75rem; color: var(--ink); }
+  .method h4 { font-size: 13px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.08em; margin: 1.5rem 0 0.5rem; color: var(--ink); }
+  .method p { font-size: 14px; margin: 0 0 0.85rem; }
+  .method a { color: var(--accent); text-decoration: none; border-bottom: 1px solid var(--accent); }
+
+  @media (max-width: 600px) {
+    header.masthead h1 { font-size: 34px; }
+    header.masthead .dek { font-size: 17px; }
+    h2 { font-size: 24px; }
+    body { font-size: 16px; }
+    .pullquote { font-size: 20px; }
+  }
+</style>
+</head>
+<body>
+
+<article class="wrap">
+
+  <header class="masthead">
+    <p class="kicker">A data-driven look at the University of Exeter</p>
+    <h1>How Exeter assesses its students</h1>
+    <p class="dek">Some departments mark you almost entirely on coursework. Three still put most of your degree weight on a single exam paper. This project pulls together six years of published module data to look at who does what, and whether any of that pattern matches how satisfied students say they are.</p>
+    <p class="byline">An empirical project for BEE2041 · Data Science in Economics · April 2026</p>
+  </header>
+
+  <p>Most Exeter students will recognise the experience of opening a new module descriptor and finding the assessment is either two pieces of coursework or one exam worth almost everything. From the student-facing side there is no obvious pattern. Economics runs heavy on exams, History runs almost none, and the Business School sits somewhere in between depending on the specific programme you ended up on.</p>
+
+  <p>To check whether the impression matches the reality, I scraped every undergraduate module Exeter has published since 2019/20 from the public Module Bank, which gives roughly 5,600 module-years after cleaning, and joined it to three years of National Student Survey results from the Office for Students. The project then asks three questions: how much variation there is between departments, whether anything has shifted since covid, and whether any of the assessment design lines up with NSS satisfaction scores.</p>
+
+  <div class="stat-row">
+    <div class="stat"><div class="num">5,626</div><div class="label">UG module-years</div></div>
+    <div class="stat"><div class="num">29</div><div class="label">Departments covered</div></div>
+    <div class="stat"><div class="num">6</div><div class="label">Academic years</div></div>
+  </div>
+
+  <h2>Most of Exeter is now mostly coursework</h2>
+  <p class="subhead">Share of summative marks by assessment type, every UG department, 2024/25.</p>
+
+  <div class="chart">
+    <img src="output/figures/chart_1_assessment_mix.png" alt="Stacked bar chart showing the assessment mix for every Exeter department in 2024/25, sorted from most coursework at the top to least coursework at the bottom. Industrial Experience, Education and Anthropology are essentially 100 percent coursework. Most of the chart sits in the 80 to 100 percent coursework band. At the bottom, Economics, Mathematics and Physics are the only departments where written exams account for more than half the mark. Engineering, Law, Natural Sciences and Classics sit in a mixed band where exams are 30 to 40 percent." />
+    <p class="caption">Each bar is one Exeter UG department in 2024/25. Blue is coursework, orange is written exams, green is practicals. Bars sum to 100%.</p>
+  </div>
+
+  <p>Across the chart, written exams are no longer the default form of assessment at Exeter. Industrial Experience, Education, Anthropology and East Asian Studies are essentially 100 percent coursework, and most of the humanities (Drama, the Business School, Sociology, Philosophy, English Studies) sit in the 80 to 95 percent coursework band. Very few departments fall in the middle of the distribution.</p>
+
+  <p>Only three departments still award the majority of their marks through written exams: Economics (BEE), Physics (PHY) and Mathematics (MTH). Economics is the most exam-heavy, with around 62 percent of marks coming from written papers. A second group of departments (Engineering, Law, Natural Sciences, Classics, Computing) falls into a mixed band where exams account for 30 to 40 percent of the total. In the rest of the institution, exams contribute a clear minority share.</p>
+
+  <p>One thing missing from the chart is the textbook 50/50 split. Departments tend to commit either heavily to coursework or to a substantial exam component, with very little settled middle ground.</p>
+
+  <h2>The shift looks very different depending on the faculty</h2>
+  <p class="subhead">Mean coursework share across all UG modules, by faculty, 2019/20 to 2024/25.</p>
+
+  <div class="chart">
+    <img src="output/figures/chart_2_trends.png" alt="Line chart with three lines from 2019/20 to 2024/25 showing the average coursework percentage across modules in each Exeter faculty. The HASS line, in red, rises steadily from about 71 percent to 83 percent. The ESE line, in blue, jumps from 57 percent up to a peak of 67 percent in 2021/22, then falls back to 58 percent by 2023/24, and recovers to 66 percent in 2024/25. The HLS line, in green, falls from 62 percent to 54 percent across the period." />
+    <p class="caption">HASS is humanities, arts and social sciences. ESE is environment, science and economy. HLS is health and life sciences.</p>
+  </div>
+
+  <p>Each faculty shows a different pattern. The HASS line (red) is the clearest, with a steady twelve-point climb from 71 percent in 2019/20 to 83 percent in 2024/25. There is no obvious covid disruption and no reversal, just a continuous drift toward more coursework, consistent with the direction UK higher education has been moving for over a decade.</p>
+
+  <p>The ESE line (blue) is the more surprising of the three. Rather than dipping during covid, it spiked. The average coursework share in the science, engineering and economics faculty rose from 57 percent to 67 percent during 2021/22, the year that teaching was still partly online and exam logistics were difficult to run. Departments that normally rely on written exams switched to coursework because they had little alternative. By 2023/24 ESE had reverted close to its pre-covid baseline, and the current value of 66 percent is only slightly above where the series started, with no clear long-run trend.</p>
+
+  <p>The HLS line (green) is built from only two departments, so its movement is more volatile and the least reliable of the three. Even so, it is the only faculty to end the period with a lower coursework weighting than it started, falling from 62 percent to 54 percent and moving in the opposite direction to HASS. Taken together, HASS is moving steadily toward more coursework, ESE oscillates around its long-run average, and the smaller HLS signal moves the other way.</p>
+
+  <h2>What actually predicts satisfaction isn't the exam-vs-coursework split</h2>
+  <p class="subhead">Random forest feature importance for predicting NSS Assessment and Feedback scores.</p>
+
+  <div class="chart">
+    <img src="output/figures/chart_3_feature_importance.png" alt="Horizontal bar chart of random forest feature importance scores. Assessment diversity is the most important feature at 0.29. Number of summative items is second at 0.28. Class size is third at 0.09. Contact ratio and scheduled hours are tied at 0.08. Coursework percentage is sixth at 0.07. Written exam percentage and practical percentage are tied at 0.06." />
+    <p class="caption">Higher bars mean a feature explains more of the variation in NSS Assessment and Feedback scores. Random forest, 500 trees, 5-fold cross-validation, n = 72 (department × NSS year) rows.</p>
+  </div>
+
+  <p>Of the eight module-shape variables included, two clearly stand out. <strong>Assessment diversity</strong>, which measures whether a module uses one, two or all three of the assessment channels, ranks first at 0.29. <strong>Number of summative items</strong>, the count of separately-marked pieces of work students complete in a year, ranks second at 0.28. Together the two account for 57 percent of the model's predictive power.</p>
+
+  <p>The three variables that capture the exam-versus-coursework split sit at the bottom of the chart. Coursework percentage ranks sixth, with written exam and practical percentages tied behind it. Combined, the three explain less than 20 percent of the variation in satisfaction.</p>
+
+  <p>This is the headline result of the project. The familiar policy debate over coursework versus exams, which absorbs a lot of attention in higher education, barely shows up in the satisfaction data. What students appear to respond to in their NSS Assessment and Feedback scores is the structure and pacing of assessment: how many channels they are marked through, how many separate pieces of work generate feedback, and how those pieces are spread across the academic year.</p>
+
+  <p class="pullquote">Assessment variety appears to matter more for student satisfaction than the balance between exams and coursework.</p>
+
+  <p>The result holds when the model is refit separately for each of the eight NSS themes (kept as a diagnostic outside the main charts). Different aspects of the student experience pick up different module features. Contact ratio dominates the Teaching theme, and scheduled hours dominate Student Voice. For Assessment and Feedback specifically, however, assessment diversity and summative-item count remain the top two predictors. The result is therefore not driven by a single confound, but reflects a consistent structural pattern.</p>
+
+  <h2>How well can we predict satisfaction at all?</h2>
+  <p class="subhead">Cross-validated predicted versus actual NSS scores, every department in every year.</p>
+
+  <div class="chart">
+    <img src="output/figures/chart_4_pred_vs_actual.png" alt="Scatter plot of predicted versus actual NSS Assessment and Feedback scores, with one dot per department per year. The dashed diagonal is perfect prediction. Most points cluster between 73 and 80 on both axes, near the line. Two NSC points sit far above the line, around 85 to 88 predicted but 90 to 95 actual. Psychology (PSY) and PYC sit below the line at predicted around 75 but actual around 68. Engineering (ENG) and East Asian Studies (EAF) also sit below the line. The cross-validated R squared is 0.46 with a mean absolute error of 2.5 percentage points, and 72 observations." />
+    <p class="caption">Each dot is one Exeter department in one NSS year. The dashed line is where predicted equals actual. The model uses module structure only, with no information about lecturer quality, individual seminar sizes or feedback turnaround.</p>
+  </div>
+
+  <p>The cross-validated R² of the model is <strong>0.46</strong>, with a mean absolute error of <strong>2.5 percentage points</strong>. The eight module-shape variables therefore explain just under half the variation in department-level NSS Assessment and Feedback scores. Given that the model contains no information about teaching quality, individual lecturers or marking turnaround (the kinds of things students typically cite when explaining whether their course is good), this is more explanatory power than I expected.</p>
+
+  <p>The interesting cases are the points the model misses. <strong>Natural Sciences (NSC)</strong> sits well above the diagonal in both years, with actual NSS positivity in the mid-90s where the model predicts only mid-80s. The structural variables explain a large portion of the score, but not whatever NSC is doing on top of that. Possible explanations include the small cohort, the selectivity of the programme, distinctive teaching design, or something not captured in the dataset.</p>
+
+  <p><strong>Psychology (PSY and PYC)</strong> sits below the line, with actual scores 6 to 10 percentage points lower than the structural predictors would forecast. Whatever holds back Psychology's NSS scores does not appear to be the shape of its assessment, but something else in the student experience. Engineering (ENG) and East Asian Studies (EAF) show a similar pattern.</p>
+
+  <p>The chart suggests that roughly half of the variation in student satisfaction with assessment can be attributed to the structural design of a module, while the remaining half sits in factors that are best described as departmental culture, which a spreadsheet of module descriptors cannot easily capture.</p>
+
+  <h2>What this all means</h2>
+
+  <p>Three points stand out from the analysis. The popular impression of Exeter as an exam-heavy university is now several years out of date. The default form of assessment is coursework, often overwhelmingly so, and the humanities faculty has been moving in that direction for at least six years. The science faculty fluctuates, but its long-run mean still sits comfortably above 50 percent coursework.</p>
+
+  <p>The assessment-method debate that absorbs a lot of attention in education policy does not show up in the satisfaction data. Whether a department leans on coursework or exams explains very little of why students rate their feedback experience higher or lower. What the data does pick up is structural: the variety of assessment channels used and the number of separate summative pieces produced over the year. Departments that perform well on these tend to score better, while those that rely heavily on a single assessment channel tend not to.</p>
+
+  <p>The dataset has clear limits, which should affect how confidently any of this is read. The patterns described above appear to be real, but they are probably best treated as a starting point for further investigation rather than a settled conclusion. The next section sets out the most important caveats.</p>
+
+  <h2>Assumptions and limitations</h2>
+  <p class="subhead">What the NSS half of the dataset can and can't carry, in numbers.</p>
+
+  <p><strong>The NSS sample is small once it is split eighteen ways.</strong> The NSS only surveys final-year undergraduates, not the wider student body, and Exeter's eligible finalist population in any given year is roughly a third of total UG enrolment. Across the eighteen Exeter subjects covered here, the published OfS files contain around <strong>17,939 eligible finalists</strong> over 2023, 2024 and 2025, of whom <strong>12,566</strong> submitted a usable response. The aggregate response rate is therefore close to 70 percent, which is high for a survey, but the absolute number of responses is thinly spread once it is broken down by subject and year:</p>
+
+  <div class="stat-row">
+    <div class="stat"><div class="num">~70%</div><div class="label">Aggregate response rate</div></div>
+    <div class="stat"><div class="num">160</div><div class="label">Median responses per subject-year</div></div>
+    <div class="stat"><div class="num">20</div><div class="label">Smallest subject-year cell</div></div>
+  </div>
+
+  <p>The median subject-year cell is built on around 160 responses from a finalist population of about 220, while the smallest cell (a specialist programme in a quiet year) contains only 20 responses. Subject-level positivity scores will therefore vary year to year with sampling noise that the random forest cannot distinguish from real signal. The 0.46 cross-validated R² is not wrong, but it sits on top of a noisier underlying dataset than the chart implies, and any single department's residual could plausibly shift by several percentage points on the following year's responses alone.</p>
+
+  <p><strong>The NSS only extends back three years in this format.</strong> The Office for Students rewrote the survey in 2023. The question wording, the response scale (now 4 points rather than the previous 5-point Likert), the eight-theme grouping and the positivity calculation were all changed at the same time. The OfS itself flags pre-2023 and 2023-onwards results as not directly comparable, and there is no clean way to map the new theme scores onto the older surveys without applying assumptions that would not hold up under scrutiny.</p>
+
+  <p>Three survey years remain available (2023, 2024 and 2025), which is why the NSS portion of the project begins where it does, even though the Module Bank scrape covers 2019/20 onwards. With a maximum of six dept-year observations per Exeter department before subjects with no eligible finalist cohort are dropped, the model ends up with <strong>72 rows</strong>. This upper bound will not move until at least one further survey cycle is published.</p>
+
+  <p><strong>The model can describe structure, not culture.</strong> No information about lecturer quality, individual seminar group sizes, marker workloads or feedback turnaround times enters the random forest. The Module Bank does not publish those fields and the NSS does not publish module-level cuts. The variable being predicted is a department-average NSS positivity, not any individual student's experience of being marked. Roughly half of the variation in satisfaction sits in the structural features the model can observe, and the other half sits in features that it cannot.</p>
+
+  <section class="method">
+    <h3>How this was made</h3>
+
+    <h4>Data</h4>
+    <p>Every module descriptor on Exeter's public Module Bank was scraped for academic years 2019/20 through 2024/25, including assessment percentages, scheduled and independent study hours, anticipated cohort size, and the count of summative assessment items. NSS results were downloaded from the Office for Students for survey years 2023, 2024 and 2025, filtered to UKPRN 10007792 (University of Exeter), full-time undergraduates, and CAH2 subject level.</p>
+
+    <h4>Note on data collection</h4>
+    <p>The Module Bank is a public-facing website that any visitor can read in a browser without an account. The scrape collected only information that is already openly published on those pages, with a one-second pause between requests so the load on Exeter's web server stayed minimal. No login was used, no authentication or paywall was bypassed, and no robots.txt directive was overridden. The scraped data is used here for an undergraduate research project and is not being redistributed beyond the aggregated figures shown above. This is consistent with both the standard treatment of publicly accessible web pages under UK practice, and the University of Exeter's expectations for student work that draws on its publicly published institutional information. NSS results were obtained from the Office for Students' published spreadsheets, which are released for general use.</p>
+
+    <h4>Linking the two datasets</h4>
+    <p>Modules were grouped by their three-letter code prefix (BEE for Economics, PYC and PSY for Psychology, and so on). A hand-built mapping table connects each prefix to its NSS CAH2 subject. Module features were credit-weighted within each prefix, then response-weighted across prefixes that share an NSS subject.</p>
+
+    <h4>Modelling</h4>
+    <p>The headline numbers come from a random forest regression with 500 trees and a minimum leaf size of 2, using 5-fold cross-validation. The same dataset (72 department-year rows) feeds both chart 3 (feature importance) and chart 4 (predicted vs actual). With a sample of this size, the cross-validated R² is the only honest measure of fit.</p>
+
+    <h4>What's not in here</h4>
+    <p>The Module Bank does not publish individual marker workloads, seminar group sizes, feedback turnaround times, or anything else that captures the lived experience of being marked. None of those variables enter the model. The "satisfaction" being predicted is a department's average NSS positivity, not any individual student's experience.</p>
+
+    <h4>Code and replication</h4>
+    <p>All scraping, cleaning, merging and analysis is in seven Jupyter notebooks in the project repository, runnable end-to-end from a clean clone. The README explains the process, the reasoning behind each design decision, and the quirks that surfaced along the way.</p>
+  </section>
+
+</article>
+
+</body>
+</html>

@@ -1,0 +1,577 @@
+nss_year,subject_code,subject,theme,positivity_pct,n_questions
+2023,CAH01-01,Medicine and dentistry,academic_support,76.54378531073446,6
+2023,CAH01-01,Medicine and dentistry,assessment_feedback,72.37777777777778,10
+2023,CAH01-01,Medicine and dentistry,free_expression,81.0,2
+2023,CAH01-01,Medicine and dentistry,learning_opps,80.39071729957806,8
+2023,CAH01-01,Medicine and dentistry,learning_resources,85.03103448275861,6
+2023,CAH01-01,Medicine and dentistry,organisation,65.34957746478872,6
+2023,CAH01-01,Medicine and dentistry,student_voice,57.762874251497,6
+2023,CAH01-01,Medicine and dentistry,teaching,87.80000000000001,8
+2023,CAH02-04,Nursing and midwifery,academic_support,63.333333333333336,6
+2023,CAH02-04,Nursing and midwifery,assessment_feedback,61.0,10
+2023,CAH02-04,Nursing and midwifery,free_expression,80.0,2
+2023,CAH02-04,Nursing and midwifery,learning_opps,70.0,8
+2023,CAH02-04,Nursing and midwifery,learning_resources,80.0,6
+2023,CAH02-04,Nursing and midwifery,organisation,30.0,6
+2023,CAH02-04,Nursing and midwifery,student_voice,43.85263157894737,6
+2023,CAH02-04,Nursing and midwifery,teaching,73.75,8
+2023,CAH02-05,Medical sciences,academic_support,76.1,3
+2023,CAH02-05,Medical sciences,assessment_feedback,74.92617405582924,5
+2023,CAH02-05,Medical sciences,free_expression,72.8,1
+2023,CAH02-05,Medical sciences,learning_opps,79.07067199344397,4
+2023,CAH02-05,Medical sciences,learning_resources,86.43630289532294,3
+2023,CAH02-05,Medical sciences,organisation,78.52355052457206,3
+2023,CAH02-05,Medical sciences,student_voice,66.93196803196803,3
+2023,CAH02-05,Medical sciences,teaching,86.01929896484575,4
+2023,CAH03-01,Biosciences,academic_support,79.8923823109843,6
+2023,CAH03-01,Biosciences,assessment_feedback,77.56222855514392,10
+2023,CAH03-01,Biosciences,free_expression,71.27849430989204,2
+2023,CAH03-01,Biosciences,learning_opps,80.86521553563807,8
+2023,CAH03-01,Biosciences,learning_resources,88.56691897137313,6
+2023,CAH03-01,Biosciences,organisation,87.50701168614357,6
+2023,CAH03-01,Biosciences,student_voice,70.58504015068901,6
+2023,CAH03-01,Biosciences,teaching,90.30816937553465,8
+2023,CAH03-02,Sport and exercise sciences,academic_support,80.93333333333334,3
+2023,CAH03-02,Sport and exercise sciences,assessment_feedback,77.097933227345,5
+2023,CAH03-02,Sport and exercise sciences,free_expression,73.4,1
+2023,CAH03-02,Sport and exercise sciences,learning_opps,81.55,4
+2023,CAH03-02,Sport and exercise sciences,learning_resources,87.60862533692722,3
+2023,CAH03-02,Sport and exercise sciences,organisation,88.70483870967742,3
+2023,CAH03-02,Sport and exercise sciences,student_voice,79.73643835616438,3
+2023,CAH03-02,Sport and exercise sciences,teaching,89.06123260437376,4
+2023,CAH04-01,Psychology,academic_support,76.2941251596424,6
+2023,CAH04-01,Psychology,assessment_feedback,72.93570336391439,10
+2023,CAH04-01,Psychology,free_expression,68.572265625,2
+2023,CAH04-01,Psychology,learning_opps,78.94393505253105,8
+2023,CAH04-01,Psychology,learning_resources,87.81781914893617,6
+2023,CAH04-01,Psychology,organisation,84.40969455511288,6
+2023,CAH04-01,Psychology,student_voice,67.08056112224449,6
+2023,CAH04-01,Psychology,teaching,85.82903533906399,8
+2023,CAH07-01,Physics and astronomy,academic_support,85.5357894736842,6
+2023,CAH07-01,Physics and astronomy,assessment_feedback,82.90806577916993,10
+2023,CAH07-01,Physics and astronomy,free_expression,73.5776,2
+2023,CAH07-01,Physics and astronomy,learning_opps,88.6673828125,8
+2023,CAH07-01,Physics and astronomy,learning_resources,88.5627659574468,6
+2023,CAH07-01,Physics and astronomy,organisation,87.28999999999999,6
+2023,CAH07-01,Physics and astronomy,student_voice,68.81636363636363,6
+2023,CAH07-01,Physics and astronomy,teaching,94.03098039215686,8
+2023,CAH07-04,"General, applied and forensic sciences",academic_support,83.82121212121213,6
+2023,CAH07-04,"General, applied and forensic sciences",assessment_feedback,87.88727272727273,10
+2023,CAH07-04,"General, applied and forensic sciences",free_expression,90.6375,2
+2023,CAH07-04,"General, applied and forensic sciences",learning_opps,90.91818181818182,8
+2023,CAH07-04,"General, applied and forensic sciences",learning_resources,90.9121212121212,6
+2023,CAH07-04,"General, applied and forensic sciences",organisation,98.95104166666665,6
+2023,CAH07-04,"General, applied and forensic sciences",student_voice,76.30412371134021,6
+2023,CAH07-04,"General, applied and forensic sciences",teaching,93.93181818181819,8
+2023,CAH09-01,Mathematical sciences,academic_support,75.52536491983729,6
+2023,CAH09-01,Mathematical sciences,assessment_feedback,73.66620886981401,10
+2023,CAH09-01,Mathematical sciences,free_expression,72.15168374816984,2
+2023,CAH09-01,Mathematical sciences,learning_opps,78.62680042995342,8
+2023,CAH09-01,Mathematical sciences,learning_resources,84.323292773777,6
+2023,CAH09-01,Mathematical sciences,organisation,81.18460975609754,6
+2023,CAH09-01,Mathematical sciences,student_voice,60.14053779807205,6
+2023,CAH09-01,Mathematical sciences,teaching,83.52891824348447,8
+2023,CAH10-01,Engineering,academic_support,75.45230061349692,6
+2023,CAH10-01,Engineering,assessment_feedback,78.59595588235294,10
+2023,CAH10-01,Engineering,free_expression,74.26039603960396,2
+2023,CAH10-01,Engineering,learning_opps,82.91880733944954,8
+2023,CAH10-01,Engineering,learning_resources,82.83401574803149,6
+2023,CAH10-01,Engineering,organisation,81.89578783151326,6
+2023,CAH10-01,Engineering,student_voice,63.15016233766234,6
+2023,CAH10-01,Engineering,teaching,88.5187141216992,8
+2023,CAH11-01,Computing,academic_support,76.94507692307693,6
+2023,CAH11-01,Computing,assessment_feedback,77.06924493554328,10
+2023,CAH11-01,Computing,free_expression,75.03076923076922,2
+2023,CAH11-01,Computing,learning_opps,81.49586206896552,8
+2023,CAH11-01,Computing,learning_resources,88.22340425531915,6
+2023,CAH11-01,Computing,organisation,83.09217527386542,6
+2023,CAH11-01,Computing,student_voice,70.05772357723578,6
+2023,CAH11-01,Computing,teaching,85.68325688073395,8
+2023,CAH15-01,"Sociology, social policy and anthropology",academic_support,75.06666666666666,3
+2023,CAH15-01,"Sociology, social policy and anthropology",assessment_feedback,72.014489571899,5
+2023,CAH15-01,"Sociology, social policy and anthropology",free_expression,60.0,1
+2023,CAH15-01,"Sociology, social policy and anthropology",learning_opps,77.725,4
+2023,CAH15-01,"Sociology, social policy and anthropology",learning_resources,88.63121387283236,3
+2023,CAH15-01,"Sociology, social policy and anthropology",organisation,80.87565055762083,3
+2023,CAH15-01,"Sociology, social policy and anthropology",student_voice,62.359266409266404,3
+2023,CAH15-01,"Sociology, social policy and anthropology",teaching,84.975,4
+2023,CAH15-02,Economics,academic_support,71.3550799086758,3
+2023,CAH15-02,Economics,assessment_feedback,75.18319047619048,5
+2023,CAH15-02,Economics,free_expression,74.9,1
+2023,CAH15-02,Economics,learning_opps,80.85061707379352,4
+2023,CAH15-02,Economics,learning_resources,86.92246182538756,3
+2023,CAH15-02,Economics,organisation,83.9590169649082,3
+2023,CAH15-02,Economics,student_voice,67.92510490348879,3
+2023,CAH15-02,Economics,teaching,84.85,4
+2023,CAH15-03,Politics,academic_support,74.33694393447253,3
+2023,CAH15-03,Politics,assessment_feedback,74.04302876480541,5
+2023,CAH15-03,Politics,free_expression,69.1,1
+2023,CAH15-03,Politics,learning_opps,78.60185146000846,4
+2023,CAH15-03,Politics,learning_resources,86.32004946893643,3
+2023,CAH15-03,Politics,organisation,80.22166931867497,3
+2023,CAH15-03,Politics,student_voice,58.83868108757699,3
+2023,CAH15-03,Politics,teaching,86.18362159881882,4
+2023,CAH16-01,Law,academic_support,72.10360500048454,3
+2023,CAH16-01,Law,assessment_feedback,75.3784281999422,5
+2023,CAH16-01,Law,free_expression,69.0,1
+2023,CAH16-01,Law,learning_opps,76.74706988858341,4
+2023,CAH16-01,Law,learning_resources,86.02421573478476,3
+2023,CAH16-01,Law,organisation,79.45616017444742,3
+2023,CAH16-01,Law,student_voice,61.42320375736984,3
+2023,CAH16-01,Law,teaching,86.99668396770473,4
+2023,CAH17-01,Business and management,academic_support,78.70144332316357,3
+2023,CAH17-01,Business and management,assessment_feedback,79.09947322212467,5
+2023,CAH17-01,Business and management,free_expression,81.6,1
+2023,CAH17-01,Business and management,learning_opps,84.04806848112379,4
+2023,CAH17-01,Business and management,learning_resources,89.96287685080573,3
+2023,CAH17-01,Business and management,organisation,88.37491856677524,3
+2023,CAH17-01,Business and management,student_voice,76.87293251384409,3
+2023,CAH17-01,Business and management,teaching,83.72949561403509,4
+2023,CAH19-01,English studies,academic_support,84.25855115758029,3
+2023,CAH19-01,English studies,assessment_feedback,81.93448275862069,5
+2023,CAH19-01,English studies,free_expression,58.9,1
+2023,CAH19-01,English studies,learning_opps,81.95,4
+2023,CAH19-01,English studies,learning_resources,88.00580945003873,3
+2023,CAH19-01,English studies,organisation,84.37838258164851,3
+2023,CAH19-01,English studies,student_voice,66.99520062942564,3
+2023,CAH19-01,English studies,teaching,93.1,4
+2023,CAH19-04,Languages and area studies,academic_support,89.08894289185905,3
+2023,CAH19-04,Languages and area studies,assessment_feedback,78.6090510948905,5
+2023,CAH19-04,Languages and area studies,free_expression,68.3,1
+2023,CAH19-04,Languages and area studies,learning_opps,81.83163172288059,4
+2023,CAH19-04,Languages and area studies,learning_resources,87.49634300126104,3
+2023,CAH19-04,Languages and area studies,organisation,80.65299251870324,3
+2023,CAH19-04,Languages and area studies,student_voice,69.1404609475032,3
+2023,CAH19-04,Languages and area studies,teaching,90.825,4
+2023,CAH20-01,History and archaeology,academic_support,83.54222445898338,3
+2023,CAH20-01,History and archaeology,assessment_feedback,78.96127864897467,5
+2023,CAH20-01,History and archaeology,free_expression,66.6,1
+2023,CAH20-01,History and archaeology,learning_opps,79.4928679245283,4
+2023,CAH20-01,History and archaeology,learning_resources,88.57272727272728,3
+2023,CAH20-01,History and archaeology,organisation,81.72689938398358,3
+2023,CAH20-01,History and archaeology,student_voice,66.39554039874082,3
+2023,CAH20-01,History and archaeology,teaching,91.175,4
+2023,CAH20-02,Philosophy and religious studies,academic_support,78.2880239520958,3
+2023,CAH20-02,Philosophy and religious studies,assessment_feedback,76.67156293222683,5
+2023,CAH20-02,Philosophy and religious studies,free_expression,69.5,1
+2023,CAH20-02,Philosophy and religious studies,learning_opps,76.75,4
+2023,CAH20-02,Philosophy and religious studies,learning_resources,88.33315559864273,3
+2023,CAH20-02,Philosophy and religious studies,organisation,82.12746679316888,3
+2023,CAH20-02,Philosophy and religious studies,student_voice,63.410919540229884,3
+2023,CAH20-02,Philosophy and religious studies,teaching,90.725,4
+2023,CAH23-01,Combined and general studies,academic_support,76.77423469387755,3
+2023,CAH23-01,Combined and general studies,assessment_feedback,75.53669724770643,5
+2023,CAH23-01,Combined and general studies,free_expression,66.4,1
+2023,CAH23-01,Combined and general studies,learning_opps,80.64961685823755,4
+2023,CAH23-01,Combined and general studies,learning_resources,92.20428954423592,3
+2023,CAH23-01,Combined and general studies,organisation,83.0106100795756,3
+2023,CAH23-01,Combined and general studies,student_voice,65.92637362637363,3
+2023,CAH23-01,Combined and general studies,teaching,87.54971319311663,4
+2023,CAH24-01,"Media, journalism and communications",academic_support,79.33333333333333,3
+2023,CAH24-01,"Media, journalism and communications",assessment_feedback,80.76,5
+2023,CAH24-01,"Media, journalism and communications",free_expression,61.800000000000004,1
+2023,CAH24-01,"Media, journalism and communications",learning_opps,83.225,4
+2023,CAH24-01,"Media, journalism and communications",learning_resources,87.53776824034334,3
+2023,CAH24-01,"Media, journalism and communications",organisation,83.27639484978542,3
+2023,CAH24-01,"Media, journalism and communications",student_voice,63.75327510917031,3
+2023,CAH24-01,"Media, journalism and communications",teaching,94.275,4
+2023,CAH25-02,Performing arts,academic_support,74.06666666666668,3
+2023,CAH25-02,Performing arts,assessment_feedback,73.92813036020583,5
+2023,CAH25-02,Performing arts,free_expression,49.5,1
+2023,CAH25-02,Performing arts,learning_opps,72.85000000000001,4
+2023,CAH25-02,Performing arts,learning_resources,80.59478260869564,3
+2023,CAH25-02,Performing arts,organisation,77.24256559766764,3
+2023,CAH25-02,Performing arts,student_voice,53.57218934911243,3
+2023,CAH25-02,Performing arts,teaching,83.75,4
+2023,CAH26-01,"Geography, earth and environmental studies",academic_support,74.51624441132638,3
+2023,CAH26-01,"Geography, earth and environmental studies",assessment_feedback,72.39982118909253,5
+2023,CAH26-01,"Geography, earth and environmental studies",free_expression,74.3,1
+2023,CAH26-01,"Geography, earth and environmental studies",learning_opps,79.225,4
+2023,CAH26-01,"Geography, earth and environmental studies",learning_resources,90.21927413127412,3
+2023,CAH26-01,"Geography, earth and environmental studies",organisation,82.29905588548804,3
+2023,CAH26-01,"Geography, earth and environmental studies",student_voice,63.67801341026041,3
+2023,CAH26-01,"Geography, earth and environmental studies",teaching,85.47500000000001,4
+2024,CAH01-01,Medicine and dentistry,academic_support,75.75901639344262,6
+2024,CAH01-01,Medicine and dentistry,assessment_feedback,83.07234273318872,10
+2024,CAH01-01,Medicine and dentistry,free_expression,88.3,2
+2024,CAH01-01,Medicine and dentistry,learning_opps,83.49607577807848,8
+2024,CAH01-01,Medicine and dentistry,learning_resources,85.17399267399267,6
+2024,CAH01-01,Medicine and dentistry,organisation,64.73890909090909,6
+2024,CAH01-01,Medicine and dentistry,student_voice,65.28092485549134,6
+2024,CAH01-01,Medicine and dentistry,teaching,87.02435723951285,8
+2024,CAH02-04,Nursing and midwifery,academic_support,76.93333333333334,6
+2024,CAH02-04,Nursing and midwifery,assessment_feedback,74.64,10
+2024,CAH02-04,Nursing and midwifery,free_expression,88.5,2
+2024,CAH02-04,Nursing and midwifery,learning_opps,83.64999999999999,8
+2024,CAH02-04,Nursing and midwifery,learning_resources,84.6,6
+2024,CAH02-04,Nursing and midwifery,organisation,61.56666666666666,6
+2024,CAH02-04,Nursing and midwifery,student_voice,61.349333333333334,6
+2024,CAH02-04,Nursing and midwifery,teaching,95.19999999999999,8
+2024,CAH02-05,Medical sciences,academic_support,79.72526711283315,6
+2024,CAH02-05,Medical sciences,assessment_feedback,75.75133708655876,10
+2024,CAH02-05,Medical sciences,free_expression,75.2090743440233,2
+2024,CAH02-05,Medical sciences,learning_opps,81.49921730718495,8
+2024,CAH02-05,Medical sciences,learning_resources,87.46057403626757,6
+2024,CAH02-05,Medical sciences,organisation,78.79322646739786,6
+2024,CAH02-05,Medical sciences,student_voice,68.56029321177776,6
+2024,CAH02-05,Medical sciences,teaching,87.75873713833435,8
+2024,CAH03-01,Biosciences,academic_support,79.4950755206006,6
+2024,CAH03-01,Biosciences,assessment_feedback,74.49843357391072,10
+2024,CAH03-01,Biosciences,free_expression,69.83952590959207,2
+2024,CAH03-01,Biosciences,learning_opps,82.8169382847983,8
+2024,CAH03-01,Biosciences,learning_resources,85.0753527579256,6
+2024,CAH03-01,Biosciences,organisation,84.04271071657362,6
+2024,CAH03-01,Biosciences,student_voice,65.8251441119956,6
+2024,CAH03-01,Biosciences,teaching,90.38083812324555,8
+2024,CAH03-02,Sport and exercise sciences,academic_support,78.48636363636363,3
+2024,CAH03-02,Sport and exercise sciences,assessment_feedback,74.02000000000001,5
+2024,CAH03-02,Sport and exercise sciences,free_expression,78.3,1
+2024,CAH03-02,Sport and exercise sciences,learning_opps,76.92241153342071,4
+2024,CAH03-02,Sport and exercise sciences,learning_resources,84.9561717352415,3
+2024,CAH03-02,Sport and exercise sciences,organisation,85.76036036036037,3
+2024,CAH03-02,Sport and exercise sciences,student_voice,72.59632352941176,3
+2024,CAH03-02,Sport and exercise sciences,teaching,87.15517693315857,4
+2024,CAH04-01,Psychology,academic_support,72.37432010699956,6
+2024,CAH04-01,Psychology,assessment_feedback,68.20906174819567,10
+2024,CAH04-01,Psychology,free_expression,74.92851296043656,2
+2024,CAH04-01,Psychology,learning_opps,77.20601604278076,8
+2024,CAH04-01,Psychology,learning_resources,85.00978311029073,6
+2024,CAH04-01,Psychology,organisation,82.13146220009054,6
+2024,CAH04-01,Psychology,student_voice,68.96887661141804,6
+2024,CAH04-01,Psychology,teaching,86.92082777036048,8
+2024,CAH07-01,Physics and astronomy,academic_support,84.57087827426811,6
+2024,CAH07-01,Physics and astronomy,assessment_feedback,77.93176361957526,10
+2024,CAH07-01,Physics and astronomy,free_expression,76.27014218009478,2
+2024,CAH07-01,Physics and astronomy,learning_opps,77.12804597701148,8
+2024,CAH07-01,Physics and astronomy,learning_resources,85.68076311605724,6
+2024,CAH07-01,Physics and astronomy,organisation,83.39726247987117,6
+2024,CAH07-01,Physics and astronomy,student_voice,75.0304,6
+2024,CAH07-01,Physics and astronomy,teaching,89.37058823529412,8
+2024,CAH07-04,"General, applied and forensic sciences",academic_support,92.54649122807017,6
+2024,CAH07-04,"General, applied and forensic sciences",assessment_feedback,89.72263157894737,10
+2024,CAH07-04,"General, applied and forensic sciences",free_expression,73.64736842105265,2
+2024,CAH07-04,"General, applied and forensic sciences",learning_opps,95.39111842105264,8
+2024,CAH07-04,"General, applied and forensic sciences",learning_resources,88.84866071428571,6
+2024,CAH07-04,"General, applied and forensic sciences",organisation,94.1,6
+2024,CAH07-04,"General, applied and forensic sciences",student_voice,79.1710407239819,6
+2024,CAH07-04,"General, applied and forensic sciences",teaching,96.05065789473684,8
+2024,CAH09-01,Mathematical sciences,academic_support,74.72631113078116,6
+2024,CAH09-01,Mathematical sciences,assessment_feedback,76.43074369189907,10
+2024,CAH09-01,Mathematical sciences,free_expression,73.01764705882353,2
+2024,CAH09-01,Mathematical sciences,learning_opps,83.73945892444738,8
+2024,CAH09-01,Mathematical sciences,learning_resources,81.57497645951034,6
+2024,CAH09-01,Mathematical sciences,organisation,82.06890092529902,6
+2024,CAH09-01,Mathematical sciences,student_voice,60.45454545454545,6
+2024,CAH09-01,Mathematical sciences,teaching,84.52363306982872,8
+2024,CAH10-01,Engineering,academic_support,73.86306748466257,6
+2024,CAH10-01,Engineering,assessment_feedback,73.64464416727806,10
+2024,CAH10-01,Engineering,free_expression,75.3923076923077,2
+2024,CAH10-01,Engineering,learning_opps,78.34550458715597,8
+2024,CAH10-01,Engineering,learning_resources,82.84304511278195,6
+2024,CAH10-01,Engineering,organisation,73.12537313432836,6
+2024,CAH10-01,Engineering,student_voice,58.712243589743586,6
+2024,CAH10-01,Engineering,teaching,81.9190366972477,8
+2024,CAH11-01,Computing,academic_support,66.89438717067583,6
+2024,CAH11-01,Computing,assessment_feedback,73.68380952380951,10
+2024,CAH11-01,Computing,free_expression,77.62307692307694,2
+2024,CAH11-01,Computing,learning_opps,75.42823129251701,8
+2024,CAH11-01,Computing,learning_resources,81.89538461538463,6
+2024,CAH11-01,Computing,organisation,71.2208187134503,6
+2024,CAH11-01,Computing,student_voice,64.640799031477,6
+2024,CAH11-01,Computing,teaching,80.52227891156463,8
+2024,CAH15-01,"Sociology, social policy and anthropology",academic_support,75.86666666666667,3
+2024,CAH15-01,"Sociology, social policy and anthropology",assessment_feedback,76.94000000000001,5
+2024,CAH15-01,"Sociology, social policy and anthropology",free_expression,70.3,1
+2024,CAH15-01,"Sociology, social policy and anthropology",learning_opps,83.53450549450548,4
+2024,CAH15-01,"Sociology, social policy and anthropology",learning_resources,87.07187969924813,3
+2024,CAH15-01,"Sociology, social policy and anthropology",organisation,83.81958456973294,3
+2024,CAH15-01,"Sociology, social policy and anthropology",student_voice,63.56913580246914,3
+2024,CAH15-01,"Sociology, social policy and anthropology",teaching,83.39956043956045,4
+2024,CAH15-02,Economics,academic_support,70.81421637186342,3
+2024,CAH15-02,Economics,assessment_feedback,72.90132223310479,5
+2024,CAH15-02,Economics,free_expression,80.3,1
+2024,CAH15-02,Economics,learning_opps,81.9,4
+2024,CAH15-02,Economics,learning_resources,90.14751418084751,3
+2024,CAH15-02,Economics,organisation,87.68294645101818,3
+2024,CAH15-02,Economics,student_voice,66.03774259448417,3
+2024,CAH15-02,Economics,teaching,85.99735423811858,4
+2024,CAH15-03,Politics,academic_support,75.82807633766538,3
+2024,CAH15-03,Politics,assessment_feedback,71.79068627450981,5
+2024,CAH15-03,Politics,free_expression,69.6,1
+2024,CAH15-03,Politics,learning_opps,80.35,4
+2024,CAH15-03,Politics,learning_resources,87.96334056399132,3
+2024,CAH15-03,Politics,organisation,74.36350059737157,3
+2024,CAH15-03,Politics,student_voice,61.46338096391379,3
+2024,CAH15-03,Politics,teaching,86.30533870120777,4
+2024,CAH16-01,Law,academic_support,72.18010704727922,3
+2024,CAH16-01,Law,assessment_feedback,72.53632255206026,5
+2024,CAH16-01,Law,free_expression,75.6,1
+2024,CAH16-01,Law,learning_opps,76.13606575585915,4
+2024,CAH16-01,Law,learning_resources,87.78474756690999,3
+2024,CAH16-01,Law,organisation,84.59723589549412,3
+2024,CAH16-01,Law,student_voice,61.16785464166213,3
+2024,CAH16-01,Law,teaching,86.52445971406405,4
+2024,CAH17-01,Business and management,academic_support,74.09243542435425,3
+2024,CAH17-01,Business and management,assessment_feedback,73.13816929435175,5
+2024,CAH17-01,Business and management,free_expression,79.8,1
+2024,CAH17-01,Business and management,learning_opps,82.92519145351508,4
+2024,CAH17-01,Business and management,learning_resources,86.40920165211482,3
+2024,CAH17-01,Business and management,organisation,85.05767509626392,3
+2024,CAH17-01,Business and management,student_voice,71.98835953628712,3
+2024,CAH17-01,Business and management,teaching,81.6790044451257,4
+2024,CAH19-01,English studies,academic_support,86.48945147679325,3
+2024,CAH19-01,English studies,assessment_feedback,77.68183733670459,5
+2024,CAH19-01,English studies,free_expression,67.7,1
+2024,CAH19-01,English studies,learning_opps,84.52072784810126,4
+2024,CAH19-01,English studies,learning_resources,88.83654676258995,3
+2024,CAH19-01,English studies,organisation,86.86545981173064,3
+2024,CAH19-01,English studies,student_voice,71.06571637426902,3
+2024,CAH19-01,English studies,teaching,94.3,4
+2024,CAH19-04,Languages and area studies,academic_support,82.95425950196594,3
+2024,CAH19-04,Languages and area studies,assessment_feedback,72.4307328605201,5
+2024,CAH19-04,Languages and area studies,free_expression,66.9,1
+2024,CAH19-04,Languages and area studies,learning_opps,79.19567779960707,4
+2024,CAH19-04,Languages and area studies,learning_resources,83.6189701897019,3
+2024,CAH19-04,Languages and area studies,organisation,76.7073469387755,3
+2024,CAH19-04,Languages and area studies,student_voice,65.27551867219917,3
+2024,CAH19-04,Languages and area studies,teaching,88.325,4
+2024,CAH20-01,History and archaeology,academic_support,83.05464316423044,3
+2024,CAH20-01,History and archaeology,assessment_feedback,75.31195455719082,5
+2024,CAH20-01,History and archaeology,free_expression,72.3,1
+2024,CAH20-01,History and archaeology,learning_opps,79.50708762886597,4
+2024,CAH20-01,History and archaeology,learning_resources,88.23511852502195,3
+2024,CAH20-01,History and archaeology,organisation,80.78681898066783,3
+2024,CAH20-01,History and archaeology,student_voice,65.27319587628865,3
+2024,CAH20-01,History and archaeology,teaching,90.07499999999999,4
+2024,CAH20-02,Philosophy and religious studies,academic_support,79.09322033898304,3
+2024,CAH20-02,Philosophy and religious studies,assessment_feedback,75.60481036077707,5
+2024,CAH20-02,Philosophy and religious studies,free_expression,73.0,1
+2024,CAH20-02,Philosophy and religious studies,learning_opps,82.23293135435992,4
+2024,CAH20-02,Philosophy and religious studies,learning_resources,89.27763243950294,3
+2024,CAH20-02,Philosophy and religious studies,organisation,82.78834123222748,3
+2024,CAH20-02,Philosophy and religious studies,student_voice,68.08378203048977,3
+2024,CAH20-02,Philosophy and religious studies,teaching,89.8054528650647,4
+2024,CAH23-01,Combined and general studies,academic_support,77.88397291196388,3
+2024,CAH23-01,Combined and general studies,assessment_feedback,74.02625169147497,5
+2024,CAH23-01,Combined and general studies,free_expression,72.4,1
+2024,CAH23-01,Combined and general studies,learning_opps,81.58950930626058,4
+2024,CAH23-01,Combined and general studies,learning_resources,88.23741176470588,3
+2024,CAH23-01,Combined and general studies,organisation,80.77728337236533,3
+2024,CAH23-01,Combined and general studies,student_voice,64.51520737327189,3
+2024,CAH23-01,Combined and general studies,teaching,86.325,4
+2024,CAH24-01,"Media, journalism and communications",academic_support,85.66666666666667,3
+2024,CAH24-01,"Media, journalism and communications",assessment_feedback,81.25999999999999,5
+2024,CAH24-01,"Media, journalism and communications",free_expression,68.5,1
+2024,CAH24-01,"Media, journalism and communications",learning_opps,82.2,4
+2024,CAH24-01,"Media, journalism and communications",learning_resources,88.97673860911272,3
+2024,CAH24-01,"Media, journalism and communications",organisation,79.75903614457832,3
+2024,CAH24-01,"Media, journalism and communications",student_voice,71.20833333333333,3
+2024,CAH24-01,"Media, journalism and communications",teaching,91.025,4
+2024,CAH25-02,Performing arts,academic_support,81.16666666666667,3
+2024,CAH25-02,Performing arts,assessment_feedback,76.38000000000001,5
+2024,CAH25-02,Performing arts,free_expression,59.89999999999999,1
+2024,CAH25-02,Performing arts,learning_opps,81.875,4
+2024,CAH25-02,Performing arts,learning_resources,89.36666666666667,3
+2024,CAH25-02,Performing arts,organisation,85.66885644768857,3
+2024,CAH25-02,Performing arts,student_voice,64.30788177339902,3
+2024,CAH25-02,Performing arts,teaching,92.775,4
+2024,CAH26-01,"Geography, earth and environmental studies",academic_support,79.10739165421313,3
+2024,CAH26-01,"Geography, earth and environmental studies",assessment_feedback,75.60062026188835,5
+2024,CAH26-01,"Geography, earth and environmental studies",free_expression,69.9,1
+2024,CAH26-01,"Geography, earth and environmental studies",learning_opps,82.9036294503975,4
+2024,CAH26-01,"Geography, earth and environmental studies",learning_resources,89.57032250414986,3
+2024,CAH26-01,"Geography, earth and environmental studies",organisation,87.14487821932175,3
+2024,CAH26-01,"Geography, earth and environmental studies",student_voice,66.27250712250712,3
+2024,CAH26-01,"Geography, earth and environmental studies",teaching,88.15392173763145,4
+2025,CAH01-01,Medicine and dentistry,academic_support,79.80900195694717,6
+2025,CAH01-01,Medicine and dentistry,assessment_feedback,87.003707995365,10
+2025,CAH01-01,Medicine and dentistry,free_expression,88.2,2
+2025,CAH01-01,Medicine and dentistry,learning_opps,83.525,8
+2025,CAH01-01,Medicine and dentistry,learning_resources,83.58757396449703,6
+2025,CAH01-01,Medicine and dentistry,organisation,74.72277992277992,6
+2025,CAH01-01,Medicine and dentistry,student_voice,73.15430861723446,6
+2025,CAH01-01,Medicine and dentistry,teaching,89.175,8
+2025,CAH02-04,Nursing and midwifery,academic_support,79.39999999999999,6
+2025,CAH02-04,Nursing and midwifery,assessment_feedback,83.53999999999999,10
+2025,CAH02-04,Nursing and midwifery,free_expression,96.9,2
+2025,CAH02-04,Nursing and midwifery,learning_opps,88.97500000000001,8
+2025,CAH02-04,Nursing and midwifery,learning_resources,74.984375,6
+2025,CAH02-04,Nursing and midwifery,organisation,70.00200000000001,6
+2025,CAH02-04,Nursing and midwifery,student_voice,68.16477272727273,6
+2025,CAH02-04,Nursing and midwifery,teaching,92.65,8
+2025,CAH02-05,Medical sciences,academic_support,77.83196721311475,3
+2025,CAH02-05,Medical sciences,assessment_feedback,74.90422997946611,5
+2025,CAH02-05,Medical sciences,free_expression,83.5,1
+2025,CAH02-05,Medical sciences,learning_opps,82.425,4
+2025,CAH02-05,Medical sciences,learning_resources,87.20090215128383,3
+2025,CAH02-05,Medical sciences,organisation,80.3045738045738,3
+2025,CAH02-05,Medical sciences,student_voice,76.79546089385475,3
+2025,CAH02-05,Medical sciences,teaching,87.6770726714432,4
+2025,CAH03-01,Biosciences,academic_support,79.40238198354267,6
+2025,CAH03-01,Biosciences,assessment_feedback,74.9273812613548,10
+2025,CAH03-01,Biosciences,free_expression,74.32727272727273,2
+2025,CAH03-01,Biosciences,learning_opps,80.68820969208782,8
+2025,CAH03-01,Biosciences,learning_resources,87.48382326899238,6
+2025,CAH03-01,Biosciences,organisation,80.68633733867378,6
+2025,CAH03-01,Biosciences,student_voice,66.8596557288865,6
+2025,CAH03-01,Biosciences,teaching,87.26202153886076,8
+2025,CAH03-02,Sport and exercise sciences,academic_support,78.48773841961852,3
+2025,CAH03-02,Sport and exercise sciences,assessment_feedback,76.61568627450981,5
+2025,CAH03-02,Sport and exercise sciences,free_expression,84.9,1
+2025,CAH03-02,Sport and exercise sciences,learning_opps,80.30000000000001,4
+2025,CAH03-02,Sport and exercise sciences,learning_resources,88.4690410958904,3
+2025,CAH03-02,Sport and exercise sciences,organisation,87.12657534246574,3
+2025,CAH03-02,Sport and exercise sciences,student_voice,77.63711048158639,3
+2025,CAH03-02,Sport and exercise sciences,teaching,88.425,4
+2025,CAH04-01,Psychology,academic_support,75.03760129659643,6
+2025,CAH04-01,Psychology,assessment_feedback,74.94245647969052,10
+2025,CAH04-01,Psychology,free_expression,80.0334975369458,2
+2025,CAH04-01,Psychology,learning_opps,83.87874396135267,8
+2025,CAH04-01,Psychology,learning_resources,89.6621487603306,6
+2025,CAH04-01,Psychology,organisation,86.85553732567678,6
+2025,CAH04-01,Psychology,student_voice,74.58953974895398,6
+2025,CAH04-01,Psychology,teaching,90.28502415458937,8
+2025,CAH07-01,Physics and astronomy,academic_support,90.36075949367088,6
+2025,CAH07-01,Physics and astronomy,assessment_feedback,79.20318664643399,10
+2025,CAH07-01,Physics and astronomy,free_expression,87.51249999999999,2
+2025,CAH07-01,Physics and astronomy,learning_opps,90.45687022900763,8
+2025,CAH07-01,Physics and astronomy,learning_resources,87.71153846153847,6
+2025,CAH07-01,Physics and astronomy,organisation,91.34427480916031,6
+2025,CAH07-01,Physics and astronomy,student_voice,78.85248041775456,6
+2025,CAH07-01,Physics and astronomy,teaching,94.3996138996139,8
+2025,CAH07-04,"General, applied and forensic sciences",academic_support,94.38250000000001,6
+2025,CAH07-04,"General, applied and forensic sciences",assessment_feedback,94.39477611940298,10
+2025,CAH07-04,"General, applied and forensic sciences",free_expression,77.75555555555556,2
+2025,CAH07-04,"General, applied and forensic sciences",learning_opps,95.82916666666667,8
+2025,CAH07-04,"General, applied and forensic sciences",learning_resources,93.62611464968153,6
+2025,CAH07-04,"General, applied and forensic sciences",organisation,96.28148148148148,6
+2025,CAH07-04,"General, applied and forensic sciences",student_voice,82.80191082802547,6
+2025,CAH07-04,"General, applied and forensic sciences",teaching,97.225,8
+2025,CAH09-01,Mathematical sciences,academic_support,78.2818422956354,6
+2025,CAH09-01,Mathematical sciences,assessment_feedback,80.9276559139785,10
+2025,CAH09-01,Mathematical sciences,free_expression,78.37580893682588,2
+2025,CAH09-01,Mathematical sciences,learning_opps,82.65404530744335,8
+2025,CAH09-01,Mathematical sciences,learning_resources,85.88673799452602,6
+2025,CAH09-01,Mathematical sciences,organisation,86.74860294117646,6
+2025,CAH09-01,Mathematical sciences,student_voice,69.2917780061665,6
+2025,CAH09-01,Mathematical sciences,teaching,87.6945278969957,8
+2025,CAH10-01,Engineering,academic_support,74.55292652552926,6
+2025,CAH10-01,Engineering,assessment_feedback,79.29164179104478,10
+2025,CAH10-01,Engineering,free_expression,82.05675675675674,2
+2025,CAH10-01,Engineering,learning_opps,82.42847805788983,8
+2025,CAH10-01,Engineering,learning_resources,85.6232233502538,6
+2025,CAH10-01,Engineering,organisation,81.75569620253165,6
+2025,CAH10-01,Engineering,student_voice,61.019189189189184,6
+2025,CAH10-01,Engineering,teaching,80.1311797752809,8
+2025,CAH11-01,Computing,academic_support,69.30488095238096,6
+2025,CAH11-01,Computing,assessment_feedback,76.64730957372467,10
+2025,CAH11-01,Computing,free_expression,72.45147058823531,2
+2025,CAH11-01,Computing,learning_opps,81.43266550522648,8
+2025,CAH11-01,Computing,learning_resources,88.65647348951913,6
+2025,CAH11-01,Computing,organisation,81.23474576271185,6
+2025,CAH11-01,Computing,student_voice,72.9299872935197,6
+2025,CAH11-01,Computing,teaching,82.40252613240419,8
+2025,CAH15-01,"Sociology, social policy and anthropology",academic_support,79.44576271186439,3
+2025,CAH15-01,"Sociology, social policy and anthropology",assessment_feedback,76.07633587786259,5
+2025,CAH15-01,"Sociology, social policy and anthropology",free_expression,72.7,1
+2025,CAH15-01,"Sociology, social policy and anthropology",learning_opps,84.825,4
+2025,CAH15-01,"Sociology, social policy and anthropology",learning_resources,93.01444201312911,3
+2025,CAH15-01,"Sociology, social policy and anthropology",organisation,87.96520787746171,3
+2025,CAH15-01,"Sociology, social policy and anthropology",student_voice,66.74799107142857,3
+2025,CAH15-01,"Sociology, social policy and anthropology",teaching,90.77559429477022,4
+2025,CAH15-02,Economics,academic_support,74.62570611778158,3
+2025,CAH15-02,Economics,assessment_feedback,78.11292832764505,5
+2025,CAH15-02,Economics,free_expression,84.8,1
+2025,CAH15-02,Economics,learning_opps,83.12654020336666,4
+2025,CAH15-02,Economics,learning_resources,90.99171721885207,3
+2025,CAH15-02,Economics,organisation,88.8404405701496,3
+2025,CAH15-02,Economics,student_voice,72.65309142993556,3
+2025,CAH15-02,Economics,teaching,87.73543091655266,4
+2025,CAH15-03,Politics,academic_support,75.58081164534627,3
+2025,CAH15-03,Politics,assessment_feedback,71.32000000000001,5
+2025,CAH15-03,Politics,free_expression,77.79999999999998,1
+2025,CAH15-03,Politics,learning_opps,80.17292653375922,4
+2025,CAH15-03,Politics,learning_resources,89.95193302891933,3
+2025,CAH15-03,Politics,organisation,82.8983105513746,3
+2025,CAH15-03,Politics,student_voice,58.627283912642255,3
+2025,CAH15-03,Politics,teaching,88.25,4
+2025,CAH16-01,Law,academic_support,74.21390194761585,3
+2025,CAH16-01,Law,assessment_feedback,69.62,5
+2025,CAH16-01,Law,free_expression,78.0,1
+2025,CAH16-01,Law,learning_opps,76.33062080536914,4
+2025,CAH16-01,Law,learning_resources,85.4104107406986,3
+2025,CAH16-01,Law,organisation,83.46587802917192,3
+2025,CAH16-01,Law,student_voice,57.637733644859814,3
+2025,CAH16-01,Law,teaching,85.95,4
+2025,CAH17-01,Business and management,academic_support,78.86353021978023,3
+2025,CAH17-01,Business and management,assessment_feedback,81.7810003732736,5
+2025,CAH17-01,Business and management,free_expression,84.8,1
+2025,CAH17-01,Business and management,learning_opps,81.72291180587962,4
+2025,CAH17-01,Business and management,learning_resources,87.76341247789847,3
+2025,CAH17-01,Business and management,organisation,86.48211464324085,3
+2025,CAH17-01,Business and management,student_voice,74.12965360958239,3
+2025,CAH17-01,Business and management,teaching,84.4,4
+2025,CAH19-01,English studies,academic_support,83.7,6
+2025,CAH19-01,English studies,assessment_feedback,73.22,10
+2025,CAH19-01,English studies,free_expression,79.7,2
+2025,CAH19-01,English studies,learning_opps,82.325,8
+2025,CAH19-01,English studies,learning_resources,90.52679324894514,6
+2025,CAH19-01,English studies,organisation,85.157310565635,6
+2025,CAH19-01,English studies,student_voice,71.23540106951873,6
+2025,CAH19-01,English studies,teaching,92.225,8
+2025,CAH19-04,Languages and area studies,academic_support,84.11558245083208,3
+2025,CAH19-04,Languages and area studies,assessment_feedback,76.7991847826087,5
+2025,CAH19-04,Languages and area studies,free_expression,83.6,1
+2025,CAH19-04,Languages and area studies,learning_opps,84.94835787089467,4
+2025,CAH19-04,Languages and area studies,learning_resources,90.09606918238994,3
+2025,CAH19-04,Languages and area studies,organisation,82.98519685039369,3
+2025,CAH19-04,Languages and area studies,student_voice,67.0874193548387,3
+2025,CAH19-04,Languages and area studies,teaching,91.40566251415628,4
+2025,CAH20-01,History and archaeology,academic_support,84.59446437724243,3
+2025,CAH20-01,History and archaeology,assessment_feedback,73.74837423312884,5
+2025,CAH20-01,History and archaeology,free_expression,79.2,1
+2025,CAH20-01,History and archaeology,learning_opps,82.27498084291189,4
+2025,CAH20-01,History and archaeology,learning_resources,88.35627615062762,3
+2025,CAH20-01,History and archaeology,organisation,84.59610935856992,3
+2025,CAH20-01,History and archaeology,student_voice,65.22666311868015,3
+2025,CAH20-01,History and archaeology,teaching,91.87464572960552,4
+2025,CAH20-02,Philosophy and religious studies,academic_support,82.99166666666667,3
+2025,CAH20-02,Philosophy and religious studies,assessment_feedback,74.32,5
+2025,CAH20-02,Philosophy and religious studies,free_expression,83.6,1
+2025,CAH20-02,Philosophy and religious studies,learning_opps,80.6220515137822,4
+2025,CAH20-02,Philosophy and religious studies,learning_resources,91.63383742911154,3
+2025,CAH20-02,Philosophy and religious studies,organisation,87.49183027232425,3
+2025,CAH20-02,Philosophy and religious studies,student_voice,74.83615635179152,3
+2025,CAH20-02,Philosophy and religious studies,teaching,91.51424694708277,4
+2025,CAH23-01,Combined and general studies,academic_support,78.96666666666667,3
+2025,CAH23-01,Combined and general studies,assessment_feedback,73.28,5
+2025,CAH23-01,Combined and general studies,free_expression,74.2,1
+2025,CAH23-01,Combined and general studies,learning_opps,81.54999999999998,4
+2025,CAH23-01,Combined and general studies,learning_resources,90.41598837209303,3
+2025,CAH23-01,Combined and general studies,organisation,81.14942857142857,3
+2025,CAH23-01,Combined and general studies,student_voice,66.08613569321534,3
+2025,CAH23-01,Combined and general studies,teaching,89.95,4
+2025,CAH24-01,"Media, journalism and communications",academic_support,81.43333333333334,3
+2025,CAH24-01,"Media, journalism and communications",assessment_feedback,72.06607369758576,5
+2025,CAH24-01,"Media, journalism and communications",free_expression,78.3,1
+2025,CAH24-01,"Media, journalism and communications",learning_opps,82.1,4
+2025,CAH24-01,"Media, journalism and communications",learning_resources,86.54434968017058,3
+2025,CAH24-01,"Media, journalism and communications",organisation,78.98528138528138,3
+2025,CAH24-01,"Media, journalism and communications",student_voice,68.14563318777293,3
+2025,CAH24-01,"Media, journalism and communications",teaching,84.95,4
+2025,CAH25-02,Performing arts,academic_support,81.2,3
+2025,CAH25-02,Performing arts,assessment_feedback,76.13989071038252,5
+2025,CAH25-02,Performing arts,free_expression,78.2,1
+2025,CAH25-02,Performing arts,learning_opps,83.175,4
+2025,CAH25-02,Performing arts,learning_resources,89.64924012158055,3
+2025,CAH25-02,Performing arts,organisation,84.09532710280374,3
+2025,CAH25-02,Performing arts,student_voice,64.61770186335403,3
+2025,CAH25-02,Performing arts,teaching,95.0,4
+2025,CAH26-01,"Geography, earth and environmental studies",academic_support,80.15279255319147,3
+2025,CAH26-01,"Geography, earth and environmental studies",assessment_feedback,79.87392344497607,5
+2025,CAH26-01,"Geography, earth and environmental studies",free_expression,82.5,1
+2025,CAH26-01,"Geography, earth and environmental studies",learning_opps,86.83463112708395,4
+2025,CAH26-01,"Geography, earth and environmental studies",learning_resources,92.78644253109196,3
+2025,CAH26-01,"Geography, earth and environmental studies",organisation,86.90811907983762,3
+2025,CAH26-01,"Geography, earth and environmental studies",student_voice,72.23403199117483,3
+2025,CAH26-01,"Geography, earth and environmental studies",teaching,89.54547721152886,4

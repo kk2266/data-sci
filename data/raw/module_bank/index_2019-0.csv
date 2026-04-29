@@ -1,0 +1,977 @@
+module_code,module_title,credits_raw,term_raw,stage,dept_slug,academic_year,dept_name
+MBAM905,Economics for Managers,10,1,Masters Modules,management,2019/0,Management
+MBAM906,Managing Strategic Resources and Operations,10,1,Masters Modules,management,2019/0,Management
+MBAM907,Strategy,10,1,Masters Modules,management,2019/0,Management
+MBAM909,Strategic and Responsible Innovation,10,2,Masters Modules,management,2019/0,Management
+MBAM912,The Entrepreneurial Mindset,10,2,Masters Modules,management,2019/0,Management
+MBAM915,The Entrepreneurial and Intrapreneurial Process: Starting Successful New Ventures,10,2,Masters Modules,management,2019/0,Management
+MBAM934,Sustainable Finance,10,3,Masters Modules,management,2019/0,Management
+MBAM938,Leading in the 4th Industrial Revolution,10,2,Masters Modules,management,2019/0,Management
+MBAM941,Igniting Change in Business,10,2,Masters Modules,management,2019/0,Management
+MBAM942,Leading Resilient Organisations,10,3,Masters Modules,management,2019/0,Management
+MBAM946,Marketing,10,1,Masters Modules,management,2019/0,Management
+MBAM948,Leadership,10,1 and 2,Masters Modules,management,2019/0,Management
+MBAM949,Personal Transformations,5,,Masters Modules,management,2019/0,Management
+MBAM950,Circular Economy Corporate Challenge,10,2,Masters Modules,management,2019/0,Management
+MBAM951,Negotiation,5,2,Masters Modules,management,2019/0,Management
+MBAM954,Tackling Global Challenges and Developing an Ethical Perspective,10,1,Masters Modules,management,2019/0,Management
+MBAM955,Behavioural Economics in Practice,10,3,Masters Modules,management,2019/0,Management
+MBAM956,Responsible Business in Context,10,3,Masters Modules,management,2019/0,Management
+ECM1102,Core Engineering 1,30,1,,engineering,2019/0,Engineering
+ECM1106,Electronics for Engineers: Core Engineering 2,15,2,,engineering,2019/0,Engineering
+ECM1107,Materials and Manufacturing: Core Engineering 2,15,2,,engineering,2019/0,Engineering
+ECM1108,Engineering Mechanics: Core Engineering 2,15,2,,engineering,2019/0,Engineering
+ECM1110,Engineering Mathematics,30,1 and 2,,engineering,2019/0,Engineering
+ECM1111,Entrepreneurship Skills Development 1,15,1 and 2,,engineering,2019/0,Engineering
+ECM2102,Management and Management Science,15,1,,engineering,2019/0,Engineering
+ECM2103,Introduction to Mechanical Engineering Design,15,2,,engineering,2019/0,Engineering
+ECM2105,Control Engineering,15,2,,engineering,2019/0,Engineering
+ECM2106,Manufacturing Systems,15,2,,engineering,2019/0,Engineering
+ECM2108,Construction Methods and Materials,15,2,,engineering,2019/0,Engineering
+ECM2109,Structures,15,2,,engineering,2019/0,Engineering
+ECM2110,Geotechnics 1,15,2,,engineering,2019/0,Engineering
+ECM2111,Mathematical Modelling of Engineering Systems,15,1,,engineering,2019/0,Engineering
+ECM2112,Professional Studies and Skills Development 2,15,1,,engineering,2019/0,Engineering
+ECM2113,Thermofluid Engineering,15,1,,engineering,2019/0,Engineering
+ECM2114,Solid Mechanics,15,1,,engineering,2019/0,Engineering
+ECM2115,"PICS, Microcontrollers and Microprocessors",15,2,,engineering,2019/0,Engineering
+ECM2117,Communication and Networking Technologies,15,2,,engineering,2019/0,Engineering
+ECM2118,Analogue and Digital Electronics Design,15,1,,engineering,2019/0,Engineering
+ECM2119,Mathematical Modelling and Control Engineering,15,1,,engineering,2019/0,Engineering
+ECM2120,Materials Engineering,15,2,,engineering,2019/0,Engineering
+ECM2121,Entrepreneurship 2,15,1,,engineering,2019/0,Engineering
+ECM3130,Engineering in Society and Company Finance,15,2,,engineering,2019/0,Engineering
+ECM3149,Commercial and Industrial Experience and Individual Project (BEng/MEng),45,"1, 2 and 3",,engineering,2019/0,Engineering
+ECM3150,Electromagnetics and Wave Propagation,15,1,,engineering,2019/0,Engineering
+ECM3151,Thermofluids and Energy Conversion,15,1,,engineering,2019/0,Engineering
+ECM3152,Computational Engineering,15,1,,engineering,2019/0,Engineering
+ECM3153,Management of Product Development,15,1,,engineering,2019/0,Engineering
+ECM3154,Manufacturing,15,1,,engineering,2019/0,Engineering
+ECM3155,Structural Engineering,15,1,,engineering,2019/0,Engineering
+ECM3156,Civil Engineering Hydraulics,15,1,,engineering,2019/0,Engineering
+ECM3157,Geotechnics 2,15,1,,engineering,2019/0,Engineering
+ECM3158,Water Resources and Pollution Control,15,1,,engineering,2019/0,Engineering
+ECM3159,Management of Processes and People,15,1,,engineering,2019/0,Engineering
+ECM3160,Materials,15,1,,engineering,2019/0,Engineering
+ECM3161,Civil Engineering Design Studies,15,2,,engineering,2019/0,Engineering
+ECM3162,Electronic Engineering Design Studies,15,2,,engineering,2019/0,Engineering
+ECM3163,Mechanical Engineering Design Studies,15,2,,engineering,2019/0,Engineering
+ECM3164,Operations Management,15,1,,engineering,2019/0,Engineering
+ECM3165,Digital Signal Processing,15,1,,engineering,2019/0,Engineering
+ECM3166,Communications Engineering,15,1,,engineering,2019/0,Engineering
+ECM3171,Computer Aided Engineering Drawing,15,1,,engineering,2019/0,Engineering
+ECM3172,Study Abroad Semester,60,2 and 3,,engineering,2019/0,Engineering
+ECM3173,Structural Dynamics,15,1,,engineering,2019/0,Engineering
+ECM3174,Year in Industry,120,1,,engineering,2019/0,Engineering
+ECM3175,Individual Project,30,"1, 2 and 3",,engineering,2019/0,Engineering
+ENGM026,"Design, Innovation & Entrepreneurship",15,2,,engineering,2019/0,Engineering
+ECMM102,Group Project (MEng),60,"1, 2 and 3",,engineering,2019/0,Engineering
+ECMM103,Computer Aided Engineering Design,15,1,,engineering,2019/0,Engineering
+ECMM107,Mechanics of Materials,15,1,,engineering,2019/0,Engineering
+ECMM108,Advanced Structural Engineering,15,2,,engineering,2019/0,Engineering
+ECMM109,Advanced Geotechnical Engineering,15,2,,engineering,2019/0,Engineering
+ECMM110,Water and Environmental Systems,15,2,,engineering,2019/0,Engineering
+ECMM112,Manufacturing Supply Chain Management,15,1,,engineering,2019/0,Engineering
+ECMM113,"Agile, Lean and Competitive Enterprise",15,1,,engineering,2019/0,Engineering
+ECMM124,Hydroinformatics Tools,15,1,,engineering,2019/0,Engineering
+ECMM127,Advanced Materials Engineering,15,1,,engineering,2019/0,Engineering
+ECMM128,Management Concepts,15,2,,engineering,2019/0,Engineering
+ECMM132,Urban Drainage and Waste Water Management,15,2,,engineering,2019/0,Engineering
+ECMM133,Water Supply and Distribution Management,15,1,,engineering,2019/0,Engineering
+ECMM134,Environmental Processes,15,1,,engineering,2019/0,Engineering
+ECMM136,Systems Analysis in Engineering,15,2,,engineering,2019/0,Engineering
+ECMM140,Vibration Engineering,15,2,,engineering,2019/0,Engineering
+ECMM141,Multivariable State-Space Control,15,1,,engineering,2019/0,Engineering
+ECMM142,Contemporary Advanced Materials Research,15,2,,engineering,2019/0,Engineering
+ECMM144,Environmental and Computational Hydraulics,15,1,,engineering,2019/0,Engineering
+ECMM145,Computational Hydrology,15,2,,engineering,2019/0,Engineering
+ECMM146,Mathematical Modelling of Waste Water Treatment Processes,15,2,,engineering,2019/0,Engineering
+ECMM147,Mechatronics: Sensors and Machine Automation,15,1,,engineering,2019/0,Engineering
+ECMM148,Advanced CFD,15,1,,engineering,2019/0,Engineering
+ECMM149,Linear Systems and Structural Analysis,15,1,,engineering,2019/0,Engineering
+ECMM150,Structural Design,15,1,,engineering,2019/0,Engineering
+ECMM151,Introduction to Earthquake Engineering,15,2,,engineering,2019/0,Engineering
+ECMM153,Conceptual Design of Buildings,15,1,,engineering,2019/0,Engineering
+ECMM158,Active and Passive Structural Control,15,2,,engineering,2019/0,Engineering
+ECMM159,Structural Health and Performance Monitoring,15,2,,engineering,2019/0,Engineering
+ECMM160,Engineering Materials and the Environment,15,2,,engineering,2019/0,Engineering
+ECMM162,Water Management in Developing Countries,15,2,,engineering,2019/0,Engineering
+ECMM163,Sustainable Engineering,15,2,,engineering,2019/0,Engineering
+ECMM164,MSc Dissertation,60,2 and 3,,engineering,2019/0,Engineering
+ECMM168,Project Management,15,1,,engineering,2019/0,Engineering
+ECMM171,Programming for Engineering,15,1,,engineering,2019/0,Engineering
+ECMM172,Management Science,15,2,,engineering,2019/0,Engineering
+ECMM178,Computational Techniques for Engineers,15,2,,engineering,2019/0,Engineering
+ECMM179,Global Sourcing and Logistics Management,15,2,,engineering,2019/0,Engineering
+EMP3001,Commercial and Industrial Experience,15,1,,engineering,2019/0,Engineering
+EMP3003,Professional Experience,45,1 and 2,,engineering,2019/0,Engineering
+EDU2016,Learning for Teaching: School Experience,15,1 and 2,Stage Two Modules,education,2019/0,Education
+EDU2017,Learning for Teaching: School Experience,30,1 and 2,Stage Two Modules,education,2019/0,Education
+EDU3013,Learning for Teaching: School Experience,15,1 and 2,Stage Three Modules,education,2019/0,Education
+EDU3014,Learning for Teaching: School Experience,30,1 and 2,Stage Three Modules,education,2019/0,Education
+EDUM030,Professional Learning (School Direct),,"1, 2 and 3",Masters Modules,education,2019/0,Education
+EDUM033,Primary Curriculum Studies,,"1, 2 and 3",Masters Modules,education,2019/0,Education
+EDUM034,Primary Professional Learning,,"1, 2 and 3",Masters Modules,education,2019/0,Education
+EDUM036,Secondary Education and Professional Studies,30,"1, 2 and 3",Masters Modules,education,2019/0,Education
+EDUM037,Secondary Biology Subject Knowledge and Pedagogy,30,"1, 2 and 3",Masters Modules,education,2019/0,Education
+EDUM038,Secondary Biology with Psychology Subject Knowledge and Pedagogy,30,"1, 2 and 3",Masters Modules,education,2019/0,Education
+EDUM039,Secondary Chemistry Subject Knowledge and Pedagogy,30,"1, 2 and 3",Masters Modules,education,2019/0,Education
+EDUM042,Secondary English Subject Knowledge and Pedagogy,30,"1, 2 and 3",Masters Modules,education,2019/0,Education
+EDUM043,Secondary French Subject Knowledge and Pedagogy,30,"1, 2 and 3",Masters Modules,education,2019/0,Education
+EDUM044,Secondary German Subject Knowledge and Pedagogy,30,"1, 2 and 3",Masters Modules,education,2019/0,Education
+EDUM047,Secondary Mathematics Subject Knowledge and Pedagogy,30,"1, 2 and 3",Masters Modules,education,2019/0,Education
+EDUM048,Secondary Physics Subject Knowledge and Pedagogy,30,"1, 2 and 3",Masters Modules,education,2019/0,Education
+EDUM049,Secondary Physical Education Subject Knowledge and Pedagogy,30,"1, 2 and 3",Masters Modules,education,2019/0,Education
+EDUM051,Secondary Spanish Subject Knowledge and Pedagogy,30,"1, 2 and 3",Masters Modules,education,2019/0,Education
+EDUM052,Secondary Professional Learning,,"1, 2 and 3",Masters Modules,education,2019/0,Education
+EDUM061,Primary Teaching and Learning,30,"1, 2 and 3",Masters Modules,education,2019/0,Education
+EFPM266,Principles of Language Learning for TESOL,30,1,Masters Modules,education,2019/0,Education
+EFPM268,Developing an Appropriate Language Teaching Methodology,15,1,Masters Modules,education,2019/0,Education
+EFPM269,Developing Language Teachers,15,1,Masters Modules,education,2019/0,Education
+EFPM270,SEN: Teaching and Learning,30,1,Masters Modules,education,2019/0,Education
+EFPM278,SEN Organisational Contexts,30,1 and 2,Masters Modules,education,2019/0,Education
+EFPM279,SEN Leading on Teaching and Learning,30,2 and 3,Masters Modules,education,2019/0,Education
+EFPM280,Developing Practical Knowledge for TESOL Teaching,30,1 and 2,Masters Modules,education,2019/0,Education
+EFPM285,Learning Outcomes Portfolio,,"1, 2 and 3",Masters Modules,education,2019/0,Education
+EFPM288,Learning and Teaching in Higher Education,30,1 and 2,Masters Modules,education,2019/0,Education
+EFPM292,Bilingual and Multilingual Perspectives on Language Learning and Teaching,15,2,Masters Modules,education,2019/0,Education
+EFPM308,Preparing for Educational Research and Dissertation,60,"1, 2 and 3",Masters Modules,education,2019/0,Education
+EFPM311,Principles and Practices of Curriculum Development and Syllabus Design,15,"1, 2 and 3",Masters Modules,education,2019/0,Education
+EFPM313,Issues in English Language Teaching,15,2,Masters Modules,education,2019/0,Education
+EFPM329,Preparing for TESOL Inquiry and Dissertation,60,,Masters Modules,education,2019/0,Education
+EFPM787,Teaching English to Young Learners,15,1,Masters Modules,education,2019/0,Education
+EFPM835,Foreign Language Testing and Assessment,15,2,Masters Modules,education,2019/0,Education
+EFPM837,Teaching and Researching English for Academic Purposes,15,2,Masters Modules,education,2019/0,Education
+EFPM900,The Contemporary Academic in Context,30,1 and 2,Masters Modules,education,2019/0,Education
+EFPM902,Creating Effective Learning in Higher Education,30,"1, 2 and 3",Masters Modules,education,2019/0,Education
+EFPM906,"Arts Education Theory, Practice and Potential",30,1,Masters Modules,education,2019/0,Education
+EFPM907,"Creativity in Education: Valuing, Facilitating and Assessing It",30,2,Masters Modules,education,2019/0,Education
+EFPM910,Education Policy,30,2,Masters Modules,education,2019/0,Education
+EFPM911,Educational Leadership and Management,30,1,Masters Modules,education,2019/0,Education
+EFPM912,Perspectives on International Education,30,1,Masters Modules,education,2019/0,Education
+EFPM914,Education Studies,30,1,Masters Modules,education,2019/0,Education
+ERPM000,The Nature of Educational Enquiry,30,2,Masters Modules,education,2019/0,Education
+ERPM004,Dissertation,60,"1, 2 and 3",Masters Modules,education,2019/0,Education
+ERPM005,Designing and Communicating Research,30,1,Masters Modules,education,2019/0,Education
+PSY1105,Introduction to Behaviour and Evolution,15,1,Stage One Modules,psychology,2019/0,Psychology
+PSY1126,Classic Studies in Psychology,15,2,Stage One Modules,psychology,2019/0,Psychology
+PSY1202,Introduction to Biological Psychology,15,2,Stage One Modules,psychology,2019/0,Psychology
+PSY1203,Introduction to Social Psychology,15,1,Stage One Modules,psychology,2019/0,Psychology
+PSY1204,Introduction to Clinical Psychology,15,1,Stage One Modules,psychology,2019/0,Psychology
+PSY1205,Introduction to Statistics,15,1 and 2,Stage One Modules,psychology,2019/0,Psychology
+PSY1206,Introduction to Research Methods,15,1,Stage One Modules,psychology,2019/0,Psychology
+PSY1207,"Cognition, Emotion and Development",15,2,Stage One Modules,psychology,2019/0,Psychology
+PSY1208,Workplace Learning,15,1 and 2,Stage One Modules,psychology,2019/0,Psychology
+PSY2203,Social Psychology II,15,1,Stage Two Modules,psychology,2019/0,Psychology
+PSY2205,Personality and Individual Differences,15,1,Stage Two Modules,psychology,2019/0,Psychology
+PSY2206,Methods and Statistics in Psychology II,15,1 and 2,Stage Two Modules,psychology,2019/0,Psychology
+PSY2209,Cognition Practical I,15,1,Stage Two Modules,psychology,2019/0,Psychology
+PSY2210,Social Practical I,15,1,Stage Two Modules,psychology,2019/0,Psychology
+PSY2212,Cognition Practical II,15,2,Stage Two Modules,psychology,2019/0,Psychology
+PSY2213,Social Practical II,15,2,Stage Two Modules,psychology,2019/0,Psychology
+PSY2214,Observations and Experiments in Animal Behaviour,15,1,Stage Two Modules,psychology,2019/0,Psychology
+PSY2216,Qualitative Methods and Interview Skills,15,2,Stage Two Modules,psychology,2019/0,Psychology
+PSY2217,Wild Behaviour,15,2,Stage Two Modules,psychology,2019/0,Psychology
+PSY2218,Social Practical III,15,1,Stage Two Modules,psychology,2019/0,Psychology
+PSY2303,Cognition and Emotion,15,2,Stage Two Modules,psychology,2019/0,Psychology
+PSY2304,Biological Basis of Behaviour,15,2,Stage Two Modules,psychology,2019/0,Psychology
+PSY2306,Development Psychology and Psychopathology,15,1,Stage Two Modules,psychology,2019/0,Psychology
+PSY3401,Psychology Research Project,45,1 and 2,Stage Three Modules,psychology,2019/0,Psychology
+PSY3402,Methods and Statistics in Psychology III,15,1,Stage Three Modules,psychology,2019/0,Psychology
+PSY3403,Contemporary Issues in Psychology,15,2,Stage Three Modules,psychology,2019/0,Psychology
+PSY3404,One Year Study Abroad,120,"1, 2 and 3",Stage Three Modules,psychology,2019/0,Psychology
+PSY3410,Stereotypes and Stereotyping,15,1,Stage Three Modules,psychology,2019/0,Psychology
+PSY3411,Psychology and Law,15,2,Stage Three Modules,psychology,2019/0,Psychology
+PSY3412,The Psychology of Gender,15,1,Stage Three Modules,psychology,2019/0,Psychology
+PSY3416,Work and Organisational Psychology,15,1,Stage Three Modules,psychology,2019/0,Psychology
+PSY3417,The Associative Mind,15,1,Stage Three Modules,psychology,2019/0,Psychology
+PSY3418,Processes of Human Memory,15,1,Stage Three Modules,psychology,2019/0,Psychology
+PSY3419,Studying Cognition and Emotion with Brain Imaging,15,1,Stage Three Modules,psychology,2019/0,Psychology
+PSY3420,Brain Plasticity and Language Learning across the Lifespan,15,1,Stage Three Modules,psychology,2019/0,Psychology
+PSY3424,"Applied Social Psychology: Health, Environment and Society",15,1,Stage Three Modules,psychology,2019/0,Psychology
+PSY3425,Cognitive Behavioural Approaches to Mood Disorders,15,2,Stage Three Modules,psychology,2019/0,Psychology
+PSY3426,Parental Psychiatric Disorders and Children's Development,15,2,Stage Three Modules,psychology,2019/0,Psychology
+PSY3427,Compulsive Behaviour,15,1,Stage Three Modules,psychology,2019/0,Psychology
+PSY3431,Comparative Approaches in the Study of Brain and Behaviour,15,1,Stage Three Modules,psychology,2019/0,Psychology
+PSY3432,The Moral Mind,15,1,Stage Three Modules,psychology,2019/0,Psychology
+PSY3434,"Mindfulness-based Interventions: Practice, Theoretical Backgrounds and Findings",15,2,Stage Three Modules,psychology,2019/0,Psychology
+PSY3436,Neuropsychology of Ageing and Dementia,15,2,Stage Three Modules,psychology,2019/0,Psychology
+PSY3437,The Psychology of Addiction,15,1,Stage Three Modules,psychology,2019/0,Psychology
+PSY3438,Prosociality and Cooperation,15,1,Stage Three Modules,psychology,2019/0,Psychology
+PSY3439,Social Exclusion and Inclusion in Childhood and Adolescence,15,2,Stage Three Modules,psychology,2019/0,Psychology
+PSY3910,Professional Development Experience,5,1 and 2,Stage Three Modules,psychology,2019/0,Psychology
+PYC3007,Core Skills for Working with Young People with Mental Health Problems and Their Families,60,"1, 2 and 3",Stage Three Modules,psychology,2019/0,Psychology
+PYC3008,Evidence-based CBT with Children and Young People,60,"1, 2 and 3",Stage Three Modules,psychology,2019/0,Psychology
+PYC3009,Evidence-based Parenting Interventions,60,"1, 2 and 3",Stage Three Modules,psychology,2019/0,Psychology
+PYC3010,Fundamental Principles 0-5s,20,"1, 2 and 3",Stage Three Modules,psychology,2019/0,Psychology
+PYC3011,Interventions to Enhance Attachment in Vulnerable Groups,20,"1, 2 and 3",Stage Three Modules,psychology,2019/0,Psychology
+PYC3012,Interventions for Existing Diagnosable Problems in Children Aged 1.5 to 5 Years,20,"1, 2 and 3",Stage Three Modules,psychology,2019/0,Psychology
+PYC3019,Engagement and Assessment of Patients with Common Mental Health Problems,20,1,Stage Three Modules,psychology,2019/0,Psychology
+PYC3020,Evidence-based Low Intensity Treatments for Common Mental Health Problems,20,1,Stage Three Modules,psychology,2019/0,Psychology
+PYC3021,"Values, Diversity and Context",20,2,Stage Three Modules,psychology,2019/0,Psychology
+PYC3022,Children and Young People's Mental Health Settings: Context and Values,20,2 and 3,Stage Three Modules,psychology,2019/0,Psychology
+PYC3023,Fundamental Skills: Assessment and Engagement,20,2 and 3,Stage Three Modules,psychology,2019/0,Psychology
+PYC3024,Evidence-based Interventions for Common Mental Health Problems with Children and Young People (Theory and Skills),20,"1, 2 and 3",Stage Three Modules,psychology,2019/0,Psychology
+PYC3025,"Working, Assessing and Engaging in Education Settings",20,1 and 2,Stage Three Modules,psychology,2019/0,Psychology
+PYC3026,Common Problems and Processes in Education Settings,20,2 and 3,Stage Three Modules,psychology,2019/0,Psychology
+PYC3027,Interventions for Emerging Mental Health Difficulties in Education Settings,20,2,Stage Three Modules,psychology,2019/0,Psychology
+PYC3028,Autism-Learning Disability Core Knowledge and Skills,20,2,Stage Three Modules,psychology,2019/0,Psychology
+PYC3029,"Assessment, Engagement and Formulation with Young People and Families (Autism and Learning Disabilities)",20,2,Stage Three Modules,psychology,2019/0,Psychology
+PYC3030,Mental Health Interventions with Young People and Families (Autism and Learning Disabilities),20,2 and 3,Stage Three Modules,psychology,2019/0,Psychology
+PSYM201,Advanced Statistics,30,1 and 2,Masters Modules,psychology,2019/0,Psychology
+PSYM202,Behavioural Science Research Skills,15,1 and 2,Masters Modules,psychology,2019/0,Psychology
+PSYM204,Advances and Methods in Social and Organisational Psychology,30,1 and 2,Masters Modules,psychology,2019/0,Psychology
+PSYM205,Advances and Methods in Animal Behaviour,30,1 and 2,Masters Modules,psychology,2019/0,Psychology
+PSYM208,Animal Behaviour Research Skills,15,"1, 2 and 3",Masters Modules,psychology,2019/0,Psychology
+PSYM210,Research Apprenticeship,90,"1, 2 and 3",Masters Modules,psychology,2019/0,Psychology
+PSYM211,Current Research Issues in Social and Organisational Psychology,15,2,Masters Modules,psychology,2019/0,Psychology
+PSYM212,Current Research Issues in Psychological Research Methods,15,1 and 2,Masters Modules,psychology,2019/0,Psychology
+PSYM213,Current Research Issues in Animal Behaviour,15,1 and 2,Masters Modules,psychology,2019/0,Psychology
+PYCM001,Psychological Therapies Research Project,60,"1, 2 and 3",Masters Modules,psychology,2019/0,Psychology
+PYCM002,Methodological Approaches in Psychological Therapies Research,20,"1, 2 and 3",Masters Modules,psychology,2019/0,Psychology
+PYCM003,Enhancing Practice: Broadening the Scope of Low Intensity CBT Interventions,20,"1, 2 and 3",Masters Modules,psychology,2019/0,Psychology
+PYCM014,Assessed Teaching Practice,15,"1, 2 and 3",Masters Modules,psychology,2019/0,Psychology
+PYCM015,Family Therapy and the Family of Therapies,15,1,Masters Modules,psychology,2019/0,Psychology
+PYCM026,Health Care Service Transformation Project,30,"1, 2 and 3",Masters Modules,psychology,2019/0,Psychology
+PYCM027,Core Skills for Working with Young People with Mental Health Problems and Their Families,60,"1, 2 and 3",Masters Modules,psychology,2019/0,Psychology
+PYCM028,Evidence-based CBT with Children and Young People,60,"1, 2 and 3",Masters Modules,psychology,2019/0,Psychology
+PYCM029,Evidence-based Parenting Interventions,60,"1, 2 and 3",Masters Modules,psychology,2019/0,Psychology
+PYCM030,Systemic Family Practice in CAMHS,30,1,Masters Modules,psychology,2019/0,Psychology
+PYCM031,Systemic Family Practice for Adolescent Eating Disorders,30,2 and 3,Masters Modules,psychology,2019/0,Psychology
+PYCM032,Systemic Family Practice for Adolescent Conduct Disorders,15,2,Masters Modules,psychology,2019/0,Psychology
+PYCM033,Systemic Family Practice for Adolescent Self-harm/Depression,15,3,Masters Modules,psychology,2019/0,Psychology
+PYCM034,Fundamental Principles 0-5s,20,"1, 2 and 3",Masters Modules,psychology,2019/0,Psychology
+PYCM035,Interventions to Enhance Attachment in Vulnerable Groups,20,"1, 2 and 3",Masters Modules,psychology,2019/0,Psychology
+PYCM036,Interventions for Existing Diagnosable Problems in Children Aged 1.5 to 5 Years,20,"1, 2 and 3",Masters Modules,psychology,2019/0,Psychology
+PYCM037,The Fundamentals of Cognitive Behavioural Therapy,30,"1, 2 and 3",Masters Modules,psychology,2019/0,Psychology
+PYCM038,Cognitive Behavioural Therapy (CBT) for Depression,30,"1, 2 and 3",Masters Modules,psychology,2019/0,Psychology
+PYCM039,Cognitive Behavioural Therapy (CBT) for Anxiety Disorder,30,"1, 2 and 3",Masters Modules,psychology,2019/0,Psychology
+PYCM040,Cognitive Behavioural Therapy (CBT) - Clinical Practice,30,"1, 2 and 3",Masters Modules,psychology,2019/0,Psychology
+PYCM042,Clinical Supervision Practice Placement,30,2,Masters Modules,psychology,2019/0,Psychology
+PYCM043,Contemporary Issues in Global Leadership Theory and Practice,30,1,Masters Modules,psychology,2019/0,Psychology
+PYCM044,"Personal Leadership Identity, Resilience and Reflection",30,1 and 2,Masters Modules,psychology,2019/0,Psychology
+PYCM045,Leading through Complexity,30,3,Masters Modules,psychology,2019/0,Psychology
+PYCM046,Data Analytics for Leaders,30,2 and 3,Masters Modules,psychology,2019/0,Psychology
+PYCM047,Publication Project,60,"1, 2 and 3",Masters Modules,psychology,2019/0,Psychology
+PYCM051,Psychological Therapies Research Methods,15,2 and 3,Masters Modules,psychology,2019/0,Psychology
+PYCM052,Evidenced-Based Practice and Practice-Based Evidence in Family Therapy,15,1 and 2,Masters Modules,psychology,2019/0,Psychology
+PYCM053,Key Concepts and Skills in Systemic/Family Therapy Practice,15,1 and 2,Masters Modules,psychology,2019/0,Psychology
+PYCM054,Systemic Clinical Practice: Part 1,15,"1, 2 and 3",Masters Modules,psychology,2019/0,Psychology
+PYCM061,Psychodynamic Clinical Practice II,15,"1, 2 and 3",Masters Modules,psychology,2019/0,Psychology
+PYCM067,Engagement and Assessment of Patients with Common Mental Health Problems,20,1,Masters Modules,psychology,2019/0,Psychology
+PYCM068,Evidence-based Low Intensity Treatments for Common Mental Health Problems,20,1,Masters Modules,psychology,2019/0,Psychology
+PYCM069,"Values, Diversity and Context",20,2,Masters Modules,psychology,2019/0,Psychology
+PYCM070,Fundamentals of Professional Practice and Ethics,20,"1, 2 and 3",Masters Modules,psychology,2019/0,Psychology
+PYCM072,Evidence-based Psychological Interventions in Clinical Psychology Practice,20,"1, 2 and 3",Masters Modules,psychology,2019/0,Psychology
+PYCM074,Clinical Practice,90,"1, 2 and 3",Masters Modules,psychology,2019/0,Psychology
+PYCM079,Children and Young People's Mental Health Settings: Context and Values,20,2 and 3,Masters Modules,psychology,2019/0,Psychology
+PYCM080,Fundamental Skills: Assessment and Engagement,20,2 and 3,Masters Modules,psychology,2019/0,Psychology
+PYCM081,Evidence-based Interventions for Common Mental Health Problems with Children and Young People (Theory and Skills),20,"1, 2 and 3",Masters Modules,psychology,2019/0,Psychology
+PYCM082,"Working, Assessing and Engaging in Education Settings",20,1 and 2,Masters Modules,psychology,2019/0,Psychology
+PYCM083,Common Problems and Processes in Education Settings,20,2 and 3,Masters Modules,psychology,2019/0,Psychology
+PYCM084,Interventions for Emerging Mental Health Difficulties in Education Settings,20,2,Masters Modules,psychology,2019/0,Psychology
+PYCM086,Autism-Learning Disability Core Knowledge and Skills,20,2,Masters Modules,psychology,2019/0,Psychology
+PYCM087,"Assessment, Engagement and Formulation with Young People and Families (Autism and Learning Disabilities)",20,2,Masters Modules,psychology,2019/0,Psychology
+PYCM088,Mental Health Interventions with Young People and Families (Autism and Learning Disabilities),20,2 and 3,Masters Modules,psychology,2019/0,Psychology
+PYCM089,Supervising Evidence-Based Psychological Therapies/Interventions in Child and Adolescent Mental Health,30,1,Masters Modules,psychology,2019/0,Psychology
+PYCM090,Clinical Supervision Practice Placement (Wellbeing Practitioner for Children and Young People),30,2,Masters Modules,psychology,2019/0,Psychology
+PYCM091,Clinical Supervision Practice Placement (Education Mental Health Practitioner),30,2,Masters Modules,psychology,2019/0,Psychology
+PYCM096,Evidence-based Low Intensity Treatments for Common Mental Health Problems,20,1,Masters Modules,psychology,2019/0,Psychology
+CLA1001,Greek History: Problems and Sources,30,1 and 2,Stage One Modules,classics,2019/0,Classics
+CLA1006,Greek and Roman Drama,30,1 and 2,Stage One Modules,classics,2019/0,Classics
+CLA1202,Classical Language and Texts: Greek II,30,1 and 2,Stage One Modules,classics,2019/0,Classics
+CLA1204,Classical Language and Texts: Greek III,30,1 and 2,Stage One Modules,classics,2019/0,Classics
+CLA1252,Classical Language and Texts: Latin II,30,1 and 2,Stage One Modules,classics,2019/0,Classics
+CLA1254,Classical Language and Texts: Latin III,30,1 and 2,Stage One Modules,classics,2019/0,Classics
+CLA1307,Ancient Sources (Written Evidence) Ancient Medicine,15,,Stage One Modules,classics,2019/0,Classics
+CLA1354,Ancient Sources (Material Evidence): Brave New Rome of Augustus,15,,Stage One Modules,classics,2019/0,Classics
+CLA1401,Text and Context: Early Greek Poetry,15,1,Stage One Modules,classics,2019/0,Classics
+CLA1405,Text and Context: Roman Laughter,15,2,Stage One Modules,classics,2019/0,Classics
+CLA1410,Text and Context: Writing Women in Ancient Literature,15,2,Stage One Modules,classics,2019/0,Classics
+CLA1507,Ancient World: Greek Philosophy,15,1,Stage One Modules,classics,2019/0,Classics
+THE1070,Elements of New Testament Greek,15,1,Stage One Modules,classics,2019/0,Classics
+THE1076,Religion in the Modern World,15,2,Stage One Modules,classics,2019/0,Classics
+THE1101,The Bible: Past and Present,15,1,Stage One Modules,classics,2019/0,Classics
+THE1103,Introducing Christian Theologies,15,2,Stage One Modules,classics,2019/0,Classics
+THE1106,Philosophy of Religion and Christian Ethics,15,2,Stage One Modules,classics,2019/0,Classics
+CLA2001,Greek History: Problems and Sources,30,1 and 2,Stage Two Modules,classics,2019/0,Classics
+CLA2006,Greek and Roman Drama,30,1 and 2,Stage Two Modules,classics,2019/0,Classics
+CLA2202,Classical Language and Texts: Greek II,30,1 and 2,Stage Two Modules,classics,2019/0,Classics
+CLA2205,Classical Language and Texts: Greek IV,30,1 and 2,Stage Two Modules,classics,2019/0,Classics
+CLA2252,Classical Language and Texts: Latin II,30,1 and 2,Stage Two Modules,classics,2019/0,Classics
+CLA2254,Classical Language and Texts: Latin IV,30,1 and 2,Stage Two Modules,classics,2019/0,Classics
+CLA2307,Ancient Sources (Written Evidence) Ancient Medicine,15,2,Stage Two Modules,classics,2019/0,Classics
+CLA2354,Ancient Sources (Material Evidence): Brave New Rome of Augustus,15,2,Stage Two Modules,classics,2019/0,Classics
+CLA2401,Text and Context: Early Greek Poetry,15,1,Stage Two Modules,classics,2019/0,Classics
+CLA2405,Text and Context: Roman Laughter,15,1,Stage Two Modules,classics,2019/0,Classics
+CLA2410,Text and Context: Writing Women in Ancient Literature,15,2,Stage Two Modules,classics,2019/0,Classics
+CLA2507,Ancient World: Greek Philosophy,15,2,Stage Two Modules,classics,2019/0,Classics
+THE2024,"Spirituality - Prayer, Meditation and Worship",30,1,Stage Two Modules,classics,2019/0,Classics
+THE2025,Art in Syria and the Holy Land at the Time of the Crusades,30,2,Stage Two Modules,classics,2019/0,Classics
+THE2026,Postcolonial Theology,30,2,Stage Two Modules,classics,2019/0,Classics
+THE2034,Intermediate New Testament Greek,15,2,Stage Two Modules,classics,2019/0,Classics
+THE2152,"Evolution, God and Gaia",30,2,Stage Two Modules,classics,2019/0,Classics
+THE2180,Reading Augustine through the Confessions,30,1,Stage Two Modules,classics,2019/0,Classics
+THE2185,Incarnation: Topics in Philosophical Theology,30,1,Stage Two Modules,classics,2019/0,Classics
+THE2199,Theology and Criminal Justice,30,1,Stage Two Modules,classics,2019/0,Classics
+CLA3007,The Crisis of the Athenian Polis,30,1 and 2,Stage Three Modules,classics,2019/0,Classics
+CLA3008,The Age of Cicero,30,1 and 2,Stage Three Modules,classics,2019/0,Classics
+CLA3009,Dissertation,30,1 and 2,Stage Three Modules,classics,2019/0,Classics
+CLA3020,Sexuality and Gender in the Ancient World,30,1 and 2,Stage Three Modules,classics,2019/0,Classics
+CLA3033,"Magic, Witchcraft and Ghosts in the Greek and Roman Worlds",30,1 and 2,Stage Three Modules,classics,2019/0,Classics
+CLA3045,Thucydides and the Idea of History,30,1 and 2,Stage Three Modules,classics,2019/0,Classics
+CLA3056,Ovid and the Erotic Passions,15,2,Stage Three Modules,classics,2019/0,Classics
+CLA3108,The World of Late Antiquity,30,1 and 2,Stage Three Modules,classics,2019/0,Classics
+CLA3113,Art in Greek Society,15,1,Stage Three Modules,classics,2019/0,Classics
+CLA3114,Art in Roman Society,15,2,Stage Three Modules,classics,2019/0,Classics
+CLA3118,The World(s) of Didactic Poetry,30,1 and 2,Stage Three Modules,classics,2019/0,Classics
+CLA3202,Classical Language and Texts: Greek II,30,1 and 2,Stage Three Modules,classics,2019/0,Classics
+CLA3204,Classical Language and Texts: Greek III,30,1 and 2,Stage Three Modules,classics,2019/0,Classics
+CLA3205,Classical Language and Texts: Greek IV,30,1 and 2,Stage Three Modules,classics,2019/0,Classics
+CLA3206,Classical Language and Texts: Latin IV,30,1 and 2,Stage Three Modules,classics,2019/0,Classics
+CLA3252,Classical Language and Texts: Latin II,30,1 and 2,Stage Three Modules,classics,2019/0,Classics
+CLA3254,Classical Language and Texts: Latin III,30,1 and 2,Stage Three Modules,classics,2019/0,Classics
+CLA3255,Greek Political Thought,15,2,Stage Three Modules,classics,2019/0,Classics
+CLA3257,Living in the Roman World: Society and Culture,30,1 and 2,Stage Three Modules,classics,2019/0,Classics
+CLA3259,The Ancient Greek Novel,15,1,Stage Three Modules,classics,2019/0,Classics
+CLA3263,Being and Not-Being in Greek Philosophy: from Parmenides to Aristotle,15,1,Stage Three Modules,classics,2019/0,Classics
+CLA3267,Dialogues with the Past: Creative Interpretative Project,15,1 and 2,Stage Three Modules,classics,2019/0,Classics
+CLA3274,The Persians in a Near Eastern Context,30,1 and 2,Stage Three Modules,classics,2019/0,Classics
+CLA3275,Women Writing Classics,15,,Stage Three Modules,classics,2019/0,Classics
+THE3024,"Spirituality - Prayer, Meditation and Worship",30,1,Stage Three Modules,classics,2019/0,Classics
+THE3025,Art in Syria and the Holy Land at the Time of the Crusades,30,2,Stage Three Modules,classics,2019/0,Classics
+THE3026,Postcolonial Theology,30,2,Stage Three Modules,classics,2019/0,Classics
+THE3082,Theology Dissertation,30,1 and 2,Stage Three Modules,classics,2019/0,Classics
+THE3152,"Evolution, God and Gaia",30,2,Stage Three Modules,classics,2019/0,Classics
+THE3180,Reading Augustine through the Confessions,30,1,Stage Three Modules,classics,2019/0,Classics
+THE3185,Incarnation: Topics in Philosophical Theology,30,1,Stage Three Modules,classics,2019/0,Classics
+THE3199,Theology and Criminal Justice,30,1,Stage Three Modules,classics,2019/0,Classics
+CLAM043,Dissertation in Classics and Ancient History,60,1 and 2,Masters Modules,classics,2019/0,Classics
+CLAM046,The City of Rome,30,2 and 3,Masters Modules,classics,2019/0,Classics
+CLAM077,Ancient Texts and their Interpretation,15,1,Masters Modules,classics,2019/0,Classics
+CLAM078,Classical Reception: An Introduction,15,2,Masters Modules,classics,2019/0,Classics
+CLAM079,Cultures of the Body in the Roman Empire,15,2,Masters Modules,classics,2019/0,Classics
+CLAM081,Galen and Galenism,15,1,Masters Modules,classics,2019/0,Classics
+CLAM084,Politics Ancient and Modern,15,1,Masters Modules,classics,2019/0,Classics
+CLAM100,History through Art and Archaeology,15,1,Masters Modules,classics,2019/0,Classics
+CLAM101,"The Western Dragon in Lore, Literature and Art",15,1,Masters Modules,classics,2019/0,Classics
+CLAM104,Cultural Transformations in Late Antiquity,15,1,Masters Modules,classics,2019/0,Classics
+CLAM106,Ancient Philosophy,15,2,Masters Modules,classics,2019/0,Classics
+CLAM107,Roman Myth,15,1,Masters Modules,classics,2019/0,Classics
+CLAM108,"Rome: Globalisation, Materiality",15,2,Masters Modules,classics,2019/0,Classics
+CLAM111,Ancient Drama in its Social and Cultural Context,15,1,Masters Modules,classics,2019/0,Classics
+CLAM204,Greek III,30,1 and 2,Masters Modules,classics,2019/0,Classics
+CLAM205,Greek IV,30,1 and 2,Masters Modules,classics,2019/0,Classics
+CLAM252,Classical Language and Texts: Latin II,30,1 and 2,Masters Modules,classics,2019/0,Classics
+CLAM254,Latin III,30,1 and 2,Masters Modules,classics,2019/0,Classics
+CLAM255,Latin IV,30,1 and 2,Masters Modules,classics,2019/0,Classics
+THEM020,Dissertation,60,2,Masters Modules,classics,2019/0,Classics
+THEM122,Approaches to Biblical Studies,30,1,Masters Modules,classics,2019/0,Classics
+THEM123,Reception of Christian and Jewish Traditions,30,2,Masters Modules,classics,2019/0,Classics
+THEM124,Elements of New Testament Greek,15,1,Masters Modules,classics,2019/0,Classics
+THEM126,Intermediate New Testament Greek,15,2,Masters Modules,classics,2019/0,Classics
+THEM128,"Theology, Ethics and Public Issues",30,2,Masters Modules,classics,2019/0,Classics
+BIO1331,Animals,15,1,Stage One Modules,biosciences,2019/0,Biosciences
+BIO1332,Biochemistry,15,1,Stage One Modules,biosciences,2019/0,Biosciences
+BIO1333,Fundamental Principles for Bioscientists,15,1,Stage One Modules,biosciences,2019/0,Biosciences
+BIO1334,Genetics,15,1,Stage One Modules,biosciences,2019/0,Biosciences
+BIO1336,Ecology,15,2,Stage One Modules,biosciences,2019/0,Biosciences
+BIO1337,Microbiology,15,2,Stage One Modules,biosciences,2019/0,Biosciences
+BIO1338,Plants,15,2,Stage One Modules,biosciences,2019/0,Biosciences
+BIO1339,Cells,15,2,Stage One Modules,biosciences,2019/0,Biosciences
+BIO1345,Structure and Reactivity of Organic Compounds I,15,2,Stage One Modules,biosciences,2019/0,Biosciences
+BIO2001,Preparing for Professional Placements,,1 and 2,Stage Two Modules,biosciences,2019/0,Biosciences
+BIO2066,Forensic Science,15,2,Stage Two Modules,biosciences,2019/0,Biosciences
+BIO2068,Forensic Science,30,1 and 2,Stage Two Modules,biosciences,2019/0,Biosciences
+BIO2071,Research Skills and Bioethics,15,1,Stage Two Modules,biosciences,2019/0,Biosciences
+BIO2074,Marine Biology,15,2,Stage Two Modules,biosciences,2019/0,Biosciences
+BIO2076,Ecology and Environment,15,1,Stage Two Modules,biosciences,2019/0,Biosciences
+BIO2081,Coral Reef Field Course,15,"1, 2 and 3",Stage Two Modules,biosciences,2019/0,Biosciences
+BIO2082,Animal Ecophysiology,15,1,Stage Two Modules,biosciences,2019/0,Biosciences
+BIO2085,Structure and Reactivity of Organic Compounds II,15,1,Stage Two Modules,biosciences,2019/0,Biosciences
+BIO2086,Metabolism,15,2,Stage Two Modules,biosciences,2019/0,Biosciences
+BIO2088,Advanced Cell Biology,15,1,Stage Two Modules,biosciences,2019/0,Biosciences
+BIO2089,Molecular Biology of the Gene,15,1,Stage Two Modules,biosciences,2019/0,Biosciences
+BIO2090,Analytical Techniques in Biochemistry,15,1,Stage Two Modules,biosciences,2019/0,Biosciences
+BIO2091,Bioinorganic Chemistry,15,2,Stage Two Modules,biosciences,2019/0,Biosciences
+BIO2092,Genomics and Introductory Bioinformatics,15,2,Stage Two Modules,biosciences,2019/0,Biosciences
+BIO2093,Modern Theories of Evolution,15,2,Stage Two Modules,biosciences,2019/0,Biosciences
+BIO2096,Practical Skills in Field Ecology,15,3,Stage Two Modules,biosciences,2019/0,Biosciences
+BIO2099,Molecular Plant Science,15,2,Stage Two Modules,biosciences,2019/0,Biosciences
+BIO3037,Ecology of Environmental Change,15,2,Stage Three Modules,biosciences,2019/0,Biosciences
+BIO3041,Pharmacology and Medicinal Chemistry,15,2,Stage Three Modules,biosciences,2019/0,Biosciences
+BIO3062,One Year Study Abroad,120,1,Stage Three Modules,biosciences,2019/0,Biosciences
+BIO3067,Ecotoxicology,15,2,Stage Three Modules,biosciences,2019/0,Biosciences
+BIO3073,Specialist Topics in Chemical Sciences,15,2,Stage Three Modules,biosciences,2019/0,Biosciences
+BIO3077,Frontiers in Molecular Cell Biology,15,2,Stage Three Modules,biosciences,2019/0,Biosciences
+BIO3078,Cellular Basis of Immunity,15,1,Stage Three Modules,biosciences,2019/0,Biosciences
+BIO3083,Current Issues in Marine Biology,15,1,Stage Three Modules,biosciences,2019/0,Biosciences
+BIO3085,Horizons of Biochemical Research,15,1,Stage Three Modules,biosciences,2019/0,Biosciences
+BIO3086,Cell Biology of Disease,15,1,Stage Three Modules,biosciences,2019/0,Biosciences
+BIO3089,Organic Synthesis and Drug Design,15,1,Stage Three Modules,biosciences,2019/0,Biosciences
+BIO3090,Secondary Metabolites,15,2,Stage Three Modules,biosciences,2019/0,Biosciences
+BIO3091,Animal Developmental Biology,15,1,Stage Three Modules,biosciences,2019/0,Biosciences
+BIO3092,Bioinformatics,15,2,Stage Three Modules,biosciences,2019/0,Biosciences
+BIO3093,Energy Metabolism,15,2,Stage Three Modules,biosciences,2019/0,Biosciences
+BIO3096,Biosciences Research Project,45,"1, 2 and 3",Stage Three Modules,biosciences,2019/0,Biosciences
+BIO3097,Living in a Microbial World,15,2,Stage Three Modules,biosciences,2019/0,Biosciences
+BIO3128,The Behavioural Ecology of Information Use,15,1,Stage Three Modules,biosciences,2019/0,Biosciences
+BIO3131,Trends in Ecology and Evolution,15,2,Stage Three Modules,biosciences,2019/0,Biosciences
+BIO3132,Reproductive Biology,15,2,Stage Three Modules,biosciences,2019/0,Biosciences
+BIO3137,One Year Study Abroad,120,"1, 2 and 3",Stage Three Modules,biosciences,2019/0,Biosciences
+BIO3910,Professional Development Experience,5,3,Stage Three Modules,biosciences,2019/0,Biosciences
+BIO3911,Professional Development Experience,10,3,Stage Three Modules,biosciences,2019/0,Biosciences
+BIO3912,Professional Development Experience,15,3,Stage Three Modules,biosciences,2019/0,Biosciences
+BIOM052,Academic Research Project,60,"1, 2 and 3",Masters Modules,biosciences,2019/0,Biosciences
+BIOM509,Professional Skills,15,1 and 2,Masters Modules,biosciences,2019/0,Biosciences
+BIOM514,Secondary Metabolites,15,2,Masters Modules,biosciences,2019/0,Biosciences
+BIOM515,Cellular Basis of Immunity,15,1,Masters Modules,biosciences,2019/0,Biosciences
+BIOM516,Bioinformatics,15,2,Masters Modules,biosciences,2019/0,Biosciences
+BIOM517,Energy Metabolism,15,2,Masters Modules,biosciences,2019/0,Biosciences
+BIOM518,Research Project,75,"1, 2 and 3",Masters Modules,biosciences,2019/0,Biosciences
+BIOM527,Research Grant Proposal,15,1,Masters Modules,biosciences,2019/0,Biosciences
+BIOM560,Research Project,90,2 and 3,Masters Modules,biosciences,2019/0,Biosciences
+BIOM567,Application of Genomics in Infectious Disease,15,3,Masters Modules,biosciences,2019/0,Biosciences
+BIOM568,Blue Planet,15,1,Masters Modules,biosciences,2019/0,Biosciences
+JBIM001,Dissertation/Research Project,60,,Masters Modules,biosciences,2019/0,Biosciences
+JBIM002,Fieldwork Statistics and Experimental Design,15,1,Masters Modules,biosciences,2019/0,Biosciences
+JBIM003,Island Biogeography,15,1,Masters Modules,biosciences,2019/0,Biosciences
+JBIM004,Island Ecology,15,1,Masters Modules,biosciences,2019/0,Biosciences
+JBIM005,Biodiversity and Evolution on Islands,15,1,Masters Modules,biosciences,2019/0,Biosciences
+JBIM006,Invasion and Extinction on Islands,15,3,Masters Modules,biosciences,2019/0,Biosciences
+JBIM007,Global Conservation Strategies and Legislation,15,2,Masters Modules,biosciences,2019/0,Biosciences
+JBIM008,Islands and Climate Change,15,2,Masters Modules,biosciences,2019/0,Biosciences
+JBIM009,Island Conservation in Action,15,2,Masters Modules,biosciences,2019/0,Biosciences
+MTH1000,Foundations,0,1,,mathematics,2019/0,Mathematics
+MTH1001,Mathematical Structures,30,1 and 2,,mathematics,2019/0,Mathematics
+MTH1002,Mathematical Methods,30,1 and 2,,mathematics,2019/0,Mathematics
+MTH1003,Mathematical Modelling,30,1 and 2,,mathematics,2019/0,Mathematics
+MTH1004,"Probability, Statistics and Data",30,1 and 2,,mathematics,2019/0,Mathematics
+MTH1100,Employability and Preparation for Placement or Internship,0,1 and 2,,mathematics,2019/0,Mathematics
+MTH2001,Analysis,30,1 and 2,,mathematics,2019/0,Mathematics
+MTH2002,Algebra,30,1 and 2,,mathematics,2019/0,Mathematics
+MTH2003,Differential Equations,15,1,,mathematics,2019/0,Mathematics
+MTH2004,Vector Calculus and Applications,15,2,,mathematics,2019/0,Mathematics
+MTH2005,Modelling: Theory and Practice,30,1 and 2,,mathematics,2019/0,Mathematics
+MTH2006,Statistical Modelling and Inference,30,1 and 2,,mathematics,2019/0,Mathematics
+MTH2007,Independent Study for Exchange Students,15,1 and 2,,mathematics,2019/0,Mathematics
+MTH2100,Employability and Career Resources,0,1 and 2,,mathematics,2019/0,Mathematics
+MTH3001,Theory of Weather and Climate,15,2,,mathematics,2019/0,Mathematics
+MTH3004,Number Theory,15,1,,mathematics,2019/0,Mathematics
+MTH3006,Mathematical Biology and Ecology,15,1,,mathematics,2019/0,Mathematics
+MTH3007,Fluid Dynamics,15,1,,mathematics,2019/0,Mathematics
+MTH3008,Partial Differential Equations,15,2,,mathematics,2019/0,Mathematics
+MTH3011,Nonlinear Systems and Control,15,2,,mathematics,2019/0,Mathematics
+MTH3012,Advanced Statistical Modelling,15,2,,mathematics,2019/0,Mathematics
+MTH3019,Mathematics: History and Culture,15,1,,mathematics,2019/0,Mathematics
+MTH3021,Combinatorics,15,2,,mathematics,2019/0,Mathematics
+MTH3022,"Graphs, Networks and Algorithms",15,2,,mathematics,2019/0,Mathematics
+MTH3024,Stochastic Processes,15,2,,mathematics,2019/0,Mathematics
+MTH3025,Semester of Mathematical Studies Abroad,60,1,,mathematics,2019/0,Mathematics
+MTH3026,Cryptography,15,2,,mathematics,2019/0,Mathematics
+MTH3027,Special Topics in Statistics,15,,,mathematics,2019/0,Mathematics
+MTH3028,Statistical Inference: Theory and Practice,15,2,,mathematics,2019/0,Mathematics
+MTH3030,Mathematics of Climate Change,15,1,,mathematics,2019/0,Mathematics
+MTH3032,Applications of Geometry and Topology,15,2,,mathematics,2019/0,Mathematics
+MTH3035,Mathematics Group Project,15,1,,mathematics,2019/0,Mathematics
+MTH3037,Mathematical Sciences Project,15,,,mathematics,2019/0,Mathematics
+MTH3038,Galois Theory,15,1,,mathematics,2019/0,Mathematics
+MTH3039,Computational Nonlinear Dynamics,15,1,,mathematics,2019/0,Mathematics
+MTH3040,Topology and Metric Spaces,15,2,,mathematics,2019/0,Mathematics
+MTH3041,"Bayesian statistics, Philosophy and Practice",15,1,,mathematics,2019/0,Mathematics
+MTH3042,Integral Equations,15,2,,mathematics,2019/0,Mathematics
+MTH3100,Industrial Placement,120,"1, 2 and 3",,mathematics,2019/0,Mathematics
+MTHM001,Functional Analysis,15,1,,mathematics,2019/0,Mathematics
+MTHM002,Methods for Stochastics and Finance,15,1,,mathematics,2019/0,Mathematics
+MTHM003,Analysis and Computation for Finance,15,1,,mathematics,2019/0,Mathematics
+MTHM004,Fractal Geometry,15,2,,mathematics,2019/0,Mathematics
+MTHM007,Engaging with Research,15,1 and 2,,mathematics,2019/0,Mathematics
+MTHM008,Computational Modelling,15,1,,mathematics,2019/0,Mathematics
+MTHM010,Representation Theory of Finite Groups,15,1,,mathematics,2019/0,Mathematics
+MTHM017,Advanced Topics in Statistics,15,1,,mathematics,2019/0,Mathematics
+MTHM025,The Climate System,15,1,,mathematics,2019/0,Mathematics
+MTHM028,Algebraic Number Theory,15,2,,mathematics,2019/0,Mathematics
+MTHM029,Algebraic Curves,15,1,,mathematics,2019/0,Mathematics
+MTHM036,Research in Mathematical Sciences,15,1,,mathematics,2019/0,Mathematics
+MTHM040,MSci Project,45,1 and 2,,mathematics,2019/0,Mathematics
+MTHM044,MMATH Project in Statistics,45,1 and 2,,mathematics,2019/0,Mathematics
+MTHM045,Space Weather and Plasmas,15,2,,mathematics,2019/0,Mathematics
+MTHM501,Working with Data,15,1,,mathematics,2019/0,Mathematics
+MTHM502,Introduction to Data Science and Statistical Modelling,15,1,,mathematics,2019/0,Mathematics
+MTHM503,Applications of Data Science and Statistics,15,1,,mathematics,2019/0,Mathematics
+MTHM504,Applied Data Science and Statistics Project,60,"1, 2 and 3",,mathematics,2019/0,Mathematics
+EMP3001,Commercial and Industrial Experience,15,1,,mathematics,2019/0,Mathematics
+EMP3003,Professional Experience,45,1 and 2,,mathematics,2019/0,Mathematics
+HIH1002,"Losing an Empire, Finding a Role: Britain Since 1945",15,1,Stage One Modules,history,2019/0,History
+HIH1014,The Body in Eighteenth-Century Britain,15,2,Stage One Modules,history,2019/0,History
+HIH1043,The Collapse of Communism in Central-Eastern Europe and the Soviet Union,15,2,Stage One Modules,history,2019/0,History
+HIH1051,"Everyday Life in the Anglophone Caribbean, c.1900-1966",15,1,Stage One Modules,history,2019/0,History
+HIH1053,Gender and Sexuality in the Middle Ages,15,1,Stage One Modules,history,2019/0,History
+HIH1056,"Religious Life in Tudor and Stuart England, c.1560-1700",15,1,Stage One Modules,history,2019/0,History
+HIH1057,The Opium War: the British Empire encounters the Middle Kingdom,15,1,Stage One Modules,history,2019/0,History
+HIH1058,Global Health: Historical Sources and Problems,15,2,Stage One Modules,history,2019/0,History
+HIH1402,"Britain, America and the Global Order, 1846-1946",15,2,Stage One Modules,history,2019/0,History
+HIH1411,From Wigan Pier to Piccadilly: Britain between the Wars,15,1,Stage One Modules,history,2019/0,History
+HIH1505,The First Crusade,15,2,Stage One Modules,history,2019/0,History
+HIH1506,The First Day of the Somme,15,2,Stage One Modules,history,2019/0,History
+HIH1547,"Reforging the Union: The Reconstruction Era in American History, 1865-1877",15,2,Stage One Modules,history,2019/0,History
+HIH1596,The Good War? The United States in World War II,15,2,Stage One Modules,history,2019/0,History
+HIH1600,Images of Stalinism,15,2,Stage One Modules,history,2019/0,History
+HIH1612,Renaissance Florence 1350-1550,15,2,Stage One Modules,history,2019/0,History
+HIH2002,Uses of the Past,30,1,Stage Two Modules,history,2019/0,History
+HIH2014A,"Decolonisation and the Collapse of the British Empire, 1919-1968",30,2,Stage Two Modules,history,2019/0,History
+HIH2019A,"Science, Technology and Medicine in the Cold War",30,1,Stage Two Modules,history,2019/0,History
+HIH2030A,"Peoples and Empires in Latin America, 1492-1820s",30,2,Stage Two Modules,history,2019/0,History
+HIH2032A,Europe 1650-1800: From Enlightenment to Romanticism,30,1,Stage Two Modules,history,2019/0,History
+HIH2036A,"Albion's Fatal Tree: Capital Punishment in England, 1688-1965",30,2,Stage Two Modules,history,2019/0,History
+HIH2037,American Frontiers: The West in U.S. History and Mythology,30,2,Stage Two Modules,history,2019/0,History
+HIH2185A,"China in the World, 1500-1840",30,2,Stage Two Modules,history,2019/0,History
+HIH2208A,Medieval Paris,30,2,Stage Two Modules,history,2019/0,History
+HIH2209A,African American History,30,1,Stage Two Modules,history,2019/0,History
+HIH2218A,"Religion, Society and Culture in Tudor England",30,1,Stage Two Modules,history,2019/0,History
+HIH2224A,African Modernities: Popular Cultures in Twentieth Century Africa,30,1,Stage Two Modules,history,2019/0,History
+HIH3005,General Third-Year Dissertation,30,1 and 2,Stage Three Modules,history,2019/0,History
+HIH3023,"Riches and Poverty: Capitalism in Britain, 1680-1830 - Sources",30,1 and 2,Stage Three Modules,history,2019/0,History
+HIH3024,"Riches and Poverty: Capitalism in Britain, 1680-1830 - Context",30,1 and 2,Stage Three Modules,history,2019/0,History
+HIH3056,"Them and Us: Imagining the Social ""Other"" in Britain since the 1880s: Sources",30,1 and 2,Stage Three Modules,history,2019/0,History
+HIH3057,"Them and Us: Imagining the Social ""Other"" in Britain since the 1880s: Context",30,1 and 2,Stage Three Modules,history,2019/0,History
+HIH3117,The Age of AEthelred 'the Unready': Sources,30,1 and 2,Stage Three Modules,history,2019/0,History
+HIH3118,The Age of AEthelred 'the Unready': Context,30,1 and 2,Stage Three Modules,history,2019/0,History
+HIH3132,The Body in Early Modern England: Sources,30,1 and 2,Stage Three Modules,history,2019/0,History
+HIH3133,The Body in Early Modern England: Context,30,1 and 2,Stage Three Modules,history,2019/0,History
+HIH3157,"The Irish Revolution, 1912-23: Sources",30,1 and 2,Stage Three Modules,history,2019/0,History
+HIH3158,"The Irish Revolution, 1912-23: Context",30,1 and 2,Stage Three Modules,history,2019/0,History
+HIH3180,The Spanish Civil War: Sources,30,1 and 2,Stage Three Modules,history,2019/0,History
+HIH3181,The Spanish Civil War: Context,30,1 and 2,Stage Three Modules,history,2019/0,History
+HIH3182,Critics of Empire: Sources,30,1 and 2,Stage Three Modules,history,2019/0,History
+HIH3183,Critics of Empire: Context,30,1 and 2,Stage Three Modules,history,2019/0,History
+HIH3187,"Everyday Stalinism: Life in the Soviet Union, 1928-53: Sources",30,1 and 2,Stage Three Modules,history,2019/0,History
+HIH3188,"Everyday Stalinism: Life in the Soviet Union, 1928-53: Context",30,1 and 2,Stage Three Modules,history,2019/0,History
+HIH3216,"The Yes, Minister Files: Perspectives on British Government since 1914: Sources",30,1 and 2,Stage Three Modules,history,2019/0,History
+HIH3217,"The Yes, Minister Files: Perspectives on British Government since 1914: Context",30,1 and 2,Stage Three Modules,history,2019/0,History
+HIH3296,Street Protest and Social Movements in the Modern Era: Sources,30,1 and 2,Stage Three Modules,history,2019/0,History
+HIH3297,Street Protest and Social Movements in the Modern Era: Context,30,1 and 2,Stage Three Modules,history,2019/0,History
+HIH3617,"News, Media and Communication",30,1 and 2,Stage Three Modules,history,2019/0,History
+HIH3626,"Heroes: Conceptions, Constructions and Representations",30,1 and 2,Stage Three Modules,history,2019/0,History
+HIH3628,Civil Wars,30,1 and 2,Stage Three Modules,history,2019/0,History
+HISM001,Critical Approaches to Early Modern History,30,1,Masters Modules,history,2019/0,History
+HISM002,Critical Approaches to Maritime and Naval History,30,1,Masters Modules,history,2019/0,History
+HISM003,Critical Approaches to Imperial and Global History,30,1,Masters Modules,history,2019/0,History
+HISM036,"Gender, Society and Culture in Early Modern Europe",30,2,Masters Modules,history,2019/0,History
+HISM039,History in Public: A Workplace Project,30,"1, 2 and 3",Masters Modules,history,2019/0,History
+HISM040,Introduction to Digital Humanities,30,2,Masters Modules,history,2019/0,History
+HISM041,Food and Agriculture in Historical Perspective,30,1,Masters Modules,history,2019/0,History
+HISM042,Working with Medieval Manuscripts and Documents,30,2,Masters Modules,history,2019/0,History
+HISM043,Critical Approaches to the History of Violence and Conflict,30,1,Masters Modules,history,2019/0,History
+HISM180,Dissertation in Medieval Studies,60,2 and 3,Masters Modules,history,2019/0,History
+HISM185,Supervised Independent Study in the Humanities,15,1 and 2,Masters Modules,history,2019/0,History
+HISM186,Supervised Independent Study in the Humanities,30,1 and 2,Masters Modules,history,2019/0,History
+HISM400,Dissertation in History,60,2 and 3,Masters Modules,history,2019/0,History
+HISM403,Dissertation in History,90,2 and 3,Masters Modules,history,2019/0,History
+POL1017,Globalisation of World Politics,15,2,Stage One Modules,politics,2019/0,Politics
+POL1018,The Challenges of World Politics in the Twenty-First Century,15,1,Stage One Modules,politics,2019/0,Politics
+POL1019,Power and Democracy,15,1,Stage One Modules,politics,2019/0,Politics
+POL1020,Politics in Europe,15,1,Stage One Modules,politics,2019/0,Politics
+POL1025,Classical Political Thought,15,1,Stage One Modules,politics,2019/0,Politics
+POL1026,Early Modern Political Thought,15,2,Stage One Modules,politics,2019/0,Politics
+POL1028,Introduction to Strategic Studies,15,2,Stage One Modules,politics,2019/0,Politics
+POL1029,Introduction to Comparative Politics,15,1,Stage One Modules,politics,2019/0,Politics
+POL1044,Introduction to Public Policy,15,2,Stage One Modules,politics,2019/0,Politics
+POL2020,Contemporary Theories of World Politics,15,1,Stage Two Modules,politics,2019/0,Politics
+POL2025,Health Policy in Comparative Perspective,15,2,Stage Two Modules,politics,2019/0,Politics
+POL2026,"Political Analysis: Behaviour, Institutions, Ideas",15,2,Stage Two Modules,politics,2019/0,Politics
+POL2027,The Politics of the World Economy,15,2,Stage Two Modules,politics,2019/0,Politics
+POL2046,The Economics of Politics,15,1,Stage Two Modules,politics,2019/0,Politics
+POL2047,American Politics,15,1,Stage Two Modules,politics,2019/0,Politics
+POL2050,Political Philosophy,15,2,Stage Two Modules,politics,2019/0,Politics
+POL2057,Security Studies,15,2,Stage Two Modules,politics,2019/0,Politics
+POL2059,Political Thought of Modernity,15,1,Stage Two Modules,politics,2019/0,Politics
+POL2079,Contemporary Public Debate in an Age of 'Anti-Politics',15,1,Stage Two Modules,politics,2019/0,Politics
+POL2081,Thinking about Race: Perspectives from the Biological and Social Sciences,15,2,Stage Two Modules,politics,2019/0,Politics
+POL2082,Changing Character of Warfare,15,2,Stage Two Modules,politics,2019/0,Politics
+POL2098,What is Law? Jurisprudence from Stone Tablet to Brain Imaging,15,1,Stage Two Modules,politics,2019/0,Politics
+POL2102,Explaining Public Policies,15,1,Stage Two Modules,politics,2019/0,Politics
+POL2104,Party Politics and Democracy,15,1,Stage Two Modules,politics,2019/0,Politics
+POL2106,America in the World,15,1,Stage Two Modules,politics,2019/0,Politics
+POL2107,Gender and Comparative Public Policy,15,1,Stage Two Modules,politics,2019/0,Politics
+POL2112,Politics and Its Discontents,15,2,Stage Two Modules,politics,2019/0,Politics
+POL2113,Parliamentary Studies,15,2,Stage Two Modules,politics,2019/0,Politics
+POL3000,Deadly Words: The Language of Political Violence,15,2,Stage Three Modules,politics,2019/0,Politics
+POL3040,Dissertation,30,1 and 2,Stage Three Modules,politics,2019/0,Politics
+POL3051,The Media in Europe,30,1 and 2,Stage Three Modules,politics,2019/0,Politics
+POL3069,Globalisation and the Politics of Resistance,30,1 and 2,Stage Three Modules,politics,2019/0,Politics
+POL3120,War and Public Opinion,30,1 and 2,Stage Three Modules,politics,2019/0,Politics
+POL3132,Globalisation and Democratic Politics: the End of the Nation State?,30,1 and 2,Stage Three Modules,politics,2019/0,Politics
+POL3136,Political Psychology,30,1 and 2,Stage Three Modules,politics,2019/0,Politics
+POL3174,International Security and US Foreign Policy,30,1 and 2,Stage Three Modules,politics,2019/0,Politics
+POL3180,"Latin American Parties, Politics and Elections",30,1 and 2,Stage Three Modules,politics,2019/0,Politics
+POL3194,Rethinking the Politics of Communities,30,1 and 2,Stage Three Modules,politics,2019/0,Politics
+POL3196,Democracy in the European Union,30,1 and 2,Stage Three Modules,politics,2019/0,Politics
+POL3206,The Political Economy of the State,30,1 and 2,Stage Three Modules,politics,2019/0,Politics
+POL3217,Feminist Political Theory,30,1 and 2,Stage Three Modules,politics,2019/0,Politics
+POL3226,"Money, Lobbying and Policymaking",30,1 and 2,Stage Three Modules,politics,2019/0,Politics
+POL3227,"Politics, Elections and the State in Africa",30,1 and 2,Stage Three Modules,politics,2019/0,Politics
+POL3231,Research Experience,15,1,Stage Three Modules,politics,2019/0,Politics
+POL3234,"Religion, Politics and Policy in Europe",30,1 and 2,Stage Three Modules,politics,2019/0,Politics
+POL3240,"Women in the Criminal Justice System: Law, Policy and Institutions",15,2,Stage Three Modules,politics,2019/0,Politics
+POL3242,Political Representation UK-Style,30,1 and 2,Stage Three Modules,politics,2019/0,Politics
+POL3247,Politics of Biology,15,2,Stage Three Modules,politics,2019/0,Politics
+POL3248,Marxism(s) and International Relations,15,1,Stage Three Modules,politics,2019/0,Politics
+POL3250,Environmental Policy in Times of Crisis,15,1,Stage Three Modules,politics,2019/0,Politics
+POLM013M,MPA Dissertation,60,3,Masters Modules,politics,2019/0,Politics
+POLM014M,MPA Applied Studies,60,3,Masters Modules,politics,2019/0,Politics
+POLM030,Mathematics and Programming Skills for Policy Analytics,15,1,Masters Modules,politics,2019/0,Politics
+POLM057,Understanding and Interpretation in Political Thought,30,1,Masters Modules,politics,2019/0,Politics
+POLM063,Qualitative Methods in Social Research,15,2,Masters Modules,politics,2019/0,Politics
+POLM082,International Relations of the Middle East,30,1,Masters Modules,politics,2019/0,Politics
+POLM084,"Conflict, Security and Development in World Politics",30,1,Masters Modules,politics,2019/0,Politics
+POLM085,"Work Placement in Conflict, Security and Development",30,2,Masters Modules,politics,2019/0,Politics
+POLM088,State-building after Civil War,30,2,Masters Modules,politics,2019/0,Politics
+POLM140,Qualitative Methods in Social Research,30,2,Masters Modules,politics,2019/0,Politics
+POLM144,"The West, Civilisations and World Order",30,2,Masters Modules,politics,2019/0,Politics
+POLM148,"Brexit: Causes, Interpretation and Implications",30,2,Masters Modules,politics,2019/0,Politics
+POLM152,Post-Conflict Human Rights and Transitional Justice,30,1,Masters Modules,politics,2019/0,Politics
+POLM156,The Transformation of Politics in the Global Age,30,1,Masters Modules,politics,2019/0,Politics
+POLM158,Digital Politics and Policy,30,2,Masters Modules,politics,2019/0,Politics
+POLM167,Global Governance: Institutions and Challenges,30,1,Masters Modules,politics,2019/0,Politics
+POLM168,"From Oppression to Resistance: Exploring the Intersections of Race, Class and Gender",30,2,Masters Modules,politics,2019/0,Politics
+POLM502,International Relations: Power and Institutions,30,1,Masters Modules,politics,2019/0,Politics
+POLM503,Foreign Policy Decision-Making,30,1,Masters Modules,politics,2019/0,Politics
+POLM651,State and Society in the Middle East,30,2,Masters Modules,politics,2019/0,Politics
+POLM803,Sources in Modernity and Post-Modernity,30,1,Masters Modules,politics,2019/0,Politics
+POLM806,Problems and Texts in Social and Political Thought,15,2,Masters Modules,politics,2019/0,Politics
+POLM809,Applied Quantitative Data Analysis,15,1,Masters Modules,politics,2019/0,Politics
+POLM876,Dissertation Skills,15,1 and 2,Masters Modules,politics,2019/0,Politics
+LAW1003,Criminal Law,30,1 and 2,Stage One Modules,law,2019/0,Law
+LAW1004,The Law of Contract,30,1 and 2,Stage One Modules,law,2019/0,Law
+LAW1013,French Constitutional Law,30,1 and 2,Stage One Modules,law,2019/0,Law
+LAW1035,Constitutional and Administrative Law,30,1 and 2,Stage One Modules,law,2019/0,Law
+LAW1036,Legal Foundations,30,1 and 2,Stage One Modules,law,2019/0,Law
+LAW2004B,Contract Law,30,1 and 2,Stage Two Modules,law,2019/0,Law
+LAW2015,The Law of Torts,30,1 and 2,Stage Two Modules,law,2019/0,Law
+LAW2015B,The Law of Torts,30,1 and 2,Stage Two Modules,law,2019/0,Law
+LAW2017,Land Law,30,1 and 2,Stage Two Modules,law,2019/0,Law
+LAW2017B,Land Law,30,1 and 2,Stage Two Modules,law,2019/0,Law
+LAW2017H,Land Law,15,1,Stage Two Modules,law,2019/0,Law
+LAW2033,French Administrative Law,30,1 and 2,Stage Two Modules,law,2019/0,Law
+LAW2035B,Constitutional and Administrative Law,30,1 and 2,Stage Two Modules,law,2019/0,Law
+LAW2041,Equity and Trusts,30,1 and 2,Stage Two Modules,law,2019/0,Law
+LAW2095,Equality and Diversity,15,2,Stage Two Modules,law,2019/0,Law
+LAW2103,European Union Law,15,1,Stage Two Modules,law,2019/0,Law
+LAW2109,Competition Law,15,2,Stage Two Modules,law,2019/0,Law
+LAW3000,Year Abroad,120,1 and 2,Stage Three Modules,law,2019/0,Law
+LAW3003,Criminal Law,30,1 and 2,Stage Three Modules,law,2019/0,Law
+LAW3003B,Criminal Law,30,1 and 2,Stage Three Modules,law,2019/0,Law
+LAW3011,"Gender, Sexuality and Law",15,1,Stage Three Modules,law,2019/0,Law
+LAW3019,Commercial Law,30,1 and 2,Stage Three Modules,law,2019/0,Law
+LAW3020,Family Law,30,1 and 2,Stage Three Modules,law,2019/0,Law
+LAW3024,Public International Law,30,1 and 2,Stage Three Modules,law,2019/0,Law
+LAW3026,Employment Law,30,1 and 2,Stage Three Modules,law,2019/0,Law
+LAW3041B,Trusts,30,1 and 2,Stage Three Modules,law,2019/0,Law
+LAW3047,Dissertation,30,1 and 2,Stage Three Modules,law,2019/0,Law
+LAW3051,French Law of Contract,30,1 and 2,Stage Three Modules,law,2019/0,Law
+LAW3083,Company Law Foundation,15,1,Stage Three Modules,law,2019/0,Law
+LAW3132,Islamic Law and Society,15,1,Stage Three Modules,law,2019/0,Law
+LAW3146,"International Law, Conflict and Strategy",30,1 and 2,Stage Three Modules,law,2019/0,Law
+LAW3151A,Research Paper,15,1,Stage Three Modules,law,2019/0,Law
+LAW3151B,Research Paper,15,2,Stage Three Modules,law,2019/0,Law
+LAW3155,"Law, Politics and Power",30,1 and 2,Stage Three Modules,law,2019/0,Law
+LAW3157B,European Union Law,15,1,Stage Three Modules,law,2019/0,Law
+LAW3167,Access to Justice Clinic,30,1 and 2,Stage Three Modules,law,2019/0,Law
+LAW3170,Medical Ethics and Law,30,1 and 2,Stage Three Modules,law,2019/0,Law
+LAW3173,Technology and Human Rights Law,15,2,Stage Three Modules,law,2019/0,Law
+LAW3175,Medical Ethics and Law Foundations,15,1,Stage Three Modules,law,2019/0,Law
+LAW3184,International Commercial Litigation,15,1,Stage Three Modules,law,2019/0,Law
+LAW3700,Law with Legal Placement: Placement Module,120,1 and 2,Stage Three Modules,law,2019/0,Law
+LAW3701,Law Placement,120,"1, 2 and 3",Stage Three Modules,law,2019/0,Law
+LAWM640,Dissertation,60,1 and 2,Masters Modules,law,2019/0,Law
+LAWM683,International Criminal Law,30,2,Masters Modules,law,2019/0,Law
+LAWM686,Approaches to Research in Law (ESRC),15,1,Masters Modules,law,2019/0,Law
+EAS1032,Approaches to Criticism,30,1 and 2,Stage One Modules,english,2019/0,English
+EAS1035,Beginnings: English Literature before 1800,30,1,Stage One Modules,english,2019/0,English
+EAS1037,The Novel,15,2,Stage One Modules,english,2019/0,English
+EAS1038,The Poem,15,2,Stage One Modules,english,2019/0,English
+EAS1040,Academic English,15,1,Stage One Modules,english,2019/0,English
+EAS1041,Rethinking Shakespeare,15,2,Stage One Modules,english,2019/0,English
+EAS2026,Desire and Power: English Literature 1570-1640,30,1,Stage Two Modules,english,2019/0,English
+EAS2029,Revolutions and Evolutions 19C Writings,30,2,Stage Two Modules,english,2019/0,English
+EAS2031,Creative Writing: Building a Story,30,1,Stage Two Modules,english,2019/0,English
+EAS2032,Creative Writing: Making a Poem,30,1,Stage Two Modules,english,2019/0,English
+EAS2033,British Cultures: The Exeter Seminar,15,2,Stage Two Modules,english,2019/0,English
+EAS2036,Theatrical Cultures in Early Modern England,30,1,Stage Two Modules,english,2019/0,English
+EAS2071,Chaucer and His Contemporaries,30,1,Stage Two Modules,english,2019/0,English
+EAS2080,Renaissance and Revolution,30,2,Stage Two Modules,english,2019/0,English
+EAS2089,"Creative Industries: Their Past, Our Future",30,1,Stage Two Modules,english,2019/0,English
+EAS2090,Humanities after the Human: Further Adventures in Critical Theory,30,2,Stage Two Modules,english,2019/0,English
+EAS2102,Satire and the City: English Literature 1660-1750,30,2,Stage Two Modules,english,2019/0,English
+EAS2103,Modernism and Modernity: Literature 1900-1960,30,1,Stage Two Modules,english,2019/0,English
+EAS2104,Crossing the Water: Transatlantic Literary Relations,30,2,Stage Two Modules,english,2019/0,English
+EAS2106,Romanticism,30,2,Stage Two Modules,english,2019/0,English
+EAS2110,North American Study Term 1,60,1,Stage Two Modules,english,2019/0,English
+EAS2111,North American Study Term 2,60,2,Stage Two Modules,english,2019/0,English
+EAS2113,"Culture, Crisis and Ecology in a Postcolonial World",30,2,Stage Two Modules,english,2019/0,English
+EAS3003,Dissertation,30,2,Stage Three Modules,english,2019/0,English
+EAS3100,Hardy and Women Who Did: the Coming of Modernity,30,1,Stage Three Modules,english,2019/0,English
+EAS3122,Creative Writing Dissertation,30,2,Stage Three Modules,english,2019/0,English
+EAS3128,Writing the Short Film,30,2,Stage Three Modules,english,2019/0,English
+EAS3131,Advanced Critical Theory,30,2,Stage Three Modules,english,2019/0,English
+EAS3179,Life and Death in Early Modern Literature,30,1,Stage Three Modules,english,2019/0,English
+EAS3181,Visual and Literary Cultures of Realism,30,1,Stage Three Modules,english,2019/0,English
+EAS3182,Encountering the Other in Medieval Literature,30,1,Stage Three Modules,english,2019/0,English
+EAS3191,Writing for Children and Young Adults,30,1,Stage Three Modules,english,2019/0,English
+EAS3194,"Resource Fictions: Oil, Water and Conflict in the World-System",30,1,Stage Three Modules,english,2019/0,English
+EAS3195,Acts of Writing: From Decolonisation to Globalisation,30,1,Stage Three Modules,english,2019/0,English
+EAS3198,The Death of the Novel,30,2,Stage Three Modules,english,2019/0,English
+EAS3219,"Virginia Woolf: Fiction, Feeling, Form",30,1,Stage Three Modules,english,2019/0,English
+EAS3225,"'Reader, I Married Him': The Evolution of Romance Fiction from 1740 to the Present",30,1,Stage Three Modules,english,2019/0,English
+EAS3228,Romance from Chaucer to Shakespeare,30,2,Stage Three Modules,english,2019/0,English
+EAS3234,Citizens of the World,30,1,Stage Three Modules,english,2019/0,English
+EAS3235,American Modern,30,2,Stage Three Modules,english,2019/0,English
+EAS3237,The Rise of Science,30,2,Stage Three Modules,english,2019/0,English
+EAS3241,Harlem and After: African American Literature 1925-present,30,2,Stage Three Modules,english,2019/0,English
+EAS3408,Poetry and Politics,30,1,Stage Three Modules,english,2019/0,English
+EAS3409,"Ghosts, Witches and Demons: the Renaissance Supernatural",30,1,Stage Three Modules,english,2019/0,English
+EASM023,Dissertation,60,3,Masters Modules,english,2019/0,English
+EASM099,Making Progress? Literature in a Changing Environment,30,1,Masters Modules,english,2019/0,English
+EASM100,The Cultures of American Modernism,30,1,Masters Modules,english,2019/0,English
+EASM106,Criticism and Theory: Current Debates,30,1,Masters Modules,english,2019/0,English
+EASM109,"Bodies Politic: Cultural and Sexual Politics in England, 1603-1679",30,2,Masters Modules,english,2019/0,English
+EASM121,The Poetry of Events - Building a Plot,30,1,Masters Modules,english,2019/0,English
+EASM123,Creative Writing Dissertation,60,3,Masters Modules,english,2019/0,English
+EASM133,The Structures of Realism,30,2,Masters Modules,english,2019/0,English
+EASM142,Revival and Return: Using the Past from Pope to Keats,30,1,Masters Modules,english,2019/0,English
+EASM151,Modernism and Material Culture,30,1,Masters Modules,english,2019/0,English
+EASM152,Criticism and Theory: Critical and Literary Theory in a Global Context,30,2,Masters Modules,english,2019/0,English
+EASM154,The Body and Identity,30,1,Masters Modules,english,2019/0,English
+EASM157,The Literature of Cold War America,30,2,Masters Modules,english,2019/0,English
+EASM166,Prose Writing Workshop,30,1,Masters Modules,english,2019/0,English
+EASM167,World Cinema / World Literature,30,2,Masters Modules,english,2019/0,English
+EASM169,Publishing and Power: Black and Asian Literary Networks in the UK,30,2,Masters Modules,english,2019/0,English
+EASM171,"Expanding Queerness: Critical Debates in Theory, Literature, Film and Television",30,1,Masters Modules,english,2019/0,English
+GEO1105,"Geographies of Place, Identity and Culture",15,2,Stage One Modules,geography,2019/0,Geography
+GEO1106,Geographies of Global Change,15,1,Stage One Modules,geography,2019/0,Geography
+GEO1211,Earth System Science: The History of Our Planet,15,2,Stage One Modules,geography,2019/0,Geography
+GEO1213,Earth System Science: Our Changing Planet,15,1,Stage One Modules,geography,2019/0,Geography
+GEO1309,Study Skills for Human Geographers,15,1,Stage One Modules,geography,2019/0,Geography
+GEO1310,Geographies of Environment and Sustainability,15,2,Stage One Modules,geography,2019/0,Geography
+GEO1311,Study Skills for Physical Geographers,15,1 and 2,Stage One Modules,geography,2019/0,Geography
+GEO1312,Fieldwork in Physical Geography,15,1,Stage One Modules,geography,2019/0,Geography
+GEO1313,Learning through Place: Doing Human Geography,15,1,Stage One Modules,geography,2019/0,Geography
+GEO1316,Concepts in Geography,15,1,Stage One Modules,geography,2019/0,Geography
+GEO2120,Political Geographies,15,2,Stage Two Modules,geography,2019/0,Geography
+GEO2131,"Nature, Development and Justice",15,2,Stage Two Modules,geography,2019/0,Geography
+GEO2132,Global Urban Futures,15,2,Stage Two Modules,geography,2019/0,Geography
+GEO2230,Reconstructing Past Environments,15,2,Stage Two Modules,geography,2019/0,Geography
+GEO2232,The Cryosphere,15,1 and 3,Stage Two Modules,geography,2019/0,Geography
+GEO2311,Ideas in Geography,15,1,Stage Two Modules,geography,2019/0,Geography
+GEO2317,Climate Change: Science and Society,15,1,Stage Two Modules,geography,2019/0,Geography
+GEO2321,Introduction to Remote Sensing,15,2,Stage Two Modules,geography,2019/0,Geography
+GEO2327,Geographies of Justice: Research Methodologies in Action,15,1,Stage Two Modules,geography,2019/0,Geography
+GEO2332,Numerical Methods for Physical Geographers,15,1,Stage Two Modules,geography,2019/0,Geography
+GEO3000,European Year Abroad,120,"1, 2 and 3",Stage Three Modules,geography,2019/0,Geography
+GEO3101,Gender and Geography,15,1,Stage Three Modules,geography,2019/0,Geography
+GEO3123,Geographies of Material Culture,15,1,Stage Three Modules,geography,2019/0,Geography
+GEO3129,Images of the Earth,15,1,Stage Three Modules,geography,2019/0,Geography
+GEO3142,Geographies of the Body,15,2,Stage Three Modules,geography,2019/0,Geography
+GEO3144,Geopolitical Cultures,15,1,Stage Three Modules,geography,2019/0,Geography
+GEO3223,Landscape Systems Management,15,2,Stage Three Modules,geography,2019/0,Geography
+GEO3225,Climate Change and its Impacts,15,2,Stage Three Modules,geography,2019/0,Geography
+GEO3227,Weather,15,1,Stage Three Modules,geography,2019/0,Geography
+GEO3239,GIS for Professionals,15,2,Stage Three Modules,geography,2019/0,Geography
+GEO3242,"Historical, Functional and Conservation Biogeography of Plants",15,1,Stage Three Modules,geography,2019/0,Geography
+GEO3311,BA Dissertation,45,1 and 2,Stage Three Modules,geography,2019/0,Geography
+GEO3312,BA Dissertation,30,1 and 2,Stage Three Modules,geography,2019/0,Geography
+GEO3321,BSc Dissertation,45,1 and 2,Stage Three Modules,geography,2019/0,Geography
+GEO3322,BSc Dissertation,30,1 and 2,Stage Three Modules,geography,2019/0,Geography
+GEO3601,Study Abroad,120,"1, 2 and 3",Stage Three Modules,geography,2019/0,Geography
+GEO3603,Professional Placement for Geographers,120,1,Stage Three Modules,geography,2019/0,Geography
+GEOM022,Dissertation in Sustainable Futures,60,2 and 3,Masters Modules,geography,2019/0,Geography
+GEOM023,Contemporary Debates in Sustainable Futures,15,1 and 2,Masters Modules,geography,2019/0,Geography
+GEOM105A,Research Methods and Design in Human Geography,15,2 and 3,Masters Modules,geography,2019/0,Geography
+GEOM106A,Contemporary Debates in Human Geography,15,1,Masters Modules,geography,2019/0,Geography
+GEOM107,Dissertation,60,"1, 2 and 3",Masters Modules,geography,2019/0,Geography
+GEOM130,"Geographies of Culture, Creativity and Practice",15,2,Masters Modules,geography,2019/0,Geography
+GEOM131,Geographies of Life,15,1,Masters Modules,geography,2019/0,Geography
+GEOM132,"Space, Politics and Power",15,1,Masters Modules,geography,2019/0,Geography
+GEOM141,Global Challenges,15,1,Masters Modules,geography,2019/0,Geography
+GEOM143,Global Systems Thinking,15,1,Masters Modules,geography,2019/0,Geography
+GEOM144,Innovation and the Science-Policy Interface,15,2,Masters Modules,geography,2019/0,Geography
+GEOM145,Theory for Sustainable Transitions,15,2,Masters Modules,geography,2019/0,Geography
+GEOM146,Solutions Project (Academic),60,"1, 2 and 3",Masters Modules,geography,2019/0,Geography
+GEOM147,Solutions Project (Internship),60,"1, 2 and 3",Masters Modules,geography,2019/0,Geography
+PHL1002A,Knowledge and Reality 1,15,1,Stage One Modules,philosophy,2019/0,Philosophy
+PHL1002B,Knowledge and Reality 2,15,2,Stage One Modules,philosophy,2019/0,Philosophy
+PHL1004,Philosophical Problems 1,15,2,Stage One Modules,philosophy,2019/0,Philosophy
+PHL1005A,Evidence and Argument 1,15,1,Stage One Modules,philosophy,2019/0,Philosophy
+PHL1006,Introduction to Philosophical Analysis,15,2,Stage One Modules,philosophy,2019/0,Philosophy
+PHL1007,Philosophical Reading 1,15,1,Stage One Modules,philosophy,2019/0,Philosophy
+PHL1008,Philosophical Reading 2,15,2,Stage One Modules,philosophy,2019/0,Philosophy
+PHL1010,Introduction to Asian Philosophy,15,1,Stage One Modules,philosophy,2019/0,Philosophy
+PHL1013,Philosophy of Morality,15,2,Stage One Modules,philosophy,2019/0,Philosophy
+PHL1112,Philosophy of Film,15,1,Stage One Modules,philosophy,2019/0,Philosophy
+PHL2002,Existentialism,15,2,Stage Two Modules,philosophy,2019/0,Philosophy
+PHL2010A,Philosophy of Mind 1,15,1,Stage Two Modules,philosophy,2019/0,Philosophy
+PHL2015,Body and Mind,15,2,Stage Two Modules,philosophy,2019/0,Philosophy
+PHL2016,Metaphysics,15,1,Stage Two Modules,philosophy,2019/0,Philosophy
+PHL2018,Philosophy of Language,15,1,Stage Two Modules,philosophy,2019/0,Philosophy
+PHL2020,Virtues and Vices,15,2,Stage Two Modules,philosophy,2019/0,Philosophy
+PHL2021,Symbolic Logic,15,2,Stage Two Modules,philosophy,2019/0,Philosophy
+PHL2026,Philosophy of Science,15,2,Stage Two Modules,philosophy,2019/0,Philosophy
+PHL2038,The Self,15,1,Stage Two Modules,philosophy,2019/0,Philosophy
+PHL2045,Aesthetics,15,1,Stage Two Modules,philosophy,2019/0,Philosophy
+PHL2052,Epistemology,15,1,Stage Two Modules,philosophy,2019/0,Philosophy
+PHL2053,History of Philosophy,15,1,Stage Two Modules,philosophy,2019/0,Philosophy
+PHL2054,Philosophy of Psychiatry,15,1,Stage Two Modules,philosophy,2019/0,Philosophy
+PHL2056,The Nature of Normativity,15,2,Stage Two Modules,philosophy,2019/0,Philosophy
+PHL2061,Philosophy of Law,15,2,Stage Two Modules,philosophy,2019/0,Philosophy
+PHL2096,Cyborg Studies,15,1,Stage Two Modules,philosophy,2019/0,Philosophy
+PHL2111,"The Deep Past, History and Humanity",15,1,Stage Two Modules,philosophy,2019/0,Philosophy
+PHL2112,Practical Ethics,15,1,Stage Two Modules,philosophy,2019/0,Philosophy
+PHL2114,Aristotle's Ethics,15,2,Stage Two Modules,philosophy,2019/0,Philosophy
+PHL3002,Existentialism,15,2,Stage Three Modules,philosophy,2019/0,Philosophy
+PHL3013,Virtues and Vices,15,2,Stage Three Modules,philosophy,2019/0,Philosophy
+PHL3014,Symbolic Logic,15,2,Stage Three Modules,philosophy,2019/0,Philosophy
+PHL3026,Philosophy of Science,15,2,Stage Three Modules,philosophy,2019/0,Philosophy
+PHL3038,The Self,15,1,Stage Three Modules,philosophy,2019/0,Philosophy
+PHL3040,Philosophy Dissertation,30,1 and 2,Stage Three Modules,philosophy,2019/0,Philosophy
+PHL3045,Aesthetics,15,1,Stage Three Modules,philosophy,2019/0,Philosophy
+PHL3052,Epistemology,15,1,Stage Three Modules,philosophy,2019/0,Philosophy
+PHL3053,History of Philosophy,15,1,Stage Three Modules,philosophy,2019/0,Philosophy
+PHL3054,Philosophy of Psychiatry,15,1,Stage Three Modules,philosophy,2019/0,Philosophy
+PHL3056,The Nature of Normativity,15,2,Stage Three Modules,philosophy,2019/0,Philosophy
+PHL3061,Philosophy of Law,15,2,Stage Three Modules,philosophy,2019/0,Philosophy
+PHL3096,Cyborg Studies,15,1,Stage Three Modules,philosophy,2019/0,Philosophy
+PHL3111,"The Deep Past, History and Humanity",15,1,Stage Three Modules,philosophy,2019/0,Philosophy
+PHL3113,Practical Ethics,15,1,Stage Three Modules,philosophy,2019/0,Philosophy
+PHL3114,Aristotle's Ethics,15,2,Stage Three Modules,philosophy,2019/0,Philosophy
+PHLM006,Contemporary Ethics,30,2,Masters Modules,philosophy,2019/0,Philosophy
+PHLM007,Current Issues in Mind and Cognition,30,1,Masters Modules,philosophy,2019/0,Philosophy
+PHLM008,"Mind, Body and World",30,2,Masters Modules,philosophy,2019/0,Philosophy
+PHLM010,Introduction to Philosophical Methods,30,1,Masters Modules,philosophy,2019/0,Philosophy
+PHLM011,Data Governance and Ethics,15,2,Masters Modules,philosophy,2019/0,Philosophy
+ARC1007,Archaeological and Forensic Science Practicals,15,1,Stage One Modules,archaeology,2019/0,Archaeology
+ARC1008,Forensic Archaeology,15,2,Stage One Modules,archaeology,2019/0,Archaeology
+ARC1010,Themes in World Archaeology,15,1,Stage One Modules,archaeology,2019/0,Archaeology
+ARC1020,Essential Archaeological Methods,15,2,Stage One Modules,archaeology,2019/0,Archaeology
+ARC1030,Investigating British Archaeology,15,1,Stage One Modules,archaeology,2019/0,Archaeology
+ARC1040,Artefacts and Materials,15,1,Stage One Modules,archaeology,2019/0,Archaeology
+ARC1050,Objects: Contexts and Display,15,2,Stage One Modules,archaeology,2019/0,Archaeology
+ARC1070,Practical Skills in Archaeology,30,2,Stage One Modules,archaeology,2019/0,Archaeology
+ARC2003,Archaeological Fieldwork Project,30,1 and 2,Stage Two Modules,archaeology,2019/0,Archaeology
+ARC2004,Archaeological Fieldschool,30,1 and 2,Stage Two Modules,archaeology,2019/0,Archaeology
+ARC2120,Things and Us: Ancient and Contemporary Material Culture,15,1,Stage Two Modules,archaeology,2019/0,Archaeology
+ARC2121,"Brooches, Beads, Swords and Shields: Early Medieval Material Culture",15,2,Stage Two Modules,archaeology,2019/0,Archaeology
+ARC2123,Sustainability and Collapse in Past Societies,15,2,Stage Two Modules,archaeology,2019/0,Archaeology
+ARC2130,Discovering the Past with Molecular Science,15,1,Stage Two Modules,archaeology,2019/0,Archaeology
+ARC2406,Medieval Castles in Context,15,1,Stage Two Modules,archaeology,2019/0,Archaeology
+ARC2504,Zooarchaeology,15,1,Stage Two Modules,archaeology,2019/0,Archaeology
+ARC2514,Forensic Anthropology,15,2,Stage Two Modules,archaeology,2019/0,Archaeology
+ARC3000,Archaeological Dissertation,30,1 and 2,Stage Three Modules,archaeology,2019/0,Archaeology
+ARC3003,Professional Placement,30,1 and 2,Stage Three Modules,archaeology,2019/0,Archaeology
+ARC3120,Things and Us: Ancient and Contemporary Material Culture,15,1,Stage Three Modules,archaeology,2019/0,Archaeology
+ARC3121,"Brooches, Beads, Swords and Shields: Early Medieval Material Culture",15,2,Stage Three Modules,archaeology,2019/0,Archaeology
+ARC3132,Digital Approaches to Archaeological Data,15,1,Stage Three Modules,archaeology,2019/0,Archaeology
+ARC3134,Beastly Questions: Animal Answers to Archaeological Issues,15,2,Stage Three Modules,archaeology,2019/0,Archaeology
+ARC3406,Medieval Castles in Context,15,1,Stage Three Modules,archaeology,2019/0,Archaeology
+ARC3611,Funerary Osteoarchaeology,15,2,Stage Three Modules,archaeology,2019/0,Archaeology
+ARCM004,Dissertation,60,2,Masters Modules,archaeology,2019/0,Archaeology
+ARCM005,Professional Skills in Archaeology,15,2,Masters Modules,archaeology,2019/0,Archaeology
+ARCM007,Advanced Project,15,2,Masters Modules,archaeology,2019/0,Archaeology
+ARCM102C,Experimental Archaeology in Practice 2,30,2,Masters Modules,archaeology,2019/0,Archaeology
+ARCM120,Themes in Archaeological Theory and Practice,15,2,Masters Modules,archaeology,2019/0,Archaeology
+ARCM130,Discovering the Past with Molecular Science,15,1,Masters Modules,archaeology,2019/0,Archaeology
+ARCM300,Material Culture,15,1,Masters Modules,archaeology,2019/0,Archaeology
+ARCM403,Advanced Zooarchaeology,15,2,Masters Modules,archaeology,2019/0,Archaeology
+ARCM405,Advanced Human Osteology,15,2,Masters Modules,archaeology,2019/0,Archaeology
+ARCM407,Zooarchaeology,15,1,Masters Modules,archaeology,2019/0,Archaeology
+ARCM412,Funerary Osteoarchaeology,15,2,Masters Modules,archaeology,2019/0,Archaeology
+ARCM600,Bioarchaeology Dissertation,60,2,Masters Modules,archaeology,2019/0,Archaeology
+ARCM602,Forensic Anthropology: Principles and Practice,15,2,Masters Modules,archaeology,2019/0,Archaeology
+ANT2009,"Living Cities: Migration, Place and the Politics of Identities",15,2,Stage Two Modules,anthropology,2019/0,Anthropology
+ANT2014,Cultures: Food,15,2,Stage Two Modules,anthropology,2019/0,Anthropology
+ANT2016,Anthropology of the State,15,1,Stage Two Modules,anthropology,2019/0,Anthropology
+ANT2017,Anthropology of Islam,15,2,Stage Two Modules,anthropology,2019/0,Anthropology
+ANT2021,Anthropology of the Middle East,15,2,Stage Two Modules,anthropology,2019/0,Anthropology
+ANT2023,Theory and Methods of Food Preservation,15,1,Stage Two Modules,anthropology,2019/0,Anthropology
+ANT2089,"Cultures of Race, Ethnicity and Racism",15,2,Stage Two Modules,anthropology,2019/0,Anthropology
+ANT2097,Environment and Society,15,2,Stage Two Modules,anthropology,2019/0,Anthropology
+ANT2107,Culture and Wellbeing,15,1,Stage Two Modules,anthropology,2019/0,Anthropology
+ANT2109,Anthropology of Forced Migration,15,2,Stage Two Modules,anthropology,2019/0,Anthropology
+ANT3004,"Living Cities: Migration, Place and the Politics of Identities",15,2,Stage Three Modules,anthropology,2019/0,Anthropology
+ANT3014,Cultures: Food,15,2,Stage Three Modules,anthropology,2019/0,Anthropology
+ANT3016,Anthropology of the State,15,1,Stage Three Modules,anthropology,2019/0,Anthropology
+ANT3017,Anthropology of Islam,15,2,Stage Three Modules,anthropology,2019/0,Anthropology
+ANT3021,Anthropology of the Middle East,15,2,Stage Three Modules,anthropology,2019/0,Anthropology
+ANT3023,Theory and Methods of Food Preservation,15,1,Stage Three Modules,anthropology,2019/0,Anthropology
+ANT3024,Anthropology of Forced Migration,15,2,Stage Three Modules,anthropology,2019/0,Anthropology
+ANT3040,Anthropology Dissertation,30,1 and 2,Stage Three Modules,anthropology,2019/0,Anthropology
+ANT3089,"Cultures of Race, Ethnicity and Racism",15,2,Stage Three Modules,anthropology,2019/0,Anthropology
+ANTM003,Theory and Methods of Food Preservation,15,1,Masters Modules,anthropology,2019/0,Anthropology
+ANTM021,"Food, Body and Society",15,1,Masters Modules,anthropology,2019/0,Anthropology
+ANTM100,The Animal Mirror: Representations of Animality,15,1,Masters Modules,anthropology,2019/0,Anthropology
+ANTM101,"Animals, Health and Healing",15,1,Masters Modules,anthropology,2019/0,Anthropology
+ANTM102,Anthrozoology: Theory and Method,30,1,Masters Modules,anthropology,2019/0,Anthropology
+ANTM103,Applied Anthrozoology,30,1 and 2,Masters Modules,anthropology,2019/0,Anthropology
+ANTM105,Humans and Wildlife: Conflict and Conservation,15,2,Masters Modules,anthropology,2019/0,Anthropology
+ANTM106,Representation of Animals Through Religion,15,2,Masters Modules,anthropology,2019/0,Anthropology
+ANTM107,Anthrozoology Residential,15,3,Masters Modules,anthropology,2019/0,Anthropology
+ANTM111,Animal Ethics,15,3,Masters Modules,anthropology,2019/0,Anthropology
+ANTM904,Dissertation,60,3,Masters Modules,anthropology,2019/0,Anthropology
+SOC1039,Social Issues: Part I - Introducing Crime and Deviance,15,1,Stage One Modules,sociology,2019/0,Sociology
+SOC1045,Introduction to Criminal Justice,15,2,Stage One Modules,sociology,2019/0,Sociology
+SOC2005,Theoretical Sociology,30,1 and 2,Stage Two Modules,sociology,2019/0,Sociology
+SOC2009,Deviance: Interdisciplinary Perspectives,15,2,Stage Two Modules,sociology,2019/0,Sociology
+SOC2030,Sociology of Art and Culture,15,2,Stage Two Modules,sociology,2019/0,Sociology
+SOC2034,Gender and Society 1,15,1,Stage Two Modules,sociology,2019/0,Sociology
+SOC2035,International Criminal Justice: Comparative Criminology,15,2,Stage Two Modules,sociology,2019/0,Sociology
+SOC2036,International Criminal Justice: Application of Theory to Transnational and International Crime,15,1,Stage Two Modules,sociology,2019/0,Sociology
+SOC2037,Pharmaceutical Cultures,15,2,Stage Two Modules,sociology,2019/0,Sociology
+SOC2038,On Violence,15,1,Stage Two Modules,sociology,2019/0,Sociology
+SOC2039,Sociology of Family and Gender,15,2,Stage Two Modules,sociology,2019/0,Sociology
+SOC2087,Disability and Society,15,1,Stage Two Modules,sociology,2019/0,Sociology
+SOC2103,Senses and Society,15,1,Stage Two Modules,sociology,2019/0,Sociology
+SOC2105,"Contemporary Capitalism, Critique and Resistance",15,1,Stage Two Modules,sociology,2019/0,Sociology
+SOC2115,Deception,15,2,Stage Two Modules,sociology,2019/0,Sociology
+SOC2116,Sociology and Demography of Religion,15,1,Stage Two Modules,sociology,2019/0,Sociology
+SOC3002,On Violence,15,1,Stage Three Modules,sociology,2019/0,Sociology
+SOC3013,Gender and Society 1,15,1,Stage Three Modules,sociology,2019/0,Sociology
+SOC3030,Sociology of Art and Culture,15,2,Stage Three Modules,sociology,2019/0,Sociology
+SOC3035,Deviance: Interdisciplinary Perspectives,15,2,Stage Three Modules,sociology,2019/0,Sociology
+SOC3036,International Criminal Justice: Application of Theory to Transnational and International Crime,15,1,Stage Three Modules,sociology,2019/0,Sociology
+SOC3040,Dissertation,30,1 and 2,Stage Three Modules,sociology,2019/0,Sociology
+SOC3080,Pharmaceutical Cultures,15,2,Stage Three Modules,sociology,2019/0,Sociology
+SOC3087,Disability and Society,15,1,Stage Three Modules,sociology,2019/0,Sociology
+SOC3097,Environment and Society,15,2,Stage Three Modules,sociology,2019/0,Sociology
+SOC3103,Senses and Society,15,1,Stage Three Modules,sociology,2019/0,Sociology
+SOC3107,Culture and Wellbeing,15,1,Stage Three Modules,sociology,2019/0,Sociology
+SOC3109,"Contemporary Capitalism, Critique and Resistance",15,1,Stage Three Modules,sociology,2019/0,Sociology
+SOC3115,Deception,15,2,Stage Three Modules,sociology,2019/0,Sociology
+SOC3118,Sociology and Demography of Religion,15,1,Stage Three Modules,sociology,2019/0,Sociology
+SOCM002A,Philosophy of the Social Sciences 1,15,2,Masters Modules,sociology,2019/0,Sociology
+SOCM002B,Philosophy of the Social Sciences,30,2,Masters Modules,sociology,2019/0,Sociology
+SOCM019,Research Methods in the Social Sciences,15,1,Masters Modules,sociology,2019/0,Sociology
+SOCM022,"Food, Body and Society",30,1,Masters Modules,sociology,2019/0,Sociology
+SOCM023,Social Theory,15,2,Masters Modules,sociology,2019/0,Sociology
+SOCM027,Social Theory,30,2,Masters Modules,sociology,2019/0,Sociology
+SOCM033,Data Governance and Ethics,15,2,Masters Modules,sociology,2019/0,Sociology
+SOCM904,Dissertation,60,3,Masters Modules,sociology,2019/0,Sociology
+NSC1002,Mathematics and Computing: Integrative Tools for Natural Sciences,30,1 and 2,Stage One Modules,naturalsciences,2019/0,Naturalsciences
+NSC1003,Foundations in Natural Science,60,1 and 2,Stage One Modules,naturalsciences,2019/0,Naturalsciences
+NSC1004,Experimental Science,15,1 and 2,Stage One Modules,naturalsciences,2019/0,Naturalsciences
+NSC1005,Frontiers in Science 1,15,1 and 2,Stage One Modules,naturalsciences,2019/0,Naturalsciences
+NSC2001,Frontiers in Science 2,30,1 and 2,Stage Two Modules,naturalsciences,2019/0,Naturalsciences
+NSC2002,Physical Chemistry,15,2,Stage Two Modules,naturalsciences,2019/0,Naturalsciences
+NSC2003,Introduction to Numerics and Simulation for Scientists,15,1,Stage Two Modules,naturalsciences,2019/0,Naturalsciences
+NSC3001,BSc Research Project,30,2,Stage Three Modules,naturalsciences,2019/0,Naturalsciences
+NSC3002,MSci Research Project 1,30,2,Stage Three Modules,naturalsciences,2019/0,Naturalsciences
+NSC3003,Group Project,30,1,Stage Three Modules,naturalsciences,2019/0,Naturalsciences
+NSC3004,Semester of Science Studies Abroad,60,1,Stage Three Modules,naturalsciences,2019/0,Naturalsciences
+NSC3007,Macromolecular and Supramolecular Chemistry,15,1,Stage Three Modules,naturalsciences,2019/0,Naturalsciences
+NSC3008,Symmetry and Statistics of Molecules,15,1,Stage Three Modules,naturalsciences,2019/0,Naturalsciences
+NSCM001,MSci Research Project 2,60,1 and 2,Masters Modules,naturalsciences,2019/0,Naturalsciences
+NSCM002,MSci Research Project 2 Extension,15,2,Masters Modules,naturalsciences,2019/0,Naturalsciences
+NSCM005,Mathematical Modelling in Biology and Medicine,15,1,Masters Modules,naturalsciences,2019/0,Naturalsciences
+NSCM007,Advanced Topics in Natural Sciences Chemistry II,15,2,Masters Modules,naturalsciences,2019/0,Naturalsciences
+LIB1105,Being Human in the Modern World,30,1 and 2,Stage One Modules,liberal-arts,2019/0,Liberal Arts
+LIB2000,Think Tank,15,1 and 2,Stage Two Modules,liberal-arts,2019/0,Liberal Arts
+LIB3000,Liberal Arts Dissertation,30,1 and 2,Stage Three Modules,liberal-arts,2019/0,Liberal Arts
