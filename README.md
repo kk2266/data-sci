@@ -158,7 +158,7 @@ The diagnostics section in the graphs folder is the optional charts  (`diag_*.pn
 
 ### "Registered at" and "taught at" are the same population at Exeter
 
-The OfS publishes NSS results in two cuts: `_r` (students *registered at* the provider, regardless of where taught) and `_t` (students *taught at* the provider, including those registered with partner providers). For institutions with big franchise / partner-college arrangements these two can diverge. For Exeter, they are bit-for-bit identical, so the registered/taught-at robustness check is a perfect 45° line. There are no partner-provider arrangements feeding the totals.This can be seen in graph: files\output\figures\chart_8_robustness_r_vs_t.png
+The OfS publishes NSS results in two cuts: `_r` (students *registered at* the provider, regardless of where taught) and `_t` (students *taught at* the provider, including those registered with partner providers). For institutions with big franchise / partner-college arrangements these two can diverge. For Exeter, they are bit-for-bit identical, so the registered/taught-at robustness check is a perfect 45° line. There are no partner-provider arrangements feeding the totals.This can be seen in graph: archive\figures_old\chart_8_robustness_r_vs_t.png
 
 ### The renormaliser is intentionally lenient
 
