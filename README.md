@@ -14,7 +14,7 @@ The blog post lives in [`index.html`](index.html). The notebooks in [`notebook2/
 
 ## Read the blog
 
-- **Live version:** https://github.com/kk2266/data-sci/edit/main/index.html **
+- **Live version:** https://kk2266.github.io/data-sci/
 - **Local version:** open [`index.html`](index.html) in any browser. The four chart PNGs in `output/figures/` are referenced by relative path, so the page renders without any server.
 
 ---
