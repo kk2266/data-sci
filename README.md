@@ -8,21 +8,21 @@ Six years of every undergraduate module Exeter has published, joined to three ye
 2. Has it changed over time?
 3. Does any of it line up with how satisfied students say they are?
 
-The blog post lives in [`blog.html`](blog.html). The notebooks in [`notebook2/`](notebook2) are the code that produced everything in it.
+The blog post lives in [`index.html`](index.html). The notebooks in [`notebook2/`](notebook2) are the code that produced everything in it.
 
 ---
 
 ## Read the blog
 
-- **Live version:** *(once published, place the GitHub Pages URL here, e.g. `https://YOUR-USERNAME.github.io/REPO/blog.html`)*
-- **Local version:** open [`blog.html`](blog.html) in any browser. The four chart PNGs in `output/figures/` are referenced by relative path, so the page renders without any server.
+- **Live version:** https://kk2266.github.io/data-sci/
+- **Local version:** open [`index.html`](index.html) in any browser. The four chart PNGs in `output/figures/` are referenced by relative path, so the page renders without any server.
 
 ---
 
 ## Quick replication
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/REPO.git
+git clone https://github.com/kk2266/data-sci.git
 cd REPO
 python -m venv .venv && source .venv/bin/activate    # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
@@ -39,7 +39,7 @@ Then open the notebooks in [`notebook2/`](notebook2) and run them in numerical o
 
 ```
 files/
-├── blog.html                       ← the blog post, open in any browser
+├── index.html                       ← the blog post, open in any browser
 ├── README.md                       ← you are here
 ├── requirements.txt                ← Python packages used by the notebooks
 │
